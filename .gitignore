@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Environment variables and secrets
+.env
+
+# Ignore cached/extracted INEGI and other data
+data/
