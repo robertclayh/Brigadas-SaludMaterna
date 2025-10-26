@@ -1,0 +1,2470 @@
+adm2_code,entidad,municipio,poverty_rate
+MX01001,Aguascalientes,Aguascalientes,23.6822578574
+MX01002,Aguascalientes,Asientos,40.1318811907
+MX01003,Aguascalientes,Calvillo,45.7559438264
+MX01004,Aguascalientes,Cosío,37.0391820837
+MX01005,Aguascalientes,Jesús María,26.3418356434
+MX01006,Aguascalientes,Pabellón de Arteaga,28.9180201409
+MX01007,Aguascalientes,Rincón de Romos,40.5114187954
+MX01008,Aguascalientes,San José de Gracia,45.7709224917
+MX01009,Aguascalientes,Tepezalá,37.6474724377
+MX01010,Aguascalientes,El Llano,40.6121053517
+MX01011,Aguascalientes,San Francisco de los Romo,37.790440594
+MX02001,Baja California,Ensenada,22.2984391711
+MX02002,Baja California,Mexicali,20.2190064344
+MX02003,Baja California,Tecate,21.1066942695
+MX02004,Baja California,Tijuana,23.7023626651
+MX02005,Baja California,Playas de Rosarito,31.2325758822
+MX02006,Baja California,San Quintín,34.903741775
+MX03001,Baja California Sur,Comondú,34.9496860023
+MX03002,Baja California Sur,Mulegé,24.1103271926
+MX03003,Baja California Sur,La Paz,20.607253513
+MX03008,Baja California Sur,Los Cabos,31.6999775122
+MX03009,Baja California Sur,Loreto,34.0799644666
+MX04001,Campeche,Calkiní,62.8421447355
+MX04002,Campeche,Campeche,32.5294328189
+MX04003,Campeche,Carmen,35.3647126577
+MX04004,Campeche,Champotón,57.1733300345
+MX04005,Campeche,Hecelchakán,66.6811269282
+MX04006,Campeche,Hopelchén,74.8523988736
+MX04007,Campeche,Palizada,59.8646888567
+MX04008,Campeche,Tenabo,53.8631206752
+MX04009,Campeche,Escárcega,68.0555381837
+MX04010,Campeche,Calakmul,82.9704274116
+MX04011,Campeche,Candelaria,80.4492018864
+MX04012,Campeche,Seybaplaya,
+MX05001,Coahuila de Zaragoza,Abasolo,10.9748237664
+MX05002,Coahuila de Zaragoza,Acuña,23.4458965591
+MX05003,Coahuila de Zaragoza,Allende,24.7955442465
+MX05004,Coahuila de Zaragoza,Arteaga,29.014528978
+MX05005,Coahuila de Zaragoza,Candela,33.3905362776
+MX05006,Coahuila de Zaragoza,Castaños,33.7488537763
+MX05007,Coahuila de Zaragoza,Cuatro Ciénegas,33.0032203328
+MX05008,Coahuila de Zaragoza,Escobedo,29.066822586
+MX05009,Coahuila de Zaragoza,Francisco I. Madero,31.7725680629
+MX05010,Coahuila de Zaragoza,Frontera,22.2502270681
+MX05011,Coahuila de Zaragoza,General Cepeda,37.0647340851
+MX05012,Coahuila de Zaragoza,Guerrero,23.8311111111
+MX05013,Coahuila de Zaragoza,Hidalgo,24.1453879047
+MX05014,Coahuila de Zaragoza,Jiménez,24.0701209364
+MX05015,Coahuila de Zaragoza,Juárez,29.3786597267
+MX05016,Coahuila de Zaragoza,Lamadrid,16.4573459716
+MX05017,Coahuila de Zaragoza,Matamoros,27.9075386099
+MX05018,Coahuila de Zaragoza,Monclova,22.8084836993
+MX05019,Coahuila de Zaragoza,Morelos,22.943359375
+MX05020,Coahuila de Zaragoza,Múzquiz,28.9692516982
+MX05021,Coahuila de Zaragoza,Nadadores,16.7889139542
+MX05022,Coahuila de Zaragoza,Nava,24.4078747257
+MX05023,Coahuila de Zaragoza,Ocampo,34.1523488473
+MX05024,Coahuila de Zaragoza,Parras,30.0035533358
+MX05025,Coahuila de Zaragoza,Piedras Negras,22.5540890111
+MX05026,Coahuila de Zaragoza,Progreso,27.7326953748
+MX05027,Coahuila de Zaragoza,Ramos Arizpe,16.8056776759
+MX05028,Coahuila de Zaragoza,Sabinas,20.6400181138
+MX05029,Coahuila de Zaragoza,Sacramento,16.6313043478
+MX05030,Coahuila de Zaragoza,Saltillo,17.634660065
+MX05031,Coahuila de Zaragoza,San Buenaventura,23.1084816119
+MX05032,Coahuila de Zaragoza,San Juan de Sabinas,22.4135789834
+MX05033,Coahuila de Zaragoza,San Pedro,41.3823937357
+MX05034,Coahuila de Zaragoza,Sierra Mojada,25.5042030135
+MX05035,Coahuila de Zaragoza,Torreón,25.998767463
+MX05036,Coahuila de Zaragoza,Viesca,43.2531470752
+MX05037,Coahuila de Zaragoza,Villa Unión,26.5895117541
+MX05038,Coahuila de Zaragoza,Zaragoza,32.7848098141
+MX06001,Colima,Armería,38.4267126222
+MX06002,Colima,Colima,24.9614263359
+MX06003,Colima,Comala,46.3850668392
+MX06004,Colima,Coquimatlán,44.0407266462
+MX06005,Colima,Cuauhtémoc,29.0781277482
+MX06006,Colima,Ixtlahuacán,41.7839305103
+MX06007,Colima,Manzanillo,24.7426870984
+MX06008,Colima,Minatitlán,27.9968500571
+MX06009,Colima,Tecomán,37.8890598276
+MX06010,Colima,Villa de Álvarez,19.421960878
+MX07001,Chiapas,Acacoyagua,76.9991596932
+MX07002,Chiapas,Acala,77.5214052008
+MX07003,Chiapas,Acapetahua,57.9430970357
+MX07004,Chiapas,Altamirano,94.6361714314
+MX07005,Chiapas,Amatán,90.4439780525
+MX07006,Chiapas,Amatenango de la Frontera,80.3081354716
+MX07007,Chiapas,Amatenango del Valle,94.273709591
+MX07008,Chiapas,Angel Albino Corzo,84.9617253168
+MX07009,Chiapas,Arriaga,62.0996915937
+MX07010,Chiapas,Bejucal de Ocampo,93.8756646217
+MX07011,Chiapas,Bella Vista,82.6181382654
+MX07012,Chiapas,Berriozábal,61.641637737
+MX07013,Chiapas,Bochil,78.2750751125
+MX07014,Chiapas,El Bosque,96.2651400772
+MX07015,Chiapas,Cacahoatán,76.6340716917
+MX07016,Chiapas,Catazajá,67.4060999811
+MX07017,Chiapas,Cintalapa,71.9514913464
+MX07018,Chiapas,Coapilla,82.9022217672
+MX07019,Chiapas,Comitán de Domínguez,68.7716523735
+MX07020,Chiapas,La Concordia,76.2359386911
+MX07021,Chiapas,Copainalá,74.7805557701
+MX07022,Chiapas,Chalchihuitán,98.8691679358
+MX07023,Chiapas,Chamula,96.3173261087
+MX07024,Chiapas,Chanal,99.110794175
+MX07025,Chiapas,Chapultenango,86.1167145005
+MX07026,Chiapas,Chenalhó,98.625953209
+MX07027,Chiapas,Chiapa de Corzo,60.4733133952
+MX07028,Chiapas,Chiapilla,82.6074673716
+MX07029,Chiapas,Chicoasén,77.6597860762
+MX07030,Chiapas,Chicomuselo,81.5644415308
+MX07031,Chiapas,Chilón,96.8862871763
+MX07032,Chiapas,Escuintla,70.4717306392
+MX07033,Chiapas,Francisco León,86.5149464185
+MX07034,Chiapas,Frontera Comalapa,77.5531791013
+MX07035,Chiapas,Frontera Hidalgo,69.1304714912
+MX07036,Chiapas,La Grandeza,88.4299212598
+MX07037,Chiapas,Huehuetán,56.1771446877
+MX07038,Chiapas,Huixtán,96.6475494385
+MX07039,Chiapas,Huitiupán,94.1373250857
+MX07040,Chiapas,Huixtla,56.9820139774
+MX07041,Chiapas,La Independencia,91.5964861332
+MX07042,Chiapas,Ixhuatán,84.7930403513
+MX07043,Chiapas,Ixtacomitán,65.6715478044
+MX07044,Chiapas,Ixtapa,87.0056122697
+MX07045,Chiapas,Ixtapangajoya,71.9066186107
+MX07046,Chiapas,Jiquipilas,64.6188286799
+MX07047,Chiapas,Jitotol,94.5684123124
+MX07048,Chiapas,Juárez,54.636120067
+MX07049,Chiapas,Larráinzar,95.7310026942
+MX07050,Chiapas,La Libertad,42.770374662
+MX07051,Chiapas,Mapastepec,70.844767198
+MX07052,Chiapas,Las Margaritas,94.0799056301
+MX07053,Chiapas,Mazapa de Madero,82.5722028649
+MX07054,Chiapas,Mazatán,56.2934307677
+MX07055,Chiapas,Metapa,59.9931236032
+MX07056,Chiapas,Mitontic,98.3911206641
+MX07057,Chiapas,Motozintla,71.1680399358
+MX07058,Chiapas,Nicolás Ruíz,96.6488272921
+MX07059,Chiapas,Ocosingo,92.4999123168
+MX07060,Chiapas,Ocotepec,91.9847657373
+MX07061,Chiapas,Ocozocoautla de Espinosa,72.5486122752
+MX07062,Chiapas,Ostuacán,58.2936057549
+MX07063,Chiapas,Osumacinta,69.2435734284
+MX07064,Chiapas,Oxchuc,98.0780507644
+MX07065,Chiapas,Palenque,69.8750784259
+MX07066,Chiapas,Pantelhó,97.7813656371
+MX07067,Chiapas,Pantepec,88.7643875148
+MX07068,Chiapas,Pichucalco,60.9534588911
+MX07069,Chiapas,Pijijiapan,68.2615948266
+MX07070,Chiapas,El Porvenir,94.6325755104
+MX07071,Chiapas,Villa Comaltitlán,55.4459731897
+MX07072,Chiapas,Pueblo Nuevo Solistahuacán,92.0949542641
+MX07073,Chiapas,Rayón,85.3201880498
+MX07074,Chiapas,Reforma,56.7838489217
+MX07075,Chiapas,Las Rosas,89.6196573854
+MX07076,Chiapas,Sabanilla,93.398781461
+MX07077,Chiapas,Salto de Agua,86.3731698651
+MX07078,Chiapas,San Cristóbal de las Casas,66.1151701938
+MX07079,Chiapas,San Fernando,62.2021448183
+MX07080,Chiapas,Siltepec,91.8925956798
+MX07081,Chiapas,Simojovel,95.3579868564
+MX07082,Chiapas,Sitalá,97.1730001962
+MX07083,Chiapas,Socoltenango,73.8671492252
+MX07084,Chiapas,Solosuchiapa,75.5361302591
+MX07085,Chiapas,Soyaló,90.4313835094
+MX07086,Chiapas,Suchiapa,70.9350822319
+MX07087,Chiapas,Suchiate,62.7460343745
+MX07088,Chiapas,Sunuapa,66.3082311734
+MX07089,Chiapas,Tapachula,58.4942052002
+MX07090,Chiapas,Tapalapa,78.7990029458
+MX07091,Chiapas,Tapilula,73.1160553562
+MX07092,Chiapas,Tecpatán,83.2349073077
+MX07093,Chiapas,Tenejapa,97.0797998697
+MX07094,Chiapas,Teopisca,91.5782277124
+MX07096,Chiapas,Tila,98.0705840801
+MX07097,Chiapas,Tonalá,60.9394180032
+MX07098,Chiapas,Totolapa,94.1385407964
+MX07099,Chiapas,La Trinitaria,87.7573714262
+MX07100,Chiapas,Tumbalá,95.8327540107
+MX07101,Chiapas,Tuxtla Gutiérrez,46.1714926717
+MX07102,Chiapas,Tuxtla Chico,64.5817124395
+MX07103,Chiapas,Tuzantán,68.7714422204
+MX07104,Chiapas,Tzimol,80.9738462323
+MX07105,Chiapas,Unión Juárez,69.9851956286
+MX07106,Chiapas,Venustiano Carranza,85.3168716206
+MX07107,Chiapas,Villa Corzo,81.7317111046
+MX07108,Chiapas,Villaflores,69.5202401285
+MX07109,Chiapas,Yajalón,90.4017161042
+MX07110,Chiapas,San Lucas,87.7745347436
+MX07111,Chiapas,Zinacantán,96.8485407619
+MX07112,Chiapas,San Juan Cancuc,99.2568472144
+MX07113,Chiapas,Aldama,98.9482448784
+MX07114,Chiapas,Benemérito de las Américas,75.8467797001
+MX07115,Chiapas,Maravilla Tenejapa,95.3634774094
+MX07116,Chiapas,Marqués de Comillas,77.1633208536
+MX07117,Chiapas,Montecristo de Guerrero,92.5314927692
+MX07118,Chiapas,San Andrés Duraznal,98.5197598799
+MX07119,Chiapas,Santiago el Pinar,97.2926978932
+MX07120,Chiapas,Capitán Luis Ángel Vidal,92.1086751532
+MX07121,Chiapas,Rincón Chamula San Pedro,97.8847219017
+MX07122,Chiapas,El Parral,77.602548262
+MX07123,Chiapas,Emiliano Zapata,72.2035338233
+MX07124,Chiapas,Mezcalapa,79.7040946921
+MX07125,Chiapas,Honduras de la Sierra,
+MX08001,Chihuahua,Ahumada,37.88438559
+MX08002,Chihuahua,Aldama,25.3823127887
+MX08003,Chihuahua,Allende,21.2699952107
+MX08004,Chihuahua,Aquiles Serdán,30.0726158486
+MX08005,Chihuahua,Ascensión,43.509385966
+MX08006,Chihuahua,Bachíniva,12.1928219564
+MX08007,Chihuahua,Balleza,64.339342723
+MX08008,Chihuahua,Batopilas,92.2113183161
+MX08009,Chihuahua,Bocoyna,56.5051532158
+MX08010,Chihuahua,Buenaventura,46.8025598194
+MX08011,Chihuahua,Camargo,27.1851465597
+MX08012,Chihuahua,Carichí,55.3190818514
+MX08013,Chihuahua,Casas Grandes,32.7015437635
+MX08014,Chihuahua,Coronado,23.4722222222
+MX08015,Chihuahua,Coyame del Sotol,24.0612870276
+MX08016,Chihuahua,La Cruz,15.2115917915
+MX08017,Chihuahua,Cuauhtémoc,24.7199352088
+MX08018,Chihuahua,Cusihuiriachi,28.435190733
+MX08019,Chihuahua,Chihuahua,15.6764975048
+MX08020,Chihuahua,Chínipas,52.3237137203
+MX08021,Chihuahua,Delicias,21.8147077258
+MX08022,Chihuahua,Dr. Belisario Domínguez,38.1454545455
+MX08023,Chihuahua,Galeana,32.3015214385
+MX08024,Chihuahua,Santa Isabel,20.9447483589
+MX08025,Chihuahua,Gómez Farías,31.7823109427
+MX08026,Chihuahua,Gran Morelos,23.1931239389
+MX08027,Chihuahua,Guachochi,63.7379707435
+MX08028,Chihuahua,Guadalupe,19.7141421753
+MX08029,Chihuahua,Guadalupe y Calvo,75.8381971291
+MX08030,Chihuahua,Guazapares,66.6339106426
+MX08031,Chihuahua,Guerrero,42.4400400442
+MX08032,Chihuahua,Hidalgo del Parral,31.1716610387
+MX08033,Chihuahua,Huejotitán,37.22721598
+MX08034,Chihuahua,Ignacio Zaragoza,27.5461523322
+MX08035,Chihuahua,Janos,35.1168998547
+MX08036,Chihuahua,Jiménez,38.0255905034
+MX08037,Chihuahua,Juárez,23.7043654665
+MX08038,Chihuahua,Julimes,21.6396210873
+MX08039,Chihuahua,López,21.039225675
+MX08040,Chihuahua,Madera,42.6848618119
+MX08041,Chihuahua,Maguarichi,75.858861267
+MX08042,Chihuahua,Manuel Benavides,22.5090909091
+MX08043,Chihuahua,Matachí,29.0904654655
+MX08044,Chihuahua,Matamoros,29.0237115896
+MX08045,Chihuahua,Meoqui,30.8311227774
+MX08046,Chihuahua,Morelos,77.2625089606
+MX08047,Chihuahua,Moris,61.4989652794
+MX08048,Chihuahua,Namiquipa,17.563510319
+MX08049,Chihuahua,Nonoava,42.91211226
+MX08050,Chihuahua,Nuevo Casas Grandes,29.1516762905
+MX08051,Chihuahua,Ocampo,40.2540307224
+MX08052,Chihuahua,Ojinaga,29.0389398084
+MX08053,Chihuahua,Praxedis G. Guerrero,13.7669586474
+MX08054,Chihuahua,Riva Palacio,9.8739395546
+MX08055,Chihuahua,Rosales,26.8488292231
+MX08056,Chihuahua,Rosario,33.0845139228
+MX08057,Chihuahua,San Francisco de Borja,28.9334591789
+MX08058,Chihuahua,San Francisco de Conchos,13.3251815055
+MX08059,Chihuahua,San Francisco del Oro,24.5101365329
+MX08060,Chihuahua,Santa Bárbara,26.846305379
+MX08061,Chihuahua,Satevó,32.7253668763
+MX08062,Chihuahua,Saucillo,20.6410295571
+MX08063,Chihuahua,Temósachic,31.877394636
+MX08064,Chihuahua,El Tule,38.1882519462
+MX08065,Chihuahua,Urique,59.3893454916
+MX08066,Chihuahua,Uruachi,79.2792736381
+MX08067,Chihuahua,Valle de Zaragoza,31.2218690401
+MX09002,Ciudad de México,Azcapotzalco,24.1860766833
+MX09003,Ciudad de México,Coyoacán,27.0770998362
+MX09004,Ciudad de México,Cuajimalpa de Morelos,32.4790606323
+MX09005,Ciudad de México,Gustavo A. Madero,33.7754664936
+MX09006,Ciudad de México,Iztacalco,25.2020203849
+MX09007,Ciudad de México,Iztapalapa,43.8873067404
+MX09008,Ciudad de México,La Magdalena Contreras,42.5021709882
+MX09009,Ciudad de México,Milpa Alta,54.6875638565
+MX09010,Ciudad de México,Álvaro Obregón,37.69131992
+MX09011,Ciudad de México,Tláhuac,42.40951008
+MX09012,Ciudad de México,Tlalpan,39.6968756649
+MX09013,Ciudad de México,Xochimilco,48.1913874998
+MX09014,Ciudad de México,Benito Juárez,7.8838259079
+MX09015,Ciudad de México,Cuauhtémoc,20.8925468273
+MX09016,Ciudad de México,Miguel Hidalgo,13.4686475807
+MX09017,Ciudad de México,Venustiano Carranza,29.9897018159
+MX10001,Durango,Canatlán,43.2208691391
+MX10002,Durango,Canelas,67.4155751369
+MX10003,Durango,Coneto de Comonfort,64.8860025221
+MX10004,Durango,Cuencamé,35.6290021322
+MX10005,Durango,Durango,32.1046854266
+MX10006,Durango,General Simón Bolívar,40.1525085586
+MX10007,Durango,Gómez Palacio,28.8712947155
+MX10008,Durango,Guadalupe Victoria,45.8670744551
+MX10009,Durango,Guanaceví,53.2150660701
+MX10010,Durango,Hidalgo,39.9692473698
+MX10011,Durango,Indé,44.9590743518
+MX10012,Durango,Lerdo,29.5091274975
+MX10013,Durango,Mapimí,36.4359539623
+MX10014,Durango,Mezquital,91.0980847624
+MX10015,Durango,Nazas,47.8186943984
+MX10016,Durango,Nombre de Dios,42.3846066134
+MX10017,Durango,Ocampo,46.3073100562
+MX10018,Durango,El Oro,37.0776358571
+MX10019,Durango,Otáez,79.9834288052
+MX10020,Durango,Pánuco de Coronado,50.5902799225
+MX10021,Durango,Peñón Blanco,52.9923862433
+MX10022,Durango,Poanas,50.0833202898
+MX10023,Durango,Pueblo Nuevo,54.953902982
+MX10024,Durango,Rodeo,46.6256147892
+MX10025,Durango,San Bernardo,44.0803928701
+MX10026,Durango,San Dimas,61.2106510575
+MX10027,Durango,San Juan de Guadalupe,59.4346651226
+MX10028,Durango,San Juan del Río,53.9541615465
+MX10029,Durango,San Luis del Cordero,53.5485770363
+MX10030,Durango,San Pedro del Gallo,50.173940544
+MX10031,Durango,Santa Clara,59.7116425993
+MX10032,Durango,Santiago Papasquiaro,42.8764064276
+MX10033,Durango,Súchil,61.4641968077
+MX10034,Durango,Tamazula,74.4228520746
+MX10035,Durango,Tepehuanes,58.9196357926
+MX10036,Durango,Tlahualilo,32.2918750512
+MX10037,Durango,Topia,75.2774794521
+MX10038,Durango,Vicente Guerrero,44.7383811321
+MX10039,Durango,Nuevo Ideal,43.5870490062
+MX11001,Guanajuato,Abasolo,47.7769037516
+MX11002,Guanajuato,Acámbaro,51.9105483996
+MX11003,Guanajuato,San Miguel de Allende,43.466392432
+MX11004,Guanajuato,Apaseo el Alto,50.7421527587
+MX11005,Guanajuato,Apaseo el Grande,41.1559721421
+MX11006,Guanajuato,Atarjea,68.7772435897
+MX11007,Guanajuato,Celaya,40.4969922484
+MX11008,Guanajuato,Manuel Doblado,50.1558132054
+MX11009,Guanajuato,Comonfort,52.051214845
+MX11010,Guanajuato,Coroneo,52.4429024452
+MX11011,Guanajuato,Cortazar,40.3287381244
+MX11012,Guanajuato,Cuerámaro,51.8302713224
+MX11013,Guanajuato,Doctor Mora,39.3661003641
+MX11014,Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,53.0576928935
+MX11015,Guanajuato,Guanajuato,33.4334983247
+MX11016,Guanajuato,Huanímaro,49.4217310454
+MX11017,Guanajuato,Irapuato,35.5083892839
+MX11018,Guanajuato,Jaral del Progreso,54.972117575
+MX11019,Guanajuato,Jerécuaro,58.6753180256
+MX11020,Guanajuato,León,45.8862788678
+MX11021,Guanajuato,Moroleón,46.8772382159
+MX11022,Guanajuato,Ocampo,51.2961871497
+MX11023,Guanajuato,Pénjamo,51.0809791922
+MX11024,Guanajuato,Pueblo Nuevo,43.2889357007
+MX11025,Guanajuato,Purísima del Rincón,42.8597501131
+MX11026,Guanajuato,Romita,49.9083178826
+MX11027,Guanajuato,Salamanca,37.0841033594
+MX11028,Guanajuato,Salvatierra,50.9652385795
+MX11029,Guanajuato,San Diego de la Unión,39.6505511341
+MX11030,Guanajuato,San Felipe,51.9080123915
+MX11031,Guanajuato,San Francisco del Rincón,47.3035075202
+MX11032,Guanajuato,San José Iturbide,24.2425907719
+MX11033,Guanajuato,San Luis de la Paz,51.1327299329
+MX11034,Guanajuato,Santa Catarina,47.1809352518
+MX11035,Guanajuato,Santa Cruz de Juventino Rosas,60.1925653551
+MX11036,Guanajuato,Santiago Maravatío,53.9447824764
+MX11037,Guanajuato,Silao,43.2834822102
+MX11038,Guanajuato,Tarandacuao,50.8071674708
+MX11039,Guanajuato,Tarimoro,49.947897717
+MX11040,Guanajuato,Tierra Blanca,54.0475949598
+MX11041,Guanajuato,Uriangato,55.3282072222
+MX11042,Guanajuato,Valle de Santiago,46.9989815063
+MX11043,Guanajuato,Victoria,49.6300207977
+MX11044,Guanajuato,Villagrán,36.9578894535
+MX11045,Guanajuato,Xichú,61.3794007058
+MX11046,Guanajuato,Yuriria,58.5638603135
+MX12001,Guerrero,Acapulco de Juárez,52.1359912608
+MX12002,Guerrero,Ahuacuotzingo,93.1797479957
+MX12003,Guerrero,Ajuchitlán del Progreso,64.6941021895
+MX12004,Guerrero,Alcozauca de Guerrero,94.7715614363
+MX12005,Guerrero,Alpoyeca,70.5298877578
+MX12006,Guerrero,Apaxtla,78.2311059405
+MX12007,Guerrero,Arcelia,63.928045669
+MX12008,Guerrero,Atenango del Río,73.87734375
+MX12009,Guerrero,Atlamajalcingo del Monte,95.3024986709
+MX12010,Guerrero,Atlixtac,96.3142236158
+MX12011,Guerrero,Atoyac de Álvarez,52.8708642603
+MX12012,Guerrero,Ayutla de los Libres,75.8638427938
+MX12013,Guerrero,Azoyú,56.5330316237
+MX12014,Guerrero,Benito Juárez,27.2434161646
+MX12015,Guerrero,Buenavista de Cuéllar,52.4733761464
+MX12016,Guerrero,Coahuayutla de José María Izazaga,66.4577287266
+MX12017,Guerrero,Cocula,56.5402685295
+MX12018,Guerrero,Copala,66.5003493326
+MX12019,Guerrero,Copalillo,94.1905225576
+MX12020,Guerrero,Copanatoyac,95.3424476087
+MX12021,Guerrero,Coyuca de Benítez,65.5420846613
+MX12022,Guerrero,Coyuca de Catalán,63.6111451477
+MX12023,Guerrero,Cuajinicuilapa,62.602624108
+MX12024,Guerrero,Cualác,82.204616999
+MX12025,Guerrero,Cuautepec,76.2119977897
+MX12026,Guerrero,Cuetzala del Progreso,79.0539581549
+MX12027,Guerrero,Cutzamala de Pinzón,56.3510800382
+MX12028,Guerrero,Chilapa de Álvarez,75.2433674075
+MX12029,Guerrero,Chilpancingo de los Bravo,55.5085628678
+MX12030,Guerrero,Florencio Villarreal,54.2708065626
+MX12031,Guerrero,General Canuto A. Neri,83.8994530245
+MX12032,Guerrero,General Heliodoro Castillo,94.5706146337
+MX12033,Guerrero,Huamuxtitlán,73.9119324747
+MX12034,Guerrero,Huitzuco de los Figueroa,64.2085686577
+MX12035,Guerrero,Iguala de la Independencia,54.4652071868
+MX12036,Guerrero,Igualapa,76.0614434749
+MX12037,Guerrero,Ixcateopan de Cuauhtémoc,73.6052760937
+MX12038,Guerrero,Zihuatanejo de Azueta,45.8622274579
+MX12039,Guerrero,Juan R. Escudero,74.3843575603
+MX12040,Guerrero,Leonardo Bravo,87.9427945776
+MX12041,Guerrero,Malinaltepec,88.4979004392
+MX12042,Guerrero,Mártir de Cuilapan,85.5500020556
+MX12043,Guerrero,Metlatónoc,97.7173591723
+MX12044,Guerrero,Mochitlán,69.0568149236
+MX12045,Guerrero,Olinalá,88.6766735982
+MX12046,Guerrero,Ometepec,68.1864862091
+MX12047,Guerrero,Pedro Ascencio Alquisiras,89.5846131764
+MX12048,Guerrero,Petatlán,54.9704169845
+MX12049,Guerrero,Pilcaya,62.144114273
+MX12050,Guerrero,Pungarabato,52.6685508311
+MX12051,Guerrero,Quechultenango,94.1712001754
+MX12052,Guerrero,San Luis Acatlán,86.0257597552
+MX12053,Guerrero,San Marcos,60.4808518133
+MX12054,Guerrero,San Miguel Totolapan,84.2861480076
+MX12055,Guerrero,Taxco de Alarcón,74.975513041
+MX12056,Guerrero,Tecoanapa,82.6756693921
+MX12057,Guerrero,Técpan de Galeana,37.8141368661
+MX12058,Guerrero,Teloloapan,63.9163952408
+MX12059,Guerrero,Tepecoacuilco de Trujano,75.0735859729
+MX12060,Guerrero,Tetipac,79.2651029582
+MX12061,Guerrero,Tixtla de Guerrero,57.8604033373
+MX12062,Guerrero,Tlacoachistlahuaca,83.1127819549
+MX12063,Guerrero,Tlacoapa,92.0353955375
+MX12064,Guerrero,Tlalchapa,46.5862093175
+MX12065,Guerrero,Tlalixtaquilla de Maldonado,77.8639978791
+MX12066,Guerrero,Tlapa de Comonfort,71.7702285765
+MX12067,Guerrero,Tlapehuala,68.5524221468
+MX12068,Guerrero,La Unión de Isidoro Montes de Oca,43.5034405169
+MX12069,Guerrero,Xalpatláhuac,93.2117477049
+MX12070,Guerrero,Xochihuehuetlán,74.6508609612
+MX12071,Guerrero,Xochistlahuaca,87.4823098264
+MX12072,Guerrero,Zapotitlán Tablas,91.3698375085
+MX12073,Guerrero,Zirándaro,71.4951145308
+MX12074,Guerrero,Zitlala,89.2433367149
+MX12075,Guerrero,Eduardo Neri,65.5870909857
+MX12076,Guerrero,Acatepec,96.0278210266
+MX12077,Guerrero,Marquelia,59.7126562496
+MX12078,Guerrero,Cochoapa el Grande,99.4415671285
+MX12079,Guerrero,José Joaquin de Herrera,94.9679543945
+MX12080,Guerrero,Juchitán,65.7284794851
+MX12081,Guerrero,Iliatenco,80.2367073714
+MX13001,Hidalgo,Acatlán,39.285885276
+MX13002,Hidalgo,Acaxochitlán,80.0861288661
+MX13003,Hidalgo,Actopan,48.0174081307
+MX13004,Hidalgo,Agua Blanca de Iturbide,60.0017195424
+MX13005,Hidalgo,Ajacuba,48.0655003869
+MX13006,Hidalgo,Alfajayucan,48.5607469323
+MX13007,Hidalgo,Almoloya,50.2364502184
+MX13008,Hidalgo,Apan,41.3622107788
+MX13009,Hidalgo,El Arenal,48.8853589472
+MX13010,Hidalgo,Atitalaquia,28.9646406091
+MX13011,Hidalgo,Atlapexco,65.1550387277
+MX13012,Hidalgo,Atotonilco el Grande,52.423565722
+MX13013,Hidalgo,Atotonilco de Tula,32.8553683272
+MX13014,Hidalgo,Calnali,66.147880475
+MX13015,Hidalgo,Cardonal,56.4982459978
+MX13016,Hidalgo,Cuautepec de Hinojosa,67.3221763878
+MX13017,Hidalgo,Chapantongo,49.262296937
+MX13018,Hidalgo,Chapulhuacán,51.3653032582
+MX13019,Hidalgo,Chilcuautla,48.8535488621
+MX13020,Hidalgo,Eloxochitlán,52.9764890282
+MX13021,Hidalgo,Emiliano Zapata,37.8059607728
+MX13022,Hidalgo,Epazoyucan,36.8188713585
+MX13023,Hidalgo,Francisco I. Madero,48.2062277219
+MX13024,Hidalgo,Huasca de Ocampo,51.1308243642
+MX13025,Hidalgo,Huautla,64.2316437648
+MX13026,Hidalgo,Huazalingo,86.1527243111
+MX13027,Hidalgo,Huehuetla,75.7635706413
+MX13028,Hidalgo,Huejutla de Reyes,65.3541444548
+MX13029,Hidalgo,Huichapan,42.4419017192
+MX13030,Hidalgo,Ixmiquilpan,50.2448216348
+MX13031,Hidalgo,Jacala de Ledezma,43.6846711542
+MX13032,Hidalgo,Jaltocán,75.2097916339
+MX13033,Hidalgo,Juárez Hidalgo,55.636523574899996
+MX13034,Hidalgo,Lolotla,77.1702514714
+MX13035,Hidalgo,Metepec,42.8211500951
+MX13036,Hidalgo,San Agustín Metzquititlán,53.0476087427
+MX13037,Hidalgo,Metztitlán,51.8886612028
+MX13038,Hidalgo,Mineral del Chico,42.8447278309
+MX13039,Hidalgo,Mineral del Monte,49.6261241578
+MX13040,Hidalgo,La Misión,61.9497477088
+MX13041,Hidalgo,Mixquiahuala de Juárez,39.7494863879
+MX13042,Hidalgo,Molango de Escamilla,59.7170356871
+MX13043,Hidalgo,Nicolás Flores,67.643574132
+MX13044,Hidalgo,Nopala de Villagrán,43.0924950533
+MX13045,Hidalgo,Omitlán de Juárez,44.7482502187
+MX13046,Hidalgo,San Felipe Orizatlán,68.9233200899
+MX13047,Hidalgo,Pacula,53.8798107934
+MX13048,Hidalgo,Pachuca de Soto,28.2238205128
+MX13049,Hidalgo,Pisaflores,61.6872498336
+MX13050,Hidalgo,Progreso de Obregón,38.974902331
+MX13051,Hidalgo,Mineral de la Reforma,18.7288219888
+MX13052,Hidalgo,San Agustín Tlaxiaca,43.4100170338
+MX13053,Hidalgo,San Bartolo Tutotepec,65.132697516
+MX13054,Hidalgo,San Salvador,42.8819951612
+MX13055,Hidalgo,Santiago de Anaya,48.9966008761
+MX13056,Hidalgo,Santiago Tulantepec de Lugo Guerrero,39.154255192
+MX13057,Hidalgo,Singuilucan,48.8877086044
+MX13058,Hidalgo,Tasquillo,51.627540719
+MX13059,Hidalgo,Tecozautla,44.2235366157
+MX13060,Hidalgo,Tenango de Doria,63.5409147404
+MX13061,Hidalgo,Tepeapulco,31.5480777026
+MX13062,Hidalgo,Tepehuacán de Guerrero,81.5839364988
+MX13063,Hidalgo,Tepeji del Río de Ocampo,32.2680998001
+MX13064,Hidalgo,Tepetitlán,42.0423502861
+MX13065,Hidalgo,Tetepango,53.8912402253
+MX13066,Hidalgo,Villa de Tezontepec,52.6113300494
+MX13067,Hidalgo,Tezontepec de Aldama,55.1063024468
+MX13068,Hidalgo,Tianguistengo,79.2200408539
+MX13069,Hidalgo,Tizayuca,35.8925554026
+MX13070,Hidalgo,Tlahuelilpan,50.1528359842
+MX13071,Hidalgo,Tlahuiltepa,71.1661830357
+MX13072,Hidalgo,Tlanalapa,35.3050334383
+MX13073,Hidalgo,Tlanchinol,85.7790305778
+MX13074,Hidalgo,Tlaxcoapan,54.4645599354
+MX13075,Hidalgo,Tolcayuca,41.1090329536
+MX13076,Hidalgo,Tula de Allende,27.7582765224
+MX13077,Hidalgo,Tulancingo de Bravo,44.5165685839
+MX13078,Hidalgo,Xochiatipan,88.2743510869
+MX13079,Hidalgo,Xochicoatlán,55.6032772747
+MX13080,Hidalgo,Yahualica,79.5432483092
+MX13081,Hidalgo,Zacualtipán de Ángeles,59.4295630205
+MX13082,Hidalgo,Zapotlán de Juárez,49.6015691597
+MX13083,Hidalgo,Zempoala,34.29800569
+MX13084,Hidalgo,Zimapán,40.5230746058
+MX14001,Jalisco,Acatic,30.6719013008
+MX14002,Jalisco,Acatlán de Juárez,28.3402171866
+MX14003,Jalisco,Ahualulco de Mercado,32.8450661529
+MX14004,Jalisco,Amacueca,46.0358946609
+MX14005,Jalisco,Amatitán,36.6478208347
+MX14006,Jalisco,Ameca,35.3770728419
+MX14007,Jalisco,San Juanito de Escobedo,40.7349591749
+MX14008,Jalisco,Arandas,33.9587588687
+MX14009,Jalisco,El Arenal,30.9227480961
+MX14010,Jalisco,Atemajac de Brizuela,73.2058438155
+MX14011,Jalisco,Atengo,49.1600672394
+MX14012,Jalisco,Atenguillo,17.433915212
+MX14013,Jalisco,Atotonilco el Alto,34.3821513723
+MX14014,Jalisco,Atoyac,44.2844200739
+MX14015,Jalisco,Autlán de Navarro,31.4519110235
+MX14016,Jalisco,Ayotlán,52.2099602204
+MX14017,Jalisco,Ayutla,44.1463746365
+MX14018,Jalisco,La Barca,41.222573176
+MX14019,Jalisco,Bolaños,54.7489457831
+MX14020,Jalisco,Cabo Corrientes,44.5951910269
+MX14021,Jalisco,Casimiro Castillo,40.2494357096
+MX14022,Jalisco,Cihuatlán,45.9617282388
+MX14023,Jalisco,Zapotlán el Grande,26.3979162546
+MX14024,Jalisco,Cocula,38.3848045275
+MX14025,Jalisco,Colotlán,37.749105816
+MX14026,Jalisco,Concepción de Buenos Aires,45.3420412137
+MX14027,Jalisco,Cuautitlán de García Barragán,57.5028481075
+MX14028,Jalisco,Cuautla,33.9727954972
+MX14029,Jalisco,Cuquío,43.3891168902
+MX14030,Jalisco,Chapala,38.5215497055
+MX14031,Jalisco,Chimaltitán,65.8094351335
+MX14032,Jalisco,Chiquilistlán,68.4120171674
+MX14033,Jalisco,Degollado,42.6528011779
+MX14034,Jalisco,Ejutla,24.2293868922
+MX14035,Jalisco,Encarnación de Díaz,37.2661163815
+MX14036,Jalisco,Etzatlán,37.9338882161
+MX14037,Jalisco,El Grullo,39.1037341872
+MX14038,Jalisco,Guachinango,44.2983630952
+MX14039,Jalisco,Guadalajara,24.8215832086
+MX14040,Jalisco,Hostotipaquillo,63.6748091603
+MX14041,Jalisco,Huejúcar,42.776496903
+MX14042,Jalisco,Huejuquilla el Alto,50.9566488154
+MX14043,Jalisco,La Huerta,33.1126416553
+MX14044,Jalisco,Ixtlahuacán de los Membrillos,35.7952806223
+MX14045,Jalisco,Ixtlahuacán del Río,40.1850304614
+MX14046,Jalisco,Jalostotitlán,39.9325729183
+MX14047,Jalisco,Jamay,46.1757508576
+MX14048,Jalisco,Jesús María,39.1872945116
+MX14049,Jalisco,Jilotlán de los Dolores,53.2622495077
+MX14050,Jalisco,Jocotepec,43.9789553292
+MX14051,Jalisco,Juanacatlán,31.8732266449
+MX14052,Jalisco,Juchitlán,44.8048330566
+MX14053,Jalisco,Lagos de Moreno,37.2125946048
+MX14054,Jalisco,El Limón,23.5994247363
+MX14055,Jalisco,Magdalena,40.3752754206
+MX14056,Jalisco,Santa María del Oro,55.3189407024
+MX14057,Jalisco,La Manzanilla de la Paz,35.4275879653
+MX14058,Jalisco,Mascota,38.2594758925
+MX14059,Jalisco,Mazamitla,45.5558251389
+MX14060,Jalisco,Mexticacán,58.2619369805
+MX14061,Jalisco,Mezquitic,80.0896876379
+MX14062,Jalisco,Mixtlán,24.5426981919
+MX14063,Jalisco,Ocotlán,28.4380607087
+MX14064,Jalisco,Ojuelos de Jalisco,47.6352324563
+MX14065,Jalisco,Pihuamo,42.3227753079
+MX14066,Jalisco,Poncitlán,41.2258539269
+MX14067,Jalisco,Puerto Vallarta,35.4288930326
+MX14068,Jalisco,Villa Purificación,45.6007927853
+MX14069,Jalisco,Quitupan,55.1478683216
+MX14070,Jalisco,El Salto,40.0414181857
+MX14071,Jalisco,San Cristóbal de la Barranca,42.9205963939
+MX14072,Jalisco,San Diego de Alejandría,43.1276247614
+MX14073,Jalisco,San Juan de los Lagos,36.0596066716
+MX14074,Jalisco,San Julián,34.5223555333
+MX14075,Jalisco,San Marcos,44.8095104108
+MX14076,Jalisco,San Martín de Bolaños,34.8849586777
+MX14077,Jalisco,San Martín Hidalgo,38.0635379667
+MX14078,Jalisco,San Miguel el Alto,38.195338337
+MX14079,Jalisco,Gómez Farías,41.0247096943
+MX14080,Jalisco,San Sebastián del Oeste,45.9884485162
+MX14081,Jalisco,Santa María de los Ángeles,54.6156332648
+MX14082,Jalisco,Sayula,37.9575478784
+MX14083,Jalisco,Tala,28.2865573477
+MX14084,Jalisco,Talpa de Allende,46.5973266202
+MX14085,Jalisco,Tamazula de Gordiano,31.6242727508
+MX14086,Jalisco,Tapalpa,46.5939144596
+MX14087,Jalisco,Tecalitlán,39.3811247269
+MX14088,Jalisco,Tecolotlán,37.6400784437
+MX14089,Jalisco,Techaluta de Montenegro,44.1072681704
+MX14090,Jalisco,Tenamaxtlán,42.0529255691
+MX14091,Jalisco,Teocaltiche,41.4504124036
+MX14092,Jalisco,Teocuitatlán de Corona,44.8852333592
+MX14093,Jalisco,Tepatitlán de Morelos,28.9343009115
+MX14094,Jalisco,Tequila,40.5531532925
+MX14095,Jalisco,Teuchitlán,21.2274222647
+MX14096,Jalisco,Tizapán el Alto,53.329821437
+MX14097,Jalisco,Tlajomulco de Zúñiga,34.3858436655
+MX14098,Jalisco,Tlaquepaque,27.355165591
+MX14099,Jalisco,Tolimán,46.1403367243
+MX14100,Jalisco,Tomatlán,46.243949942
+MX14101,Jalisco,Tonalá,37.1575558112
+MX14102,Jalisco,Tonaya,28.8555727288
+MX14103,Jalisco,Tonila,29.0012286689
+MX14104,Jalisco,Totatiche,37.16075
+MX14105,Jalisco,Tototlán,41.3914024019
+MX14106,Jalisco,Tuxcacuesco,36.5550100424
+MX14107,Jalisco,Tuxcueca,47.8009904054
+MX14108,Jalisco,Tuxpan,37.7896139906
+MX14109,Jalisco,Unión de San Antonio,34.4191250163
+MX14110,Jalisco,Unión de Tula,37.0298808142
+MX14111,Jalisco,Valle de Guadalupe,25.9630668537
+MX14112,Jalisco,Valle de Juárez,44.5354159706
+MX14113,Jalisco,San Gabriel,39.2503167859
+MX14114,Jalisco,Villa Corona,41.9449291283
+MX14115,Jalisco,Villa Guerrero,49.409015025
+MX14116,Jalisco,Villa Hidalgo,44.8784297373
+MX14117,Jalisco,Cañadas de Obregón,32.3517611383
+MX14118,Jalisco,Yahualica de González Gallo,39.6253992779
+MX14119,Jalisco,Zacoalco de Torres,49.8708176234
+MX14120,Jalisco,Zapopan,26.5960583242
+MX14121,Jalisco,Zapotiltic,35.1467174661
+MX14122,Jalisco,Zapotitlán de Vadillo,47.6201010515
+MX14123,Jalisco,Zapotlán del Rey,38.6116307751
+MX14124,Jalisco,Zapotlanejo,38.031279384
+MX14125,Jalisco,San Ignacio Cerro Gordo,39.1084667939
+MX15001,México,Acambay,65.6881799027
+MX15002,México,Acolman,54.6639922159
+MX15003,México,Aculco,48.7357327871
+MX15004,México,Almoloya de Alquisiras,57.3376142553
+MX15005,México,Almoloya de Juárez,65.2792137158
+MX15006,México,Almoloya del Río,62.2461416686
+MX15007,México,Amanalco,68.3022197278
+MX15008,México,Amatepec,62.4959171143
+MX15009,México,Amecameca,59.7448752762
+MX15010,México,Apaxco,52.7376477617
+MX15011,México,Atenco,68.2922136295
+MX15012,México,Atizapán,62.7877563082
+MX15013,México,Atizapán de Zaragoza,38.3074404439
+MX15014,México,Atlacomulco,56.438024466
+MX15015,México,Atlautla,75.5953023737
+MX15016,México,Axapusco,62.8876025469
+MX15017,México,Ayapango,47.7840745172
+MX15018,México,Calimaya,50.653139362
+MX15019,México,Capulhuac,60.0276410432
+MX15020,México,Coacalco de Berriozábal,28.6164326509
+MX15021,México,Coatepec Harinas,50.08416534
+MX15022,México,Cocotitlán,51.3209170994
+MX15023,México,Coyotepec,54.0984652408
+MX15024,México,Cuautitlán,34.1182412038
+MX15025,México,Chalco,58.0802286367
+MX15026,México,Chapa de Mota,66.9604055611
+MX15027,México,Chapultepec,42.2578757213
+MX15028,México,Chiautla,60.5491777607
+MX15029,México,Chicoloapan,55.6191944067
+MX15030,México,Chiconcuac,64.1912464186
+MX15031,México,Chimalhuacán,68.8681144074
+MX15032,México,Donato Guerra,77.8331366589
+MX15033,México,Ecatepec de Morelos,43.4944553744
+MX15034,México,Ecatzingo,62.3925405642
+MX15035,México,Huehuetoca,47.5871783898
+MX15036,México,Hueypoxtla,67.5106453953
+MX15037,México,Huixquilucan,51.3181607254
+MX15038,México,Isidro Fabela,37.2641323272
+MX15039,México,Ixtapaluca,54.181767735
+MX15040,México,Ixtapan de la Sal,50.2789803028
+MX15041,México,Ixtapan del Oro,80.9428838951
+MX15042,México,Ixtlahuaca,76.3726210239
+MX15043,México,Xalatlaco,64.2478305042
+MX15044,México,Jaltenco,51.7388490933
+MX15045,México,Jilotepec,49.8418128471
+MX15046,México,Jilotzingo,45.8004005608
+MX15047,México,Jiquipilco,71.4268466983
+MX15048,México,Jocotitlán,54.3533537391
+MX15049,México,Joquicingo,69.9038349975
+MX15050,México,Juchitepec,70.5398362562
+MX15051,México,Lerma,34.8463641916
+MX15052,México,Malinalco,66.5148324663
+MX15053,México,Melchor Ocampo,53.4570887162
+MX15054,México,Metepec,33.2438820822
+MX15055,México,Mexicaltzingo,53.9971960811
+MX15056,México,Morelos,72.832969725
+MX15057,México,Naucalpan de Juárez,42.6054903693
+MX15058,México,Nezahualcóyotl,46.4596328984
+MX15059,México,Nextlalpan,54.1022122604
+MX15060,México,Nicolás Romero,51.3955346593
+MX15061,México,Nopaltepec,60.2449484511
+MX15062,México,Ocoyoacac,49.1519732841
+MX15063,México,Ocuilan,64.5524811358
+MX15064,México,El Oro,61.1183109954
+MX15065,México,Otumba,63.1603927138
+MX15066,México,Otzoloapan,64.9333614509
+MX15067,México,Otzolotepec,61.7488379513
+MX15068,México,Ozumba,65.8886948626
+MX15069,México,Papalotla,48.234496124
+MX15070,México,La Paz,62.6520699406
+MX15071,México,Polotitlán,47.0906171092
+MX15072,México,Rayón,48.476595295
+MX15073,México,San Antonio la Isla,44.884254853
+MX15074,México,San Felipe del Progreso,75.3629744891
+MX15075,México,San Martín de las Pirámides,48.5963103196
+MX15076,México,San Mateo Atenco,53.9454240722
+MX15077,México,San Simón de Guerrero,61.1367953431
+MX15078,México,Santo Tomás,55.0455855664
+MX15079,México,Soyaniquilpan de Juárez,50.3056864311
+MX15080,México,Sultepec,66.1149918814
+MX15081,México,Tecámac,40.2276858559
+MX15082,México,Tejupilco,59.7528869367
+MX15083,México,Temamatla,46.5562870157
+MX15084,México,Temascalapa,61.9682324524
+MX15085,México,Temascalcingo,67.883639856
+MX15086,México,Temascaltepec,62.4446737796
+MX15087,México,Temoaya,61.9723155885
+MX15088,México,Tenancingo,62.7421384982
+MX15089,México,Tenango del Aire,58.5153025943
+MX15090,México,Tenango del Valle,67.4900475069
+MX15091,México,Teoloyucan,52.2369282325
+MX15092,México,Teotihuacán,54.7045122349
+MX15093,México,Tepetlaoxtoc,56.2554007569
+MX15094,México,Tepetlixpa,64.1953789007
+MX15095,México,Tepotzotlán,46.324140968
+MX15096,México,Tequixquiac,61.8364958483
+MX15097,México,Texcaltitlán,56.5884462699
+MX15098,México,Texcalyacac,53.8325824473
+MX15099,México,Texcoco,56.4142146739
+MX15100,México,Tezoyuca,63.5026970671
+MX15101,México,Tianguistenco,60.4360056479
+MX15102,México,Timilpan,45.2215502584
+MX15103,México,Tlalmanalco,51.5247548207
+MX15104,México,Tlalnepantla de Baz,36.6906609961
+MX15105,México,Tlatlaya,60.8475174082
+MX15106,México,Toluca,51.8394398603
+MX15107,México,Tonatico,49.0530516651
+MX15108,México,Tultepec,43.2215366943
+MX15109,México,Tultitlán,42.2179774733
+MX15110,México,Valle de Bravo,59.9561438306
+MX15111,México,Villa de Allende,73.7555257396
+MX15112,México,Villa del Carbón,64.7393711545
+MX15113,México,Villa Guerrero,66.6147158622
+MX15114,México,Villa Victoria,71.863039916
+MX15115,México,Xonacatlán,60.7435771795
+MX15116,México,Zacazonapan,56.6893787575
+MX15117,México,Zacualpan,65.2188617942
+MX15118,México,Zinacantepec,52.4587476449
+MX15119,México,Zumpahuacán,77.5774740127
+MX15120,México,Zumpango,58.5394183314
+MX15121,México,Cuautitlán Izcalli,31.5253340169
+MX15122,México,Valle de Chalco Solidaridad,66.2794809789
+MX15123,México,Luvianos,74.8870475376
+MX15124,México,San José del Rincón,77.0493163791
+MX15125,México,Tonanitla,52.8015284877
+MX16001,Michoacán de Ocampo,Acuitzio,55.515502996
+MX16002,Michoacán de Ocampo,Aguililla,62.7704886175
+MX16003,Michoacán de Ocampo,Álvaro Obregón,62.0736318103
+MX16004,Michoacán de Ocampo,Angamacutiro,46.376128978
+MX16005,Michoacán de Ocampo,Angangueo,61.3534929987
+MX16006,Michoacán de Ocampo,Apatzingán,41.3252290168
+MX16007,Michoacán de Ocampo,Aporo,55.8695901404
+MX16008,Michoacán de Ocampo,Aquila,48.8245162191
+MX16009,Michoacán de Ocampo,Ario,45.7273171451
+MX16010,Michoacán de Ocampo,Arteaga,46.9374407828
+MX16011,Michoacán de Ocampo,Briseñas,44.991066517
+MX16012,Michoacán de Ocampo,Buenavista,51.9021647487
+MX16013,Michoacán de Ocampo,Carácuaro,62.5799091941
+MX16014,Michoacán de Ocampo,Coahuayana,47.4456302416
+MX16015,Michoacán de Ocampo,Coalcomán de Vázquez Pallares,50.4323833568
+MX16016,Michoacán de Ocampo,Coeneo,49.0580717576
+MX16017,Michoacán de Ocampo,Contepec,58.5349873116
+MX16018,Michoacán de Ocampo,Copándaro,66.0622989492
+MX16019,Michoacán de Ocampo,Cotija,46.6173234205
+MX16020,Michoacán de Ocampo,Cuitzeo,65.2823076918
+MX16021,Michoacán de Ocampo,Charapan,81.4433444754
+MX16022,Michoacán de Ocampo,Charo,44.3979854656
+MX16023,Michoacán de Ocampo,Chavinda,53.3383945492
+MX16024,Michoacán de Ocampo,Cherán,76.5427407616
+MX16025,Michoacán de Ocampo,Chilchota,66.6234743062
+MX16026,Michoacán de Ocampo,Chinicuila,41.614965096
+MX16027,Michoacán de Ocampo,Chucándiro,49.9077679852
+MX16028,Michoacán de Ocampo,Churintzio,38.6297249159
+MX16029,Michoacán de Ocampo,Churumuco,62.937867706
+MX16030,Michoacán de Ocampo,Ecuandureo,45.1604030129
+MX16031,Michoacán de Ocampo,Epitacio Huerta,52.6047938907
+MX16032,Michoacán de Ocampo,Erongarícuaro,56.6782466391
+MX16033,Michoacán de Ocampo,Gabriel Zamora,47.807340172400004
+MX16034,Michoacán de Ocampo,Hidalgo,66.2604617796
+MX16035,Michoacán de Ocampo,La Huacana,59.4503251953
+MX16036,Michoacán de Ocampo,Huandacareo,49.06736481
+MX16037,Michoacán de Ocampo,Huaniqueo,46.2240863571
+MX16038,Michoacán de Ocampo,Huetamo,41.8542908516
+MX16039,Michoacán de Ocampo,Huiramba,53.9965011287
+MX16040,Michoacán de Ocampo,Indaparapeo,65.8328789152
+MX16041,Michoacán de Ocampo,Irimbo,61.9799201938
+MX16042,Michoacán de Ocampo,Ixtlán,47.0997716154
+MX16043,Michoacán de Ocampo,Jacona,47.2395381052
+MX16044,Michoacán de Ocampo,Jiménez,44.6776253066
+MX16045,Michoacán de Ocampo,Jiquilpan,41.4213788664
+MX16046,Michoacán de Ocampo,Juárez,61.8928433821
+MX16047,Michoacán de Ocampo,Jungapeo,50.5798886391
+MX16048,Michoacán de Ocampo,Lagunillas,61.0734693878
+MX16049,Michoacán de Ocampo,Madero,70.2472831891
+MX16050,Michoacán de Ocampo,Maravatío,60.0974075071
+MX16051,Michoacán de Ocampo,Marcos Castellanos,39.7153535603
+MX16052,Michoacán de Ocampo,Lázaro Cárdenas,31.099846728
+MX16053,Michoacán de Ocampo,Morelia,27.2546418088
+MX16054,Michoacán de Ocampo,Morelos,46.6906910779
+MX16055,Michoacán de Ocampo,Múgica,54.7953502388
+MX16056,Michoacán de Ocampo,Nahuatzen,78.1637148746
+MX16057,Michoacán de Ocampo,Nocupétaro,59.957996769
+MX16058,Michoacán de Ocampo,Nuevo Parangaricutiro,55.7017364914
+MX16059,Michoacán de Ocampo,Nuevo Urecho,43.3153724247
+MX16060,Michoacán de Ocampo,Numarán,55.5035499727
+MX16061,Michoacán de Ocampo,Ocampo,77.2861272348
+MX16062,Michoacán de Ocampo,Pajacuarán,68.1933911152
+MX16063,Michoacán de Ocampo,Panindícuaro,50.2318302234
+MX16064,Michoacán de Ocampo,Parácuaro,59.651052747
+MX16065,Michoacán de Ocampo,Paracho,60.7185322754
+MX16066,Michoacán de Ocampo,Pátzcuaro,51.6130985403
+MX16067,Michoacán de Ocampo,Penjamillo,49.6008898417
+MX16068,Michoacán de Ocampo,Peribán,34.4201235329
+MX16069,Michoacán de Ocampo,La Piedad,35.7409144547
+MX16070,Michoacán de Ocampo,Purépero,43.5781896367
+MX16071,Michoacán de Ocampo,Puruándiro,51.7888832659
+MX16072,Michoacán de Ocampo,Queréndaro,61.4189047953
+MX16073,Michoacán de Ocampo,Quiroga,62.3267922396
+MX16074,Michoacán de Ocampo,Cojumatlán de Régules,59.0846627037
+MX16075,Michoacán de Ocampo,Los Reyes,44.3672805032
+MX16076,Michoacán de Ocampo,Sahuayo,46.2028423038
+MX16077,Michoacán de Ocampo,San Lucas,53.8620442639
+MX16078,Michoacán de Ocampo,Santa Ana Maya,57.9663341901
+MX16079,Michoacán de Ocampo,Salvador Escalante,62.4039048445
+MX16080,Michoacán de Ocampo,Senguio,58.0326195918
+MX16081,Michoacán de Ocampo,Susupuato,65.3021344595
+MX16082,Michoacán de Ocampo,Tacámbaro,42.0701759045
+MX16083,Michoacán de Ocampo,Tancítaro,28.4995124073
+MX16084,Michoacán de Ocampo,Tangamandapio,61.8770026762
+MX16085,Michoacán de Ocampo,Tangancícuaro,48.0661326397
+MX16086,Michoacán de Ocampo,Tanhuato,39.6027783545
+MX16087,Michoacán de Ocampo,Taretan,31.5795960376
+MX16088,Michoacán de Ocampo,Tarímbaro,33.3912073481
+MX16089,Michoacán de Ocampo,Tepalcatepec,30.6015593778
+MX16090,Michoacán de Ocampo,Tingambato,64.6674171219
+MX16091,Michoacán de Ocampo,Tingüindín,39.8425802265
+MX16092,Michoacán de Ocampo,Tiquicheo de Nicolás Romero,54.118181194
+MX16093,Michoacán de Ocampo,Tlalpujahua,60.1112792115
+MX16094,Michoacán de Ocampo,Tlazazalca,43.5904868674
+MX16095,Michoacán de Ocampo,Tocumbo,31.9412534468
+MX16096,Michoacán de Ocampo,Tumbiscatío,53.3461254613
+MX16097,Michoacán de Ocampo,Turicato,52.2934709491
+MX16098,Michoacán de Ocampo,Tuxpan,50.720737359
+MX16099,Michoacán de Ocampo,Tuzantla,63.0240091639
+MX16100,Michoacán de Ocampo,Tzintzuntzan,63.2895035715
+MX16101,Michoacán de Ocampo,Tzitzio,65.785129847
+MX16102,Michoacán de Ocampo,Uruapan,42.1475574411
+MX16103,Michoacán de Ocampo,Venustiano Carranza,61.1710922104
+MX16104,Michoacán de Ocampo,Villamar,39.7885202807
+MX16105,Michoacán de Ocampo,Vista Hermosa,44.7738817711
+MX16106,Michoacán de Ocampo,Yurécuaro,48.7835854612
+MX16107,Michoacán de Ocampo,Zacapu,46.4933124203
+MX16108,Michoacán de Ocampo,Zamora,44.0204675577
+MX16109,Michoacán de Ocampo,Zináparo,28.4551948052
+MX16110,Michoacán de Ocampo,Zinapécuaro,52.4379251465
+MX16111,Michoacán de Ocampo,Ziracuaretiro,60.6329118326
+MX16112,Michoacán de Ocampo,Zitácuaro,58.6152396648
+MX16113,Michoacán de Ocampo,José Sixto Verduzco,51.5234520138
+MX17001,Morelos,Amacuzac,62.777537721
+MX17002,Morelos,Atlatlahucan,54.3941327167
+MX17003,Morelos,Axochiapan,72.378750843
+MX17004,Morelos,Ayala,56.6240843391
+MX17005,Morelos,Coatlán del Río,59.9607021906
+MX17006,Morelos,Cuautla,51.2384064565
+MX17007,Morelos,Cuernavaca,37.2727442235
+MX17008,Morelos,Emiliano Zapata,49.1451651894
+MX17009,Morelos,Huitzilac,46.2934416662
+MX17010,Morelos,Jantetelco,64.0331636264
+MX17011,Morelos,Jiutepec,42.6919738929
+MX17012,Morelos,Jojutla,53.388347438
+MX17013,Morelos,Jonacatepec,70.4993706266
+MX17014,Morelos,Mazatepec,48.9889373471
+MX17015,Morelos,Miacatlán,50.5071699528
+MX17016,Morelos,Ocuituco,75.1096740756
+MX17017,Morelos,Puente de Ixtla,62.2983037417
+MX17018,Morelos,Temixco,61.5407030016
+MX17019,Morelos,Tepalcingo,68.041030554
+MX17020,Morelos,Tepoztlán,45.3288906936
+MX17021,Morelos,Tetecala,58.6106420051
+MX17022,Morelos,Tetela del Volcán,79.161849395
+MX17023,Morelos,Tlalnepantla,69.3645087001
+MX17024,Morelos,Tlaltizapán,59.0812959785
+MX17025,Morelos,Tlaquiltenango,57.9660738945
+MX17026,Morelos,Tlayacapan,48.8065745528
+MX17027,Morelos,Totolapan,73.1927281741
+MX17028,Morelos,Xochitepec,61.1589098584
+MX17029,Morelos,Yautepec,55.3036656212
+MX17030,Morelos,Yecapixtla,67.9109192453
+MX17031,Morelos,Zacatepec,45.6123372611
+MX17032,Morelos,Zacualpan,61.9829164124
+MX17033,Morelos,Temoac,75.3459631815
+MX17034,Morelos,Coatetelco,83.854587958
+MX17035,Morelos,Xoxocotla,79.4872180764
+MX17036,Morelos,Hueyapan,87.3408331191
+MX18001,Nayarit,Acaponeta,38.1342627289
+MX18002,Nayarit,Ahuacatlán,23.3363602831
+MX18003,Nayarit,Amatlán de Cañas,29.1090062106
+MX18004,Nayarit,Compostela,36.5196978194
+MX18005,Nayarit,Huajicori,76.7751184032
+MX18006,Nayarit,Ixtlán del Río,35.3013426553
+MX18007,Nayarit,Jala,55.0448405138
+MX18008,Nayarit,Xalisco,19.8048741206
+MX18009,Nayarit,Del Nayar,89.1752560856
+MX18010,Nayarit,Rosamorada,39.5704325747
+MX18011,Nayarit,Ruíz,40.3523326196
+MX18012,Nayarit,San Blas,32.6990032833
+MX18013,Nayarit,San Pedro Lagunillas,34.6723248235
+MX18014,Nayarit,Santa María del Oro,29.8207064606
+MX18015,Nayarit,Santiago Ixcuintla,23.4013742882
+MX18016,Nayarit,Tecuala,31.9261836026
+MX18017,Nayarit,Tepic,21.6182213948
+MX18018,Nayarit,Tuxpan,32.1854499377
+MX18019,Nayarit,La Yesca,69.5608777904
+MX18020,Nayarit,Bahía de Banderas,29.8961424034
+MX19001,Nuevo León,Abasolo,10.3794076164
+MX19002,Nuevo León,Agualeguas,8.7050228311
+MX19003,Nuevo León,Los Aldamas,12.5450549451
+MX19004,Nuevo León,Allende,22.5890870607
+MX19005,Nuevo León,Anáhuac,33.2733116028
+MX19006,Nuevo León,Apodaca,14.2146887417
+MX19007,Nuevo León,Aramberri,54.7792631127
+MX19008,Nuevo León,Bustamante,31.8404624277
+MX19009,Nuevo León,Cadereyta Jiménez,21.0892394453
+MX19010,Nuevo León,Carmen,28.4480744185
+MX19011,Nuevo León,Cerralvo,11.0137025407
+MX19012,Nuevo León,Ciénega de Flores,23.6907977994
+MX19013,Nuevo León,China,17.2188623388
+MX19014,Nuevo León,Dr. Arroyo,57.4187440621
+MX19015,Nuevo León,Dr. Coss,13.9083665339
+MX19016,Nuevo León,Dr. González,15.2109251658
+MX19017,Nuevo León,Galeana,41.571509173
+MX19018,Nuevo León,García,22.5824550673
+MX19019,Nuevo León,San Pedro Garza García,5.4509509601
+MX19020,Nuevo León,Gral. Bravo,18.2797687861
+MX19021,Nuevo León,Gral. Escobedo,24.958969658
+MX19022,Nuevo León,Gral. Terán,12.2754409033
+MX19023,Nuevo León,Gral. Treviño,10.8124287343
+MX19024,Nuevo León,Gral. Zaragoza,65.7131027764
+MX19025,Nuevo León,Gral. Zuazua,23.8388131902
+MX19026,Nuevo León,Guadalupe,15.8025800155
+MX19027,Nuevo León,Los Herreras,10.4058981233
+MX19028,Nuevo León,Higueras,9.985915493
+MX19029,Nuevo León,Hualahuises,23.6863062004
+MX19030,Nuevo León,Iturbide,36.7345077068
+MX19031,Nuevo León,Juárez,24.4169690785
+MX19032,Nuevo León,Lampazos de Naranjo,15.1187888199
+MX19033,Nuevo León,Linares,26.7416582822
+MX19034,Nuevo León,Marín,9.8384201077
+MX19035,Nuevo León,Melchor Ocampo,10.0690150971
+MX19036,Nuevo León,Mier y Noriega,65.1458001063
+MX19037,Nuevo León,Mina,16.0436733989
+MX19038,Nuevo León,Montemorelos,18.2126254456
+MX19039,Nuevo León,Monterrey,19.2234808152
+MX19040,Nuevo León,Parás,7.3178206583
+MX19041,Nuevo León,Pesquería,23.4605094139
+MX19042,Nuevo León,Los Ramones,20.7183673469
+MX19043,Nuevo León,Rayones,35.2018900344
+MX19044,Nuevo León,Sabinas Hidalgo,24.660729387
+MX19045,Nuevo León,Salinas Victoria,27.3805260143
+MX19046,Nuevo León,San Nicolás de los Garza,10.8436917705
+MX19047,Nuevo León,Hidalgo,23.2950242634
+MX19048,Nuevo León,Santa Catarina,16.4543950549
+MX19049,Nuevo León,Santiago,12.3970355644
+MX19050,Nuevo León,Vallecillo,11.6144010767
+MX19051,Nuevo León,Villaldama,12.3554641598
+MX20001,Oaxaca,Abejones,93.5726495726
+MX20002,Oaxaca,Acatlán de Pérez Figueroa,59.4122449347
+MX20003,Oaxaca,Asunción Cacalotepec,90.3969869707
+MX20004,Oaxaca,Asunción Cuyotepeji,63.2315498155
+MX20005,Oaxaca,Asunción Ixtaltepec,30.9591630883
+MX20006,Oaxaca,Asunción Nochixtlán,75.8978864516
+MX20007,Oaxaca,Asunción Ocotlán,83.5954391892
+MX20008,Oaxaca,Asunción Tlacolulita,70.4447552448
+MX20009,Oaxaca,Ayotzintepec,94.1594846735
+MX20010,Oaxaca,El Barrio de la Soledad,23.141965892
+MX20011,Oaxaca,Calihualá,83.4387351779
+MX20012,Oaxaca,Candelaria Loxicha,84.6602523373
+MX20013,Oaxaca,Ciénega de Zimatlán,69.4041639128
+MX20014,Oaxaca,Ciudad Ixtepec,30.0455142989
+MX20015,Oaxaca,Coatecas Altas,95.1122760198
+MX20016,Oaxaca,Coicoyán de las Flores,99.3030564856
+MX20017,Oaxaca,La Compañía,85.8950755456
+MX20018,Oaxaca,Concepción Buenavista,75.8998664887
+MX20019,Oaxaca,Concepción Pápalo,93.0838589981
+MX20020,Oaxaca,Constancia del Rosario,78.3394436058
+MX20021,Oaxaca,Cosolapa,56.9123750786
+MX20022,Oaxaca,Cosoltepec,75.8884408602
+MX20023,Oaxaca,Cuilápam de Guerrero,57.4082216143
+MX20024,Oaxaca,Cuyamecalco Villa de Zaragoza,93.7411665732
+MX20025,Oaxaca,Chahuites,63.4655204744
+MX20026,Oaxaca,Chalcatongo de Hidalgo,82.3466274997
+MX20027,Oaxaca,Chiquihuitlán de Benito Juárez,88.747446611
+MX20028,Oaxaca,Heroica Ciudad de Ejutla de Crespo,66.0803749925
+MX20029,Oaxaca,Eloxochitlán de Flores Magón,91.1319662244
+MX20030,Oaxaca,El Espinal,24.3559381179
+MX20031,Oaxaca,Tamazulápam del Espíritu Santo,88.7676752982
+MX20032,Oaxaca,Fresnillo de Trujano,75.3221288515
+MX20033,Oaxaca,Guadalupe Etla,25.1096428571
+MX20034,Oaxaca,Guadalupe de Ramírez,68.2630331754
+MX20035,Oaxaca,Guelatao de Juárez,28.3586956522
+MX20036,Oaxaca,Guevea de Humboldt,80.6476833977
+MX20037,Oaxaca,Mesones Hidalgo,87.1914450867
+MX20038,Oaxaca,Villa Hidalgo,77.2662337662
+MX20039,Oaxaca,Heroica Ciudad de Huajuapan de León,45.4256378203
+MX20040,Oaxaca,Huautepec,97.4696202532
+MX20041,Oaxaca,Huautla de Jiménez,82.0483560236
+MX20042,Oaxaca,Ixtlán de Juárez,74.4190932547
+MX20043,Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,50.8645826431
+MX20044,Oaxaca,Loma Bonita,66.4666867804
+MX20045,Oaxaca,Magdalena Apasco,27.1369863014
+MX20046,Oaxaca,Magdalena Jaltepec,83.4354050279
+MX20047,Oaxaca,Santa Magdalena Jicotlán,67.875
+MX20048,Oaxaca,Magdalena Mixtepec,95.6944644141
+MX20049,Oaxaca,Magdalena Ocotlán,75.6425495263
+MX20050,Oaxaca,Magdalena Peñasco,91.2942329227
+MX20051,Oaxaca,Magdalena Teitipac,94.1411134904
+MX20052,Oaxaca,Magdalena Tequisistlán,60.4878173454
+MX20053,Oaxaca,Magdalena Tlacotepec,33.9788235294
+MX20054,Oaxaca,Magdalena Zahuatlán,84.3894472362
+MX20055,Oaxaca,Mariscala de Juárez,68.053223594
+MX20056,Oaxaca,Mártires de Tacubaya,64.2651195499
+MX20057,Oaxaca,Matías Romero Avendaño,58.8012234199
+MX20058,Oaxaca,Mazatlán Villa de Flores,95.5690952762
+MX20059,Oaxaca,Miahuatlán de Porfirio Díaz,66.0376168681
+MX20060,Oaxaca,Mixistlán de la Reforma,89.2898848684
+MX20061,Oaxaca,Monjas,75.6667838313
+MX20062,Oaxaca,Natividad,46.1393939394
+MX20063,Oaxaca,Nazareno Etla,40.3572796935
+MX20064,Oaxaca,Nejapa de Madero,66.7335188097
+MX20065,Oaxaca,Ixpantepec Nieves,85.5176022835
+MX20066,Oaxaca,Santiago Niltepec,65.4917683517
+MX20067,Oaxaca,Oaxaca de Juárez,33.9726844433
+MX20068,Oaxaca,Ocotlán de Morelos,51.5935264003
+MX20069,Oaxaca,La Pe,89.6509558339
+MX20070,Oaxaca,Pinotepa de Don Luis,83.8921615202
+MX20071,Oaxaca,Pluma Hidalgo,76.928504527
+MX20072,Oaxaca,San José del Progreso,79.2817939271
+MX20073,Oaxaca,Putla Villa de Guerrero,79.6355583726
+MX20074,Oaxaca,Santa Catarina Quioquitani,95.8026607539
+MX20075,Oaxaca,Reforma de Pineda,69.8299188249
+MX20076,Oaxaca,La Reforma,72.9058295964
+MX20077,Oaxaca,Reyes Etla,41.1587633659
+MX20078,Oaxaca,Rojas de Cuauhtémoc,26.4510571652
+MX20079,Oaxaca,Salina Cruz,26.9857719448
+MX20080,Oaxaca,San Agustín Amatengo,73.9792060491
+MX20081,Oaxaca,San Agustín Atenango,71.452972973
+MX20082,Oaxaca,San Agustín Chayuco,77.8550866065
+MX20083,Oaxaca,San Agustín de las Juntas,36.3207947377
+MX20084,Oaxaca,San Agustín Etla,29.5612919012
+MX20085,Oaxaca,San Agustín Loxicha,95.8071993455
+MX20086,Oaxaca,San Agustín Tlacotepec,82.0793140407
+MX20087,Oaxaca,San Agustín Yatareni,76.023104155
+MX20088,Oaxaca,San Andrés Cabecera Nueva,88.9716088328
+MX20089,Oaxaca,San Andrés Dinicuiti,84.7848443843
+MX20090,Oaxaca,San Andrés Huaxpaltepec,76.1541612058
+MX20091,Oaxaca,San Andrés Huayápam,26.9575565912
+MX20092,Oaxaca,San Andrés Ixtlahuaca,54.2280204197
+MX20093,Oaxaca,San Andrés Lagunas,85.0617760618
+MX20094,Oaxaca,San Andrés Nuxiño,95.5503833516
+MX20095,Oaxaca,San Andrés Paxtlán,94.3113718412
+MX20096,Oaxaca,San Andrés Sinaxtla,50.7154362416
+MX20097,Oaxaca,San Andrés Solaga,75.8834608593
+MX20098,Oaxaca,San Andrés Teotilálpam,90.7105263158
+MX20099,Oaxaca,San Andrés Tepetlapa,96.7299465241
+MX20100,Oaxaca,San Andrés Yaá,78.2506393862
+MX20101,Oaxaca,San Andrés Zabache,86.0054495913
+MX20102,Oaxaca,San Andrés Zautla,44.1908469427
+MX20103,Oaxaca,San Antonino Castillo Velasco,71.7658174456
+MX20104,Oaxaca,San Antonino el Alto,89.5534017484
+MX20105,Oaxaca,San Antonino Monte Verde,93.2704807951
+MX20106,Oaxaca,San Antonio Acutla,55.5894308943
+MX20107,Oaxaca,San Antonio de la Cal,49.89749712
+MX20108,Oaxaca,San Antonio Huitepec,88.0485021398
+MX20109,Oaxaca,San Antonio Nanahuatípam,57.7003284072
+MX20110,Oaxaca,San Antonio Sinicahua,96.2686754551
+MX20111,Oaxaca,San Antonio Tepetlapa,93.5602972399
+MX20112,Oaxaca,San Baltazar Chichicápam,85.7299327798
+MX20113,Oaxaca,San Baltazar Loxicha,86.4733118971
+MX20114,Oaxaca,San Baltazar Yatzachi el Bajo,73.04826546
+MX20115,Oaxaca,San Bartolo Coyotepec,37.2624391089
+MX20116,Oaxaca,San Bartolomé Ayautla,97.1836634874
+MX20117,Oaxaca,San Bartolomé Loxicha,80.6877272727
+MX20118,Oaxaca,San Bartolomé Quialana,74.6882898062
+MX20119,Oaxaca,San Bartolomé Yucuañe,84.7045769764
+MX20120,Oaxaca,San Bartolomé Zoogocho,85.1964912281
+MX20121,Oaxaca,San Bartolo Soyaltepec,58.4906937394
+MX20122,Oaxaca,San Bartolo Yautepec,85.8012326656
+MX20123,Oaxaca,San Bernardo Mixtepec,81.776504298
+MX20124,Oaxaca,San Blas Atempa,66.8711312093
+MX20125,Oaxaca,San Carlos Yautepec,91.9761158407
+MX20126,Oaxaca,San Cristóbal Amatlán,93.152372093
+MX20127,Oaxaca,San Cristóbal Amoltepec,95.7211538462
+MX20128,Oaxaca,San Cristóbal Lachirioag,69.6034755134
+MX20129,Oaxaca,San Cristóbal Suchixtlahuaca,64.0574712644
+MX20130,Oaxaca,San Dionisio del Mar,83.149578514
+MX20131,Oaxaca,San Dionisio Ocotepec,93.5152185537
+MX20132,Oaxaca,San Dionisio Ocotlán,50.9115384615
+MX20133,Oaxaca,San Esteban Atatlahuca,93.0557139155
+MX20134,Oaxaca,San Felipe Jalapa de Díaz,96.833460133
+MX20135,Oaxaca,San Felipe Tejalápam,76.7001839362
+MX20136,Oaxaca,San Felipe Usila,91.7217989926
+MX20137,Oaxaca,San Francisco Cahuacuá,93.5339605998
+MX20138,Oaxaca,San Francisco Cajonos,76.3795454545
+MX20139,Oaxaca,San Francisco Chapulapa,96.1865984179
+MX20140,Oaxaca,San Francisco Chindúa,84.3266832918
+MX20141,Oaxaca,San Francisco del Mar,70.8450523865
+MX20142,Oaxaca,San Francisco Huehuetlán,96.2729439809
+MX20143,Oaxaca,San Francisco Ixhuatán,65.7541899441
+MX20144,Oaxaca,San Francisco Jaltepetongo,88.6254901961
+MX20145,Oaxaca,San Francisco Lachigoló,49.1862841423
+MX20146,Oaxaca,San Francisco Logueche,93.8333938294
+MX20147,Oaxaca,San Francisco Nuxaño,84.8148148148
+MX20148,Oaxaca,San Francisco Ozolotepec,90.2086230876
+MX20149,Oaxaca,San Francisco Sola,74.4027286508
+MX20150,Oaxaca,San Francisco Telixtlahuaca,63.0718995647
+MX20151,Oaxaca,San Francisco Teopan,99.2524590164
+MX20152,Oaxaca,San Francisco Tlapancingo,93.3962900506
+MX20153,Oaxaca,San Gabriel Mixtepec,75.4747682801
+MX20154,Oaxaca,San Ildefonso Amatlán,88.9738903394
+MX20155,Oaxaca,San Ildefonso Sola,87.0124045802
+MX20156,Oaxaca,San Ildefonso Villa Alta,57.3690509324
+MX20157,Oaxaca,San Jacinto Amilpas,22.7794726001
+MX20158,Oaxaca,San Jacinto Tlacotepec,79.4547521601
+MX20159,Oaxaca,San Jerónimo Coatlán,91.3979554582
+MX20160,Oaxaca,San Jerónimo Silacayoapilla,65.8377037562
+MX20161,Oaxaca,San Jerónimo Sosola,81.4505169867
+MX20162,Oaxaca,San Jerónimo Taviche,92.0212976721
+MX20163,Oaxaca,San Jerónimo Tecóatl,87.4403908795
+MX20164,Oaxaca,San Jorge Nuchita,88.2912517781
+MX20165,Oaxaca,San José Ayuquila,80.5199754149
+MX20166,Oaxaca,San José Chiltepec,58.1137445328
+MX20167,Oaxaca,San José del Peñasco,76.6954869359
+MX20168,Oaxaca,San José Estancia Grande,61.5239687848
+MX20169,Oaxaca,San José Independencia,91.3262150221
+MX20170,Oaxaca,San José Lachiguiri,96.4080412931
+MX20171,Oaxaca,San José Tenango,96.5636435287
+MX20172,Oaxaca,San Juan Achiutla,75.5371287129
+MX20173,Oaxaca,San Juan Atepec,83.4888888889
+MX20174,Oaxaca,Ánimas Trujano,39.8472316384
+MX20175,Oaxaca,San Juan Bautista Atatlahuca,90.4600431965
+MX20176,Oaxaca,San Juan Bautista Coixtlahuaca,79.0904561135
+MX20177,Oaxaca,San Juan Bautista Cuicatlán,66.5591714534
+MX20178,Oaxaca,San Juan Bautista Guelache,38.8805674192
+MX20179,Oaxaca,San Juan Bautista Jayacatlán,87.0894590846
+MX20180,Oaxaca,San Juan Bautista Lo de Soto,51.7574823944
+MX20181,Oaxaca,San Juan Bautista Suchitepec,77.9616252822
+MX20182,Oaxaca,San Juan Bautista Tlacoatzintepec,93.2464985994
+MX20183,Oaxaca,San Juan Bautista Tlachichilco,84.2841302841
+MX20184,Oaxaca,San Juan Bautista Tuxtepec,53.3672255357
+MX20185,Oaxaca,San Juan Cacahuatepec,70.5107979086
+MX20186,Oaxaca,San Juan Cieneguilla,79.5747572816
+MX20187,Oaxaca,San Juan Coatzóspam,93.5182648402
+MX20188,Oaxaca,San Juan Colorado,85.5321748289
+MX20189,Oaxaca,San Juan Comaltepec,96.4029801325
+MX20190,Oaxaca,San Juan Cotzocón,74.3939375564
+MX20191,Oaxaca,San Juan Chicomezúchil,73.1452702703
+MX20192,Oaxaca,San Juan Chilateca,34.7566489362
+MX20193,Oaxaca,San Juan del Estado,66.6908037654
+MX20194,Oaxaca,San Juan del Río,76.3579335793
+MX20195,Oaxaca,San Juan Diuxi,94.8263757116
+MX20196,Oaxaca,San Juan Evangelista Analco,82.7234567901
+MX20197,Oaxaca,San Juan Guelavía,77.880197105
+MX20198,Oaxaca,San Juan Guichicovi,71.2648358267
+MX20199,Oaxaca,San Juan Ihualtepec,93.532769556
+MX20200,Oaxaca,San Juan Juquila Mixes,82.5251319078
+MX20201,Oaxaca,San Juan Juquila Vijanos,88.9313672922
+MX20202,Oaxaca,San Juan Lachao,73.599865501
+MX20203,Oaxaca,San Juan Lachigalla,91.922705314
+MX20204,Oaxaca,San Juan Lajarcia,82.1022364217
+MX20205,Oaxaca,San Juan Lalana,90.5870805938
+MX20206,Oaxaca,San Juan de los Cués,72.1352253756
+MX20207,Oaxaca,San Juan Mazatlán,80.5995596073
+MX20208,Oaxaca,San Juan Mixtepec - Dto. 08,85.9104126891
+MX20209,Oaxaca,San Juan Mixtepec - Dto. 26,93.8168067227
+MX20210,Oaxaca,San Juan Ñumí,94.6447714136
+MX20211,Oaxaca,San Juan Ozolotepec,93.6441681468
+MX20212,Oaxaca,San Juan Petlapa,93.2324975578
+MX20213,Oaxaca,San Juan Quiahije,81.837737713
+MX20214,Oaxaca,San Juan Quiotepec,85.8385650224
+MX20215,Oaxaca,San Juan Sayultepec,56.3007246377
+MX20216,Oaxaca,San Juan Tabaá,90.4107579462
+MX20217,Oaxaca,San Juan Tamazola,95.092016672
+MX20218,Oaxaca,San Juan Teita,97.0447470817
+MX20219,Oaxaca,San Juan Teitipac,86.7559681698
+MX20220,Oaxaca,San Juan Tepeuxila,92.5384326959
+MX20221,Oaxaca,San Juan Teposcolula,71.6518218623
+MX20222,Oaxaca,San Juan Yaeé,92.3266903915
+MX20223,Oaxaca,San Juan Yatzona,91.9761904762
+MX20224,Oaxaca,San Juan Yucuita,60.5268292683
+MX20225,Oaxaca,San Lorenzo,85.6655272603
+MX20226,Oaxaca,San Lorenzo Albarradas,80.4805858311
+MX20227,Oaxaca,San Lorenzo Cacaotepec,39.8871957546
+MX20228,Oaxaca,San Lorenzo Cuaunecuiltitla,97.1522277228
+MX20229,Oaxaca,San Lorenzo Texmelúcan,97.7992217899
+MX20230,Oaxaca,San Lorenzo Victoria,69.2519167579
+MX20231,Oaxaca,San Lucas Camotlán,98.9851030111
+MX20232,Oaxaca,San Lucas Ojitlán,87.59689672
+MX20233,Oaxaca,San Lucas Quiaviní,84.1996434938
+MX20234,Oaxaca,San Lucas Zoquiápam,96.3596989492
+MX20235,Oaxaca,San Luis Amatlán,81.5055408971
+MX20236,Oaxaca,San Marcial Ozolotepec,92.9406461307
+MX20237,Oaxaca,San Marcos Arteaga,60.4483204134
+MX20238,Oaxaca,San Martín de los Cansecos,77.5498489426
+MX20239,Oaxaca,San Martín Huamelúlpam,75.1746192893
+MX20240,Oaxaca,San Martín Itunyoso,97.5390885513
+MX20241,Oaxaca,San Martín Lachilá,79.8269794721
+MX20242,Oaxaca,San Martín Peras,97.7759441708
+MX20243,Oaxaca,San Martín Tilcajete,51.2745604964
+MX20244,Oaxaca,San Martín Toxpalan,73.3378551318
+MX20245,Oaxaca,San Martín Zacatepec,85.0046583851
+MX20246,Oaxaca,San Mateo Cajonos,88.1258389262
+MX20247,Oaxaca,Capulálpam de Méndez,34.3379174853
+MX20248,Oaxaca,San Mateo del Mar,90.2952549482
+MX20249,Oaxaca,San Mateo Yoloxochitlán,92.4289473684
+MX20250,Oaxaca,San Mateo Etlatongo,71.0341741253
+MX20251,Oaxaca,San Mateo Nejápam,90.5409015025
+MX20252,Oaxaca,San Mateo Peñasco,92.1383026493
+MX20253,Oaxaca,San Mateo Piñas,88.2993503248
+MX20254,Oaxaca,San Mateo Río Hondo,77.8006578947
+MX20255,Oaxaca,San Mateo Sindihui,91.981827622
+MX20256,Oaxaca,San Mateo Tlapiltepec,82.59030837
+MX20257,Oaxaca,San Melchor Betaza,90.3396603397
+MX20258,Oaxaca,San Miguel Achiutla,88.2621502209
+MX20259,Oaxaca,San Miguel Ahuehuetitlán,92.4249530957
+MX20260,Oaxaca,San Miguel Aloápam,87.4136973623
+MX20261,Oaxaca,San Miguel Amatitlán,74.9353429445
+MX20262,Oaxaca,San Miguel Amatlán,75.3360572012
+MX20263,Oaxaca,San Miguel Coatlán,90.1391359593
+MX20264,Oaxaca,San Miguel Chicahua,91.2478176528
+MX20265,Oaxaca,San Miguel Chimalapa,76.8122908427
+MX20266,Oaxaca,San Miguel del Puerto,47.0597104224
+MX20267,Oaxaca,San Miguel del Río,82.8065843621
+MX20268,Oaxaca,San Miguel Ejutla,61.4345549738
+MX20269,Oaxaca,San Miguel el Grande,69.5161290323
+MX20270,Oaxaca,San Miguel Huautla,96.8358585859
+MX20271,Oaxaca,San Miguel Mixtepec,98.6647020301
+MX20272,Oaxaca,San Miguel Panixtlahuaca,96.101756712
+MX20273,Oaxaca,San Miguel Peras,96.7283718431
+MX20274,Oaxaca,San Miguel Piedras,95.001740644
+MX20275,Oaxaca,San Miguel Quetzaltepec,95.8323764179
+MX20276,Oaxaca,San Miguel Santa Flor,93.1950146628
+MX20277,Oaxaca,Villa Sola de Vega,86.4402288943
+MX20278,Oaxaca,San Miguel Soyaltepec,78.1059041798
+MX20279,Oaxaca,San Miguel Suchixtepec,90.2663369834
+MX20280,Oaxaca,Villa Talea de Castro,79.0035443038
+MX20281,Oaxaca,San Miguel Tecomatlán,65.1854304636
+MX20282,Oaxaca,San Miguel Tenango,85.8520801233
+MX20283,Oaxaca,San Miguel Tequixtepec,79.8756027001
+MX20284,Oaxaca,San Miguel Tilquiápam,98.7893376414
+MX20285,Oaxaca,San Miguel Tlacamama,64.3352729288
+MX20286,Oaxaca,San Miguel Tlacotepec,74.2283120377
+MX20287,Oaxaca,San Miguel Tulancingo,69.7166123779
+MX20288,Oaxaca,San Miguel Yotao,97.6333333333
+MX20289,Oaxaca,San Nicolás,81.8687707641
+MX20290,Oaxaca,San Nicolás Hidalgo,65.8021235521
+MX20291,Oaxaca,San Pablo Coatlán,89.0980066445
+MX20292,Oaxaca,San Pablo Cuatro Venados,98.3413959917
+MX20293,Oaxaca,San Pablo Etla,19.4660716289
+MX20294,Oaxaca,San Pablo Huitzo,48.5868880618
+MX20295,Oaxaca,San Pablo Huixtepec,54.8654187432
+MX20296,Oaxaca,San Pablo Macuiltianguis,84.6706521739
+MX20297,Oaxaca,San Pablo Tijaltepec,97.5149031297
+MX20298,Oaxaca,San Pablo Villa de Mitla,71.1561067939
+MX20299,Oaxaca,San Pablo Yaganiza,82.0589301904
+MX20300,Oaxaca,San Pedro Amuzgos,85.5953192808
+MX20301,Oaxaca,San Pedro Apóstol,61.9684343434
+MX20302,Oaxaca,San Pedro Atoyac,93.4935498221
+MX20303,Oaxaca,San Pedro Cajonos,79.9571295433
+MX20304,Oaxaca,San Pedro Coxcaltepec Cántaros,94.934751773
+MX20305,Oaxaca,San Pedro Comitancillo,32.799719888
+MX20306,Oaxaca,San Pedro el Alto,92.7449693788
+MX20307,Oaxaca,San Pedro Huamelula,44.7467811159
+MX20308,Oaxaca,San Pedro Huilotepec,68.2924961715
+MX20309,Oaxaca,San Pedro Ixcatlán,88.898289829
+MX20310,Oaxaca,San Pedro Ixtlahuaca,54.3469444368
+MX20311,Oaxaca,San Pedro Jaltepetongo,96.2256728778
+MX20312,Oaxaca,San Pedro Jicayán,85.2402177538
+MX20313,Oaxaca,San Pedro Jocotipac,89.3656509695
+MX20314,Oaxaca,San Pedro Juchatengo,74.3429561201
+MX20315,Oaxaca,San Pedro Mártir,65.3002695418
+MX20316,Oaxaca,San Pedro Mártir Quiechapa,88.6216596343
+MX20317,Oaxaca,San Pedro Mártir Yucuxaco,85.5713134569
+MX20318,Oaxaca,San Pedro Mixtepec - Dto. 22,51.9945738043
+MX20319,Oaxaca,San Pedro Mixtepec - Dto. 26,91.3870967742
+MX20320,Oaxaca,San Pedro Molinos,85.8223495702
+MX20321,Oaxaca,San Pedro Nopala,95.7860026918
+MX20322,Oaxaca,San Pedro Ocopetatillo,95.8658064516
+MX20323,Oaxaca,San Pedro Ocotepec,92.7797894737
+MX20324,Oaxaca,San Pedro Pochutla,46.7666892921
+MX20325,Oaxaca,San Pedro Quiatoni,96.1319883741
+MX20326,Oaxaca,San Pedro Sochiápam,93.9724512367
+MX20327,Oaxaca,San Pedro Tapanatepec,53.796446204
+MX20328,Oaxaca,San Pedro Taviche,94.9586255259
+MX20329,Oaxaca,San Pedro Teozacoalco,91.590627763
+MX20330,Oaxaca,San Pedro Teutila,93.0354460094
+MX20331,Oaxaca,San Pedro Tidaá,87.2349785408
+MX20332,Oaxaca,San Pedro Topiltepec,80.3188010899
+MX20333,Oaxaca,San Pedro Totolápam,46.7109917877
+MX20334,Oaxaca,Villa de Tututepec de Melchor Ocampo,61.6568248508
+MX20335,Oaxaca,San Pedro Yaneri,93.4519119351
+MX20336,Oaxaca,San Pedro Yólox,85.1654676259
+MX20337,Oaxaca,San Pedro y San Pablo Ayutla,80.1600226715
+MX20338,Oaxaca,Villa de Etla,36.4974036554
+MX20339,Oaxaca,San Pedro y San Pablo Teposcolula,48.7038766931
+MX20340,Oaxaca,San Pedro y San Pablo Tequixtepec,79.8658753709
+MX20341,Oaxaca,San Pedro Yucunama,78.0384615385
+MX20342,Oaxaca,San Raymundo Jalpan,20.357000993
+MX20343,Oaxaca,San Sebastián Abasolo,60.2617483578
+MX20344,Oaxaca,San Sebastián Coatlán,88.4974433893
+MX20345,Oaxaca,San Sebastián Ixcapa,65.1745799854
+MX20346,Oaxaca,San Sebastián Nicananduta,92.2247043364
+MX20347,Oaxaca,San Sebastián Río Hondo,93.5482445372
+MX20348,Oaxaca,San Sebastián Tecomaxtlahuaca,75.1580262336
+MX20349,Oaxaca,San Sebastián Teitipac,52.4594095941
+MX20350,Oaxaca,San Sebastián Tutla,16.8620725999
+MX20351,Oaxaca,San Simón Almolongas,80.5164556962
+MX20352,Oaxaca,San Simón Zahuatlán,99.6466761537
+MX20353,Oaxaca,Santa Ana,83.9047417443
+MX20354,Oaxaca,Santa Ana Ateixtlahuaca,97.2292993631
+MX20355,Oaxaca,Santa Ana Cuauhtémoc,89.5819793205
+MX20356,Oaxaca,Santa Ana del Valle,71.6294746629
+MX20357,Oaxaca,Santa Ana Tavela,80.8660287081
+MX20358,Oaxaca,Santa Ana Tlapacoyan,67.9693983402
+MX20359,Oaxaca,Santa Ana Yareni,91.5955414013
+MX20360,Oaxaca,Santa Ana Zegache,74.8308356617
+MX20361,Oaxaca,Santa Catalina Quierí,94.5577156744
+MX20362,Oaxaca,Santa Catarina Cuixtla,68.8110129164
+MX20363,Oaxaca,Santa Catarina Ixtepeji,77.1976568405
+MX20364,Oaxaca,Santa Catarina Juquila,75.5700267804
+MX20365,Oaxaca,Santa Catarina Lachatao,73.9142040038
+MX20366,Oaxaca,Santa Catarina Loxicha,96.5617728532
+MX20367,Oaxaca,Santa Catarina Mechoacán,92.5399103139
+MX20368,Oaxaca,Santa Catarina Minas,65.1084513923
+MX20369,Oaxaca,Santa Catarina Quiané,43.8442584844
+MX20370,Oaxaca,Santa Catarina Tayata,76.9479326187
+MX20371,Oaxaca,Santa Catarina Ticuá,93.2376963351
+MX20372,Oaxaca,Santa Catarina Yosonotú,90.9265202703
+MX20373,Oaxaca,Santa Catarina Zapoquila,93.7905236908
+MX20374,Oaxaca,Santa Cruz Acatepec,93.946918853
+MX20375,Oaxaca,Santa Cruz Amilpas,36.2879209449
+MX20376,Oaxaca,Santa Cruz de Bravo,75.4593837535
+MX20377,Oaxaca,Santa Cruz Itundujia,88.9023707299
+MX20378,Oaxaca,Santa Cruz Mixtepec,81.0626865672
+MX20379,Oaxaca,Santa Cruz Nundaco,89.8514920194
+MX20380,Oaxaca,Santa Cruz Papalutla,59.0728417266
+MX20381,Oaxaca,Santa Cruz Tacache de Mina,63.9438280166
+MX20382,Oaxaca,Santa Cruz Tacahua,89.2580645161
+MX20383,Oaxaca,Santa Cruz Tayata,89.4087719298
+MX20384,Oaxaca,Santa Cruz Xitla,90.2700127065
+MX20385,Oaxaca,Santa Cruz Xoxocotlán,48.1673889353
+MX20386,Oaxaca,Santa Cruz Zenzontepec,94.6980754676
+MX20387,Oaxaca,Santa Gertrudis,69.3342686777
+MX20388,Oaxaca,Santa Inés del Monte,95.8636529347
+MX20389,Oaxaca,Santa Inés Yatzeche,73.7322222222
+MX20390,Oaxaca,Santa Lucía del Camino,27.1901621098
+MX20391,Oaxaca,Santa Lucía Miahuatlán,98.0909638554
+MX20392,Oaxaca,Santa Lucía Monteverde,95.817121236
+MX20393,Oaxaca,Santa Lucía Ocotlán,89.4987945998
+MX20394,Oaxaca,Santa María Alotepec,79.8779411765
+MX20395,Oaxaca,Santa María Apazco,94.2295396419
+MX20396,Oaxaca,Santa María la Asunción,96.1261402957
+MX20397,Oaxaca,Heroica Ciudad de Tlaxiaco,54.3903178871
+MX20398,Oaxaca,Ayoquezco de Aldama,77.3141039236
+MX20399,Oaxaca,Santa María Atzompa,42.4178949019
+MX20400,Oaxaca,Santa María Camotlán,63.0543283582
+MX20401,Oaxaca,Santa María Colotepec,38.5055629482
+MX20402,Oaxaca,Santa María Cortijo,74.0114176974
+MX20403,Oaxaca,Santa María Coyotepec,53.9372964169
+MX20404,Oaxaca,Santa María Chachoápam,59.7369127517
+MX20405,Oaxaca,Villa de Chilapa de Díaz,61.5598885794
+MX20406,Oaxaca,Santa María Chilchotla,95.5405405405
+MX20407,Oaxaca,Santa María Chimalapa,84.4811390926
+MX20408,Oaxaca,Santa María del Rosario,85.8238866397
+MX20409,Oaxaca,Santa María del Tule,34.1270794824
+MX20410,Oaxaca,Santa María Ecatepec,91.9819113657
+MX20411,Oaxaca,Santa María Guelacé,59.2715231788
+MX20412,Oaxaca,Santa María Guienagati,81.754857513
+MX20413,Oaxaca,Santa María Huatulco,40.0477480666
+MX20414,Oaxaca,Santa María Huazolotitlán,69.3094936174
+MX20415,Oaxaca,Santa María Ipalapa,78.5256008359
+MX20416,Oaxaca,Santa María Ixcatlán,95.9010989011
+MX20417,Oaxaca,Santa María Jacatepec,74.8623203499
+MX20418,Oaxaca,Santa María Jalapa del Marqués,46.0338169751
+MX20419,Oaxaca,Santa María Jaltianguis,75.8203389831
+MX20420,Oaxaca,Santa María Lachixío,94.5209125475
+MX20421,Oaxaca,Santa María Mixtequilla,50.344151601
+MX20422,Oaxaca,Santa María Nativitas,83.5610169492
+MX20423,Oaxaca,Santa María Nduayaco,92.1896162528
+MX20424,Oaxaca,Santa María Ozolotepec,95.7684350133
+MX20425,Oaxaca,Santa María Pápalo,95.9229268293
+MX20426,Oaxaca,Santa María Peñoles,98.3234824281
+MX20427,Oaxaca,Santa María Petapa,58.5442548432
+MX20428,Oaxaca,Santa María Quiegolani,96.6788425047
+MX20429,Oaxaca,Santa María Sola,88.0060281313
+MX20430,Oaxaca,Santa María Tataltepec,82.8417721519
+MX20431,Oaxaca,Santa María Tecomavaca,56.7855168601
+MX20432,Oaxaca,Santa María Temaxcalapa,69.6396807298
+MX20433,Oaxaca,Santa María Temaxcaltepec,91.8045402078
+MX20434,Oaxaca,Santa María Teopoxco,94.4394823649
+MX20435,Oaxaca,Santa María Tepantlali,88.1069035829
+MX20436,Oaxaca,Santa María Texcatitlán,91.2779661017
+MX20437,Oaxaca,Santa María Tlahuitoltepec,90.6788565264
+MX20438,Oaxaca,Santa María Tlalixtac,92.9042189282
+MX20439,Oaxaca,Santa María Tonameca,59.3913874176
+MX20440,Oaxaca,Santa María Totolapilla,77.4323640961
+MX20441,Oaxaca,Santa María Xadani,83.6438006438
+MX20442,Oaxaca,Santa María Yalina,89.8473895582
+MX20443,Oaxaca,Santa María Yavesía,71.6074766355
+MX20444,Oaxaca,Santa María Yolotepec,92.75782881
+MX20445,Oaxaca,Santa María Yosoyúa,89.771497294
+MX20446,Oaxaca,Santa María Yucuhiti,89.3648787154
+MX20447,Oaxaca,Santa María Zacatepec,85.7441484959
+MX20448,Oaxaca,Santa María Zaniza,98.3949201147
+MX20449,Oaxaca,Santa María Zoquitlán,80.5581679389
+MX20450,Oaxaca,Santiago Amoltepec,98.7822859243
+MX20451,Oaxaca,Santiago Apoala,93.678197065
+MX20452,Oaxaca,Santiago Apóstol,91.2183934808
+MX20453,Oaxaca,Santiago Astata,53.8585535095
+MX20454,Oaxaca,Santiago Atitlán,93.2416570771
+MX20455,Oaxaca,Santiago Ayuquililla,86.5189340813
+MX20456,Oaxaca,Santiago Cacaloxtepec,65.5826140567
+MX20457,Oaxaca,Santiago Camotlán,94.3060790274
+MX20458,Oaxaca,Santiago Comaltepec,84.1256637168
+MX20459,Oaxaca,Santiago Chazumba,66.1486599665
+MX20460,Oaxaca,Santiago Choápam,95.5187061574
+MX20461,Oaxaca,Santiago del Río,82.4796116505
+MX20462,Oaxaca,Santiago Huajolotitlán,51.4656471125
+MX20463,Oaxaca,Santiago Huauclilla,89.1333333333
+MX20464,Oaxaca,Santiago Ihuitlán Plumas,92.9230769231
+MX20465,Oaxaca,Santiago Ixcuintepec,95.3821538462
+MX20466,Oaxaca,Santiago Ixtayutla,96.7697794599
+MX20467,Oaxaca,Santiago Jamiltepec,66.2530426507
+MX20468,Oaxaca,Santiago Jocotepec,88.0698311597
+MX20469,Oaxaca,Santiago Juxtlahuaca,82.2645090103
+MX20470,Oaxaca,Santiago Lachiguiri,80.685327735
+MX20471,Oaxaca,Santiago Lalopa,92.6019900498
+MX20472,Oaxaca,Santiago Laollaga,50.6905910736
+MX20473,Oaxaca,Santiago Laxopa,91.6163723917
+MX20474,Oaxaca,Santiago Llano Grande,57.3674265147
+MX20475,Oaxaca,Santiago Matatlán,88.8264172385
+MX20476,Oaxaca,Santiago Miltepec,69.8014705882
+MX20477,Oaxaca,Santiago Minas,81.1344984802
+MX20478,Oaxaca,Santiago Nacaltepec,90.288700196
+MX20479,Oaxaca,Santiago Nejapilla,93.8139534884
+MX20480,Oaxaca,Santiago Nundiche,93.2229007634
+MX20481,Oaxaca,Santiago Nuyoó,89.3002695418
+MX20482,Oaxaca,Santiago Pinotepa Nacional,54.7668620896
+MX20483,Oaxaca,Santiago Suchilquitongo,76.9601413151
+MX20484,Oaxaca,Santiago Tamazola,74.0113584734
+MX20485,Oaxaca,Santiago Tapextla,84.9665584416
+MX20486,Oaxaca,Villa Tejúpam de la Unión,59.8950930626
+MX20487,Oaxaca,Santiago Tenango,86.7958333333
+MX20488,Oaxaca,Santiago Tepetlapa,77.859375
+MX20489,Oaxaca,Santiago Tetepec,84.4838377599
+MX20490,Oaxaca,Santiago Texcalcingo,96.9591492235
+MX20491,Oaxaca,Santiago Textitlán,95.8839872747
+MX20492,Oaxaca,Santiago Tilantongo,95.1906005222
+MX20493,Oaxaca,Santiago Tillo,68.0114068441
+MX20494,Oaxaca,Santiago Tlazoyaltepec,98.5991519896
+MX20495,Oaxaca,Santiago Xanica,94.2900635664
+MX20496,Oaxaca,Santiago Xiacuí,63.5926535088
+MX20497,Oaxaca,Santiago Yaitepec,98.0491038547
+MX20498,Oaxaca,Santiago Yaveo,79.3799511666
+MX20499,Oaxaca,Santiago Yolomécatl,52.1932819383
+MX20500,Oaxaca,Santiago Yosondúa,87.2786210445
+MX20501,Oaxaca,Santiago Yucuyachi,68.3440968718
+MX20502,Oaxaca,Santiago Zacatepec,93.2198770492
+MX20503,Oaxaca,Santiago Zoochila,83.4052132701
+MX20504,Oaxaca,Nuevo Zoquiápam,81.8455647735
+MX20505,Oaxaca,Santo Domingo Ingenio,57.2015411186
+MX20506,Oaxaca,Santo Domingo Albarradas,92.865914787
+MX20507,Oaxaca,Santo Domingo Armenta,87.3935483871
+MX20508,Oaxaca,Santo Domingo Chihuitán,31.5862290862
+MX20509,Oaxaca,Santo Domingo de Morelos,86.147182657
+MX20510,Oaxaca,Santo Domingo Ixcatlán,86.4951989026
+MX20511,Oaxaca,Santo Domingo Nuxaá,97.0509731233
+MX20512,Oaxaca,Santo Domingo Ozolotepec,95.2708142726
+MX20513,Oaxaca,Santo Domingo Petapa,75.9499603759
+MX20514,Oaxaca,Santo Domingo Roayaga,95.307860262
+MX20515,Oaxaca,Santo Domingo Tehuantepec,48.8975127479
+MX20516,Oaxaca,Santo Domingo Teojomulco,86.3699455677
+MX20517,Oaxaca,Santo Domingo Tepuxtepec,90.978462616
+MX20518,Oaxaca,Santo Domingo Tlatayápam,77.6964285714
+MX20519,Oaxaca,Santo Domingo Tomaltepec,69.3820627803
+MX20520,Oaxaca,Santo Domingo Tonalá,56.3711482659
+MX20521,Oaxaca,Santo Domingo Tonaltepec,97.7886178862
+MX20522,Oaxaca,Santo Domingo Xagacía,90.6909547739
+MX20523,Oaxaca,Santo Domingo Yanhuitlán,50.1376858436
+MX20524,Oaxaca,Santo Domingo Yodohino,97.6378205128
+MX20525,Oaxaca,Santo Domingo Zanatepec,58.7477114661
+MX20526,Oaxaca,Santos Reyes Nopala,71.8842073024
+MX20527,Oaxaca,Santos Reyes Pápalo,98.2092555332
+MX20528,Oaxaca,Santos Reyes Tepejillo,87.9347345133
+MX20529,Oaxaca,Santos Reyes Yucuná,97.7988787666
+MX20530,Oaxaca,Santo Tomás Jalieza,70.9820031299
+MX20531,Oaxaca,Santo Tomás Mazaltepec,80.1318129107
+MX20532,Oaxaca,Santo Tomás Ocotepec,96.9496240602
+MX20533,Oaxaca,Santo Tomás Tamazulapan,63.5386056972
+MX20534,Oaxaca,San Vicente Coatlán,95.8692374601
+MX20535,Oaxaca,San Vicente Lachixío,97.0824611481
+MX20536,Oaxaca,San Vicente Nuñú,71.539503386
+MX20537,Oaxaca,Silacayoápam,76.6421323641
+MX20538,Oaxaca,Sitio de Xitlapehua,77.0607344633
+MX20539,Oaxaca,Soledad Etla,50.707356248
+MX20540,Oaxaca,Villa de Tamazulápam del Progreso,59.4304584305
+MX20541,Oaxaca,Tanetze de Zaragoza,81.1287525017
+MX20542,Oaxaca,Taniche,78.8720271801
+MX20543,Oaxaca,Tataltepec de Valdés,94.7397721803
+MX20544,Oaxaca,Teococuilco de Marcos Pérez,87.4956183057
+MX20545,Oaxaca,Teotitlán de Flores Magón,51.3174802536
+MX20546,Oaxaca,Teotitlán del Valle,75.038821106
+MX20547,Oaxaca,Teotongo,60.556122449
+MX20548,Oaxaca,Tepelmeme Villa de Morelos,85.2257217848
+MX20549,Oaxaca,Tezoatlán de Segura y Luna,74.2829675166
+MX20550,Oaxaca,San Jerónimo Tlacochahuaya,54.8622502629
+MX20551,Oaxaca,Tlacolula de Matamoros,40.6827451154
+MX20552,Oaxaca,Tlacotepec Plumas,87.6803069054
+MX20553,Oaxaca,Tlalixtac de Cabrera,44.3062106317
+MX20554,Oaxaca,Totontepec Villa de Morelos,91.3129876886
+MX20555,Oaxaca,Trinidad Zaachila,66.6833827893
+MX20556,Oaxaca,La Trinidad Vista Hermosa,78.6633333333
+MX20557,Oaxaca,Unión Hidalgo,45.154131295
+MX20558,Oaxaca,Valerio Trujano,68.2206744868
+MX20559,Oaxaca,San Juan Bautista Valle Nacional,77.4069670704
+MX20560,Oaxaca,Villa Díaz Ordaz,89.4540346496
+MX20561,Oaxaca,Yaxe,88.223024055
+MX20562,Oaxaca,Magdalena Yodocono de Porfirio Díaz,78.0346715328
+MX20563,Oaxaca,Yogana,84.9698942229
+MX20564,Oaxaca,Yutanduchi de Guerrero,92.7497850387
+MX20565,Oaxaca,Villa de Zaachila,55.2082218985
+MX20566,Oaxaca,San Mateo Yucutindó,90.6070842899
+MX20567,Oaxaca,Zapotitlán Lagunas,79.8946731235
+MX20568,Oaxaca,Zapotitlán Palmas,67.8693558098
+MX20569,Oaxaca,Santa Inés de Zaragoza,87.2926829268
+MX20570,Oaxaca,Zimatlán de Álvarez,62.5888230682
+MX21001,Puebla,Acajete,85.7333472554
+MX21002,Puebla,Acateno,69.2470079787
+MX21003,Puebla,Acatlán,69.7886474589
+MX21004,Puebla,Acatzingo,85.3189103482
+MX21005,Puebla,Acteopan,89.4437810945
+MX21006,Puebla,Ahuacatlán,76.06248622
+MX21007,Puebla,Ahuatlán,83.4030186256
+MX21008,Puebla,Ahuazotepec,62.1120191717
+MX21009,Puebla,Ahuehuetitla,65.4670098269
+MX21010,Puebla,Ajalpan,81.0706395322
+MX21011,Puebla,Albino Zertuche,76.036836403
+MX21012,Puebla,Aljojuca,81.7582837074
+MX21013,Puebla,Altepexi,83.846198791
+MX21014,Puebla,Amixtlán,81.8652064027
+MX21015,Puebla,Amozoc,62.1042802708
+MX21016,Puebla,Aquixtla,72.4573218481
+MX21017,Puebla,Atempan,84.386677154
+MX21018,Puebla,Atexcal,70.6288795371
+MX21019,Puebla,Atlixco,61.3094790199
+MX21020,Puebla,Atoyatempan,89.2180886026
+MX21021,Puebla,Atzala,51.9797434166
+MX21022,Puebla,Atzitzihuacán,85.8782691057
+MX21023,Puebla,Atzitzintla,91.1780375407
+MX21024,Puebla,Axutla,56.3082706767
+MX21025,Puebla,Ayotoxco de Guerrero,76.0307012158
+MX21026,Puebla,Calpan,82.4215624141
+MX21027,Puebla,Caltepec,79.4668460974
+MX21028,Puebla,Camocuautla,90.4859129162
+MX21029,Puebla,Caxhuacan,83.9353813559
+MX21030,Puebla,Coatepec,70.9078947368
+MX21031,Puebla,Coatzingo,79.3774761555
+MX21032,Puebla,Cohetzala,73.3053097345
+MX21033,Puebla,Cohuecan,80.7941847206
+MX21034,Puebla,Coronango,68.7636360278
+MX21035,Puebla,Coxcatlán,78.0957273166
+MX21036,Puebla,Coyomeapan,95.33767128
+MX21037,Puebla,Coyotepec,54.588209607
+MX21038,Puebla,Cuapiaxtla de Madero,83.6925720646
+MX21039,Puebla,Cuautempan,82.0639105458
+MX21040,Puebla,Cuautinchán,78.0007496602
+MX21041,Puebla,Cuautlancingo,35.8936320569
+MX21042,Puebla,Cuayuca de Andrade,77.4462054252
+MX21043,Puebla,Cuetzalan del Progreso,82.4365039645
+MX21044,Puebla,Cuyoaco,71.9365777412
+MX21045,Puebla,Chalchicomula de Sesma,73.1899859604
+MX21046,Puebla,Chapulco,80.1994043926
+MX21047,Puebla,Chiautla,68.0757638375
+MX21048,Puebla,Chiautzingo,77.2803883818
+MX21049,Puebla,Chiconcuautla,92.6063066981
+MX21050,Puebla,Chichiquila,88.7608296579
+MX21051,Puebla,Chietla,67.3696442286
+MX21052,Puebla,Chigmecatitlán,85.7460711332
+MX21053,Puebla,Chignahuapan,70.4106947347
+MX21054,Puebla,Chignautla,76.7818598472
+MX21055,Puebla,Chila,76.1220153784
+MX21056,Puebla,Chila de la Sal,63.4064212999
+MX21057,Puebla,Honey,80.188976378
+MX21058,Puebla,Chilchotla,92.2143814909
+MX21059,Puebla,Chinantla,64.8187725632
+MX21060,Puebla,Domingo Arenas,86.3046945338
+MX21061,Puebla,Eloxochitlán,95.8139436321
+MX21062,Puebla,Epatlán,57.8422041327
+MX21063,Puebla,Esperanza,77.7138747541
+MX21064,Puebla,Francisco Z. Mena,75.1888110292
+MX21065,Puebla,General Felipe Ángeles,85.9782665592
+MX21066,Puebla,Guadalupe,68.1427667984
+MX21067,Puebla,Guadalupe Victoria,77.727386988
+MX21068,Puebla,Hermenegildo Galeana,82.1795503988
+MX21069,Puebla,Huaquechula,74.3589630212
+MX21070,Puebla,Huatlatlauca,81.1732507533
+MX21071,Puebla,Huauchinango,68.4475298632
+MX21072,Puebla,Huehuetla,83.2137198416
+MX21073,Puebla,Huehuetlán el Chico,85.1885895404
+MX21074,Puebla,Huejotzingo,64.3366221858
+MX21075,Puebla,Hueyapan,87.6337337645
+MX21076,Puebla,Hueytamalco,77.4305075494
+MX21077,Puebla,Hueytlalpan,90.361861097
+MX21078,Puebla,Huitzilan de Serdán,91.5031921455
+MX21079,Puebla,Huitziltepec,71.0928895085
+MX21080,Puebla,Atlequizayan,86.9758128469
+MX21081,Puebla,Ixcamilpa de Guerrero,78.0456644433
+MX21082,Puebla,Ixcaquixtla,60.6605813953
+MX21083,Puebla,Ixtacamaxtitlán,74.7433637896
+MX21084,Puebla,Ixtepec,91.2718120805
+MX21085,Puebla,Izúcar de Matamoros,66.2080356323
+MX21086,Puebla,Jalpan,71.556853393
+MX21087,Puebla,Jolalpan,86.2625375964
+MX21088,Puebla,Jonotla,78.6675057208
+MX21089,Puebla,Jopala,81.7475642006
+MX21090,Puebla,Juan C. Bonilla,61.804469306
+MX21091,Puebla,Juan Galindo,59.6948941469
+MX21092,Puebla,Juan N. Méndez,78.8414282972
+MX21093,Puebla,Lafragua,87.0070836675
+MX21094,Puebla,Libres,68.9830759143
+MX21095,Puebla,La Magdalena Tlatlauquitepec,87.3615257048
+MX21096,Puebla,Mazapiltepec de Juárez,67.5247332687
+MX21097,Puebla,Mixtla,56.8683611533
+MX21098,Puebla,Molcaxac,70.5544675643
+MX21099,Puebla,Cañada Morelos,81.849046877
+MX21100,Puebla,Naupan,88.2798491379
+MX21101,Puebla,Nauzontla,74.4383226201
+MX21102,Puebla,Nealtican,83.3894037666
+MX21103,Puebla,Nicolás Bravo,77.3193458809
+MX21104,Puebla,Nopalucan,72.156904538
+MX21105,Puebla,Ocotepec,66.7367688022
+MX21106,Puebla,Ocoyucan,66.4502695252
+MX21107,Puebla,Olintla,89.9937112263
+MX21108,Puebla,Oriental,68.6131062264
+MX21109,Puebla,Pahuatlán,83.2212161005
+MX21110,Puebla,Palmar de Bravo,84.4161855741
+MX21111,Puebla,Pantepec,77.8167246978
+MX21112,Puebla,Petlalcingo,84.2687327061
+MX21113,Puebla,Piaxtla,68.8337370623
+MX21114,Puebla,Puebla,41.4239910487
+MX21115,Puebla,Quecholac,89.9936654167
+MX21116,Puebla,Quimixtlán,85.8395772421
+MX21117,Puebla,Rafael Lara Grajales,63.4103548652
+MX21118,Puebla,Los Reyes de Juárez,87.4960304161
+MX21119,Puebla,San Andrés Cholula,49.7061217958
+MX21120,Puebla,San Antonio Cañada,85.8114558473
+MX21121,Puebla,San Diego la Mesa Tochimiltzingo,79.8003207698
+MX21122,Puebla,San Felipe Teotlalcingo,76.305725556
+MX21123,Puebla,San Felipe Tepatlán,83.8379828326
+MX21124,Puebla,San Gabriel Chilac,84.6896076319
+MX21125,Puebla,San Gregorio Atzompa,53.2816603134
+MX21126,Puebla,San Jerónimo Tecuanipan,78.0313267813
+MX21127,Puebla,San Jerónimo Xayacatlán,59.3889366581
+MX21128,Puebla,San José Chiapa,70.0530663304
+MX21129,Puebla,San José Miahuatlán,85.3723637137
+MX21130,Puebla,San Juan Atenco,67.034202411
+MX21131,Puebla,San Juan Atzompa,83.3668393782
+MX21132,Puebla,San Martín Texmelucan,65.2884217303
+MX21133,Puebla,San Martín Totoltepec,63.3148425787
+MX21134,Puebla,San Matías Tlalancaleca,76.8353642942
+MX21135,Puebla,San Miguel Ixitlán,78.998065764
+MX21136,Puebla,San Miguel Xoxtla,48.1221453114
+MX21137,Puebla,San Nicolás Buenos Aires,85.6996940784
+MX21138,Puebla,San Nicolás de los Ranchos,83.5231518064
+MX21139,Puebla,San Pablo Anicano,70.3462887989
+MX21140,Puebla,San Pedro Cholula,49.4274305771
+MX21141,Puebla,San Pedro Yeloixtlahuaca,63.4005805515
+MX21142,Puebla,San Salvador el Seco,83.5249030574
+MX21143,Puebla,San Salvador el Verde,69.2227929919
+MX21144,Puebla,San Salvador Huixcolotla,83.083660264
+MX21145,Puebla,San Sebastián Tlacotepec,92.8290869666
+MX21146,Puebla,Santa Catarina Tlaltempan,76.9779917469
+MX21147,Puebla,Santa Inés Ahuatempan,80.0457695407
+MX21148,Puebla,Santa Isabel Cholula,81.5744180946
+MX21149,Puebla,Santiago Miahuatlán,73.0153909351
+MX21150,Puebla,Huehuetlán el Grande,79.8174377819
+MX21151,Puebla,Santo Tomás Hueyotlipan,84.5045175683
+MX21152,Puebla,Soltepec,76.622086344
+MX21153,Puebla,Tecali de Herrera,74.1441524445
+MX21154,Puebla,Tecamachalco,69.3439671893
+MX21155,Puebla,Tecomatlán,65.3588915335
+MX21156,Puebla,Tehuacán,57.1530792117
+MX21157,Puebla,Tehuitzingo,75.0368873391
+MX21158,Puebla,Tenampulco,66.1036355408
+MX21159,Puebla,Teopantlán,92.9517910046
+MX21160,Puebla,Teotlalco,67.1698645598
+MX21161,Puebla,Tepanco de López,71.0213958476
+MX21162,Puebla,Tepango de Rodríguez,95.5110402355
+MX21163,Puebla,Tepatlaxco de Hidalgo,83.4383384787
+MX21164,Puebla,Tepeaca,74.0298033443
+MX21165,Puebla,Tepemaxalco,85.6113945578
+MX21166,Puebla,Tepeojuma,78.0653370014
+MX21167,Puebla,Tepetzintla,88.7132921932
+MX21168,Puebla,Tepexco,89.6155858461
+MX21169,Puebla,Tepexi de Rodríguez,68.7188967078
+MX21170,Puebla,Tepeyahualco,76.942110881
+MX21171,Puebla,Tepeyahualco de Cuauhtémoc,73.9657734147
+MX21172,Puebla,Tetela de Ocampo,76.8821798076
+MX21173,Puebla,Teteles de Avila Castillo,55.7433962264
+MX21174,Puebla,Teziutlán,51.1315437584
+MX21175,Puebla,Tianguismanalco,77.8688929978
+MX21176,Puebla,Tilapa,61.4456441198
+MX21177,Puebla,Tlacotepec de Benito Juárez,80.6438478116
+MX21178,Puebla,Tlacuilotepec,83.8722736984
+MX21179,Puebla,Tlachichuca,82.0067265394
+MX21180,Puebla,Tlahuapan,78.0380298759
+MX21181,Puebla,Tlaltenango,72.0539419087
+MX21182,Puebla,Tlanepantla,91.8431187465
+MX21183,Puebla,Tlaola,91.6387579853
+MX21184,Puebla,Tlapacoya,87.0461828464
+MX21185,Puebla,Tlapanalá,74.7578624027
+MX21186,Puebla,Tlatlauquitepec,67.3447880827
+MX21187,Puebla,Tlaxco,76.9126113067
+MX21188,Puebla,Tochimilco,86.9366590361
+MX21189,Puebla,Tochtepec,76.6133962988
+MX21190,Puebla,Totoltepec de Guerrero,70.7338435374
+MX21191,Puebla,Tulcingo,75.7672588023
+MX21192,Puebla,Tuzamapan de Galeana,76.6252563226
+MX21193,Puebla,Tzicatlacoyan,75.7318330989
+MX21194,Puebla,Venustiano Carranza,72.5808695879
+MX21195,Puebla,Vicente Guerrero,93.5066228958
+MX21196,Puebla,Xayacatlán de Bravo,63.9815059445
+MX21197,Puebla,Xicotepec,70.0810812704
+MX21198,Puebla,Xicotlán,82.675990676
+MX21199,Puebla,Xiutetelco,75.058126827
+MX21200,Puebla,Xochiapulco,74.4207683073
+MX21201,Puebla,Xochiltepec,70.9452587496
+MX21202,Puebla,Xochitlán de Vicente Suárez,87.748361469
+MX21203,Puebla,Xochitlán Todos Santos,87.5439041579
+MX21204,Puebla,Yaonáhuac,64.0425504728
+MX21205,Puebla,Yehualtepec,83.2720269349
+MX21206,Puebla,Zacapala,69.6101050749
+MX21207,Puebla,Zacapoaxtla,74.0783300764
+MX21208,Puebla,Zacatlán,73.5407045174
+MX21209,Puebla,Zapotitlán,73.861199858
+MX21210,Puebla,Zapotitlán de Méndez,79.373961719
+MX21211,Puebla,Zaragoza,61.1658708265
+MX21212,Puebla,Zautla,85.5422028885
+MX21213,Puebla,Zihuateutla,78.699101985
+MX21214,Puebla,Zinacatepec,82.538515753
+MX21215,Puebla,Zongozotla,90.3281982585
+MX21216,Puebla,Zoquiapan,78.6399501661
+MX21217,Puebla,Zoquitlán,95.2453094511
+MX22001,Querétaro,Amealco de Bonfil,56.1784380883
+MX22002,Querétaro,Pinal de Amoles,72.1885352309
+MX22003,Querétaro,Arroyo Seco,49.6066137894
+MX22004,Querétaro,Cadereyta de Montes,52.2073989652
+MX22005,Querétaro,Colón,43.813729871
+MX22006,Querétaro,Corregidora,18.4309103071
+MX22007,Querétaro,Ezequiel Montes,52.9990923852
+MX22008,Querétaro,Huimilpan,49.2337477958
+MX22009,Querétaro,Jalpan de Serra,48.2704272425
+MX22010,Querétaro,Landa de Matamoros,59.414646632
+MX22011,Querétaro,El Marqués,34.031155928
+MX22012,Querétaro,Pedro Escobedo,41.6498078998
+MX22013,Querétaro,Peñamiller,56.473650534
+MX22014,Querétaro,Querétaro,24.6573942123
+MX22015,Querétaro,San Joaquín,43.1091043126
+MX22016,Querétaro,San Juan del Río,33.3371007426
+MX22017,Querétaro,Tequisquiapan,48.2001003883
+MX22018,Querétaro,Tolimán,61.6339564648
+MX23001,Quintana Roo,Cozumel,39.5893036075
+MX23002,Quintana Roo,Felipe Carrillo Puerto,81.0752775219
+MX23003,Quintana Roo,Isla Mujeres,50.298710202
+MX23004,Quintana Roo,Othón P. Blanco,43.7812874723
+MX23005,Quintana Roo,Benito Juárez,37.924679779
+MX23006,Quintana Roo,José María Morelos,80.7726933602
+MX23007,Quintana Roo,Lázaro Cárdenas,65.6727021996
+MX23008,Quintana Roo,Solidaridad,37.3416418865
+MX23009,Quintana Roo,Tulum,61.8068279061
+MX23010,Quintana Roo,Bacalar,73.4589589709
+MX23011,Quintana Roo,Puerto Morelos,42.6781745072
+MX24001,San Luis Potosí,Ahualulco,69.075391673
+MX24002,San Luis Potosí,Alaquines,70.8226020138
+MX24003,San Luis Potosí,Aquismón,91.2953379976
+MX24004,San Luis Potosí,Armadillo de los Infante,51.2194558522
+MX24005,San Luis Potosí,Cárdenas,54.3828790942
+MX24006,San Luis Potosí,Catorce,67.8245240881
+MX24007,San Luis Potosí,Cedral,51.6671926595
+MX24008,San Luis Potosí,Cerritos,52.7741233371
+MX24009,San Luis Potosí,Cerro de San Pedro,18.2895705521
+MX24010,San Luis Potosí,Ciudad del Maíz,75.6155487923
+MX24011,San Luis Potosí,Ciudad Fernández,60.0905247093
+MX24012,San Luis Potosí,Tancanhuitz,78.1048174731
+MX24013,San Luis Potosí,Ciudad Valles,43.2512486647
+MX24014,San Luis Potosí,Coxcatlán,81.5698206824
+MX24015,San Luis Potosí,Charcas,47.0409353952
+MX24016,San Luis Potosí,Ebano,59.4670859468
+MX24017,San Luis Potosí,Guadalcázar,72.8847625129
+MX24018,San Luis Potosí,Huehuetlán,72.3427837171
+MX24019,San Luis Potosí,Lagunillas,65.4549187978
+MX24020,San Luis Potosí,Matehuala,37.225631778
+MX24021,San Luis Potosí,Mexquitic de Carmona,54.5721538448
+MX24022,San Luis Potosí,Moctezuma,64.0575125444
+MX24023,San Luis Potosí,Rayón,66.3253798247
+MX24024,San Luis Potosí,Rioverde,56.250196545
+MX24025,San Luis Potosí,Salinas,64.3579126574
+MX24026,San Luis Potosí,San Antonio,90.9298437329
+MX24027,San Luis Potosí,San Ciro de Acosta,63.1010699402
+MX24028,San Luis Potosí,San Luis Potosí,20.3209947053
+MX24029,San Luis Potosí,San Martín Chalchicuautla,84.0804421616
+MX24030,San Luis Potosí,San Nicolás Tolentino,51.3062527521
+MX24031,San Luis Potosí,Santa Catarina,86.1449845227
+MX24032,San Luis Potosí,Santa María del Río,53.4676078154
+MX24033,San Luis Potosí,Santo Domingo,63.8021690304
+MX24034,San Luis Potosí,San Vicente Tancuayalab,77.2589415117
+MX24035,San Luis Potosí,Soledad de Graciano Sánchez,22.609229947
+MX24036,San Luis Potosí,Tamasopo,63.6328290997
+MX24037,San Luis Potosí,Tamazunchale,78.1906235062
+MX24038,San Luis Potosí,Tampacán,77.0701187923
+MX24039,San Luis Potosí,Tampamolón Corona,80.4013556469
+MX24040,San Luis Potosí,Tamuín,61.7441956487
+MX24041,San Luis Potosí,Tanlajás,85.8276012245
+MX24042,San Luis Potosí,Tanquián de Escobedo,75.1916616438
+MX24043,San Luis Potosí,Tierra Nueva,71.2096732026
+MX24044,San Luis Potosí,Vanegas,49.6710703694
+MX24045,San Luis Potosí,Venado,61.922801484
+MX24046,San Luis Potosí,Villa de Arriaga,58.6437491696
+MX24047,San Luis Potosí,Villa de Guadalupe,68.1532072997
+MX24048,San Luis Potosí,Villa de la Paz,30.8445040214
+MX24049,San Luis Potosí,Villa de Ramos,83.8863801972
+MX24050,San Luis Potosí,Villa de Reyes,46.6611894335
+MX24051,San Luis Potosí,Villa Hidalgo,48.7708271432
+MX24052,San Luis Potosí,Villa Juárez,67.3564652877
+MX24053,San Luis Potosí,Axtla de Terrazas,81.0785393302
+MX24054,San Luis Potosí,Xilitla,85.5179874096
+MX24055,San Luis Potosí,Zaragoza,37.0711748103
+MX24056,San Luis Potosí,Villa de Arista,69.5790510442
+MX24057,San Luis Potosí,Matlapa,83.3908691799
+MX24058,San Luis Potosí,El Naranjo,51.343264547
+MX25001,Sinaloa,Ahome,27.7465833719
+MX25002,Sinaloa,Angostura,26.012614934
+MX25003,Sinaloa,Badiraguato,56.7877308679
+MX25004,Sinaloa,Concordia,34.558654409
+MX25005,Sinaloa,Cosalá,51.095283432
+MX25006,Sinaloa,Culiacán,23.0047124707
+MX25007,Sinaloa,Choix,54.1891593939
+MX25008,Sinaloa,Elota,38.181859846
+MX25009,Sinaloa,Escuinapa,44.1236931875
+MX25010,Sinaloa,El Fuerte,41.3777939038
+MX25011,Sinaloa,Guasave,34.9872568705
+MX25012,Sinaloa,Mazatlán,20.9153451079
+MX25013,Sinaloa,Mocorito,37.6483522087
+MX25014,Sinaloa,Rosario,35.4197674444
+MX25015,Sinaloa,Salvador Alvarado,29.4343618372
+MX25016,Sinaloa,San Ignacio,46.9511759557
+MX25017,Sinaloa,Sinaloa,46.4120915068
+MX25018,Sinaloa,Navolato,35.2165912958
+MX26001,Sonora,Aconchi,11.0452380952
+MX26002,Sonora,Agua Prieta,32.8564403998
+MX26003,Sonora,Alamos,49.9798393379
+MX26004,Sonora,Altar,47.4654930338
+MX26005,Sonora,Arivechi,29.6230228471
+MX26006,Sonora,Arizpe,27.5853211009
+MX26007,Sonora,Atil,26.9661290323
+MX26008,Sonora,Bacadéhuachi,49.8733264676
+MX26009,Sonora,Bacanora,28.7165991903
+MX26010,Sonora,Bacerac,40.965918537
+MX26011,Sonora,Bacoachi,41.2555401662
+MX26012,Sonora,Bácum,40.4287272412
+MX26013,Sonora,Banámichi,19.3520408163
+MX26014,Sonora,Baviácora,15.6488817891
+MX26015,Sonora,Bavispe,57.8411867365
+MX26016,Sonora,Benjamín Hill,31.1616839536
+MX26017,Sonora,Caborca,31.3566307307
+MX26018,Sonora,Cajeme,28.948013015
+MX26019,Sonora,Cananea,28.3990654092
+MX26020,Sonora,Carbó,46.2948559671
+MX26021,Sonora,La Colorada,20.3571834185
+MX26022,Sonora,Cucurpe,35.5365269461
+MX26023,Sonora,Cumpas,19.2222421847
+MX26024,Sonora,Divisaderos,33.4549125168
+MX26025,Sonora,Empalme,35.3627771885
+MX26026,Sonora,Etchojoa,57.1488559367
+MX26027,Sonora,Fronteras,26.6302077485
+MX26028,Sonora,Granados,22.5864197531
+MX26029,Sonora,Guaymas,32.4368939717
+MX26030,Sonora,Hermosillo,22.4210124886
+MX26031,Sonora,Huachinera,43.5626072041
+MX26032,Sonora,Huásabas,19.7338618347
+MX26033,Sonora,Huatabampo,50.9882490581
+MX26034,Sonora,Huépac,9.7486338798
+MX26035,Sonora,Imuris,36.4798449167
+MX26036,Sonora,Magdalena,28.6675724071
+MX26037,Sonora,Mazatán,30.191627907
+MX26038,Sonora,Moctezuma,22.041210432
+MX26039,Sonora,Naco,47.835382639
+MX26040,Sonora,Nácori Chico,56.0565912117
+MX26041,Sonora,Nacozari de García,18.2794144396
+MX26042,Sonora,Navojoa,38.8855472942
+MX26043,Sonora,Nogales,29.4999500537
+MX26044,Sonora,Ónavas,24.5697674419
+MX26045,Sonora,Opodepe,35.7646559048
+MX26046,Sonora,Oquitoa,23.6398390342
+MX26047,Sonora,Pitiquito,29.401934323
+MX26048,Sonora,Puerto Peñasco,36.3948799636
+MX26049,Sonora,Quiriego,54.9433895921
+MX26050,Sonora,Rayón,38.3385989011
+MX26051,Sonora,Rosario,38.7060567556
+MX26052,Sonora,Sahuaripa,38.5697053589
+MX26053,Sonora,San Felipe de Jesús,16.7907608696
+MX26054,Sonora,San Javier,23.2602996255
+MX26055,Sonora,San Luis Río Colorado,41.3887599971
+MX26056,Sonora,San Miguel de Horcasitas,59.6611686918
+MX26057,Sonora,San Pedro de la Cueva,35.2087912088
+MX26058,Sonora,Santa Ana,27.274430663
+MX26059,Sonora,Santa Cruz,35.4274580336
+MX26060,Sonora,Sáric,46.1963284039
+MX26061,Sonora,Soyopa,18.5163934426
+MX26062,Sonora,Suaqui Grande,25.3134057971
+MX26063,Sonora,Tepache,31.5319693095
+MX26064,Sonora,Trincheras,30.0997782705
+MX26065,Sonora,Tubutama,34.6761442441
+MX26066,Sonora,Ures,20.8680488974
+MX26067,Sonora,Villa Hidalgo,23.4939759036
+MX26068,Sonora,Villa Pesqueira,24.0518590998
+MX26069,Sonora,Yécora,74.8396065013
+MX26070,Sonora,General Plutarco Elías Calles,45.5457747107
+MX26071,Sonora,Benito Juárez,49.4031767429
+MX26072,Sonora,San Ignacio Río Muerto,57.177877313
+MX27001,Tabasco,Balancán,61.8043762828
+MX27002,Tabasco,Cárdenas,56.0826447581
+MX27003,Tabasco,Centla,76.7861351222
+MX27004,Tabasco,Centro,35.8057118373
+MX27005,Tabasco,Comalcalco,54.9301723998
+MX27006,Tabasco,Cunduacán,60.3365731188
+MX27007,Tabasco,Emiliano Zapata,56.2467358795
+MX27008,Tabasco,Huimanguillo,62.0935121122
+MX27009,Tabasco,Jalapa,51.81887552
+MX27010,Tabasco,Jalpa de Méndez,57.6954172605
+MX27011,Tabasco,Jonuta,65.4156862554
+MX27012,Tabasco,Macuspana,69.3152962692
+MX27013,Tabasco,Nacajuca,48.2258970698
+MX27014,Tabasco,Paraíso,50.2008256641
+MX27015,Tabasco,Tacotalpa,62.4278576971
+MX27016,Tabasco,Teapa,52.92336686
+MX27017,Tabasco,Tenosique,54.0686874263
+MX28001,Tamaulipas,Abasolo,56.1387826806
+MX28002,Tamaulipas,Aldama,52.5896990845
+MX28003,Tamaulipas,Altamira,42.1430865215
+MX28004,Tamaulipas,Antiguo Morelos,50.1007087334
+MX28005,Tamaulipas,Burgos,47.6551465064
+MX28006,Tamaulipas,Bustamante,75.5019486628
+MX28007,Tamaulipas,Camargo,40.9646382098
+MX28008,Tamaulipas,Casas,58.264887571
+MX28009,Tamaulipas,Ciudad Madero,23.3546220279
+MX28010,Tamaulipas,Cruillas,53.7282392027
+MX28011,Tamaulipas,Gómez Farías,46.1100691017
+MX28012,Tamaulipas,González,61.3050320314
+MX28013,Tamaulipas,Güémez,52.428597992
+MX28014,Tamaulipas,Guerrero,31.4741239892
+MX28015,Tamaulipas,Gustavo Díaz Ordaz,45.7629661218
+MX28016,Tamaulipas,Hidalgo,69.7838957506
+MX28017,Tamaulipas,Jaumave,60.6866032503
+MX28018,Tamaulipas,Jiménez,60.4939443535
+MX28019,Tamaulipas,Llera,54.9088759377
+MX28020,Tamaulipas,Mainero,57.0004992511
+MX28021,Tamaulipas,El Mante,39.6504693149
+MX28022,Tamaulipas,Matamoros,34.612843795
+MX28023,Tamaulipas,Méndez,42.2876842606
+MX28024,Tamaulipas,Mier,34.2692555591
+MX28025,Tamaulipas,Miguel Alemán,39.1161487307
+MX28026,Tamaulipas,Miquihuana,81.3437586493
+MX28027,Tamaulipas,Nuevo Laredo,33.5699040069
+MX28028,Tamaulipas,Nuevo Morelos,60.1973474801
+MX28029,Tamaulipas,Ocampo,56.6114641147
+MX28030,Tamaulipas,Padilla,56.0500210084
+MX28031,Tamaulipas,Palmillas,54.8744635193
+MX28032,Tamaulipas,Reynosa,27.8662861396
+MX28033,Tamaulipas,Río Bravo,45.7058683944
+MX28034,Tamaulipas,San Carlos,72.098240266
+MX28035,Tamaulipas,San Fernando,59.1994107516
+MX28036,Tamaulipas,San Nicolás,82.8862612613
+MX28037,Tamaulipas,Soto la Marina,51.862370322
+MX28038,Tamaulipas,Tampico,28.7663191512
+MX28039,Tamaulipas,Tula,62.3868524784
+MX28040,Tamaulipas,Valle Hermoso,46.6882153614
+MX28041,Tamaulipas,Victoria,33.3534131761
+MX28042,Tamaulipas,Villagrán,57.4629984663
+MX28043,Tamaulipas,Xicoténcatl,28.0087752132
+MX29001,Tlaxcala,Amaxac de Guerrero,48.8567108107
+MX29002,Tlaxcala,Apetatitlán de Antonio Carvajal,42.7840371374
+MX29003,Tlaxcala,Atlangatepec,58.2440785673
+MX29004,Tlaxcala,Atltzayanca,73.4655463332
+MX29005,Tlaxcala,Apizaco,44.1998121302
+MX29006,Tlaxcala,Calpulalpan,59.8696645131
+MX29007,Tlaxcala,El Carmen Tequexquitla,87.8457376176
+MX29008,Tlaxcala,Cuapiaxtla,75.300416424
+MX29009,Tlaxcala,Cuaxomulco,55.4579276773
+MX29010,Tlaxcala,Chiautempan,58.1867257376
+MX29011,Tlaxcala,Muñoz de Domingo Arenas,43.6638942205
+MX29012,Tlaxcala,Españita,69.3656765677
+MX29013,Tlaxcala,Huamantla,63.8899675201
+MX29014,Tlaxcala,Hueyotlipan,76.6350461588
+MX29015,Tlaxcala,Ixtacuixtla de Mariano Matamoros,55.7527588918
+MX29016,Tlaxcala,Ixtenco,68.2286255411
+MX29017,Tlaxcala,Mazatecochco de José María Morelos,90.4066475941
+MX29018,Tlaxcala,Contla de Juan Cuamatzi,64.7856034715
+MX29019,Tlaxcala,Tepetitla de Lardizábal,72.0633680669
+MX29020,Tlaxcala,Sanctórum de Lázaro Cárdenas,81.3064828774
+MX29021,Tlaxcala,Nanacamilpa de Mariano Arista,67.9354977894
+MX29022,Tlaxcala,Acuamanala de Miguel Hidalgo,40.4581597222
+MX29023,Tlaxcala,Natívitas,61.8774689796
+MX29024,Tlaxcala,Panotla,44.2696299731
+MX29025,Tlaxcala,San Pablo del Monte,73.8151386828
+MX29026,Tlaxcala,Santa Cruz Tlaxcala,48.225151089
+MX29027,Tlaxcala,Tenancingo,76.3055009882
+MX29028,Tlaxcala,Teolocholco,63.1285914573
+MX29029,Tlaxcala,Tepeyanco,47.2940578049
+MX29030,Tlaxcala,Terrenate,73.6977044623
+MX29031,Tlaxcala,Tetla de la Solidaridad,53.3907156614
+MX29032,Tlaxcala,Tetlatlahuca,52.4838564658
+MX29033,Tlaxcala,Tlaxcala,25.0366667989
+MX29034,Tlaxcala,Tlaxco,67.5362082009
+MX29035,Tlaxcala,Tocatlán,71.6810512654
+MX29036,Tlaxcala,Totolac,42.1176826666
+MX29037,Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,78.7302936631
+MX29038,Tlaxcala,Tzompantepec,47.2839073572
+MX29039,Tlaxcala,Xaloztoc,65.8434671359
+MX29040,Tlaxcala,Xaltocan,55.8667012301
+MX29041,Tlaxcala,Papalotla de Xicohténcatl,64.5813739768
+MX29042,Tlaxcala,Xicohtzinco,51.1516126281
+MX29043,Tlaxcala,Yauhquemehcan,48.979743607
+MX29044,Tlaxcala,Zacatelco,57.7313913456
+MX29045,Tlaxcala,Benito Juárez,80.6839108508
+MX29046,Tlaxcala,Emiliano Zapata,83.6885714286
+MX29047,Tlaxcala,Lázaro Cárdenas,75.9145523476
+MX29048,Tlaxcala,La Magdalena Tlaltelulco,
+MX29049,Tlaxcala,San Damián Texóloc,56.5933274802
+MX29050,Tlaxcala,San Francisco Tetlanohcan,67.3761027509
+MX29051,Tlaxcala,San Jerónimo Zacualpan,53.5945267386
+MX29052,Tlaxcala,San José Teacalco,81.0387363074
+MX29053,Tlaxcala,San Juan Huactzinco,64.9245004694
+MX29054,Tlaxcala,San Lorenzo Axocomanitla,53.6348079374
+MX29055,Tlaxcala,San Lucas Tecopilco,75.2210456651
+MX29056,Tlaxcala,Santa Ana Nopalucan,69.9657480315
+MX29057,Tlaxcala,Santa Apolonia Teacalco,62.8545821197
+MX29058,Tlaxcala,Santa Catarina Ayometla,61.3614926988
+MX29059,Tlaxcala,Santa Cruz Quilehtla,72.689830282
+MX29060,Tlaxcala,Santa Isabel Xiloxoxtla,60.8054511278
+MX30001,Veracruz de Ignacio de la Llave,Acajete,72.7663140253
+MX30002,Veracruz de Ignacio de la Llave,Acatlán,77.5405325444
+MX30003,Veracruz de Ignacio de la Llave,Acayucan,63.0639518223
+MX30004,Veracruz de Ignacio de la Llave,Actopan,50.95430871
+MX30005,Veracruz de Ignacio de la Llave,Acula,57.4701071081
+MX30006,Veracruz de Ignacio de la Llave,Acultzingo,81.2181343551
+MX30007,Veracruz de Ignacio de la Llave,Camarón de Tejeda,56.4029666255
+MX30008,Veracruz de Ignacio de la Llave,Alpatláhuac,82.5626725083
+MX30009,Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios,63.145499388
+MX30010,Veracruz de Ignacio de la Llave,Altotonga,87.2423971919
+MX30011,Veracruz de Ignacio de la Llave,Alvarado,30.0172316721
+MX30012,Veracruz de Ignacio de la Llave,Amatitlán,43.1569131833
+MX30013,Veracruz de Ignacio de la Llave,Naranjos Amatlán,48.7305771871
+MX30014,Veracruz de Ignacio de la Llave,Amatlán de los Reyes,55.4731103654
+MX30015,Veracruz de Ignacio de la Llave,Angel R. Cabada,59.7328882325
+MX30016,Veracruz de Ignacio de la Llave,La Antigua,43.9125059494
+MX30017,Veracruz de Ignacio de la Llave,Apazapan,45.061237785
+MX30018,Veracruz de Ignacio de la Llave,Aquila,91.1204323212
+MX30019,Veracruz de Ignacio de la Llave,Astacinga,93.6630132983
+MX30020,Veracruz de Ignacio de la Llave,Atlahuilco,94.59628423
+MX30021,Veracruz de Ignacio de la Llave,Atoyac,58.871338001
+MX30022,Veracruz de Ignacio de la Llave,Atzacan,81.9041919545
+MX30023,Veracruz de Ignacio de la Llave,Atzalan,73.0327163839
+MX30024,Veracruz de Ignacio de la Llave,Tlaltetela,80.2168545242
+MX30025,Veracruz de Ignacio de la Llave,Ayahualulco,95.9078301445
+MX30026,Veracruz de Ignacio de la Llave,Banderilla,46.1366149029
+MX30027,Veracruz de Ignacio de la Llave,Benito Juárez,81.8291186148
+MX30028,Veracruz de Ignacio de la Llave,Boca del Río,35.0694762599
+MX30029,Veracruz de Ignacio de la Llave,Calcahualco,92.7117475073
+MX30030,Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,63.1801222465
+MX30031,Veracruz de Ignacio de la Llave,Carrillo Puerto,75.2364513583
+MX30032,Veracruz de Ignacio de la Llave,Catemaco,81.5282668106
+MX30033,Veracruz de Ignacio de la Llave,Cazones de Herrera,76.8682277167
+MX30034,Veracruz de Ignacio de la Llave,Cerro Azul,57.2633101156
+MX30035,Veracruz de Ignacio de la Llave,Citlaltépetl,83.6754683952
+MX30036,Veracruz de Ignacio de la Llave,Coacoatzintla,84.3518998369
+MX30037,Veracruz de Ignacio de la Llave,Coahuitlán,93.7531269741
+MX30038,Veracruz de Ignacio de la Llave,Coatepec,52.9802448206
+MX30039,Veracruz de Ignacio de la Llave,Coatzacoalcos,43.4889006442
+MX30040,Veracruz de Ignacio de la Llave,Coatzintla,46.5036559165
+MX30041,Veracruz de Ignacio de la Llave,Coetzala,72.0130548303
+MX30042,Veracruz de Ignacio de la Llave,Colipa,67.6835847382
+MX30043,Veracruz de Ignacio de la Llave,Comapa,88.349727344
+MX30044,Veracruz de Ignacio de la Llave,Córdoba,47.3591430385
+MX30045,Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,47.526116153
+MX30046,Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,80.8097798085
+MX30047,Veracruz de Ignacio de la Llave,Coscomatepec,89.0838378726
+MX30048,Veracruz de Ignacio de la Llave,Cosoleacaque,53.2192343239
+MX30049,Veracruz de Ignacio de la Llave,Cotaxtla,52.3649460851
+MX30050,Veracruz de Ignacio de la Llave,Coxquihui,86.9286350871
+MX30051,Veracruz de Ignacio de la Llave,Coyutla,83.9372977624
+MX30052,Veracruz de Ignacio de la Llave,Cuichapa,64.2811665218
+MX30053,Veracruz de Ignacio de la Llave,Cuitláhuac,54.6390391884
+MX30054,Veracruz de Ignacio de la Llave,Chacaltianguis,57.2267483203
+MX30055,Veracruz de Ignacio de la Llave,Chalma,67.76908145
+MX30056,Veracruz de Ignacio de la Llave,Chiconamel,73.5397560599
+MX30057,Veracruz de Ignacio de la Llave,Chiconquiaco,94.0833578034
+MX30058,Veracruz de Ignacio de la Llave,Chicontepec,73.1876666293
+MX30059,Veracruz de Ignacio de la Llave,Chinameca,63.0343082756
+MX30060,Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,73.3940247504
+MX30061,Veracruz de Ignacio de la Llave,Las Choapas,74.0041398945
+MX30062,Veracruz de Ignacio de la Llave,Chocamán,78.3012893467
+MX30063,Veracruz de Ignacio de la Llave,Chontla,68.429460827
+MX30064,Veracruz de Ignacio de la Llave,Chumatlán,88.2425617751
+MX30065,Veracruz de Ignacio de la Llave,Emiliano Zapata,39.4849899894
+MX30066,Veracruz de Ignacio de la Llave,Espinal,77.7248059241
+MX30067,Veracruz de Ignacio de la Llave,Filomeno Mata,94.8501924117
+MX30068,Veracruz de Ignacio de la Llave,Fortín,50.8754591329
+MX30069,Veracruz de Ignacio de la Llave,Gutiérrez Zamora,57.7861536353
+MX30070,Veracruz de Ignacio de la Llave,Hidalgotitlán,75.3163083667
+MX30071,Veracruz de Ignacio de la Llave,Huatusco,68.30923729
+MX30072,Veracruz de Ignacio de la Llave,Huayacocotla,78.2841505551
+MX30073,Veracruz de Ignacio de la Llave,Hueyapan de Ocampo,77.0588704238
+MX30074,Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,55.0351024993
+MX30075,Veracruz de Ignacio de la Llave,Ignacio de la Llave,70.4843658524
+MX30076,Veracruz de Ignacio de la Llave,Ilamatlán,91.7375709421
+MX30077,Veracruz de Ignacio de la Llave,Isla,65.5081316549
+MX30078,Veracruz de Ignacio de la Llave,Ixcatepec,79.0803871684
+MX30079,Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,89.2802822773
+MX30080,Veracruz de Ignacio de la Llave,Ixhuatlán del Café,85.6974739543
+MX30081,Veracruz de Ignacio de la Llave,Ixhuatlancillo,64.243364877
+MX30082,Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,57.998681658
+MX30083,Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,86.4751045849
+MX30084,Veracruz de Ignacio de la Llave,Ixmatlahuacan,48.4307664167
+MX30085,Veracruz de Ignacio de la Llave,Ixtaczoquitlán,52.7898240493
+MX30086,Veracruz de Ignacio de la Llave,Jalacingo,81.4586238644
+MX30087,Veracruz de Ignacio de la Llave,Xalapa,38.2822275542
+MX30088,Veracruz de Ignacio de la Llave,Jalcomulco,71.9833700661
+MX30089,Veracruz de Ignacio de la Llave,Jáltipan,64.647412226
+MX30090,Veracruz de Ignacio de la Llave,Jamapa,55.1505385736
+MX30091,Veracruz de Ignacio de la Llave,Jesús Carranza,73.9666908626
+MX30092,Veracruz de Ignacio de la Llave,Xico,76.7564342418
+MX30093,Veracruz de Ignacio de la Llave,Jilotepec,62.9730530231
+MX30094,Veracruz de Ignacio de la Llave,Juan Rodríguez Clara,67.0259076643
+MX30095,Veracruz de Ignacio de la Llave,Juchique de Ferrer,72.5271418299
+MX30096,Veracruz de Ignacio de la Llave,Landero y Coss,76.8093306288
+MX30097,Veracruz de Ignacio de la Llave,Lerdo de Tejada,51.5839809669
+MX30098,Veracruz de Ignacio de la Llave,Magdalena,88.7193638915
+MX30099,Veracruz de Ignacio de la Llave,Maltrata,84.2882796931
+MX30100,Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,56.122404349
+MX30101,Veracruz de Ignacio de la Llave,Mariano Escobedo,78.6015568784
+MX30102,Veracruz de Ignacio de la Llave,Martínez de la Torre,55.4964878823
+MX30103,Veracruz de Ignacio de la Llave,Mecatlán,94.6620030037
+MX30104,Veracruz de Ignacio de la Llave,Mecayapan,83.0565667619
+MX30105,Veracruz de Ignacio de la Llave,Medellín,39.7761523067
+MX30106,Veracruz de Ignacio de la Llave,Miahuatlán,89.7513885803
+MX30107,Veracruz de Ignacio de la Llave,Las Minas,88.1064926142
+MX30108,Veracruz de Ignacio de la Llave,Minatitlán,43.8822013819
+MX30109,Veracruz de Ignacio de la Llave,Misantla,60.7583170792
+MX30110,Veracruz de Ignacio de la Llave,Mixtla de Altamirano,93.9809166667
+MX30111,Veracruz de Ignacio de la Llave,Moloacán,59.6197215291
+MX30112,Veracruz de Ignacio de la Llave,Naolinco,67.8505331567
+MX30113,Veracruz de Ignacio de la Llave,Naranjal,72.1012235818
+MX30114,Veracruz de Ignacio de la Llave,Nautla,48.2362235388
+MX30115,Veracruz de Ignacio de la Llave,Nogales,68.3424661533
+MX30116,Veracruz de Ignacio de la Llave,Oluta,71.2956986443
+MX30117,Veracruz de Ignacio de la Llave,Omealca,68.5815922895
+MX30118,Veracruz de Ignacio de la Llave,Orizaba,32.1786949409
+MX30119,Veracruz de Ignacio de la Llave,Otatitlán,66.2607284529
+MX30120,Veracruz de Ignacio de la Llave,Oteapan,76.1537514699
+MX30121,Veracruz de Ignacio de la Llave,Ozuluama de Mascareñas,44.6475003631
+MX30122,Veracruz de Ignacio de la Llave,Pajapan,85.8176327093
+MX30123,Veracruz de Ignacio de la Llave,Pánuco,48.8666455265
+MX30124,Veracruz de Ignacio de la Llave,Papantla,69.6705233367
+MX30125,Veracruz de Ignacio de la Llave,Paso del Macho,57.1725197425
+MX30126,Veracruz de Ignacio de la Llave,Paso de Ovejas,52.130730463
+MX30127,Veracruz de Ignacio de la Llave,La Perla,95.2508351593
+MX30128,Veracruz de Ignacio de la Llave,Perote,73.5188705942
+MX30129,Veracruz de Ignacio de la Llave,Platón Sánchez,71.7127975514
+MX30130,Veracruz de Ignacio de la Llave,Playa Vicente,72.2115576167
+MX30131,Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,49.8301619809
+MX30132,Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,83.0186044211
+MX30133,Veracruz de Ignacio de la Llave,Pueblo Viejo,55.1218470659
+MX30134,Veracruz de Ignacio de la Llave,Puente Nacional,54.2472109149
+MX30135,Veracruz de Ignacio de la Llave,Rafael Delgado,79.2170053749
+MX30136,Veracruz de Ignacio de la Llave,Rafael Lucio,64.4431415659
+MX30137,Veracruz de Ignacio de la Llave,Los Reyes,93.8968228498
+MX30138,Veracruz de Ignacio de la Llave,Río Blanco,43.6984240741
+MX30139,Veracruz de Ignacio de la Llave,Saltabarranca,54.1004983389
+MX30140,Veracruz de Ignacio de la Llave,San Andrés Tenejapan,86.2105263158
+MX30141,Veracruz de Ignacio de la Llave,San Andrés Tuxtla,79.3478558707
+MX30142,Veracruz de Ignacio de la Llave,San Juan Evangelista,69.0500188186
+MX30143,Veracruz de Ignacio de la Llave,Santiago Tuxtla,75.5463021733
+MX30144,Veracruz de Ignacio de la Llave,Sayula de Alemán,78.4482675509
+MX30145,Veracruz de Ignacio de la Llave,Soconusco,68.1775395144
+MX30146,Veracruz de Ignacio de la Llave,Sochiapa,76.4956049638
+MX30147,Veracruz de Ignacio de la Llave,Soledad Atzompa,96.1861719788
+MX30148,Veracruz de Ignacio de la Llave,Soledad de Doblado,67.7069615793
+MX30149,Veracruz de Ignacio de la Llave,Soteapan,90.7659519035
+MX30150,Veracruz de Ignacio de la Llave,Tamalín,72.2329598661
+MX30151,Veracruz de Ignacio de la Llave,Tamiahua,62.7441679634
+MX30152,Veracruz de Ignacio de la Llave,Tampico Alto,54.184044147
+MX30153,Veracruz de Ignacio de la Llave,Tancoco,64.0777211183
+MX30154,Veracruz de Ignacio de la Llave,Tantima,73.8831790449
+MX30155,Veracruz de Ignacio de la Llave,Tantoyuca,78.6607876064
+MX30156,Veracruz de Ignacio de la Llave,Tatatila,87.960640427
+MX30157,Veracruz de Ignacio de la Llave,Castillo de Teayo,69.0351645
+MX30158,Veracruz de Ignacio de la Llave,Tecolutla,66.0071908829
+MX30159,Veracruz de Ignacio de la Llave,Tehuipango,97.1235367029
+MX30160,Veracruz de Ignacio de la Llave,Álamo Temapache,63.4404125268
+MX30161,Veracruz de Ignacio de la Llave,Tempoal,69.9915159096
+MX30162,Veracruz de Ignacio de la Llave,Tenampa,81.512084118
+MX30163,Veracruz de Ignacio de la Llave,Tenochtitlán,81.2115965371
+MX30164,Veracruz de Ignacio de la Llave,Teocelo,71.1840948332
+MX30165,Veracruz de Ignacio de la Llave,Tepatlaxco,76.6105894332
+MX30166,Veracruz de Ignacio de la Llave,Tepetlán,70.8438577586
+MX30167,Veracruz de Ignacio de la Llave,Tepetzintla,80.859209579
+MX30168,Veracruz de Ignacio de la Llave,Tequila,89.9680129442
+MX30169,Veracruz de Ignacio de la Llave,José Azueta,62.0402102987
+MX30170,Veracruz de Ignacio de la Llave,Texcatepec,93.1616446072
+MX30171,Veracruz de Ignacio de la Llave,Texhuacán,86.8731751825
+MX30172,Veracruz de Ignacio de la Llave,Texistepec,77.7111124612
+MX30173,Veracruz de Ignacio de la Llave,Tezonapa,75.1864438142
+MX30174,Veracruz de Ignacio de la Llave,Tierra Blanca,53.8622800486
+MX30175,Veracruz de Ignacio de la Llave,Tihuatlán,68.7251036457
+MX30176,Veracruz de Ignacio de la Llave,Tlacojalpan,68.2195682131
+MX30177,Veracruz de Ignacio de la Llave,Tlacolulan,82.2180092517
+MX30178,Veracruz de Ignacio de la Llave,Tlacotalpan,59.8666156719
+MX30179,Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,78.0701045627
+MX30180,Veracruz de Ignacio de la Llave,Tlachichilco,85.3407711698
+MX30181,Veracruz de Ignacio de la Llave,Tlalixcoyan,52.6168997102
+MX30182,Veracruz de Ignacio de la Llave,Tlalnelhuayocan,69.5904542051
+MX30183,Veracruz de Ignacio de la Llave,Tlapacoyan,70.6094628732
+MX30184,Veracruz de Ignacio de la Llave,Tlaquilpa,93.9053209136
+MX30185,Veracruz de Ignacio de la Llave,Tlilapan,77.1472925522
+MX30186,Veracruz de Ignacio de la Llave,Tomatlán,66.2324567571
+MX30187,Veracruz de Ignacio de la Llave,Tonayán,91.6456228956
+MX30188,Veracruz de Ignacio de la Llave,Totutla,83.7657811838
+MX30189,Veracruz de Ignacio de la Llave,Tuxpan,45.2559516434
+MX30190,Veracruz de Ignacio de la Llave,Tuxtilla,41.8399642378
+MX30191,Veracruz de Ignacio de la Llave,Ursulo Galván,39.3603499809
+MX30192,Veracruz de Ignacio de la Llave,Vega de Alatorre,62.4296400019
+MX30193,Veracruz de Ignacio de la Llave,Veracruz,40.9897468701
+MX30194,Veracruz de Ignacio de la Llave,Villa Aldama,85.9039728387
+MX30195,Veracruz de Ignacio de la Llave,Xoxocotla,93.8865748709
+MX30196,Veracruz de Ignacio de la Llave,Yanga,51.67365741
+MX30197,Veracruz de Ignacio de la Llave,Yecuatla,74.0048497123
+MX30198,Veracruz de Ignacio de la Llave,Zacualpan,80.9754555037
+MX30199,Veracruz de Ignacio de la Llave,Zaragoza,84.1437365265
+MX30200,Veracruz de Ignacio de la Llave,Zentla,63.6009736775
+MX30201,Veracruz de Ignacio de la Llave,Zongolica,86.0479487523
+MX30202,Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,91.8566560022
+MX30203,Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,88.6030125994
+MX30204,Veracruz de Ignacio de la Llave,Agua Dulce,52.8908330336
+MX30205,Veracruz de Ignacio de la Llave,El Higo,47.9882245583
+MX30206,Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,44.7727526407
+MX30207,Veracruz de Ignacio de la Llave,Tres Valles,57.0352771196
+MX30208,Veracruz de Ignacio de la Llave,Carlos A. Carrillo,39.9052906577
+MX30209,Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,86.7382389991
+MX30210,Veracruz de Ignacio de la Llave,Uxpanapa,83.2032754756
+MX30211,Veracruz de Ignacio de la Llave,San Rafael,56.0755169551
+MX30212,Veracruz de Ignacio de la Llave,Santiago Sochiapan,85.3549630925
+MX31001,Yucatán,Abalá,58.1583880037
+MX31002,Yucatán,Acanceh,47.8169945099
+MX31003,Yucatán,Akil,84.4409083369
+MX31004,Yucatán,Baca,39.9275218755
+MX31005,Yucatán,Bokobá,43.0703161869
+MX31006,Yucatán,Buctzotz,76.4138702461
+MX31007,Yucatán,Cacalchén,56.7679342527
+MX31008,Yucatán,Calotmul,87.4272844273
+MX31009,Yucatán,Cansahcab,53.7608056121
+MX31010,Yucatán,Cantamayec,80.0259597806
+MX31011,Yucatán,Celestún,85.0230966638
+MX31012,Yucatán,Cenotillo,85.8280653951
+MX31013,Yucatán,Conkal,29.9301022955
+MX31014,Yucatán,Cuncunul,79.4562989753
+MX31015,Yucatán,Cuzamá,61.8397389413
+MX31016,Yucatán,Chacsinkín,95.7746096402
+MX31017,Yucatán,Chankom,87.4571115974
+MX31018,Yucatán,Chapab,60.1537290715
+MX31019,Yucatán,Chemax,93.2374062413
+MX31020,Yucatán,Chicxulub Pueblo,53.209695861
+MX31021,Yucatán,Chichimilá,89.6840665353
+MX31022,Yucatán,Chikindzonot,97.6349428505
+MX31023,Yucatán,Chocholá,56.1122362869
+MX31024,Yucatán,Chumayel,88.7134652202
+MX31025,Yucatán,Dzán,81.1307366638
+MX31026,Yucatán,Dzemul,46.1603245663
+MX31027,Yucatán,Dzidzantún,54.6336573512
+MX31028,Yucatán,Dzilam de Bravo,49.3766188309
+MX31029,Yucatán,Dzilam González,76.8956406869
+MX31030,Yucatán,Dzitás,80.2727272727
+MX31031,Yucatán,Dzoncauich,66.5901756902
+MX31032,Yucatán,Espita,90.5449005578
+MX31033,Yucatán,Halachó,67.8916371672
+MX31034,Yucatán,Hocabá,67.0023507287
+MX31035,Yucatán,Hoctún,72.1681628727
+MX31036,Yucatán,Homún,68.144494835
+MX31037,Yucatán,Huhí,81.9592072349
+MX31038,Yucatán,Hunucmá,65.3224321817
+MX31039,Yucatán,Ixil,59.6647087616
+MX31040,Yucatán,Izamal,58.7213551424
+MX31041,Yucatán,Kanasín,44.445912923
+MX31042,Yucatán,Kantunil,81.9590536852
+MX31043,Yucatán,Kaua,88.0143928036
+MX31044,Yucatán,Kinchil,66.7558345844
+MX31045,Yucatán,Kopomá,44.9613636364
+MX31046,Yucatán,Mama,82.6482104619
+MX31047,Yucatán,Maní,75.8020489668
+MX31048,Yucatán,Maxcanú,57.2841868596
+MX31049,Yucatán,Mayapán,93.05218509
+MX31050,Yucatán,Mérida,25.6538747128
+MX31051,Yucatán,Mocochá,28.3697277894
+MX31052,Yucatán,Motul,50.5723697882
+MX31053,Yucatán,Muna,69.8895932032
+MX31054,Yucatán,Muxupip,48.5872801083
+MX31055,Yucatán,Opichén,77.7496396656
+MX31056,Yucatán,Oxkutzcab,77.3580691831
+MX31057,Yucatán,Panabá,75.4616383227
+MX31058,Yucatán,Peto,85.3223402793
+MX31059,Yucatán,Progreso,42.0864953263
+MX31060,Yucatán,Quintana Roo,74.8701973001
+MX31061,Yucatán,Río Lagartos,27.4118998979
+MX31062,Yucatán,Sacalum,69.3108303997
+MX31063,Yucatán,Samahil,48.9524666907
+MX31064,Yucatán,Sanahcat,56.1355529132
+MX31065,Yucatán,San Felipe,32.2310660878
+MX31066,Yucatán,Santa Elena,81.8734146925
+MX31067,Yucatán,Seyé,62.3510100438
+MX31068,Yucatán,Sinanché,65.5363344051
+MX31069,Yucatán,Sotuta,83.9684198569
+MX31070,Yucatán,Sucilá,76.8132235657
+MX31071,Yucatán,Sudzal,66.8815858112
+MX31072,Yucatán,Suma,46.88091354
+MX31073,Yucatán,Tahdziú,98.0766177739
+MX31074,Yucatán,Tahmek,59.746104245
+MX31075,Yucatán,Teabo,87.2456038367
+MX31076,Yucatán,Tecoh,54.8032556835
+MX31077,Yucatán,Tekal de Venegas,82.0266101041
+MX31078,Yucatán,Tekantó,65.3167667941
+MX31079,Yucatán,Tekax,74.8251685381
+MX31080,Yucatán,Tekit,82.0604495678
+MX31081,Yucatán,Tekom,91.5432290053
+MX31082,Yucatán,Telchac Pueblo,56.422363847
+MX31083,Yucatán,Telchac Puerto,42.4991896272
+MX31084,Yucatán,Temax,77.8783841856
+MX31085,Yucatán,Temozón,81.4833923571
+MX31086,Yucatán,Tepakán,56.9368471035
+MX31087,Yucatán,Tetiz,65.177641369
+MX31088,Yucatán,Teya,62.9420442571
+MX31089,Yucatán,Ticul,70.5706595604
+MX31090,Yucatán,Timucuy,68.9113067028
+MX31091,Yucatán,Tinum,84.8240525411
+MX31092,Yucatán,Tixcacalcupul,92.7371687136
+MX31093,Yucatán,Tixkokob,36.572389698
+MX31094,Yucatán,Tixmehuac,90.194221808
+MX31095,Yucatán,Tixpéhual,35.5982462419
+MX31096,Yucatán,Tizimín,71.8484164796
+MX31097,Yucatán,Tunkás,85.2411485921
+MX31098,Yucatán,Tzucacab,83.438266217
+MX31099,Yucatán,Uayma,90.7757459095
+MX31100,Yucatán,Ucú,43.5986908359
+MX31101,Yucatán,Umán,39.6843496086
+MX31102,Yucatán,Valladolid,61.896352245
+MX31103,Yucatán,Xocchel,76.9719871608
+MX31104,Yucatán,Yaxcabá,88.8012778202
+MX31105,Yucatán,Yaxkukul,49.9852618376
+MX31106,Yucatán,Yobaín,42.3450800915
+MX32001,Zacatecas,Apozol,45.008382643
+MX32002,Zacatecas,Apulco,51.6520123839
+MX32003,Zacatecas,Atolinga,50.1405405405
+MX32004,Zacatecas,Benito Juárez,67.3672161172
+MX32005,Zacatecas,Calera,39.0792988279
+MX32006,Zacatecas,Cañitas de Felipe Pescador,56.5287256483
+MX32007,Zacatecas,Concepción del Oro,26.7834080486
+MX32008,Zacatecas,Cuauhtémoc,61.6772915899
+MX32009,Zacatecas,Chalchihuites,54.8173644054
+MX32010,Zacatecas,Fresnillo,40.1243479634
+MX32011,Zacatecas,Trinidad García de la Cadena,54.1609632446
+MX32012,Zacatecas,Genaro Codina,68.7798361689
+MX32013,Zacatecas,General Enrique Estrada,46.2327082693
+MX32014,Zacatecas,General Francisco R. Murguía,58.5508930921
+MX32015,Zacatecas,El Plateado de Joaquín Amaro,48.0257234727
+MX32016,Zacatecas,General Pánfilo Natera,65.1082527036
+MX32017,Zacatecas,Guadalupe,23.8569209156
+MX32018,Zacatecas,Huanusco,46.8195220013
+MX32019,Zacatecas,Jalpa,43.0632925938
+MX32020,Zacatecas,Jerez,45.4879141197
+MX32021,Zacatecas,Jiménez del Teul,64.7102272727
+MX32022,Zacatecas,Juan Aldama,57.5251800129
+MX32023,Zacatecas,Juchipila,38.3137250841
+MX32024,Zacatecas,Loreto,51.7220754919
+MX32025,Zacatecas,Luis Moya,49.9031428164
+MX32026,Zacatecas,Mazapil,44.0669433165
+MX32027,Zacatecas,Melchor Ocampo,56.0197493354
+MX32028,Zacatecas,Mezquital del Oro,57.5539419087
+MX32029,Zacatecas,Miguel Auza,61.3964980154
+MX32030,Zacatecas,Momax,44.5485477178
+MX32031,Zacatecas,Monte Escobedo,46.4251292901
+MX32032,Zacatecas,Morelos,29.1011521945
+MX32033,Zacatecas,Moyahua de Estrada,44.4280260499
+MX32034,Zacatecas,Nochistlán de Mejía,40.3324408444
+MX32035,Zacatecas,Noria de Ángeles,61.2805756065
+MX32036,Zacatecas,Ojocaliente,56.3185779879
+MX32037,Zacatecas,Pánuco,56.6334449226
+MX32038,Zacatecas,Pinos,67.6087712218
+MX32039,Zacatecas,Río Grande,45.5739907489
+MX32040,Zacatecas,Sain Alto,61.8966193122
+MX32041,Zacatecas,El Salvador,55.0207064555
+MX32042,Zacatecas,Sombrerete,38.0611598555
+MX32043,Zacatecas,Susticacán,56.5070948469
+MX32044,Zacatecas,Tabasco,55.2699401254
+MX32045,Zacatecas,Tepechitlán,54.9148042968
+MX32046,Zacatecas,Tepetongo,51.3154468963
+MX32047,Zacatecas,Teúl de González Ortega,38.9488603716
+MX32048,Zacatecas,Tlaltenango de Sánchez Román,37.4584111027
+MX32049,Zacatecas,Valparaíso,47.3346069928
+MX32050,Zacatecas,Vetagrande,51.4915641063
+MX32051,Zacatecas,Villa de Cos,69.407212108
+MX32052,Zacatecas,Villa García,33.2675330064
+MX32053,Zacatecas,Villa González Ortega,62.4969461845
+MX32054,Zacatecas,Villa Hidalgo,74.8906131497
+MX32055,Zacatecas,Villanueva,50.5728459133
+MX32056,Zacatecas,Zacatecas,23.3907024616
+MX32057,Zacatecas,Trancoso,63.9451745446
+MX32058,Zacatecas,Santa María de la Paz,47.9550353029

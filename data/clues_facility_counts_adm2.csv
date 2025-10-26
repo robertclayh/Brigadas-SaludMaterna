@@ -1,0 +1,2247 @@
+adm2_code,adm2_name,entidad,facilities
+MX01001,Aguascalientes,Aguascalientes,179
+MX01002,Asientos,Aguascalientes,15
+MX01003,Calvillo,Aguascalientes,20
+MX01004,Cosío,Aguascalientes,4
+MX01005,Jesús María,Aguascalientes,16
+MX01006,Pabellón de Arteaga,Aguascalientes,9
+MX01007,Rincón de Romos,Aguascalientes,16
+MX01008,San José de Gracia,Aguascalientes,7
+MX01009,Tepezalá,Aguascalientes,7
+MX01010,El Llano,Aguascalientes,5
+MX01011,San Francisco de los Romo,Aguascalientes,6
+MX02001,Ensenada,Baja California,152
+MX02002,Mexicali,Baja California,219
+MX02003,Tecate,Baja California,22
+MX02004,Tijuana,Baja California,369
+MX02005,Playas de Rosarito,Baja California,33
+MX03001,Comondú,Baja California Sur,37
+MX03002,Mulegé,Baja California Sur,34
+MX03003,La Paz,Baja California Sur,92
+MX03008,Los Cabos,Baja California Sur,89
+MX03009,Loreto,Baja California Sur,6
+MX04001,Calkiní,Campeche,14
+MX04002,Campeche,Campeche,74
+MX04003,Carmen,Campeche,63
+MX04004,Champotón,Campeche,28
+MX04005,Hecelchakán,Campeche,5
+MX04006,Hopelchén,Campeche,10
+MX04007,Palizada,Campeche,7
+MX04008,Tenabo,Campeche,3
+MX04009,Escárcega,Campeche,16
+MX04010,Calakmul,Campeche,7
+MX04011,Candelaria,Campeche,20
+MX05001,Abasolo,Coahuila de Zaragoza,2
+MX05002,Acuña,Coahuila de Zaragoza,28
+MX05003,Allende,Coahuila de Zaragoza,6
+MX05004,Arteaga,Coahuila de Zaragoza,9
+MX05005,Candela,Coahuila de Zaragoza,1
+MX05006,Castaños,Coahuila de Zaragoza,4
+MX05007,Cuatro Ciénegas,Coahuila de Zaragoza,7
+MX05008,Escobedo,Coahuila de Zaragoza,2
+MX05009,Francisco I. Madero,Coahuila de Zaragoza,12
+MX05010,Frontera,Coahuila de Zaragoza,9
+MX05011,General Cepeda,Coahuila de Zaragoza,5
+MX05012,Guerrero,Coahuila de Zaragoza,1
+MX05013,Hidalgo,Coahuila de Zaragoza,1
+MX05014,Jiménez,Coahuila de Zaragoza,3
+MX05015,Juárez,Coahuila de Zaragoza,1
+MX05016,Lamadrid,Coahuila de Zaragoza,1
+MX05017,Matamoros,Coahuila de Zaragoza,14
+MX05018,Monclova,Coahuila de Zaragoza,51
+MX05019,Morelos,Coahuila de Zaragoza,2
+MX05020,Múzquiz,Coahuila de Zaragoza,14
+MX05021,Nadadores,Coahuila de Zaragoza,2
+MX05022,Nava,Coahuila de Zaragoza,2
+MX05023,Ocampo,Coahuila de Zaragoza,9
+MX05024,Parras,Coahuila de Zaragoza,11
+MX05025,Piedras Negras,Coahuila de Zaragoza,39
+MX05026,Progreso,Coahuila de Zaragoza,3
+MX05027,Ramos Arizpe,Coahuila de Zaragoza,19
+MX05028,Sabinas,Coahuila de Zaragoza,12
+MX05029,Sacramento,Coahuila de Zaragoza,1
+MX05030,Saltillo,Coahuila de Zaragoza,139
+MX05031,San Buenaventura,Coahuila de Zaragoza,5
+MX05032,San Juan de Sabinas,Coahuila de Zaragoza,13
+MX05033,San Pedro,Coahuila de Zaragoza,21
+MX05034,Sierra Mojada,Coahuila de Zaragoza,4
+MX05035,Torreón,Coahuila de Zaragoza,126
+MX05036,Viesca,Coahuila de Zaragoza,4
+MX05037,Villa Unión,Coahuila de Zaragoza,3
+MX05038,Zaragoza,Coahuila de Zaragoza,4
+MX06001,Armería,Colima,12
+MX06002,Colima,Colima,50
+MX06003,Comala,Colima,9
+MX06004,Coquimatlán,Colima,9
+MX06005,Cuauhtémoc,Colima,13
+MX06006,Ixtlahuacán,Colima,6
+MX06007,Manzanillo,Colima,61
+MX06008,Minatitlán,Colima,8
+MX06009,Tecomán,Colima,39
+MX06010,Villa de Álvarez,Colima,20
+MX07001,Acacoyagua,Chiapas,4
+MX07002,Acala,Chiapas,9
+MX07003,Acapetahua,Chiapas,12
+MX07004,Altamirano,Chiapas,9
+MX07005,Amatán,Chiapas,11
+MX07006,Amatenango de la Frontera,Chiapas,11
+MX07007,Amatenango del Valle,Chiapas,1
+MX07008,Angel Albino Corzo,Chiapas,8
+MX07009,Arriaga,Chiapas,17
+MX07010,Bejucal de Ocampo,Chiapas,2
+MX07011,Bella Vista,Chiapas,6
+MX07012,Berriozábal,Chiapas,13
+MX07013,Bochil,Chiapas,7
+MX07014,El Bosque,Chiapas,5
+MX07015,Cacahoatán,Chiapas,7
+MX07016,Catazajá,Chiapas,5
+MX07017,Cintalapa,Chiapas,23
+MX07018,Coapilla,Chiapas,5
+MX07019,Comitán de Domínguez,Chiapas,44
+MX07020,La Concordia,Chiapas,18
+MX07021,Copainalá,Chiapas,9
+MX07022,Chalchihuitán,Chiapas,5
+MX07023,Chamula,Chiapas,21
+MX07024,Chanal,Chiapas,3
+MX07025,Chapultenango,Chiapas,3
+MX07026,Chenalhó,Chiapas,16
+MX07027,Chiapa de Corzo,Chiapas,18
+MX07028,Chiapilla,Chiapas,2
+MX07029,Chicoasén,Chiapas,2
+MX07030,Chicomuselo,Chiapas,8
+MX07031,Chilón,Chiapas,59
+MX07032,Escuintla,Chiapas,10
+MX07033,Francisco León,Chiapas,5
+MX07034,Frontera Comalapa,Chiapas,20
+MX07035,Frontera Hidalgo,Chiapas,3
+MX07036,La Grandeza,Chiapas,1
+MX07037,Huehuetán,Chiapas,6
+MX07038,Huixtán,Chiapas,9
+MX07039,Huitiupán,Chiapas,9
+MX07040,Huixtla,Chiapas,19
+MX07041,La Independencia,Chiapas,7
+MX07042,Ixhuatán,Chiapas,4
+MX07043,Ixtacomitán,Chiapas,7
+MX07044,Ixtapa,Chiapas,5
+MX07045,Ixtapangajoya,Chiapas,3
+MX07046,Jiquipilas,Chiapas,14
+MX07047,Jitotol,Chiapas,3
+MX07048,Juárez,Chiapas,7
+MX07049,Larráinzar,Chiapas,9
+MX07050,La Libertad,Chiapas,3
+MX07051,Mapastepec,Chiapas,13
+MX07052,Las Margaritas,Chiapas,40
+MX07053,Mazapa de Madero,Chiapas,3
+MX07054,Mazatán,Chiapas,9
+MX07055,Metapa,Chiapas,1
+MX07056,Mitontic,Chiapas,2
+MX07057,Motozintla,Chiapas,20
+MX07058,Nicolás Ruíz,Chiapas,1
+MX07059,Ocosingo,Chiapas,67
+MX07060,Ocotepec,Chiapas,4
+MX07061,Ocozocoautla de Espinosa,Chiapas,21
+MX07062,Ostuacán,Chiapas,12
+MX07063,Osumacinta,Chiapas,2
+MX07064,Oxchuc,Chiapas,15
+MX07065,Palenque,Chiapas,44
+MX07066,Pantelhó,Chiapas,3
+MX07067,Pantepec,Chiapas,5
+MX07068,Pichucalco,Chiapas,12
+MX07069,Pijijiapan,Chiapas,36
+MX07070,El Porvenir,Chiapas,2
+MX07071,Villa Comaltitlán,Chiapas,8
+MX07072,Pueblo Nuevo Solistahuacán,Chiapas,9
+MX07073,Rayón,Chiapas,4
+MX07074,Reforma,Chiapas,11
+MX07075,Las Rosas,Chiapas,6
+MX07076,Sabanilla,Chiapas,7
+MX07077,Salto de Agua,Chiapas,23
+MX07078,San Cristóbal de las Casas,Chiapas,56
+MX07079,San Fernando,Chiapas,9
+MX07080,Siltepec,Chiapas,21
+MX07081,Simojovel,Chiapas,16
+MX07082,Sitalá,Chiapas,11
+MX07083,Socoltenango,Chiapas,6
+MX07084,Solosuchiapa,Chiapas,4
+MX07085,Soyaló,Chiapas,1
+MX07086,Suchiapa,Chiapas,5
+MX07087,Suchiate,Chiapas,9
+MX07088,Sunuapa,Chiapas,1
+MX07089,Tapachula,Chiapas,107
+MX07090,Tapalapa,Chiapas,1
+MX07091,Tapilula,Chiapas,5
+MX07092,Tecpatán,Chiapas,13
+MX07093,Tenejapa,Chiapas,4
+MX07094,Teopisca,Chiapas,10
+MX07096,Tila,Chiapas,14
+MX07097,Tonalá,Chiapas,39
+MX07098,Totolapa,Chiapas,2
+MX07099,La Trinitaria,Chiapas,21
+MX07100,Tumbalá,Chiapas,7
+MX07101,Tuxtla Gutiérrez,Chiapas,178
+MX07102,Tuxtla Chico,Chiapas,11
+MX07103,Tuzantán,Chiapas,4
+MX07104,Tzimol,Chiapas,6
+MX07105,Unión Juárez,Chiapas,4
+MX07106,Venustiano Carranza,Chiapas,15
+MX07107,Villa Corzo,Chiapas,25
+MX07108,Villaflores,Chiapas,32
+MX07109,Yajalón,Chiapas,15
+MX07110,San Lucas,Chiapas,1
+MX07111,Zinacantán,Chiapas,7
+MX07112,San Juan Cancuc,Chiapas,10
+MX07113,Aldama,Chiapas,4
+MX07114,Benemérito de las Américas,Chiapas,4
+MX07115,Maravilla Tenejapa,Chiapas,8
+MX07116,Marqués de Comillas,Chiapas,6
+MX07117,Montecristo de Guerrero,Chiapas,4
+MX07118,San Andrés Duraznal,Chiapas,1
+MX07119,Santiago el Pinar,Chiapas,1
+MX08001,Ahumada,Chihuahua,4
+MX08002,Aldama,Chihuahua,5
+MX08003,Allende,Chihuahua,1
+MX08004,Aquiles Serdán,Chihuahua,2
+MX08005,Ascensión,Chihuahua,9
+MX08006,Bachíniva,Chihuahua,2
+MX08007,Balleza,Chihuahua,2
+MX08008,Batopilas,Chihuahua,4
+MX08009,Bocoyna,Chihuahua,7
+MX08010,Buenaventura,Chihuahua,7
+MX08011,Camargo,Chihuahua,20
+MX08012,Carichí,Chihuahua,4
+MX08013,Casas Grandes,Chihuahua,1
+MX08014,Coronado,Chihuahua,1
+MX08015,Coyame del Sotol,Chihuahua,2
+MX08016,La Cruz,Chihuahua,1
+MX08017,Cuauhtémoc,Chihuahua,38
+MX08018,Cusihuiriachi,Chihuahua,1
+MX08019,Chihuahua,Chihuahua,200
+MX08020,Chínipas,Chihuahua,3
+MX08021,Delicias,Chihuahua,25
+MX08022,Dr. Belisario Domínguez,Chihuahua,2
+MX08023,Galeana,Chihuahua,2
+MX08024,Santa Isabel,Chihuahua,1
+MX08025,Gómez Farías,Chihuahua,6
+MX08026,Gran Morelos,Chihuahua,2
+MX08027,Guachochi,Chihuahua,7
+MX08028,Guadalupe,Chihuahua,2
+MX08029,Guadalupe y Calvo,Chihuahua,5
+MX08030,Guazapares,Chihuahua,4
+MX08031,Guerrero,Chihuahua,12
+MX08032,Hidalgo del Parral,Chihuahua,34
+MX08033,Huejotitán,Chihuahua,1
+MX08034,Ignacio Zaragoza,Chihuahua,3
+MX08035,Janos,Chihuahua,2
+MX08036,Jiménez,Chihuahua,10
+MX08037,Juárez,Chihuahua,281
+MX08038,Julimes,Chihuahua,1
+MX08039,López,Chihuahua,1
+MX08040,Madera,Chihuahua,7
+MX08041,Maguarichi,Chihuahua,1
+MX08042,Manuel Benavides,Chihuahua,1
+MX08043,Matachí,Chihuahua,3
+MX08044,Matamoros,Chihuahua,2
+MX08045,Meoqui,Chihuahua,11
+MX08046,Morelos,Chihuahua,3
+MX08047,Moris,Chihuahua,1
+MX08048,Namiquipa,Chihuahua,10
+MX08049,Nonoava,Chihuahua,1
+MX08050,Nuevo Casas Grandes,Chihuahua,28
+MX08051,Ocampo,Chihuahua,3
+MX08052,Ojinaga,Chihuahua,5
+MX08053,Praxedis G. Guerrero,Chihuahua,3
+MX08054,Riva Palacio,Chihuahua,4
+MX08055,Rosales,Chihuahua,5
+MX08057,San Francisco de Borja,Chihuahua,1
+MX08058,San Francisco de Conchos,Chihuahua,2
+MX08059,San Francisco del Oro,Chihuahua,3
+MX08060,Santa Bárbara,Chihuahua,4
+MX08061,Satevó,Chihuahua,2
+MX08062,Saucillo,Chihuahua,8
+MX08063,Temósachic,Chihuahua,1
+MX08064,El Tule,Chihuahua,1
+MX08065,Urique,Chihuahua,7
+MX08066,Uruachi,Chihuahua,1
+MX08067,Valle de Zaragoza,Chihuahua,2
+MX09002,Azcapotzalco,Distrito Federal,129
+MX09003,Coyoacán,Distrito Federal,188
+MX09004,Cuajimalpa de Morelos,Distrito Federal,56
+MX09005,Gustavo A. Madero,Distrito Federal,352
+MX09006,Iztacalco,Distrito Federal,116
+MX09007,Iztapalapa,Distrito Federal,494
+MX09008,La Magdalena Contreras,Distrito Federal,74
+MX09009,Milpa Alta,Distrito Federal,40
+MX09010,Álvaro Obregón,Distrito Federal,189
+MX09011,Tláhuac,Distrito Federal,106
+MX09012,Tlalpan,Distrito Federal,222
+MX09013,Xochimilco,Distrito Federal,102
+MX09014,Benito Juárez,Distrito Federal,269
+MX09015,Cuauhtémoc,Distrito Federal,360
+MX09016,Miguel Hidalgo,Distrito Federal,194
+MX09017,Venustiano Carranza,Distrito Federal,158
+MX10001,Canatlán,Durango,11
+MX10002,Canelas,Durango,5
+MX10003,Coneto de Comonfort,Durango,2
+MX10004,Cuencamé,Durango,9
+MX10005,Durango,Durango,183
+MX10006,General Simón Bolívar,Durango,4
+MX10007,Gómez Palacio,Durango,68
+MX10008,Guadalupe Victoria,Durango,8
+MX10009,Guanaceví,Durango,3
+MX10010,Hidalgo,Durango,3
+MX10011,Indé,Durango,3
+MX10012,Lerdo,Durango,35
+MX10013,Mapimí,Durango,13
+MX10014,Mezquital,Durango,25
+MX10015,Nazas,Durango,8
+MX10016,Nombre de Dios,Durango,10
+MX10017,Ocampo,Durango,7
+MX10018,El Oro,Durango,2
+MX10019,Otáez,Durango,3
+MX10020,Pánuco de Coronado,Durango,4
+MX10021,Peñón Blanco,Durango,1
+MX10022,Poanas,Durango,6
+MX10023,Pueblo Nuevo,Durango,13
+MX10024,Rodeo,Durango,4
+MX10025,San Bernardo,Durango,4
+MX10026,San Dimas,Durango,18
+MX10027,San Juan de Guadalupe,Durango,6
+MX10028,San Juan del Río,Durango,5
+MX10029,San Luis del Cordero,Durango,1
+MX10030,San Pedro del Gallo,Durango,1
+MX10031,Santa Clara,Durango,2
+MX10032,Santiago Papasquiaro,Durango,20
+MX10033,Súchil,Durango,3
+MX10034,Tamazula,Durango,23
+MX10035,Tepehuanes,Durango,9
+MX10036,Tlahualilo,Durango,9
+MX10037,Topia,Durango,3
+MX10038,Vicente Guerrero,Durango,8
+MX10039,Nuevo Ideal,Durango,8
+MX11001,Abasolo,Guanajuato,21
+MX11002,Acámbaro,Guanajuato,43
+MX11003,San Miguel de Allende,Guanajuato,47
+MX11004,Apaseo el Alto,Guanajuato,20
+MX11005,Apaseo el Grande,Guanajuato,28
+MX11006,Atarjea,Guanajuato,6
+MX11007,Celaya,Guanajuato,121
+MX11008,Manuel Doblado,Guanajuato,19
+MX11009,Comonfort,Guanajuato,19
+MX11010,Coroneo,Guanajuato,3
+MX11011,Cortazar,Guanajuato,30
+MX11012,Cuerámaro,Guanajuato,11
+MX11013,Doctor Mora,Guanajuato,8
+MX11014,Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,44
+MX11015,Guanajuato,Guanajuato,52
+MX11016,Huanímaro,Guanajuato,9
+MX11017,Irapuato,Guanajuato,136
+MX11018,Jaral del Progreso,Guanajuato,14
+MX11019,Jerécuaro,Guanajuato,23
+MX11020,León,Guanajuato,312
+MX11021,Moroleón,Guanajuato,25
+MX11022,Ocampo,Guanajuato,10
+MX11023,Pénjamo,Guanajuato,57
+MX11024,Pueblo Nuevo,Guanajuato,10
+MX11025,Purísima del Rincón,Guanajuato,18
+MX11026,Romita,Guanajuato,18
+MX11027,Salamanca,Guanajuato,67
+MX11028,Salvatierra,Guanajuato,35
+MX11029,San Diego de la Unión,Guanajuato,17
+MX11030,San Felipe,Guanajuato,33
+MX11031,San Francisco del Rincón,Guanajuato,36
+MX11032,San José Iturbide,Guanajuato,23
+MX11033,San Luis de la Paz,Guanajuato,41
+MX11034,Santa Catarina,Guanajuato,4
+MX11035,Santa Cruz de Juventino Rosas,Guanajuato,18
+MX11036,Santiago Maravatío,Guanajuato,5
+MX11037,Silao de la Victoria,Guanajuato,32
+MX11038,Tarandacuao,Guanajuato,10
+MX11039,Tarimoro,Guanajuato,16
+MX11040,Tierra Blanca,Guanajuato,9
+MX11041,Uriangato,Guanajuato,20
+MX11042,Valle de Santiago,Guanajuato,35
+MX11043,Victoria,Guanajuato,12
+MX11044,Villagrán,Guanajuato,16
+MX11045,Xichú,Guanajuato,13
+MX11046,Yuriria,Guanajuato,27
+MX12001,Acapulco de Juárez,Guerrero,292
+MX12002,Ahuacuotzingo,Guerrero,16
+MX12003,Ajuchitlán del Progreso,Guerrero,16
+MX12004,Alcozauca de Guerrero,Guerrero,13
+MX12005,Alpoyeca,Guerrero,4
+MX12006,Apaxtla,Guerrero,5
+MX12007,Arcelia,Guerrero,16
+MX12008,Atenango del Río,Guerrero,7
+MX12009,Atlamajalcingo del Monte,Guerrero,6
+MX12010,Atlixtac,Guerrero,14
+MX12011,Atoyac de Álvarez,Guerrero,34
+MX12012,Ayutla de los Libres,Guerrero,22
+MX12013,Azoyú,Guerrero,7
+MX12014,Benito Juárez,Guerrero,9
+MX12015,Buenavista de Cuéllar,Guerrero,6
+MX12016,Coahuayutla de José María Izazaga,Guerrero,7
+MX12017,Cocula,Guerrero,8
+MX12018,Copala,Guerrero,6
+MX12019,Copalillo,Guerrero,8
+MX12020,Copanatoyac,Guerrero,15
+MX12021,Coyuca de Benítez,Guerrero,34
+MX12022,Coyuca de Catalán,Guerrero,21
+MX12023,Cuajinicuilapa,Guerrero,15
+MX12024,Cualác,Guerrero,8
+MX12025,Cuautepec,Guerrero,6
+MX12026,Cuetzala del Progreso,Guerrero,6
+MX12027,Cutzamala de Pinzón,Guerrero,17
+MX12028,Chilapa de Álvarez,Guerrero,48
+MX12029,Chilpancingo de los Bravo,Guerrero,90
+MX12030,Florencio Villarreal,Guerrero,6
+MX12031,General Canuto A. Neri,Guerrero,4
+MX12032,General Heliodoro Castillo,Guerrero,23
+MX12033,Huamuxtitlán,Guerrero,12
+MX12034,Huitzuco de los Figueroa,Guerrero,21
+MX12035,Iguala de la Independencia,Guerrero,37
+MX12036,Igualapa,Guerrero,6
+MX12037,Ixcateopan de Cuauhtémoc,Guerrero,4
+MX12038,Zihuatanejo de Azueta,Guerrero,41
+MX12039,Juan R. Escudero,Guerrero,10
+MX12040,Leonardo Bravo,Guerrero,8
+MX12041,Malinaltepec,Guerrero,20
+MX12042,Mártir de Cuilapan,Guerrero,12
+MX12043,Metlatónoc,Guerrero,13
+MX12044,Mochitlán,Guerrero,4
+MX12045,Olinalá,Guerrero,15
+MX12046,Ometepec,Guerrero,24
+MX12047,Pedro Ascencio Alquisiras,Guerrero,5
+MX12048,Petatlán,Guerrero,20
+MX12049,Pilcaya,Guerrero,5
+MX12050,Pungarabato,Guerrero,14
+MX12051,Quechultenango,Guerrero,16
+MX12052,San Luis Acatlán,Guerrero,14
+MX12053,San Marcos,Guerrero,25
+MX12054,San Miguel Totolapan,Guerrero,14
+MX12055,Taxco de Alarcón,Guerrero,41
+MX12056,Tecoanapa,Guerrero,23
+MX12057,Técpan de Galeana,Guerrero,29
+MX12058,Teloloapan,Guerrero,27
+MX12059,Tepecoacuilco de Trujano,Guerrero,14
+MX12060,Tetipac,Guerrero,6
+MX12061,Tixtla de Guerrero,Guerrero,10
+MX12062,Tlacoachistlahuaca,Guerrero,10
+MX12063,Tlacoapa,Guerrero,7
+MX12064,Tlalchapa,Guerrero,7
+MX12065,Tlalixtaquilla de Maldonado,Guerrero,8
+MX12066,Tlapa de Comonfort,Guerrero,25
+MX12067,Tlapehuala,Guerrero,10
+MX12068,La Unión de Isidoro Montes de Oca,Guerrero,15
+MX12069,Xalpatláhuac,Guerrero,12
+MX12070,Xochihuehuetlán,Guerrero,4
+MX12071,Xochistlahuaca,Guerrero,10
+MX12072,Zapotitlán Tablas,Guerrero,8
+MX12073,Zirándaro,Guerrero,10
+MX12074,Zitlala,Guerrero,8
+MX12075,Eduardo Neri,Guerrero,19
+MX12076,Acatepec,Guerrero,16
+MX12077,Marquelia,Guerrero,5
+MX12078,Cochoapa el Grande,Guerrero,4
+MX12079,José Joaquín de Herrera,Guerrero,5
+MX12080,Juchitán,Guerrero,2
+MX12081,Iliatenco,Guerrero,6
+MX13001,Acatlán,Hidalgo,7
+MX13002,Acaxochitlán,Hidalgo,14
+MX13003,Actopan,Hidalgo,32
+MX13004,Agua Blanca de Iturbide,Hidalgo,4
+MX13005,Ajacuba,Hidalgo,4
+MX13006,Alfajayucan,Hidalgo,7
+MX13007,Almoloya,Hidalgo,2
+MX13008,Apan,Hidalgo,18
+MX13009,El Arenal,Hidalgo,5
+MX13010,Atitalaquia,Hidalgo,10
+MX13011,Atlapexco,Hidalgo,10
+MX13012,Atotonilco el Grande,Hidalgo,9
+MX13013,Atotonilco de Tula,Hidalgo,10
+MX13014,Calnali,Hidalgo,9
+MX13015,Cardonal,Hidalgo,16
+MX13016,Cuautepec de Hinojosa,Hidalgo,14
+MX13017,Chapantongo,Hidalgo,6
+MX13018,Chapulhuacán,Hidalgo,9
+MX13019,Chilcuautla,Hidalgo,9
+MX13020,Eloxochitlán,Hidalgo,3
+MX13021,Emiliano Zapata,Hidalgo,4
+MX13022,Epazoyucan,Hidalgo,3
+MX13023,Francisco I. Madero,Hidalgo,8
+MX13024,Huasca de Ocampo,Hidalgo,3
+MX13025,Huautla,Hidalgo,8
+MX13026,Huazalingo,Hidalgo,4
+MX13027,Huehuetla,Hidalgo,7
+MX13028,Huejutla de Reyes,Hidalgo,32
+MX13029,Huichapan,Hidalgo,15
+MX13030,Ixmiquilpan,Hidalgo,39
+MX13031,Jacala de Ledezma,Hidalgo,6
+MX13032,Jaltocán,Hidalgo,2
+MX13033,Juárez Hidalgo,Hidalgo,2
+MX13034,Lolotla,Hidalgo,4
+MX13035,Metepec,Hidalgo,1
+MX13036,San Agustín Metzquititlán,Hidalgo,1
+MX13037,Metztitlán,Hidalgo,14
+MX13038,Mineral del Chico,Hidalgo,6
+MX13039,Mineral del Monte,Hidalgo,3
+MX13040,La Misión,Hidalgo,4
+MX13041,Mixquiahuala de Juárez,Hidalgo,21
+MX13042,Molango de Escamilla,Hidalgo,6
+MX13043,Nicolás Flores,Hidalgo,4
+MX13044,Nopala de Villagrán,Hidalgo,10
+MX13045,Omitlán de Juárez,Hidalgo,3
+MX13046,San Felipe Orizatlán,Hidalgo,10
+MX13047,Pacula,Hidalgo,3
+MX13048,Pachuca de Soto,Hidalgo,107
+MX13049,Pisaflores,Hidalgo,5
+MX13050,Progreso de Obregón,Hidalgo,9
+MX13051,Mineral de la Reforma,Hidalgo,25
+MX13052,San Agustín Tlaxiaca,Hidalgo,10
+MX13053,San Bartolo Tutotepec,Hidalgo,8
+MX13054,San Salvador,Hidalgo,12
+MX13055,Santiago de Anaya,Hidalgo,9
+MX13056,Santiago Tulantepec de Lugo Guerrero,Hidalgo,5
+MX13057,Singuilucan,Hidalgo,3
+MX13058,Tasquillo,Hidalgo,6
+MX13059,Tecozautla,Hidalgo,13
+MX13060,Tenango de Doria,Hidalgo,6
+MX13061,Tepeapulco,Hidalgo,21
+MX13062,Tepehuacán de Guerrero,Hidalgo,17
+MX13063,Tepeji del Río de Ocampo,Hidalgo,20
+MX13064,Tepetitlán,Hidalgo,6
+MX13065,Tetepango,Hidalgo,2
+MX13066,Villa de Tezontepec,Hidalgo,5
+MX13067,Tezontepec de Aldama,Hidalgo,26
+MX13068,Tianguistengo,Hidalgo,5
+MX13069,Tizayuca,Hidalgo,36
+MX13070,Tlahuelilpan,Hidalgo,6
+MX13071,Tlahuiltepa,Hidalgo,6
+MX13072,Tlanalapa,Hidalgo,2
+MX13073,Tlanchinol,Hidalgo,18
+MX13074,Tlaxcoapan,Hidalgo,14
+MX13075,Tolcayuca,Hidalgo,5
+MX13076,Tula de Allende,Hidalgo,51
+MX13077,Tulancingo de Bravo,Hidalgo,45
+MX13078,Xochiatipan,Hidalgo,5
+MX13079,Xochicoatlán,Hidalgo,3
+MX13080,Yahualica,Hidalgo,8
+MX13081,Zacualtipán de Ángeles,Hidalgo,7
+MX13082,Zapotlán de Juárez,Hidalgo,9
+MX13083,Zempoala,Hidalgo,6
+MX13084,Zimapán,Hidalgo,15
+MX14001,Acatic,Jalisco,4
+MX14002,Acatlán de Juárez,Jalisco,5
+MX14003,Ahualulco de Mercado,Jalisco,8
+MX14004,Amacueca,Jalisco,2
+MX14005,Amatitán,Jalisco,4
+MX14006,Ameca,Jalisco,18
+MX14007,San Juanito de Escobedo,Jalisco,4
+MX14008,Arandas,Jalisco,21
+MX14009,El Arenal,Jalisco,5
+MX14010,Atemajac de Brizuela,Jalisco,2
+MX14011,Atengo,Jalisco,2
+MX14012,Atenguillo,Jalisco,2
+MX14013,Atotonilco el Alto,Jalisco,14
+MX14014,Atoyac,Jalisco,3
+MX14015,Autlán de Navarro,Jalisco,21
+MX14016,Ayotlán,Jalisco,9
+MX14017,Ayutla,Jalisco,5
+MX14018,La Barca,Jalisco,21
+MX14019,Bolaños,Jalisco,6
+MX14020,Cabo Corrientes,Jalisco,6
+MX14021,Casimiro Castillo,Jalisco,7
+MX14022,Cihuatlán,Jalisco,11
+MX14023,Zapotlán el Grande,Jalisco,23
+MX14024,Cocula,Jalisco,9
+MX14025,Colotlán,Jalisco,10
+MX14026,Concepción de Buenos Aires,Jalisco,1
+MX14027,Cuautitlán de García Barragán,Jalisco,8
+MX14028,Cuautla,Jalisco,2
+MX14029,Cuquío,Jalisco,9
+MX14030,Chapala,Jalisco,17
+MX14031,Chimaltitán,Jalisco,4
+MX14032,Chiquilistlán,Jalisco,2
+MX14033,Degollado,Jalisco,6
+MX14034,Ejutla,Jalisco,1
+MX14035,Encarnación de Díaz,Jalisco,12
+MX14036,Etzatlán,Jalisco,5
+MX14037,El Grullo,Jalisco,9
+MX14038,Guachinango,Jalisco,3
+MX14039,Guadalajara,Jalisco,356
+MX14040,Hostotipaquillo,Jalisco,2
+MX14041,Huejúcar,Jalisco,4
+MX14042,Huejuquilla el Alto,Jalisco,7
+MX14043,La Huerta,Jalisco,14
+MX14044,Ixtlahuacán de los Membrillos,Jalisco,12
+MX14045,Ixtlahuacán del Río,Jalisco,9
+MX14046,Jalostotitlán,Jalisco,9
+MX14047,Jamay,Jalisco,6
+MX14048,Jesús María,Jalisco,7
+MX14049,Jilotlán de los Dolores,Jalisco,3
+MX14050,Jocotepec,Jalisco,13
+MX14051,Juanacatlán,Jalisco,3
+MX14052,Juchitlán,Jalisco,3
+MX14053,Lagos de Moreno,Jalisco,32
+MX14054,El Limón,Jalisco,3
+MX14055,Magdalena,Jalisco,5
+MX14056,Santa María del Oro,Jalisco,1
+MX14057,La Manzanilla de la Paz,Jalisco,2
+MX14058,Mascota,Jalisco,7
+MX14059,Mazamitla,Jalisco,4
+MX14060,Mexticacán,Jalisco,2
+MX14061,Mezquitic,Jalisco,16
+MX14062,Mixtlán,Jalisco,2
+MX14063,Ocotlán,Jalisco,20
+MX14064,Ojuelos de Jalisco,Jalisco,13
+MX14065,Pihuamo,Jalisco,7
+MX14066,Poncitlán,Jalisco,13
+MX14067,Puerto Vallarta,Jalisco,56
+MX14068,Villa Purificación,Jalisco,6
+MX14069,Quitupan,Jalisco,4
+MX14070,El Salto,Jalisco,17
+MX14071,San Cristóbal de la Barranca,Jalisco,1
+MX14072,San Diego de Alejandría,Jalisco,1
+MX14073,San Juan de los Lagos,Jalisco,16
+MX14074,San Julián,Jalisco,4
+MX14075,San Marcos,Jalisco,1
+MX14076,San Martín de Bolaños,Jalisco,3
+MX14077,San Martín Hidalgo,Jalisco,9
+MX14078,San Miguel el Alto,Jalisco,7
+MX14079,Gómez Farías,Jalisco,4
+MX14080,San Sebastián del Oeste,Jalisco,2
+MX14081,Santa María de los Ángeles,Jalisco,3
+MX14082,Sayula,Jalisco,7
+MX14083,Tala,Jalisco,18
+MX14084,Talpa de Allende,Jalisco,7
+MX14085,Tamazula de Gordiano,Jalisco,11
+MX14086,Tapalpa,Jalisco,5
+MX14087,Tecalitlán,Jalisco,4
+MX14088,Tecolotlán,Jalisco,6
+MX14089,Techaluta de Montenegro,Jalisco,2
+MX14090,Tenamaxtlán,Jalisco,4
+MX14091,Teocaltiche,Jalisco,13
+MX14092,Teocuitatlán de Corona,Jalisco,4
+MX14093,Tepatitlán de Morelos,Jalisco,30
+MX14094,Tequila,Jalisco,10
+MX14095,Teuchitlán,Jalisco,6
+MX14096,Tizapán el Alto,Jalisco,7
+MX14097,Tlajomulco de Zúñiga,Jalisco,73
+MX14098,San Pedro Tlaquepaque,Jalisco,75
+MX14099,Tolimán,Jalisco,3
+MX14100,Tomatlán,Jalisco,15
+MX14101,Tonalá,Jalisco,53
+MX14102,Tonaya,Jalisco,1
+MX14103,Tonila,Jalisco,3
+MX14104,Totatiche,Jalisco,2
+MX14105,Tototlán,Jalisco,4
+MX14106,Tuxcacuesco,Jalisco,2
+MX14107,Tuxcueca,Jalisco,3
+MX14108,Tuxpan,Jalisco,6
+MX14109,Unión de San Antonio,Jalisco,5
+MX14110,Unión de Tula,Jalisco,6
+MX14111,Valle de Guadalupe,Jalisco,1
+MX14112,Valle de Juárez,Jalisco,4
+MX14113,San Gabriel,Jalisco,10
+MX14114,Villa Corona,Jalisco,8
+MX14115,Villa Guerrero,Jalisco,3
+MX14116,Villa Hidalgo,Jalisco,5
+MX14117,Cañadas de Obregón,Jalisco,2
+MX14118,Yahualica de González Gallo,Jalisco,10
+MX14119,Zacoalco de Torres,Jalisco,9
+MX14120,Zapopan,Jalisco,290
+MX14121,Zapotiltic,Jalisco,8
+MX14122,Zapotitlán de Vadillo,Jalisco,2
+MX14123,Zapotlán del Rey,Jalisco,4
+MX14124,Zapotlanejo,Jalisco,16
+MX14125,San Ignacio Cerro Gordo,Jalisco,4
+MX15001,Acambay de Ruíz Castañeda,México,27
+MX15002,Acolman,México,30
+MX15003,Aculco,México,23
+MX15004,Almoloya de Alquisiras,México,7
+MX15005,Almoloya de Juárez,México,34
+MX15006,Almoloya del Río,México,2
+MX15007,Amanalco,México,9
+MX15008,Amatepec,México,16
+MX15009,Amecameca,México,12
+MX15010,Apaxco,México,6
+MX15011,Atenco,México,10
+MX15012,Atizapán,México,3
+MX15013,Atizapán de Zaragoza,México,86
+MX15014,Atlacomulco,México,39
+MX15015,Atlautla,México,5
+MX15016,Axapusco,México,9
+MX15017,Ayapango,México,3
+MX15018,Calimaya,México,8
+MX15019,Capulhuac,México,8
+MX15020,Coacalco de Berriozábal,México,26
+MX15021,Coatepec Harinas,México,14
+MX15022,Cocotitlán,México,3
+MX15023,Coyotepec,México,4
+MX15024,Cuautitlán,México,30
+MX15025,Chalco,México,54
+MX15026,Chapa de Mota,México,10
+MX15027,Chapultepec,México,2
+MX15028,Chiautla,México,6
+MX15029,Chicoloapan,México,19
+MX15030,Chiconcuac,México,2
+MX15031,Chimalhuacán,México,48
+MX15032,Donato Guerra,México,10
+MX15033,Ecatepec de Morelos,México,137
+MX15034,Ecatzingo,México,3
+MX15035,Huehuetoca,México,18
+MX15036,Hueypoxtla,México,7
+MX15037,Huixquilucan,México,34
+MX15038,Isidro Fabela,México,3
+MX15039,Ixtapaluca,México,51
+MX15040,Ixtapan de la Sal,México,14
+MX15041,Ixtapan del Oro,México,4
+MX15042,Ixtlahuaca,México,48
+MX15043,Xalatlaco,México,5
+MX15044,Jaltenco,México,2
+MX15045,Jilotepec,México,30
+MX15046,Jilotzingo,México,4
+MX15047,Jiquipilco,México,17
+MX15048,Jocotitlán,México,19
+MX15049,Joquicingo,México,5
+MX15050,Juchitepec,México,4
+MX15051,Lerma,México,30
+MX15052,Malinalco,México,8
+MX15053,Melchor Ocampo,México,7
+MX15054,Metepec,México,61
+MX15055,Mexicaltzingo,México,1
+MX15056,Morelos,México,12
+MX15057,Naucalpan de Juárez,México,151
+MX15058,Nezahualcóyotl,México,151
+MX15059,Nextlalpan,México,8
+MX15060,Nicolás Romero,México,45
+MX15061,Nopaltepec,México,3
+MX15062,Ocoyoacac,México,11
+MX15063,Ocuilan,México,12
+MX15064,El Oro,México,17
+MX15065,Otumba,México,10
+MX15066,Otzoloapan,México,2
+MX15067,Otzolotepec,México,15
+MX15068,Ozumba,México,5
+MX15069,Papalotla,México,1
+MX15070,La Paz,México,27
+MX15071,Polotitlán,México,7
+MX15072,Rayón,México,5
+MX15073,San Antonio la Isla,México,3
+MX15074,San Felipe del Progreso,México,46
+MX15075,San Martín de las Pirámides,México,6
+MX15076,San Mateo Atenco,México,22
+MX15077,San Simón de Guerrero,México,5
+MX15078,Santo Tomás,México,4
+MX15079,Soyaniquilpan de Juárez,México,5
+MX15080,Sultepec,México,14
+MX15081,Tecámac,México,54
+MX15082,Tejupilco,México,27
+MX15083,Temamatla,México,3
+MX15084,Temascalapa,México,10
+MX15085,Temascalcingo,México,21
+MX15086,Temascaltepec,México,18
+MX15087,Temoaya,México,31
+MX15088,Tenancingo,México,18
+MX15089,Tenango del Aire,México,3
+MX15090,Tenango del Valle,México,16
+MX15091,Teoloyucan,México,8
+MX15092,Teotihuacán,México,13
+MX15093,Tepetlaoxtoc,México,7
+MX15094,Tepetlixpa,México,7
+MX15095,Tepotzotlán,México,12
+MX15096,Tequixquiac,México,6
+MX15097,Texcaltitlán,México,5
+MX15098,Texcalyacac,México,2
+MX15099,Texcoco,México,57
+MX15100,Tezoyuca,México,4
+MX15101,Tianguistenco,México,23
+MX15102,Timilpan,México,7
+MX15103,Tlalmanalco,México,6
+MX15104,Tlalnepantla de Baz,México,135
+MX15105,Tlatlaya,México,20
+MX15106,Toluca,México,205
+MX15107,Tonatico,México,3
+MX15108,Tultepec,México,14
+MX15109,Tultitlán,México,47
+MX15110,Valle de Bravo,México,19
+MX15111,Villa de Allende,México,14
+MX15112,Villa del Carbón,México,10
+MX15113,Villa Guerrero,México,14
+MX15114,Villa Victoria,México,27
+MX15115,Xonacatlán,México,11
+MX15116,Zacazonapan,México,1
+MX15117,Zacualpan,México,9
+MX15118,Zinacantepec,México,32
+MX15119,Zumpahuacán,México,7
+MX15120,Zumpango,México,35
+MX15121,Cuautitlán Izcalli,México,62
+MX15122,Valle de Chalco Solidaridad,México,36
+MX15123,Luvianos,México,15
+MX15124,San José del Rincón,México,40
+MX15125,Tonanitla,México,2
+MX16001,Acuitzio,Michoacán de Ocampo,4
+MX16002,Aguililla,Michoacán de Ocampo,3
+MX16003,Álvaro Obregón,Michoacán de Ocampo,11
+MX16004,Angamacutiro,Michoacán de Ocampo,5
+MX16005,Angangueo,Michoacán de Ocampo,3
+MX16006,Apatzingán,Michoacán de Ocampo,32
+MX16007,Aporo,Michoacán de Ocampo,1
+MX16008,Aquila,Michoacán de Ocampo,7
+MX16009,Ario,Michoacán de Ocampo,8
+MX16010,Arteaga,Michoacán de Ocampo,7
+MX16011,Briseñas,Michoacán de Ocampo,3
+MX16012,Buenavista,Michoacán de Ocampo,5
+MX16013,Carácuaro,Michoacán de Ocampo,3
+MX16014,Coahuayana,Michoacán de Ocampo,7
+MX16015,Coalcomán de Vázquez Pallares,Michoacán de Ocampo,4
+MX16016,Coeneo,Michoacán de Ocampo,8
+MX16017,Contepec,Michoacán de Ocampo,10
+MX16018,Copándaro,Michoacán de Ocampo,3
+MX16019,Cotija,Michoacán de Ocampo,7
+MX16020,Cuitzeo,Michoacán de Ocampo,8
+MX16021,Charapan,Michoacán de Ocampo,2
+MX16022,Charo,Michoacán de Ocampo,4
+MX16023,Chavinda,Michoacán de Ocampo,2
+MX16024,Cherán,Michoacán de Ocampo,3
+MX16025,Chilchota,Michoacán de Ocampo,10
+MX16026,Chinicuila,Michoacán de Ocampo,2
+MX16027,Chucándiro,Michoacán de Ocampo,4
+MX16028,Churintzio,Michoacán de Ocampo,5
+MX16029,Churumuco,Michoacán de Ocampo,2
+MX16030,Ecuandureo,Michoacán de Ocampo,1
+MX16031,Epitacio Huerta,Michoacán de Ocampo,8
+MX16032,Erongarícuaro,Michoacán de Ocampo,2
+MX16033,Gabriel Zamora,Michoacán de Ocampo,4
+MX16034,Hidalgo,Michoacán de Ocampo,31
+MX16035,La Huacana,Michoacán de Ocampo,7
+MX16036,Huandacareo,Michoacán de Ocampo,7
+MX16037,Huaniqueo,Michoacán de Ocampo,4
+MX16038,Huetamo,Michoacán de Ocampo,15
+MX16039,Huiramba,Michoacán de Ocampo,4
+MX16040,Indaparapeo,Michoacán de Ocampo,5
+MX16041,Irimbo,Michoacán de Ocampo,3
+MX16042,Ixtlán,Michoacán de Ocampo,2
+MX16043,Jacona,Michoacán de Ocampo,9
+MX16044,Jiménez,Michoacán de Ocampo,5
+MX16045,Jiquilpan,Michoacán de Ocampo,9
+MX16046,Juárez,Michoacán de Ocampo,3
+MX16047,Jungapeo,Michoacán de Ocampo,7
+MX16048,Lagunillas,Michoacán de Ocampo,2
+MX16049,Madero,Michoacán de Ocampo,10
+MX16050,Maravatío,Michoacán de Ocampo,34
+MX16051,Marcos Castellanos,Michoacán de Ocampo,4
+MX16052,Lázaro Cárdenas,Michoacán de Ocampo,62
+MX16053,Morelia,Michoacán de Ocampo,270
+MX16054,Morelos,Michoacán de Ocampo,5
+MX16055,Múgica,Michoacán de Ocampo,11
+MX16056,Nahuatzen,Michoacán de Ocampo,7
+MX16057,Nocupétaro,Michoacán de Ocampo,4
+MX16058,Nuevo Parangaricutiro,Michoacán de Ocampo,1
+MX16059,Nuevo Urecho,Michoacán de Ocampo,2
+MX16060,Numarán,Michoacán de Ocampo,5
+MX16061,Ocampo,Michoacán de Ocampo,2
+MX16062,Pajacuarán,Michoacán de Ocampo,4
+MX16063,Panindícuaro,Michoacán de Ocampo,5
+MX16064,Parácuaro,Michoacán de Ocampo,4
+MX16065,Paracho,Michoacán de Ocampo,8
+MX16066,Pátzcuaro,Michoacán de Ocampo,28
+MX16067,Penjamillo,Michoacán de Ocampo,7
+MX16068,Peribán,Michoacán de Ocampo,6
+MX16069,La Piedad,Michoacán de Ocampo,30
+MX16070,Purépero,Michoacán de Ocampo,7
+MX16071,Puruándiro,Michoacán de Ocampo,31
+MX16072,Queréndaro,Michoacán de Ocampo,5
+MX16073,Quiroga,Michoacán de Ocampo,10
+MX16074,Cojumatlán de Régules,Michoacán de Ocampo,1
+MX16075,Los Reyes,Michoacán de Ocampo,17
+MX16076,Sahuayo,Michoacán de Ocampo,18
+MX16077,San Lucas,Michoacán de Ocampo,2
+MX16078,Santa Ana Maya,Michoacán de Ocampo,5
+MX16079,Salvador Escalante,Michoacán de Ocampo,9
+MX16080,Senguio,Michoacán de Ocampo,4
+MX16081,Susupuato,Michoacán de Ocampo,1
+MX16082,Tacámbaro,Michoacán de Ocampo,17
+MX16083,Tancítaro,Michoacán de Ocampo,6
+MX16084,Tangamandapio,Michoacán de Ocampo,7
+MX16085,Tangancícuaro,Michoacán de Ocampo,9
+MX16086,Tanhuato,Michoacán de Ocampo,4
+MX16087,Taretan,Michoacán de Ocampo,5
+MX16088,Tarímbaro,Michoacán de Ocampo,23
+MX16089,Tepalcatepec,Michoacán de Ocampo,8
+MX16090,Tingambato,Michoacán de Ocampo,4
+MX16091,Tingüindín,Michoacán de Ocampo,2
+MX16092,Tiquicheo de Nicolás Romero,Michoacán de Ocampo,5
+MX16093,Tlalpujahua,Michoacán de Ocampo,7
+MX16094,Tlazazalca,Michoacán de Ocampo,3
+MX16095,Tocumbo,Michoacán de Ocampo,3
+MX16096,Tumbiscatío,Michoacán de Ocampo,2
+MX16097,Turicato,Michoacán de Ocampo,7
+MX16098,Tuxpan,Michoacán de Ocampo,7
+MX16099,Tuzantla,Michoacán de Ocampo,6
+MX16100,Tzintzuntzan,Michoacán de Ocampo,3
+MX16101,Tzitzio,Michoacán de Ocampo,5
+MX16102,Uruapan,Michoacán de Ocampo,70
+MX16103,Venustiano Carranza,Michoacán de Ocampo,6
+MX16104,Villamar,Michoacán de Ocampo,2
+MX16105,Vista Hermosa,Michoacán de Ocampo,8
+MX16106,Yurécuaro,Michoacán de Ocampo,9
+MX16107,Zacapu,Michoacán de Ocampo,28
+MX16108,Zamora,Michoacán de Ocampo,45
+MX16109,Zináparo,Michoacán de Ocampo,1
+MX16110,Zinapécuaro,Michoacán de Ocampo,14
+MX16111,Ziracuaretiro,Michoacán de Ocampo,3
+MX16112,Zitácuaro,Michoacán de Ocampo,34
+MX16113,José Sixto Verduzco,Michoacán de Ocampo,5
+MX17001,Amacuzac,Morelos,7
+MX17002,Atlatlahucan,Morelos,4
+MX17003,Axochiapan,Morelos,15
+MX17004,Ayala,Morelos,21
+MX17005,Coatlán del Río,Morelos,6
+MX17006,Cuautla,Morelos,77
+MX17007,Cuernavaca,Morelos,158
+MX17008,Emiliano Zapata,Morelos,22
+MX17009,Huitzilac,Morelos,7
+MX17010,Jantetelco,Morelos,6
+MX17011,Jiutepec,Morelos,55
+MX17012,Jojutla,Morelos,30
+MX17013,Jonacatepec,Morelos,8
+MX17014,Mazatepec,Morelos,3
+MX17015,Miacatlán,Morelos,8
+MX17016,Ocuituco,Morelos,6
+MX17017,Puente de Ixtla,Morelos,20
+MX17018,Temixco,Morelos,36
+MX17019,Tepalcingo,Morelos,12
+MX17020,Tepoztlán,Morelos,13
+MX17021,Tetecala,Morelos,6
+MX17022,Tetela del Volcán,Morelos,6
+MX17023,Tlalnepantla,Morelos,2
+MX17024,Tlaltizapán de Zapata,Morelos,16
+MX17025,Tlaquiltenango,Morelos,15
+MX17026,Tlayacapan,Morelos,8
+MX17027,Totolapan,Morelos,3
+MX17028,Xochitepec,Morelos,21
+MX17029,Yautepec,Morelos,34
+MX17030,Yecapixtla,Morelos,14
+MX17031,Zacatepec,Morelos,17
+MX17032,Zacualpan,Morelos,3
+MX17033,Temoac,Morelos,5
+MX18001,Acaponeta,Nayarit,25
+MX18002,Ahuacatlán,Nayarit,9
+MX18003,Amatlán de Cañas,Nayarit,7
+MX18004,Compostela,Nayarit,34
+MX18005,Huajicori,Nayarit,10
+MX18006,Ixtlán del Río,Nayarit,13
+MX18007,Jala,Nayarit,11
+MX18008,Xalisco,Nayarit,19
+MX18009,Del Nayar,Nayarit,34
+MX18010,Rosamorada,Nayarit,19
+MX18011,Ruíz,Nayarit,13
+MX18012,San Blas,Nayarit,18
+MX18013,San Pedro Lagunillas,Nayarit,5
+MX18014,Santa María del Oro,Nayarit,8
+MX18015,Santiago Ixcuintla,Nayarit,44
+MX18016,Tecuala,Nayarit,18
+MX18017,Tepic,Nayarit,131
+MX18018,Tuxpan,Nayarit,17
+MX18019,La Yesca,Nayarit,10
+MX18020,Bahía de Banderas,Nayarit,49
+MX19001,Abasolo,Nuevo León,1
+MX19002,Agualeguas,Nuevo León,6
+MX19004,Allende,Nuevo León,15
+MX19005,Anáhuac,Nuevo León,8
+MX19006,Apodaca,Nuevo León,120
+MX19007,Aramberri,Nuevo León,15
+MX19008,Bustamante,Nuevo León,1
+MX19009,Cadereyta Jiménez,Nuevo León,35
+MX19010,El Carmen,Nuevo León,13
+MX19011,Cerralvo,Nuevo León,5
+MX19012,Ciénega de Flores,Nuevo León,8
+MX19013,China,Nuevo León,8
+MX19014,Doctor Arroyo,Nuevo León,39
+MX19015,Doctor Coss,Nuevo León,1
+MX19016,Doctor González,Nuevo León,2
+MX19017,Galeana,Nuevo León,34
+MX19018,García,Nuevo León,37
+MX19019,San Pedro Garza García,Nuevo León,67
+MX19020,General Bravo,Nuevo León,3
+MX19021,General Escobedo,Nuevo León,80
+MX19022,General Terán,Nuevo León,11
+MX19023,General Treviño,Nuevo León,1
+MX19024,General Zaragoza,Nuevo León,7
+MX19025,General Zuazua,Nuevo León,9
+MX19026,Guadalupe,Nuevo León,158
+MX19027,Los Herreras,Nuevo León,1
+MX19028,Higueras,Nuevo León,1
+MX19029,Hualahuises,Nuevo León,4
+MX19030,Iturbide,Nuevo León,4
+MX19031,Juárez,Nuevo León,47
+MX19032,Lampazos de Naranjo,Nuevo León,5
+MX19033,Linares,Nuevo León,40
+MX19034,Marín,Nuevo León,1
+MX19035,Melchor Ocampo,Nuevo León,1
+MX19036,Mier y Noriega,Nuevo León,7
+MX19037,Mina,Nuevo León,2
+MX19038,Montemorelos,Nuevo León,26
+MX19039,Monterrey,Nuevo León,350
+MX19040,Parás,Nuevo León,1
+MX19041,Pesquería,Nuevo León,16
+MX19042,Los Ramones,Nuevo León,4
+MX19043,Rayones,Nuevo León,4
+MX19044,Sabinas Hidalgo,Nuevo León,18
+MX19045,Salinas Victoria,Nuevo León,14
+MX19046,San Nicolás de los Garza,Nuevo León,116
+MX19047,Hidalgo,Nuevo León,4
+MX19048,Santa Catarina,Nuevo León,50
+MX19049,Santiago,Nuevo León,24
+MX19050,Vallecillo,Nuevo León,4
+MX19051,Villaldama,Nuevo León,5
+MX20001,Abejones,Oaxaca,1
+MX20002,Acatlán de Pérez Figueroa,Oaxaca,12
+MX20003,Asunción Cacalotepec,Oaxaca,1
+MX20005,Asunción Ixtaltepec,Oaxaca,8
+MX20006,Asunción Nochixtlán,Oaxaca,12
+MX20007,Asunción Ocotlán,Oaxaca,1
+MX20008,Asunción Tlacolulita,Oaxaca,1
+MX20009,Ayotzintepec,Oaxaca,1
+MX20010,El Barrio de la Soledad,Oaxaca,5
+MX20012,Candelaria Loxicha,Oaxaca,2
+MX20013,Ciénega de Zimatlán,Oaxaca,1
+MX20014,Ciudad Ixtepec,Oaxaca,11
+MX20015,Coatecas Altas,Oaxaca,2
+MX20016,Coicoyán de las Flores,Oaxaca,4
+MX20017,La Compañía,Oaxaca,2
+MX20018,Concepción Buenavista,Oaxaca,1
+MX20019,Concepción Pápalo,Oaxaca,1
+MX20021,Cosolapa,Oaxaca,6
+MX20023,Cuilápam de Guerrero,Oaxaca,5
+MX20024,Cuyamecalco Villa de Zaragoza,Oaxaca,1
+MX20025,Chahuites,Oaxaca,2
+MX20026,Chalcatongo de Hidalgo,Oaxaca,2
+MX20028,Heroica Ciudad de Ejutla de Crespo,Oaxaca,3
+MX20029,Eloxochitlán de Flores Magón,Oaxaca,2
+MX20030,El Espinal,Oaxaca,5
+MX20031,Tamazulápam del Espíritu Santo,Oaxaca,4
+MX20033,Guadalupe Etla,Oaxaca,1
+MX20034,Guadalupe de Ramírez,Oaxaca,1
+MX20035,Guelatao de Juárez,Oaxaca,2
+MX20036,Guevea de Humboldt,Oaxaca,4
+MX20037,Mesones Hidalgo,Oaxaca,2
+MX20039,Heroica Ciudad de Huajuapan de León,Oaxaca,30
+MX20040,Huautepec,Oaxaca,1
+MX20041,Huautla de Jiménez,Oaxaca,5
+MX20042,Ixtlán de Juárez,Oaxaca,6
+MX20043,Heroica Ciudad de Juchitán de Zaragoza,Oaxaca,38
+MX20044,Loma Bonita,Oaxaca,13
+MX20045,Magdalena Apasco,Oaxaca,2
+MX20046,Magdalena Jaltepec,Oaxaca,1
+MX20048,Magdalena Mixtepec,Oaxaca,1
+MX20051,Magdalena Teitipac,Oaxaca,1
+MX20052,Magdalena Tequisistlán,Oaxaca,1
+MX20054,Magdalena Zahuatlán,Oaxaca,1
+MX20055,Mariscala de Juárez,Oaxaca,1
+MX20056,Mártires de Tacubaya,Oaxaca,1
+MX20057,Matías Romero Avendaño,Oaxaca,18
+MX20058,Mazatlán Villa de Flores,Oaxaca,6
+MX20059,Miahuatlán de Porfirio Díaz,Oaxaca,8
+MX20060,Mixistlán de la Reforma,Oaxaca,1
+MX20061,Monjas,Oaxaca,1
+MX20062,Natividad,Oaxaca,1
+MX20063,Nazareno Etla,Oaxaca,2
+MX20064,Nejapa de Madero,Oaxaca,2
+MX20066,Santiago Niltepec,Oaxaca,4
+MX20067,Oaxaca de Juárez,Oaxaca,170
+MX20068,Ocotlán de Morelos,Oaxaca,9
+MX20069,La Pe,Oaxaca,1
+MX20070,Pinotepa de Don Luis,Oaxaca,1
+MX20071,Pluma Hidalgo,Oaxaca,2
+MX20072,San José del Progreso,Oaxaca,3
+MX20073,Putla Villa de Guerrero,Oaxaca,13
+MX20074,Santa Catarina Quioquitani,Oaxaca,1
+MX20076,La Reforma,Oaxaca,1
+MX20077,Reyes Etla,Oaxaca,2
+MX20078,Rojas de Cuauhtémoc,Oaxaca,1
+MX20079,Salina Cruz,Oaxaca,23
+MX20081,San Agustín Atenango,Oaxaca,1
+MX20082,San Agustín Chayuco,Oaxaca,1
+MX20083,San Agustín de las Juntas,Oaxaca,4
+MX20085,San Agustín Loxicha,Oaxaca,10
+MX20087,San Agustín Yatareni,Oaxaca,2
+MX20088,San Andrés Cabecera Nueva,Oaxaca,1
+MX20089,San Andrés Dinicuiti,Oaxaca,1
+MX20090,San Andrés Huaxpaltepec,Oaxaca,4
+MX20091,San Andrés Huayápam,Oaxaca,2
+MX20094,San Andrés Nuxiño,Oaxaca,2
+MX20101,San Andrés Zabache,Oaxaca,1
+MX20102,San Andrés Zautla,Oaxaca,1
+MX20103,San Antonino Castillo Velasco,Oaxaca,1
+MX20105,San Antonino Monte Verde,Oaxaca,2
+MX20107,San Antonio de la Cal,Oaxaca,5
+MX20108,San Antonio Huitepec,Oaxaca,2
+MX20109,San Antonio Nanahuatípam,Oaxaca,1
+MX20111,San Antonio Tepetlapa,Oaxaca,1
+MX20112,San Baltazar Chichicápam,Oaxaca,1
+MX20114,San Baltazar Yatzachi el Bajo,Oaxaca,1
+MX20115,San Bartolo Coyotepec,Oaxaca,10
+MX20122,San Bartolo Yautepec,Oaxaca,1
+MX20123,San Bernardo Mixtepec,Oaxaca,1
+MX20124,San Blas Atempa,Oaxaca,3
+MX20125,San Carlos Yautepec,Oaxaca,7
+MX20129,San Cristóbal Suchixtlahuaca,Oaxaca,1
+MX20131,San Dionisio Ocotepec,Oaxaca,3
+MX20133,San Esteban Atatlahuca,Oaxaca,1
+MX20134,San Felipe Jalapa de Díaz,Oaxaca,5
+MX20135,San Felipe Tejalápam,Oaxaca,2
+MX20136,San Felipe Usila,Oaxaca,6
+MX20137,San Francisco Cahuacuá,Oaxaca,2
+MX20139,San Francisco Chapulapa,Oaxaca,3
+MX20140,San Francisco Chindúa,Oaxaca,1
+MX20141,San Francisco del Mar,Oaxaca,2
+MX20142,San Francisco Huehuetlán,Oaxaca,2
+MX20143,San Francisco Ixhuatán,Oaxaca,4
+MX20145,San Francisco Lachigoló,Oaxaca,1
+MX20148,San Francisco Ozolotepec,Oaxaca,1
+MX20149,San Francisco Sola,Oaxaca,1
+MX20150,San Francisco Telixtlahuaca,Oaxaca,6
+MX20151,San Francisco Teopan,Oaxaca,1
+MX20153,San Gabriel Mixtepec,Oaxaca,1
+MX20154,San Ildefonso Amatlán,Oaxaca,2
+MX20155,San Ildefonso Sola,Oaxaca,1
+MX20156,San Ildefonso Villa Alta,Oaxaca,1
+MX20157,San Jacinto Amilpas,Oaxaca,6
+MX20158,San Jacinto Tlacotepec,Oaxaca,1
+MX20159,San Jerónimo Coatlán,Oaxaca,4
+MX20161,San Jerónimo Sosola,Oaxaca,3
+MX20162,San Jerónimo Taviche,Oaxaca,1
+MX20163,San Jerónimo Tecóatl,Oaxaca,2
+MX20164,San Jorge Nuchita,Oaxaca,2
+MX20165,San José Ayuquila,Oaxaca,1
+MX20166,San José Chiltepec,Oaxaca,1
+MX20170,San José Lachiguiri,Oaxaca,1
+MX20171,San José Tenango,Oaxaca,7
+MX20173,San Juan Atepec,Oaxaca,1
+MX20174,Ánimas Trujano,Oaxaca,1
+MX20176,San Juan Bautista Coixtlahuaca,Oaxaca,2
+MX20177,San Juan Bautista Cuicatlán,Oaxaca,8
+MX20178,San Juan Bautista Guelache,Oaxaca,2
+MX20179,San Juan Bautista Jayacatlán,Oaxaca,1
+MX20180,San Juan Bautista Lo de Soto,Oaxaca,2
+MX20181,San Juan Bautista Suchitepec,Oaxaca,1
+MX20184,San Juan Bautista Tuxtepec,Oaxaca,53
+MX20185,San Juan Cacahuatepec,Oaxaca,1
+MX20188,San Juan Colorado,Oaxaca,3
+MX20189,San Juan Comaltepec,Oaxaca,1
+MX20190,San Juan Cotzocón,Oaxaca,6
+MX20191,San Juan Chicomezúchil,Oaxaca,1
+MX20196,San Juan Evangelista Analco,Oaxaca,1
+MX20198,San Juan Guichicovi,Oaxaca,10
+MX20200,San Juan Juquila Mixes,Oaxaca,1
+MX20201,San Juan Juquila Vijanos,Oaxaca,1
+MX20202,San Juan Lachao,Oaxaca,3
+MX20204,San Juan Lajarcia,Oaxaca,1
+MX20205,San Juan Lalana,Oaxaca,2
+MX20206,San Juan de los Cués,Oaxaca,1
+MX20207,San Juan Mazatlán,Oaxaca,5
+MX20208,San Juan Mixtepec -Dto. 08 -,Oaxaca,5
+MX20209,San Juan Mixtepec -Dto. 26 -,Oaxaca,1
+MX20210,San Juan Ñumí,Oaxaca,5
+MX20211,San Juan Ozolotepec,Oaxaca,3
+MX20212,San Juan Petlapa,Oaxaca,1
+MX20213,San Juan Quiahije,Oaxaca,1
+MX20216,San Juan Tabaá,Oaxaca,1
+MX20217,San Juan Tamazola,Oaxaca,2
+MX20219,San Juan Teitipac,Oaxaca,1
+MX20220,San Juan Tepeuxila,Oaxaca,1
+MX20222,San Juan Yaeé,Oaxaca,1
+MX20223,San Juan Yatzona,Oaxaca,1
+MX20224,San Juan Yucuita,Oaxaca,1
+MX20226,San Lorenzo Albarradas,Oaxaca,1
+MX20227,San Lorenzo Cacaotepec,Oaxaca,6
+MX20228,San Lorenzo Cuaunecuiltitla,Oaxaca,1
+MX20229,San Lorenzo Texmelúcan,Oaxaca,2
+MX20230,San Lorenzo Victoria,Oaxaca,1
+MX20231,San Lucas Camotlán,Oaxaca,1
+MX20232,San Lucas Ojitlán,Oaxaca,4
+MX20233,San Lucas Quiaviní,Oaxaca,1
+MX20234,San Lucas Zoquiápam,Oaxaca,2
+MX20235,San Luis Amatlán,Oaxaca,1
+MX20239,San Martín Huamelúlpam,Oaxaca,1
+MX20240,San Martín Itunyoso,Oaxaca,1
+MX20242,San Martín Peras,Oaxaca,3
+MX20243,San Martín Tilcajete,Oaxaca,1
+MX20244,San Martín Toxpalan,Oaxaca,3
+MX20245,San Martín Zacatepec,Oaxaca,1
+MX20246,San Mateo Cajonos,Oaxaca,1
+MX20247,Capulálpam de Méndez,Oaxaca,1
+MX20248,San Mateo del Mar,Oaxaca,2
+MX20249,San Mateo Yoloxochitlán,Oaxaca,1
+MX20250,San Mateo Etlatongo,Oaxaca,1
+MX20251,San Mateo Nejápam,Oaxaca,1
+MX20252,San Mateo Peñasco,Oaxaca,1
+MX20253,San Mateo Piñas,Oaxaca,1
+MX20256,San Mateo Tlapiltepec,Oaxaca,1
+MX20257,San Melchor Betaza,Oaxaca,1
+MX20258,San Miguel Achiutla,Oaxaca,1
+MX20259,San Miguel Ahuehuetitlán,Oaxaca,1
+MX20260,San Miguel Aloápam,Oaxaca,2
+MX20261,San Miguel Amatitlán,Oaxaca,4
+MX20262,San Miguel Amatlán,Oaxaca,1
+MX20263,San Miguel Coatlán,Oaxaca,3
+MX20264,San Miguel Chicahua,Oaxaca,2
+MX20265,San Miguel Chimalapa,Oaxaca,3
+MX20266,San Miguel del Puerto,Oaxaca,3
+MX20268,San Miguel Ejutla,Oaxaca,1
+MX20269,San Miguel el Grande,Oaxaca,1
+MX20270,San Miguel Huautla,Oaxaca,2
+MX20271,San Miguel Mixtepec,Oaxaca,2
+MX20273,San Miguel Peras,Oaxaca,4
+MX20274,San Miguel Piedras,Oaxaca,1
+MX20275,San Miguel Quetzaltepec,Oaxaca,1
+MX20277,Villa Sola de Vega,Oaxaca,7
+MX20278,San Miguel Soyaltepec,Oaxaca,9
+MX20279,San Miguel Suchixtepec,Oaxaca,1
+MX20280,Villa Talea de Castro,Oaxaca,1
+MX20283,San Miguel Tequixtepec,Oaxaca,1
+MX20286,San Miguel Tlacotepec,Oaxaca,1
+MX20288,San Miguel Yotao,Oaxaca,1
+MX20289,San Nicolás,Oaxaca,1
+MX20290,San Nicolás Hidalgo,Oaxaca,1
+MX20291,San Pablo Coatlán,Oaxaca,2
+MX20292,San Pablo Cuatro Venados,Oaxaca,2
+MX20293,San Pablo Etla,Oaxaca,3
+MX20294,San Pablo Huitzo,Oaxaca,2
+MX20295,San Pablo Huixtepec,Oaxaca,4
+MX20296,San Pablo Macuiltianguis,Oaxaca,2
+MX20298,San Pablo Villa de Mitla,Oaxaca,3
+MX20299,San Pablo Yaganiza,Oaxaca,1
+MX20301,San Pedro Apóstol,Oaxaca,1
+MX20303,San Pedro Cajonos,Oaxaca,1
+MX20304,San Pedro Coxcaltepec Cántaros,Oaxaca,1
+MX20305,San Pedro Comitancillo,Oaxaca,1
+MX20307,San Pedro Huamelula,Oaxaca,6
+MX20308,San Pedro Huilotepec,Oaxaca,1
+MX20309,San Pedro Ixcatlán,Oaxaca,3
+MX20310,San Pedro Ixtlahuaca,Oaxaca,1
+MX20311,San Pedro Jaltepetongo,Oaxaca,1
+MX20312,San Pedro Jicayán,Oaxaca,1
+MX20315,San Pedro Mártir,Oaxaca,1
+MX20316,San Pedro Mártir Quiechapa,Oaxaca,1
+MX20318,San Pedro Mixtepec -Dto. 22 -,Oaxaca,22
+MX20319,San Pedro Mixtepec -Dto. 26 -,Oaxaca,1
+MX20321,San Pedro Nopala,Oaxaca,1
+MX20322,San Pedro Ocopetatillo,Oaxaca,1
+MX20323,San Pedro Ocotepec,Oaxaca,2
+MX20324,San Pedro Pochutla,Oaxaca,15
+MX20325,San Pedro Quiatoni,Oaxaca,1
+MX20326,San Pedro Sochiápam,Oaxaca,1
+MX20327,San Pedro Tapanatepec,Oaxaca,8
+MX20328,San Pedro Taviche,Oaxaca,1
+MX20330,San Pedro Teutila,Oaxaca,3
+MX20332,San Pedro Topiltepec,Oaxaca,1
+MX20334,Villa de Tututepec de Melchor Ocampo,Oaxaca,19
+MX20335,San Pedro Yaneri,Oaxaca,1
+MX20336,San Pedro Yólox,Oaxaca,2
+MX20337,San Pedro y San Pablo Ayutla,Oaxaca,2
+MX20338,Villa de Etla,Oaxaca,6
+MX20339,San Pedro y San Pablo Teposcolula,Oaxaca,2
+MX20340,San Pedro y San Pablo Tequixtepec,Oaxaca,1
+MX20342,San Raymundo Jalpan,Oaxaca,3
+MX20343,San Sebastián Abasolo,Oaxaca,1
+MX20344,San Sebastián Coatlán,Oaxaca,1
+MX20347,San Sebastián Río Hondo,Oaxaca,2
+MX20348,San Sebastián Tecomaxtlahuaca,Oaxaca,1
+MX20350,San Sebastián Tutla,Oaxaca,6
+MX20351,San Simón Almolongas,Oaxaca,1
+MX20356,Santa Ana del Valle,Oaxaca,1
+MX20361,Santa Catalina Quierí,Oaxaca,1
+MX20362,Santa Catarina Cuixtla,Oaxaca,1
+MX20363,Santa Catarina Ixtepeji,Oaxaca,3
+MX20364,Santa Catarina Juquila,Oaxaca,4
+MX20365,Santa Catarina Lachatao,Oaxaca,2
+MX20366,Santa Catarina Loxicha,Oaxaca,2
+MX20368,Santa Catarina Minas,Oaxaca,1
+MX20369,Santa Catarina Quiané,Oaxaca,1
+MX20371,Santa Catarina Ticuá,Oaxaca,2
+MX20373,Santa Catarina Zapoquila,Oaxaca,1
+MX20374,Santa Cruz Acatepec,Oaxaca,1
+MX20375,Santa Cruz Amilpas,Oaxaca,2
+MX20376,Santa Cruz de Bravo,Oaxaca,1
+MX20377,Santa Cruz Itundujia,Oaxaca,7
+MX20378,Santa Cruz Mixtepec,Oaxaca,3
+MX20380,Santa Cruz Papalutla,Oaxaca,1
+MX20381,Santa Cruz Tacache de Mina,Oaxaca,1
+MX20385,Santa Cruz Xoxocotlán,Oaxaca,16
+MX20386,Santa Cruz Zenzontepec,Oaxaca,5
+MX20387,Santa Gertrudis,Oaxaca,1
+MX20388,Santa Inés del Monte,Oaxaca,1
+MX20389,Santa Inés Yatzeche,Oaxaca,1
+MX20390,Santa Lucía del Camino,Oaxaca,17
+MX20392,Santa Lucía Monteverde,Oaxaca,4
+MX20393,Santa Lucía Ocotlán,Oaxaca,1
+MX20394,Santa María Alotepec,Oaxaca,1
+MX20395,Santa María Apazco,Oaxaca,1
+MX20396,Santa María la Asunción,Oaxaca,1
+MX20397,Heroica Ciudad de Tlaxiaco,Oaxaca,6
+MX20398,Ayoquezco de Aldama,Oaxaca,1
+MX20399,Santa María Atzompa,Oaxaca,6
+MX20400,Santa María Camotlán,Oaxaca,1
+MX20401,Santa María Colotepec,Oaxaca,7
+MX20402,Santa María Cortijo,Oaxaca,1
+MX20403,Santa María Coyotepec,Oaxaca,3
+MX20405,Villa de Chilapa de Díaz,Oaxaca,1
+MX20406,Santa María Chilchotla,Oaxaca,4
+MX20407,Santa María Chimalapa,Oaxaca,6
+MX20409,Santa María del Tule,Oaxaca,2
+MX20410,Santa María Ecatepec,Oaxaca,3
+MX20411,Santa María Guelacé,Oaxaca,1
+MX20412,Santa María Guienagati,Oaxaca,1
+MX20413,Santa María Huatulco,Oaxaca,19
+MX20414,Santa María Huazolotitlán,Oaxaca,2
+MX20415,Santa María Ipalapa,Oaxaca,2
+MX20417,Santa María Jacatepec,Oaxaca,1
+MX20418,Santa María Jalapa del Marqués,Oaxaca,3
+MX20419,Santa María Jaltianguis,Oaxaca,1
+MX20420,Santa María Lachixío,Oaxaca,1
+MX20421,Santa María Mixtequilla,Oaxaca,1
+MX20422,Santa María Nativitas,Oaxaca,1
+MX20423,Santa María Nduayaco,Oaxaca,2
+MX20424,Santa María Ozolotepec,Oaxaca,2
+MX20426,Santa María Peñoles,Oaxaca,3
+MX20428,Santa María Quiegolani,Oaxaca,1
+MX20431,Santa María Tecomavaca,Oaxaca,1
+MX20433,Santa María Temaxcaltepec,Oaxaca,1
+MX20434,Santa María Teopoxco,Oaxaca,2
+MX20437,Santa María Tlahuitoltepec,Oaxaca,1
+MX20439,Santa María Tonameca,Oaxaca,10
+MX20441,Santa María Xadani,Oaxaca,1
+MX20442,Santa María Yalina,Oaxaca,1
+MX20443,Santa María Yavesía,Oaxaca,1
+MX20446,Santa María Yucuhiti,Oaxaca,3
+MX20447,Santa María Zacatepec,Oaxaca,4
+MX20448,Santa María Zaniza,Oaxaca,1
+MX20450,Santiago Amoltepec,Oaxaca,5
+MX20451,Santiago Apoala,Oaxaca,1
+MX20453,Santiago Astata,Oaxaca,2
+MX20454,Santiago Atitlán,Oaxaca,1
+MX20457,Santiago Camotlán,Oaxaca,1
+MX20458,Santiago Comaltepec,Oaxaca,1
+MX20459,Santiago Chazumba,Oaxaca,2
+MX20460,Santiago Choápam,Oaxaca,2
+MX20462,Santiago Huajolotitlán,Oaxaca,2
+MX20464,Santiago Ihuitlán Plumas,Oaxaca,2
+MX20466,Santiago Ixtayutla,Oaxaca,1
+MX20467,Santiago Jamiltepec,Oaxaca,3
+MX20468,Santiago Jocotepec,Oaxaca,4
+MX20469,Santiago Juxtlahuaca,Oaxaca,12
+MX20470,Santiago Lachiguiri,Oaxaca,1
+MX20471,Santiago Lalopa,Oaxaca,1
+MX20472,Santiago Laollaga,Oaxaca,1
+MX20473,Santiago Laxopa,Oaxaca,1
+MX20474,Santiago Llano Grande,Oaxaca,2
+MX20475,Santiago Matatlán,Oaxaca,4
+MX20482,Santiago Pinotepa Nacional,Oaxaca,30
+MX20483,Santiago Suchilquitongo,Oaxaca,2
+MX20484,Santiago Tamazola,Oaxaca,2
+MX20486,Villa Tejúpam de la Unión,Oaxaca,2
+MX20489,Santiago Tetepec,Oaxaca,1
+MX20491,Santiago Textitlán,Oaxaca,3
+MX20492,Santiago Tilantongo,Oaxaca,4
+MX20494,Santiago Tlazoyaltepec,Oaxaca,4
+MX20495,Santiago Xanica,Oaxaca,1
+MX20496,Santiago Xiacuí,Oaxaca,1
+MX20497,Santiago Yaitepec,Oaxaca,1
+MX20498,Santiago Yaveo,Oaxaca,4
+MX20499,Santiago Yolomécatl,Oaxaca,1
+MX20500,Santiago Yosondúa,Oaxaca,2
+MX20501,Santiago Yucuyachi,Oaxaca,1
+MX20502,Santiago Zacatepec,Oaxaca,3
+MX20504,Nuevo Zoquiápam,Oaxaca,1
+MX20505,Santo Domingo Ingenio,Oaxaca,1
+MX20507,Santo Domingo Armenta,Oaxaca,1
+MX20508,Santo Domingo Chihuitán,Oaxaca,1
+MX20509,Santo Domingo de Morelos,Oaxaca,2
+MX20510,Santo Domingo Ixcatlán,Oaxaca,1
+MX20511,Santo Domingo Nuxaá,Oaxaca,4
+MX20512,Santo Domingo Ozolotepec,Oaxaca,1
+MX20513,Santo Domingo Petapa,Oaxaca,1
+MX20514,Santo Domingo Roayaga,Oaxaca,1
+MX20515,Santo Domingo Tehuantepec,Oaxaca,22
+MX20516,Santo Domingo Teojomulco,Oaxaca,2
+MX20519,Santo Domingo Tomaltepec,Oaxaca,1
+MX20520,Santo Domingo Tonalá,Oaxaca,3
+MX20521,Santo Domingo Tonaltepec,Oaxaca,1
+MX20522,Santo Domingo Xagacía,Oaxaca,1
+MX20524,Santo Domingo Yodohino,Oaxaca,1
+MX20525,Santo Domingo Zanatepec,Oaxaca,6
+MX20526,Santos Reyes Nopala,Oaxaca,4
+MX20529,Santos Reyes Yucuná,Oaxaca,2
+MX20530,Santo Tomás Jalieza,Oaxaca,2
+MX20531,Santo Tomás Mazaltepec,Oaxaca,1
+MX20532,Santo Tomás Ocotepec,Oaxaca,3
+MX20533,Santo Tomás Tamazulapan,Oaxaca,1
+MX20534,San Vicente Coatlán,Oaxaca,2
+MX20535,San Vicente Lachixío,Oaxaca,1
+MX20537,Silacayoápam,Oaxaca,6
+MX20539,Soledad Etla,Oaxaca,1
+MX20540,Villa de Tamazulápam del Progreso,Oaxaca,4
+MX20542,Taniche,Oaxaca,1
+MX20544,Teococuilco de Marcos Pérez,Oaxaca,2
+MX20545,Teotitlán de Flores Magón,Oaxaca,5
+MX20546,Teotitlán del Valle,Oaxaca,1
+MX20547,Teotongo,Oaxaca,1
+MX20548,Tepelmeme Villa de Morelos,Oaxaca,2
+MX20549,Heroica Villa Tezoatlán de Segura y Luna,Oaxaca,3
+MX20550,San Jerónimo Tlacochahuaya,Oaxaca,2
+MX20551,Tlacolula de Matamoros,Oaxaca,8
+MX20553,Tlalixtac de Cabrera,Oaxaca,2
+MX20554,Totontepec Villa de Morelos,Oaxaca,1
+MX20555,Trinidad Zaachila,Oaxaca,3
+MX20557,Unión Hidalgo,Oaxaca,2
+MX20558,Valerio Trujano,Oaxaca,1
+MX20559,San Juan Bautista Valle Nacional,Oaxaca,9
+MX20560,Villa Díaz Ordaz,Oaxaca,3
+MX20562,Magdalena Yodocono de Porfirio Díaz,Oaxaca,1
+MX20563,Yogana,Oaxaca,1
+MX20564,Yutanduchi de Guerrero,Oaxaca,1
+MX20565,Villa de Zaachila,Oaxaca,10
+MX20566,San Mateo Yucutindó,Oaxaca,1
+MX20567,Zapotitlán Lagunas,Oaxaca,1
+MX20570,Zimatlán de Álvarez,Oaxaca,13
+MX21001,Acajete,Puebla,15
+MX21002,Acateno,Puebla,3
+MX21003,Acatlán,Puebla,26
+MX21004,Acatzingo,Puebla,25
+MX21005,Acteopan,Puebla,1
+MX21006,Ahuacatlán,Puebla,6
+MX21007,Ahuatlán,Puebla,1
+MX21008,Ahuazotepec,Puebla,3
+MX21010,Ajalpan,Puebla,16
+MX21011,Albino Zertuche,Puebla,1
+MX21012,Aljojuca,Puebla,2
+MX21013,Altepexi,Puebla,2
+MX21014,Amixtlán,Puebla,1
+MX21015,Amozoc,Puebla,27
+MX21016,Aquixtla,Puebla,1
+MX21017,Atempan,Puebla,5
+MX21018,Atexcal,Puebla,1
+MX21019,Atlixco,Puebla,56
+MX21020,Atoyatempan,Puebla,1
+MX21021,Atzala,Puebla,1
+MX21022,Atzitzihuacán,Puebla,4
+MX21023,Atzitzintla,Puebla,1
+MX21025,Ayotoxco de Guerrero,Puebla,3
+MX21026,Calpan,Puebla,3
+MX21027,Caltepec,Puebla,1
+MX21031,Coatzingo,Puebla,1
+MX21032,Cohetzala,Puebla,1
+MX21034,Coronango,Puebla,6
+MX21035,Coxcatlán,Puebla,8
+MX21036,Coyomeapan,Puebla,3
+MX21037,Coyotepec,Puebla,1
+MX21038,Cuapiaxtla de Madero,Puebla,2
+MX21039,Cuautempan,Puebla,3
+MX21040,Cuautinchán,Puebla,1
+MX21041,Cuautlancingo,Puebla,22
+MX21042,Cuayuca de Andrade,Puebla,2
+MX21043,Cuetzalan del Progreso,Puebla,16
+MX21044,Cuyoaco,Puebla,5
+MX21045,Chalchicomula de Sesma,Puebla,14
+MX21046,Chapulco,Puebla,1
+MX21047,Chiautla,Puebla,9
+MX21048,Chiautzingo,Puebla,4
+MX21049,Chiconcuautla,Puebla,4
+MX21050,Chichiquila,Puebla,5
+MX21051,Chietla,Puebla,11
+MX21052,Chigmecatitlán,Puebla,1
+MX21053,Chignahuapan,Puebla,15
+MX21054,Chignautla,Puebla,5
+MX21055,Chila,Puebla,2
+MX21056,Chila de la Sal,Puebla,1
+MX21057,Honey,Puebla,1
+MX21058,Chilchotla,Puebla,4
+MX21059,Chinantla,Puebla,2
+MX21060,Domingo Arenas,Puebla,1
+MX21061,Eloxochitlán,Puebla,5
+MX21062,Epatlán,Puebla,2
+MX21063,Esperanza,Puebla,4
+MX21064,Francisco Z. Mena,Puebla,3
+MX21065,General Felipe Ángeles,Puebla,6
+MX21066,Guadalupe,Puebla,4
+MX21067,Guadalupe Victoria,Puebla,3
+MX21068,Hermenegildo Galeana,Puebla,3
+MX21069,Huaquechula,Puebla,4
+MX21070,Huatlatlauca,Puebla,2
+MX21071,Huauchinango,Puebla,27
+MX21072,Huehuetla,Puebla,12
+MX21073,Huehuetlán el Chico,Puebla,1
+MX21074,Huejotzingo,Puebla,16
+MX21075,Hueyapan,Puebla,2
+MX21076,Hueytamalco,Puebla,3
+MX21077,Hueytlalpan,Puebla,1
+MX21078,Huitzilan de Serdán,Puebla,3
+MX21079,Huitziltepec,Puebla,1
+MX21081,Ixcamilpa de Guerrero,Puebla,3
+MX21082,Ixcaquixtla,Puebla,3
+MX21083,Ixtacamaxtitlán,Puebla,9
+MX21085,Izúcar de Matamoros,Puebla,32
+MX21086,Jalpan,Puebla,4
+MX21087,Jolalpan,Puebla,3
+MX21088,Jonotla,Puebla,1
+MX21089,Jopala,Puebla,2
+MX21090,Juan C. Bonilla,Puebla,3
+MX21091,Juan Galindo,Puebla,5
+MX21092,Juan N. Méndez,Puebla,2
+MX21093,Lafragua,Puebla,1
+MX21094,Libres,Puebla,13
+MX21096,Mazapiltepec de Juárez,Puebla,2
+MX21097,Mixtla,Puebla,1
+MX21098,Molcaxac,Puebla,3
+MX21099,Cañada Morelos,Puebla,5
+MX21100,Naupan,Puebla,3
+MX21101,Nauzontla,Puebla,3
+MX21102,Nealtican,Puebla,1
+MX21103,Nicolás Bravo,Puebla,3
+MX21104,Nopalucan,Puebla,5
+MX21105,Ocotepec,Puebla,1
+MX21106,Ocoyucan,Puebla,4
+MX21107,Olintla,Puebla,2
+MX21108,Oriental,Puebla,6
+MX21109,Pahuatlán,Puebla,4
+MX21110,Palmar de Bravo,Puebla,10
+MX21111,Pantepec,Puebla,5
+MX21112,Petlalcingo,Puebla,1
+MX21113,Piaxtla,Puebla,1
+MX21114,Puebla,Puebla,560
+MX21115,Quecholac,Puebla,8
+MX21116,Quimixtlán,Puebla,7
+MX21117,Rafael Lara Grajales,Puebla,8
+MX21118,Los Reyes de Juárez,Puebla,8
+MX21119,San Andrés Cholula,Puebla,42
+MX21120,San Antonio Cañada,Puebla,1
+MX21121,San Diego la Mesa Tochimiltzingo,Puebla,1
+MX21122,San Felipe Teotlalcingo,Puebla,1
+MX21123,San Felipe Tepatlán,Puebla,1
+MX21124,San Gabriel Chilac,Puebla,3
+MX21125,San Gregorio Atzompa,Puebla,5
+MX21126,San Jerónimo Tecuanipan,Puebla,3
+MX21128,San José Chiapa,Puebla,4
+MX21129,San José Miahuatlán,Puebla,3
+MX21130,San Juan Atenco,Puebla,1
+MX21132,San Martín Texmelucan,Puebla,51
+MX21133,San Martín Totoltepec,Puebla,1
+MX21134,San Matías Tlalancaleca,Puebla,3
+MX21135,San Miguel Ixitlán,Puebla,1
+MX21136,San Miguel Xoxtla,Puebla,3
+MX21137,San Nicolás Buenos Aires,Puebla,1
+MX21138,San Nicolás de los Ranchos,Puebla,2
+MX21139,San Pablo Anicano,Puebla,1
+MX21140,San Pedro Cholula,Puebla,45
+MX21141,San Pedro Yeloixtlahuaca,Puebla,1
+MX21142,San Salvador el Seco,Puebla,6
+MX21143,San Salvador el Verde,Puebla,7
+MX21144,San Salvador Huixcolotla,Puebla,5
+MX21145,San Sebastián Tlacotepec,Puebla,10
+MX21147,Santa Inés Ahuatempan,Puebla,1
+MX21148,Santa Isabel Cholula,Puebla,3
+MX21149,Santiago Miahuatlán,Puebla,2
+MX21150,Huehuetlán el Grande,Puebla,1
+MX21151,Santo Tomás Hueyotlipan,Puebla,1
+MX21152,Soltepec,Puebla,2
+MX21153,Tecali de Herrera,Puebla,5
+MX21154,Tecamachalco,Puebla,30
+MX21155,Tecomatlán,Puebla,2
+MX21156,Tehuacán,Puebla,90
+MX21157,Tehuitzingo,Puebla,2
+MX21158,Tenampulco,Puebla,1
+MX21160,Teotlalco,Puebla,2
+MX21161,Tepanco de López,Puebla,5
+MX21163,Tepatlaxco de Hidalgo,Puebla,2
+MX21164,Tepeaca,Puebla,35
+MX21165,Tepemaxalco,Puebla,1
+MX21166,Tepeojuma,Puebla,3
+MX21167,Tepetzintla,Puebla,5
+MX21168,Tepexco,Puebla,2
+MX21169,Tepexi de Rodríguez,Puebla,3
+MX21170,Tepeyahualco,Puebla,5
+MX21171,Tepeyahualco de Cuauhtémoc,Puebla,1
+MX21172,Tetela de Ocampo,Puebla,10
+MX21173,Teteles de Avila Castillo,Puebla,1
+MX21174,Teziutlán,Puebla,31
+MX21175,Tianguismanalco,Puebla,1
+MX21176,Tilapa,Puebla,1
+MX21177,Tlacotepec de Benito Juárez,Puebla,11
+MX21178,Tlacuilotepec,Puebla,4
+MX21179,Tlachichuca,Puebla,10
+MX21180,Tlahuapan,Puebla,9
+MX21181,Tlaltenango,Puebla,1
+MX21182,Tlanepantla,Puebla,1
+MX21183,Tlaola,Puebla,6
+MX21184,Tlapacoya,Puebla,2
+MX21185,Tlapanalá,Puebla,1
+MX21186,Tlatlauquitepec,Puebla,13
+MX21187,Tlaxco,Puebla,2
+MX21188,Tochimilco,Puebla,5
+MX21189,Tochtepec,Puebla,4
+MX21191,Tulcingo,Puebla,4
+MX21192,Tuzamapan de Galeana,Puebla,1
+MX21193,Tzicatlacoyan,Puebla,2
+MX21194,Venustiano Carranza,Puebla,6
+MX21195,Vicente Guerrero,Puebla,6
+MX21196,Xayacatlán de Bravo,Puebla,1
+MX21197,Xicotepec,Puebla,21
+MX21199,Xiutetelco,Puebla,12
+MX21200,Xochiapulco,Puebla,2
+MX21201,Xochiltepec,Puebla,1
+MX21202,Xochitlán de Vicente Suárez,Puebla,4
+MX21203,Xochitlán Todos Santos,Puebla,1
+MX21204,Yaonáhuac,Puebla,1
+MX21205,Yehualtepec,Puebla,4
+MX21206,Zacapala,Puebla,2
+MX21207,Zacapoaxtla,Puebla,19
+MX21208,Zacatlán,Puebla,29
+MX21209,Zapotitlán,Puebla,2
+MX21210,Zapotitlán de Méndez,Puebla,3
+MX21211,Zaragoza,Puebla,7
+MX21212,Zautla,Puebla,6
+MX21213,Zihuateutla,Puebla,4
+MX21214,Zinacatepec,Puebla,3
+MX21215,Zongozotla,Puebla,2
+MX21216,Zoquiapan,Puebla,1
+MX21217,Zoquitlán,Puebla,8
+MX22001,Amealco de Bonfil,Querétaro de Arteaga,26
+MX22002,Pinal de Amoles,Querétaro de Arteaga,9
+MX22003,Arroyo Seco,Querétaro de Arteaga,7
+MX22004,Cadereyta de Montes,Querétaro de Arteaga,26
+MX22005,Colón,Querétaro de Arteaga,11
+MX22006,Corregidora,Querétaro de Arteaga,62
+MX22007,Ezequiel Montes,Querétaro de Arteaga,17
+MX22008,Huimilpan,Querétaro de Arteaga,11
+MX22009,Jalpan de Serra,Querétaro de Arteaga,20
+MX22010,Landa de Matamoros,Querétaro de Arteaga,10
+MX22011,El Marqués,Querétaro de Arteaga,29
+MX22012,Pedro Escobedo,Querétaro de Arteaga,20
+MX22013,Peñamiller,Querétaro de Arteaga,14
+MX22014,Querétaro,Querétaro de Arteaga,289
+MX22015,San Joaquín,Querétaro de Arteaga,8
+MX22016,San Juan del Río,Querétaro de Arteaga,60
+MX22017,Tequisquiapan,Querétaro de Arteaga,23
+MX22018,Tolimán,Querétaro de Arteaga,9
+MX23001,Cozumel,Quintana Roo,30
+MX23002,Felipe Carrillo Puerto,Quintana Roo,56
+MX23003,Isla Mujeres,Quintana Roo,9
+MX23004,Othón P. Blanco,Quintana Roo,113
+MX23005,Benito Juárez,Quintana Roo,291
+MX23006,José María Morelos,Quintana Roo,24
+MX23007,Lázaro Cárdenas,Quintana Roo,20
+MX23008,Solidaridad,Quintana Roo,87
+MX23009,Tulum,Quintana Roo,17
+MX23010,Bacalar,Quintana Roo,36
+MX24001,Ahualulco,San Luis Potosí,8
+MX24002,Alaquines,San Luis Potosí,2
+MX24003,Aquismón,San Luis Potosí,13
+MX24004,Armadillo de los Infante,San Luis Potosí,1
+MX24005,Cárdenas,San Luis Potosí,6
+MX24006,Catorce,San Luis Potosí,2
+MX24007,Cedral,San Luis Potosí,5
+MX24008,Cerritos,San Luis Potosí,11
+MX24009,Cerro de San Pedro,San Luis Potosí,2
+MX24010,Ciudad del Maíz,San Luis Potosí,4
+MX24011,Ciudad Fernández,San Luis Potosí,7
+MX24012,Tancanhuitz,San Luis Potosí,7
+MX24013,Ciudad Valles,San Luis Potosí,50
+MX24014,Coxcatlán,San Luis Potosí,5
+MX24015,Charcas,San Luis Potosí,3
+MX24016,Ebano,San Luis Potosí,12
+MX24017,Guadalcázar,San Luis Potosí,5
+MX24018,Huehuetlán,San Luis Potosí,4
+MX24019,Lagunillas,San Luis Potosí,2
+MX24020,Matehuala,San Luis Potosí,31
+MX24021,Mexquitic de Carmona,San Luis Potosí,5
+MX24022,Moctezuma,San Luis Potosí,5
+MX24023,Rayón,San Luis Potosí,3
+MX24024,Rioverde,San Luis Potosí,29
+MX24025,Salinas,San Luis Potosí,7
+MX24026,San Antonio,San Luis Potosí,2
+MX24027,San Ciro de Acosta,San Luis Potosí,3
+MX24028,San Luis Potosí,San Luis Potosí,214
+MX24029,San Martín Chalchicuautla,San Luis Potosí,9
+MX24030,San Nicolás Tolentino,San Luis Potosí,3
+MX24031,Santa Catarina,San Luis Potosí,4
+MX24032,Santa María del Río,San Luis Potosí,12
+MX24033,Santo Domingo,San Luis Potosí,2
+MX24034,San Vicente Tancuayalab,San Luis Potosí,6
+MX24035,Soledad de Graciano Sánchez,San Luis Potosí,54
+MX24036,Tamasopo,San Luis Potosí,11
+MX24037,Tamazunchale,San Luis Potosí,35
+MX24038,Tampacán,San Luis Potosí,3
+MX24039,Tampamolón Corona,San Luis Potosí,8
+MX24040,Tamuín,San Luis Potosí,16
+MX24041,Tanlajás,San Luis Potosí,10
+MX24042,Tanquián de Escobedo,San Luis Potosí,4
+MX24043,Tierra Nueva,San Luis Potosí,4
+MX24044,Vanegas,San Luis Potosí,3
+MX24045,Venado,San Luis Potosí,4
+MX24046,Villa de Arriaga,San Luis Potosí,5
+MX24047,Villa de Guadalupe,San Luis Potosí,2
+MX24048,Villa de la Paz,San Luis Potosí,1
+MX24049,Villa de Ramos,San Luis Potosí,4
+MX24050,Villa de Reyes,San Luis Potosí,11
+MX24051,Villa Hidalgo,San Luis Potosí,6
+MX24052,Villa Juárez,San Luis Potosí,3
+MX24053,Axtla de Terrazas,San Luis Potosí,11
+MX24054,Xilitla,San Luis Potosí,18
+MX24055,Zaragoza,San Luis Potosí,4
+MX24056,Villa de Arista,San Luis Potosí,3
+MX24057,Matlapa,San Luis Potosí,11
+MX24058,El Naranjo,San Luis Potosí,7
+MX25001,Ahome,Sinaloa,92
+MX25002,Angostura,Sinaloa,15
+MX25003,Badiraguato,Sinaloa,26
+MX25004,Concordia,Sinaloa,10
+MX25005,Cosalá,Sinaloa,11
+MX25006,Culiacán,Sinaloa,267
+MX25007,Choix,Sinaloa,16
+MX25008,Elota,Sinaloa,7
+MX25009,Escuinapa,Sinaloa,20
+MX25010,El Fuerte,Sinaloa,23
+MX25011,Guasave,Sinaloa,71
+MX25012,Mazatlán,Sinaloa,131
+MX25013,Mocorito,Sinaloa,27
+MX25014,Rosario,Sinaloa,13
+MX25015,Salvador Alvarado,Sinaloa,30
+MX25016,San Ignacio,Sinaloa,13
+MX25017,Sinaloa,Sinaloa,23
+MX25018,Navolato,Sinaloa,27
+MX26001,Aconchi,Sonora,4
+MX26002,Agua Prieta,Sonora,20
+MX26003,Alamos,Sonora,26
+MX26004,Altar,Sonora,3
+MX26005,Arivechi,Sonora,3
+MX26006,Arizpe,Sonora,4
+MX26007,Atil,Sonora,1
+MX26008,Bacadéhuachi,Sonora,1
+MX26009,Bacanora,Sonora,2
+MX26010,Bacerac,Sonora,2
+MX26011,Bacoachi,Sonora,2
+MX26012,Bácum,Sonora,11
+MX26013,Banámichi,Sonora,1
+MX26014,Baviácora,Sonora,3
+MX26015,Bavispe,Sonora,2
+MX26016,Benjamín Hill,Sonora,3
+MX26017,Caborca,Sonora,26
+MX26018,Cajeme,Sonora,94
+MX26019,Cananea,Sonora,9
+MX26020,Carbó,Sonora,2
+MX26021,La Colorada,Sonora,6
+MX26022,Cucurpe,Sonora,1
+MX26023,Cumpas,Sonora,5
+MX26024,Divisaderos,Sonora,1
+MX26025,Empalme,Sonora,17
+MX26026,Etchojoa,Sonora,26
+MX26027,Fronteras,Sonora,6
+MX26028,Granados,Sonora,1
+MX26029,Guaymas,Sonora,50
+MX26030,Hermosillo,Sonora,170
+MX26031,Huachinera,Sonora,2
+MX26032,Huásabas,Sonora,1
+MX26033,Huatabampo,Sonora,36
+MX26034,Huépac,Sonora,2
+MX26035,Imuris,Sonora,9
+MX26036,Magdalena,Sonora,12
+MX26037,Mazatán,Sonora,2
+MX26038,Moctezuma,Sonora,4
+MX26039,Naco,Sonora,2
+MX26040,Nácori Chico,Sonora,2
+MX26041,Nacozari de García,Sonora,3
+MX26042,Navojoa,Sonora,61
+MX26043,Nogales,Sonora,52
+MX26044,Onavas,Sonora,1
+MX26045,Opodepe,Sonora,3
+MX26046,Oquitoa,Sonora,1
+MX26047,Pitiquito,Sonora,6
+MX26048,Puerto Peñasco,Sonora,15
+MX26049,Quiriego,Sonora,4
+MX26050,Rayón,Sonora,1
+MX26051,Rosario,Sonora,6
+MX26052,Sahuaripa,Sonora,5
+MX26053,San Felipe de Jesús,Sonora,1
+MX26054,San Javier,Sonora,1
+MX26055,San Luis Río Colorado,Sonora,35
+MX26056,San Miguel de Horcasitas,Sonora,4
+MX26057,San Pedro de la Cueva,Sonora,3
+MX26058,Santa Ana,Sonora,9
+MX26059,Santa Cruz,Sonora,2
+MX26060,Sáric,Sonora,2
+MX26061,Soyopa,Sonora,5
+MX26062,Suaqui Grande,Sonora,1
+MX26063,Tepache,Sonora,1
+MX26064,Trincheras,Sonora,2
+MX26065,Tubutama,Sonora,3
+MX26066,Ures,Sonora,7
+MX26067,Villa Hidalgo,Sonora,2
+MX26068,Villa Pesqueira,Sonora,3
+MX26069,Yécora,Sonora,5
+MX26070,General Plutarco Elías Calles,Sonora,4
+MX26071,Benito Juárez,Sonora,7
+MX26072,San Ignacio Río Muerto,Sonora,5
+MX27001,Balancán,Tabasco,32
+MX27002,Cárdenas,Tabasco,91
+MX27003,Centla,Tabasco,45
+MX27004,Centro,Tabasco,257
+MX27005,Comalcalco,Tabasco,77
+MX27006,Cunduacán,Tabasco,50
+MX27007,Emiliano Zapata,Tabasco,16
+MX27008,Huimanguillo,Tabasco,74
+MX27009,Jalapa,Tabasco,14
+MX27010,Jalpa de Méndez,Tabasco,35
+MX27011,Jonuta,Tabasco,26
+MX27012,Macuspana,Tabasco,79
+MX27013,Nacajuca,Tabasco,47
+MX27014,Paraíso,Tabasco,30
+MX27015,Tacotalpa,Tabasco,31
+MX27016,Teapa,Tabasco,25
+MX27017,Tenosique,Tabasco,34
+MX28001,Abasolo,Tamaulipas,10
+MX28002,Aldama,Tamaulipas,10
+MX28003,Altamira,Tamaulipas,43
+MX28004,Antiguo Morelos,Tamaulipas,3
+MX28005,Burgos,Tamaulipas,1
+MX28006,Bustamante,Tamaulipas,4
+MX28007,Camargo,Tamaulipas,11
+MX28008,Casas,Tamaulipas,3
+MX28009,Ciudad Madero,Tamaulipas,37
+MX28010,Cruillas,Tamaulipas,1
+MX28011,Gómez Farías,Tamaulipas,4
+MX28012,González,Tamaulipas,11
+MX28013,Güémez,Tamaulipas,4
+MX28014,Guerrero,Tamaulipas,3
+MX28015,Gustavo Díaz Ordaz,Tamaulipas,6
+MX28016,Hidalgo,Tamaulipas,8
+MX28017,Jaumave,Tamaulipas,10
+MX28018,Jiménez,Tamaulipas,4
+MX28019,Llera,Tamaulipas,10
+MX28020,Mainero,Tamaulipas,2
+MX28021,El Mante,Tamaulipas,38
+MX28022,Matamoros,Tamaulipas,136
+MX28023,Méndez,Tamaulipas,2
+MX28024,Mier,Tamaulipas,3
+MX28025,Miguel Alemán,Tamaulipas,13
+MX28026,Miquihuana,Tamaulipas,3
+MX28027,Nuevo Laredo,Tamaulipas,70
+MX28028,Nuevo Morelos,Tamaulipas,3
+MX28029,Ocampo,Tamaulipas,5
+MX28030,Padilla,Tamaulipas,5
+MX28031,Palmillas,Tamaulipas,1
+MX28032,Reynosa,Tamaulipas,163
+MX28033,Río Bravo,Tamaulipas,37
+MX28034,San Carlos,Tamaulipas,6
+MX28035,San Fernando,Tamaulipas,29
+MX28036,San Nicolás,Tamaulipas,1
+MX28037,Soto la Marina,Tamaulipas,11
+MX28038,Tampico,Tamaulipas,81
+MX28039,Tula,Tamaulipas,6
+MX28040,Valle Hermoso,Tamaulipas,22
+MX28041,Victoria,Tamaulipas,82
+MX28042,Villagrán,Tamaulipas,5
+MX28043,Xicoténcatl,Tamaulipas,7
+MX29001,Amaxac de Guerrero,Tlaxcala,4
+MX29002,Apetatitlán de Antonio Carvajal,Tlaxcala,9
+MX29003,Atlangatepec,Tlaxcala,5
+MX29004,Atltzayanca,Tlaxcala,7
+MX29005,Apizaco,Tlaxcala,40
+MX29006,Calpulalpan,Tlaxcala,12
+MX29007,El Carmen Tequexquitla,Tlaxcala,2
+MX29008,Cuapiaxtla,Tlaxcala,3
+MX29009,Cuaxomulco,Tlaxcala,3
+MX29010,Chiautempan,Tlaxcala,16
+MX29011,Muñoz de Domingo Arenas,Tlaxcala,2
+MX29012,Españita,Tlaxcala,5
+MX29013,Huamantla,Tlaxcala,28
+MX29014,Hueyotlipan,Tlaxcala,5
+MX29015,Ixtacuixtla de Mariano Matamoros,Tlaxcala,10
+MX29016,Ixtenco,Tlaxcala,1
+MX29017,Mazatecochco de José María Morelos,Tlaxcala,1
+MX29018,Contla de Juan Cuamatzi,Tlaxcala,6
+MX29019,Tepetitla de Lardizábal,Tlaxcala,4
+MX29020,Sanctórum de Lázaro Cárdenas,Tlaxcala,2
+MX29021,Nanacamilpa de Mariano Arista,Tlaxcala,5
+MX29022,Acuamanala de Miguel Hidalgo,Tlaxcala,1
+MX29023,Natívitas,Tlaxcala,9
+MX29024,Panotla,Tlaxcala,6
+MX29025,San Pablo del Monte,Tlaxcala,12
+MX29026,Santa Cruz Tlaxcala,Tlaxcala,5
+MX29027,Tenancingo,Tlaxcala,3
+MX29028,Teolocholco,Tlaxcala,3
+MX29029,Tepeyanco,Tlaxcala,3
+MX29030,Terrenate,Tlaxcala,4
+MX29031,Tetla de la Solidaridad,Tlaxcala,5
+MX29032,Tetlatlahuca,Tlaxcala,5
+MX29033,Tlaxcala,Tlaxcala,40
+MX29034,Tlaxco,Tlaxcala,20
+MX29035,Tocatlán,Tlaxcala,1
+MX29036,Totolac,Tlaxcala,5
+MX29037,Ziltlaltépec de Trinidad Sánchez Santos,Tlaxcala,2
+MX29038,Tzompantepec,Tlaxcala,5
+MX29039,Xaloztoc,Tlaxcala,11
+MX29040,Xaltocan,Tlaxcala,4
+MX29041,Papalotla de Xicohténcatl,Tlaxcala,9
+MX29042,Xicohtzinco,Tlaxcala,5
+MX29043,Yauhquemehcan,Tlaxcala,6
+MX29044,Zacatelco,Tlaxcala,14
+MX29045,Benito Juárez,Tlaxcala,1
+MX29046,Emiliano Zapata,Tlaxcala,2
+MX29047,Lázaro Cárdenas,Tlaxcala,1
+MX29048,La Magdalena Tlaltelulco,Tlaxcala,4
+MX29049,San Damián Texóloc,Tlaxcala,1
+MX29050,San Francisco Tetlanohcan,Tlaxcala,3
+MX29051,San Jerónimo Zacualpan,Tlaxcala,1
+MX29052,San José Teacalco,Tlaxcala,1
+MX29053,San Juan Huactzinco,Tlaxcala,1
+MX29054,San Lorenzo Axocomanitla,Tlaxcala,1
+MX29055,San Lucas Tecopilco,Tlaxcala,1
+MX29056,Santa Ana Nopalucan,Tlaxcala,1
+MX29057,Santa Apolonia Teacalco,Tlaxcala,1
+MX29058,Santa Catarina Ayometla,Tlaxcala,2
+MX29059,Santa Cruz Quilehtla,Tlaxcala,2
+MX29060,Santa Isabel Xiloxoxtla,Tlaxcala,2
+MX30001,Acajete,Veracruz de Ignacio de la Llave,4
+MX30002,Acatlán,Veracruz de Ignacio de la Llave,1
+MX30003,Acayucan,Veracruz de Ignacio de la Llave,22
+MX30004,Actopan,Veracruz de Ignacio de la Llave,9
+MX30005,Acula,Veracruz de Ignacio de la Llave,3
+MX30006,Acultzingo,Veracruz de Ignacio de la Llave,4
+MX30007,Camarón de Tejeda,Veracruz de Ignacio de la Llave,2
+MX30008,Alpatláhuac,Veracruz de Ignacio de la Llave,3
+MX30009,Alto Lucero de Gutiérrez Barrios,Veracruz de Ignacio de la Llave,5
+MX30010,Altotonga,Veracruz de Ignacio de la Llave,12
+MX30011,Alvarado,Veracruz de Ignacio de la Llave,10
+MX30012,Amatitlán,Veracruz de Ignacio de la Llave,4
+MX30013,Naranjos Amatlán,Veracruz de Ignacio de la Llave,11
+MX30014,Amatlán de los Reyes,Veracruz de Ignacio de la Llave,8
+MX30015,Angel R. Cabada,Veracruz de Ignacio de la Llave,5
+MX30016,La Antigua,Veracruz de Ignacio de la Llave,8
+MX30017,Apazapan,Veracruz de Ignacio de la Llave,1
+MX30019,Astacinga,Veracruz de Ignacio de la Llave,4
+MX30020,Atlahuilco,Veracruz de Ignacio de la Llave,4
+MX30021,Atoyac,Veracruz de Ignacio de la Llave,8
+MX30022,Atzacan,Veracruz de Ignacio de la Llave,3
+MX30023,Atzalan,Veracruz de Ignacio de la Llave,12
+MX30024,Tlaltetela,Veracruz de Ignacio de la Llave,4
+MX30025,Ayahualulco,Veracruz de Ignacio de la Llave,6
+MX30026,Banderilla,Veracruz de Ignacio de la Llave,4
+MX30027,Benito Juárez,Veracruz de Ignacio de la Llave,3
+MX30028,Boca del Río,Veracruz de Ignacio de la Llave,44
+MX30029,Calcahualco,Veracruz de Ignacio de la Llave,3
+MX30030,Camerino Z. Mendoza,Veracruz de Ignacio de la Llave,10
+MX30031,Carrillo Puerto,Veracruz de Ignacio de la Llave,6
+MX30032,Catemaco,Veracruz de Ignacio de la Llave,11
+MX30033,Cazones de Herrera,Veracruz de Ignacio de la Llave,5
+MX30034,Cerro Azul,Veracruz de Ignacio de la Llave,7
+MX30035,Citlaltépetl,Veracruz de Ignacio de la Llave,2
+MX30036,Coacoatzintla,Veracruz de Ignacio de la Llave,2
+MX30037,Coahuitlán,Veracruz de Ignacio de la Llave,1
+MX30038,Coatepec,Veracruz de Ignacio de la Llave,18
+MX30039,Coatzacoalcos,Veracruz de Ignacio de la Llave,55
+MX30040,Coatzintla,Veracruz de Ignacio de la Llave,7
+MX30041,Coetzala,Veracruz de Ignacio de la Llave,2
+MX30042,Colipa,Veracruz de Ignacio de la Llave,3
+MX30043,Comapa,Veracruz de Ignacio de la Llave,5
+MX30044,Córdoba,Veracruz de Ignacio de la Llave,48
+MX30045,Cosamaloapan de Carpio,Veracruz de Ignacio de la Llave,17
+MX30046,Cosautlán de Carvajal,Veracruz de Ignacio de la Llave,3
+MX30047,Coscomatepec,Veracruz de Ignacio de la Llave,8
+MX30048,Cosoleacaque,Veracruz de Ignacio de la Llave,20
+MX30049,Cotaxtla,Veracruz de Ignacio de la Llave,10
+MX30050,Coxquihui,Veracruz de Ignacio de la Llave,2
+MX30051,Coyutla,Veracruz de Ignacio de la Llave,4
+MX30052,Cuichapa,Veracruz de Ignacio de la Llave,4
+MX30053,Cuitláhuac,Veracruz de Ignacio de la Llave,7
+MX30054,Chacaltianguis,Veracruz de Ignacio de la Llave,7
+MX30055,Chalma,Veracruz de Ignacio de la Llave,2
+MX30056,Chiconamel,Veracruz de Ignacio de la Llave,3
+MX30057,Chiconquiaco,Veracruz de Ignacio de la Llave,3
+MX30058,Chicontepec,Veracruz de Ignacio de la Llave,12
+MX30059,Chinameca,Veracruz de Ignacio de la Llave,3
+MX30060,Chinampa de Gorostiza,Veracruz de Ignacio de la Llave,3
+MX30061,Las Choapas,Veracruz de Ignacio de la Llave,20
+MX30062,Chocamán,Veracruz de Ignacio de la Llave,2
+MX30063,Chontla,Veracruz de Ignacio de la Llave,4
+MX30064,Chumatlán,Veracruz de Ignacio de la Llave,1
+MX30065,Emiliano Zapata,Veracruz de Ignacio de la Llave,13
+MX30066,Espinal,Veracruz de Ignacio de la Llave,6
+MX30067,Filomeno Mata,Veracruz de Ignacio de la Llave,2
+MX30068,Fortín,Veracruz de Ignacio de la Llave,10
+MX30069,Gutiérrez Zamora,Veracruz de Ignacio de la Llave,8
+MX30070,Hidalgotitlán,Veracruz de Ignacio de la Llave,10
+MX30071,Huatusco,Veracruz de Ignacio de la Llave,12
+MX30072,Huayacocotla,Veracruz de Ignacio de la Llave,12
+MX30073,Hueyapan de Ocampo,Veracruz de Ignacio de la Llave,6
+MX30074,Huiloapan de Cuauhtémoc,Veracruz de Ignacio de la Llave,2
+MX30075,Ignacio de la Llave,Veracruz de Ignacio de la Llave,3
+MX30076,Ilamatlán,Veracruz de Ignacio de la Llave,2
+MX30077,Isla,Veracruz de Ignacio de la Llave,10
+MX30078,Ixcatepec,Veracruz de Ignacio de la Llave,3
+MX30079,Ixhuacán de los Reyes,Veracruz de Ignacio de la Llave,3
+MX30080,Ixhuatlán del Café,Veracruz de Ignacio de la Llave,2
+MX30081,Ixhuatlancillo,Veracruz de Ignacio de la Llave,4
+MX30082,Ixhuatlán del Sureste,Veracruz de Ignacio de la Llave,4
+MX30083,Ixhuatlán de Madero,Veracruz de Ignacio de la Llave,15
+MX30084,Ixmatlahuacan,Veracruz de Ignacio de la Llave,2
+MX30085,Ixtaczoquitlán,Veracruz de Ignacio de la Llave,12
+MX30086,Jalacingo,Veracruz de Ignacio de la Llave,9
+MX30087,Xalapa,Veracruz de Ignacio de la Llave,96
+MX30088,Jalcomulco,Veracruz de Ignacio de la Llave,1
+MX30089,Jáltipan,Veracruz de Ignacio de la Llave,8
+MX30090,Jamapa,Veracruz de Ignacio de la Llave,4
+MX30091,Jesús Carranza,Veracruz de Ignacio de la Llave,7
+MX30092,Xico,Veracruz de Ignacio de la Llave,4
+MX30093,Jilotepec,Veracruz de Ignacio de la Llave,2
+MX30094,Juan Rodríguez Clara,Veracruz de Ignacio de la Llave,6
+MX30095,Juchique de Ferrer,Veracruz de Ignacio de la Llave,4
+MX30096,Landero y Coss,Veracruz de Ignacio de la Llave,1
+MX30097,Lerdo de Tejada,Veracruz de Ignacio de la Llave,5
+MX30099,Maltrata,Veracruz de Ignacio de la Llave,3
+MX30100,Manlio Fabio Altamirano,Veracruz de Ignacio de la Llave,4
+MX30101,Mariano Escobedo,Veracruz de Ignacio de la Llave,6
+MX30102,Martínez de la Torre,Veracruz de Ignacio de la Llave,28
+MX30103,Mecatlán,Veracruz de Ignacio de la Llave,1
+MX30104,Mecayapan,Veracruz de Ignacio de la Llave,6
+MX30105,Medellín,Veracruz de Ignacio de la Llave,14
+MX30106,Miahuatlán,Veracruz de Ignacio de la Llave,1
+MX30107,Las Minas,Veracruz de Ignacio de la Llave,2
+MX30108,Minatitlán,Veracruz de Ignacio de la Llave,36
+MX30109,Misantla,Veracruz de Ignacio de la Llave,12
+MX30110,Mixtla de Altamirano,Veracruz de Ignacio de la Llave,1
+MX30111,Moloacán,Veracruz de Ignacio de la Llave,6
+MX30112,Naolinco,Veracruz de Ignacio de la Llave,4
+MX30113,Naranjal,Veracruz de Ignacio de la Llave,1
+MX30114,Nautla,Veracruz de Ignacio de la Llave,6
+MX30115,Nogales,Veracruz de Ignacio de la Llave,7
+MX30116,Oluta,Veracruz de Ignacio de la Llave,4
+MX30117,Omealca,Veracruz de Ignacio de la Llave,4
+MX30118,Orizaba,Veracruz de Ignacio de la Llave,38
+MX30119,Otatitlán,Veracruz de Ignacio de la Llave,3
+MX30120,Oteapan,Veracruz de Ignacio de la Llave,3
+MX30121,Ozuluama de Mascareñas,Veracruz de Ignacio de la Llave,6
+MX30122,Pajapan,Veracruz de Ignacio de la Llave,3
+MX30123,Pánuco,Veracruz de Ignacio de la Llave,28
+MX30124,Papantla,Veracruz de Ignacio de la Llave,21
+MX30125,Paso del Macho,Veracruz de Ignacio de la Llave,8
+MX30126,Paso de Ovejas,Veracruz de Ignacio de la Llave,6
+MX30127,La Perla,Veracruz de Ignacio de la Llave,2
+MX30128,Perote,Veracruz de Ignacio de la Llave,16
+MX30129,Platón Sánchez,Veracruz de Ignacio de la Llave,8
+MX30130,Playa Vicente,Veracruz de Ignacio de la Llave,13
+MX30131,Poza Rica de Hidalgo,Veracruz de Ignacio de la Llave,46
+MX30132,Las Vigas de Ramírez,Veracruz de Ignacio de la Llave,2
+MX30133,Pueblo Viejo,Veracruz de Ignacio de la Llave,9
+MX30134,Puente Nacional,Veracruz de Ignacio de la Llave,4
+MX30135,Rafael Delgado,Veracruz de Ignacio de la Llave,2
+MX30136,Rafael Lucio,Veracruz de Ignacio de la Llave,2
+MX30138,Río Blanco,Veracruz de Ignacio de la Llave,6
+MX30139,Saltabarranca,Veracruz de Ignacio de la Llave,3
+MX30140,San Andrés Tenejapan,Veracruz de Ignacio de la Llave,1
+MX30141,San Andrés Tuxtla,Veracruz de Ignacio de la Llave,31
+MX30142,San Juan Evangelista,Veracruz de Ignacio de la Llave,6
+MX30143,Santiago Tuxtla,Veracruz de Ignacio de la Llave,16
+MX30144,Sayula de Alemán,Veracruz de Ignacio de la Llave,6
+MX30145,Soconusco,Veracruz de Ignacio de la Llave,2
+MX30146,Sochiapa,Veracruz de Ignacio de la Llave,1
+MX30147,Soledad Atzompa,Veracruz de Ignacio de la Llave,3
+MX30148,Soledad de Doblado,Veracruz de Ignacio de la Llave,8
+MX30149,Soteapan,Veracruz de Ignacio de la Llave,9
+MX30150,Tamalín,Veracruz de Ignacio de la Llave,3
+MX30151,Tamiahua,Veracruz de Ignacio de la Llave,9
+MX30152,Tampico Alto,Veracruz de Ignacio de la Llave,9
+MX30153,Tancoco,Veracruz de Ignacio de la Llave,2
+MX30154,Tantima,Veracruz de Ignacio de la Llave,5
+MX30155,Tantoyuca,Veracruz de Ignacio de la Llave,14
+MX30156,Tatatila,Veracruz de Ignacio de la Llave,2
+MX30157,Castillo de Teayo,Veracruz de Ignacio de la Llave,6
+MX30158,Tecolutla,Veracruz de Ignacio de la Llave,6
+MX30159,Tehuipango,Veracruz de Ignacio de la Llave,5
+MX30160,Álamo Temapache,Veracruz de Ignacio de la Llave,26
+MX30161,Tempoal,Veracruz de Ignacio de la Llave,8
+MX30162,Tenampa,Veracruz de Ignacio de la Llave,1
+MX30163,Tenochtitlán,Veracruz de Ignacio de la Llave,1
+MX30164,Teocelo,Veracruz de Ignacio de la Llave,3
+MX30165,Tepatlaxco,Veracruz de Ignacio de la Llave,3
+MX30166,Tepetlán,Veracruz de Ignacio de la Llave,2
+MX30167,Tepetzintla,Veracruz de Ignacio de la Llave,6
+MX30168,Tequila,Veracruz de Ignacio de la Llave,5
+MX30169,José Azueta,Veracruz de Ignacio de la Llave,7
+MX30171,Texhuacán,Veracruz de Ignacio de la Llave,1
+MX30172,Texistepec,Veracruz de Ignacio de la Llave,4
+MX30173,Tezonapa,Veracruz de Ignacio de la Llave,12
+MX30174,Tierra Blanca,Veracruz de Ignacio de la Llave,26
+MX30175,Tihuatlán,Veracruz de Ignacio de la Llave,16
+MX30176,Tlacojalpan,Veracruz de Ignacio de la Llave,3
+MX30177,Tlacolulan,Veracruz de Ignacio de la Llave,5
+MX30178,Tlacotalpan,Veracruz de Ignacio de la Llave,3
+MX30179,Tlacotepec de Mejía,Veracruz de Ignacio de la Llave,1
+MX30180,Tlachichilco,Veracruz de Ignacio de la Llave,3
+MX30181,Tlalixcoyan,Veracruz de Ignacio de la Llave,13
+MX30182,Tlalnelhuayocan,Veracruz de Ignacio de la Llave,2
+MX30183,Tlapacoyan,Veracruz de Ignacio de la Llave,10
+MX30184,Tlaquilpa,Veracruz de Ignacio de la Llave,3
+MX30185,Tlilapan,Veracruz de Ignacio de la Llave,1
+MX30186,Tomatlán,Veracruz de Ignacio de la Llave,1
+MX30187,Tonayán,Veracruz de Ignacio de la Llave,1
+MX30188,Totutla,Veracruz de Ignacio de la Llave,3
+MX30189,Tuxpan,Veracruz de Ignacio de la Llave,34
+MX30190,Tuxtilla,Veracruz de Ignacio de la Llave,2
+MX30191,Ursulo Galván,Veracruz de Ignacio de la Llave,7
+MX30192,Vega de Alatorre,Veracruz de Ignacio de la Llave,6
+MX30193,Veracruz,Veracruz de Ignacio de la Llave,129
+MX30194,Villa Aldama,Veracruz de Ignacio de la Llave,2
+MX30195,Xoxocotla,Veracruz de Ignacio de la Llave,2
+MX30196,Yanga,Veracruz de Ignacio de la Llave,3
+MX30197,Yecuatla,Veracruz de Ignacio de la Llave,4
+MX30198,Zacualpan,Veracruz de Ignacio de la Llave,2
+MX30199,Zaragoza,Veracruz de Ignacio de la Llave,3
+MX30200,Zentla,Veracruz de Ignacio de la Llave,2
+MX30201,Zongolica,Veracruz de Ignacio de la Llave,10
+MX30202,Zontecomatlán de López y Fuentes,Veracruz de Ignacio de la Llave,3
+MX30203,Zozocolco de Hidalgo,Veracruz de Ignacio de la Llave,3
+MX30204,Agua Dulce,Veracruz de Ignacio de la Llave,9
+MX30205,El Higo,Veracruz de Ignacio de la Llave,6
+MX30206,Nanchital de Lázaro Cárdenas del Río,Veracruz de Ignacio de la Llave,5
+MX30207,Tres Valles,Veracruz de Ignacio de la Llave,12
+MX30208,Carlos A. Carrillo,Veracruz de Ignacio de la Llave,2
+MX30209,Tatahuicapan de Juárez,Veracruz de Ignacio de la Llave,3
+MX30210,Uxpanapa,Veracruz de Ignacio de la Llave,10
+MX30211,San Rafael,Veracruz de Ignacio de la Llave,7
+MX30212,Santiago Sochiapan,Veracruz de Ignacio de la Llave,3
+MX31002,Acanceh,Yucatán,2
+MX31004,Baca,Yucatán,1
+MX31005,Bokobá,Yucatán,1
+MX31006,Buctzotz,Yucatán,3
+MX31007,Cacalchén,Yucatán,1
+MX31010,Cantamayec,Yucatán,1
+MX31011,Celestún,Yucatán,1
+MX31012,Cenotillo,Yucatán,1
+MX31013,Conkal,Yucatán,2
+MX31014,Cuncunul,Yucatán,1
+MX31016,Chacsinkín,Yucatán,1
+MX31017,Chankom,Yucatán,3
+MX31018,Chapab,Yucatán,2
+MX31019,Chemax,Yucatán,9
+MX31020,Chicxulub Pueblo,Yucatán,1
+MX31021,Chichimilá,Yucatán,2
+MX31022,Chikindzonot,Yucatán,2
+MX31024,Chumayel,Yucatán,1
+MX31025,Dzán,Yucatán,2
+MX31027,Dzidzantún,Yucatán,2
+MX31029,Dzilam González,Yucatán,1
+MX31030,Dzitás,Yucatán,3
+MX31031,Dzoncauich,Yucatán,1
+MX31032,Espita,Yucatán,6
+MX31033,Halachó,Yucatán,4
+MX31034,Hocabá,Yucatán,2
+MX31035,Hoctún,Yucatán,1
+MX31036,Homún,Yucatán,1
+MX31038,Hunucmá,Yucatán,6
+MX31040,Izamal,Yucatán,6
+MX31041,Kanasín,Yucatán,11
+MX31042,Kantunil,Yucatán,3
+MX31044,Kinchil,Yucatán,1
+MX31047,Maní,Yucatán,1
+MX31048,Maxcanú,Yucatán,4
+MX31050,Mérida,Yucatán,264
+MX31051,Mocochá,Yucatán,1
+MX31052,Motul,Yucatán,7
+MX31053,Muna,Yucatán,2
+MX31054,Muxupip,Yucatán,1
+MX31055,Opichén,Yucatán,1
+MX31056,Oxkutzcab,Yucatán,6
+MX31057,Panabá,Yucatán,3
+MX31058,Peto,Yucatán,6
+MX31059,Progreso,Yucatán,13
+MX31061,Río Lagartos,Yucatán,2
+MX31063,Samahil,Yucatán,3
+MX31064,Sanahcat,Yucatán,1
+MX31065,San Felipe,Yucatán,1
+MX31066,Santa Elena,Yucatán,2
+MX31068,Sinanché,Yucatán,1
+MX31069,Sotuta,Yucatán,4
+MX31070,Sucilá,Yucatán,2
+MX31071,Sudzal,Yucatán,1
+MX31073,Tahdziú,Yucatán,1
+MX31075,Teabo,Yucatán,1
+MX31076,Tecoh,Yucatán,4
+MX31079,Tekax,Yucatán,13
+MX31080,Tekit,Yucatán,1
+MX31081,Tekom,Yucatán,1
+MX31083,Telchac Puerto,Yucatán,1
+MX31085,Temozón,Yucatán,4
+MX31088,Teya,Yucatán,1
+MX31089,Ticul,Yucatán,10
+MX31090,Timucuy,Yucatán,1
+MX31091,Tinum,Yucatán,4
+MX31092,Tixcacalcupul,Yucatán,2
+MX31093,Tixkokob,Yucatán,3
+MX31096,Tizimín,Yucatán,24
+MX31097,Tunkás,Yucatán,1
+MX31098,Tzucacab,Yucatán,4
+MX31099,Uayma,Yucatán,3
+MX31100,Ucú,Yucatán,1
+MX31101,Umán,Yucatán,8
+MX31102,Valladolid,Yucatán,36
+MX31104,Yaxcabá,Yucatán,5
+MX31105,Yaxkukul,Yucatán,1
+MX31106,Yobaín,Yucatán,2
+MX32001,Apozol,Zacatecas,2
+MX32002,Apulco,Zacatecas,2
+MX32003,Atolinga,Zacatecas,1
+MX32004,Benito Juárez,Zacatecas,2
+MX32005,Calera,Zacatecas,6
+MX32006,Cañitas de Felipe Pescador,Zacatecas,4
+MX32007,Concepción del Oro,Zacatecas,4
+MX32008,Cuauhtémoc,Zacatecas,2
+MX32009,Chalchihuites,Zacatecas,6
+MX32010,Fresnillo,Zacatecas,49
+MX32011,Trinidad García de la Cadena,Zacatecas,1
+MX32012,Genaro Codina,Zacatecas,2
+MX32014,General Francisco R. Murguía,Zacatecas,10
+MX32015,El Plateado de Joaquín Amaro,Zacatecas,1
+MX32016,General Pánfilo Natera,Zacatecas,7
+MX32017,Guadalupe,Zacatecas,58
+MX32018,Huanusco,Zacatecas,3
+MX32019,Jalpa,Zacatecas,10
+MX32020,Jerez,Zacatecas,19
+MX32021,Jiménez del Teul,Zacatecas,3
+MX32022,Juan Aldama,Zacatecas,7
+MX32023,Juchipila,Zacatecas,5
+MX32024,Loreto,Zacatecas,13
+MX32025,Luis Moya,Zacatecas,5
+MX32026,Mazapil,Zacatecas,10
+MX32027,Melchor Ocampo,Zacatecas,3
+MX32028,Mezquital del Oro,Zacatecas,1
+MX32029,Miguel Auza,Zacatecas,4
+MX32030,Momax,Zacatecas,2
+MX32031,Monte Escobedo,Zacatecas,3
+MX32032,Morelos,Zacatecas,5
+MX32033,Moyahua de Estrada,Zacatecas,1
+MX32034,Nochistlán de Mejía,Zacatecas,9
+MX32035,Noria de Ángeles,Zacatecas,6
+MX32036,Ojocaliente,Zacatecas,10
+MX32037,Pánuco,Zacatecas,3
+MX32038,Pinos,Zacatecas,19
+MX32039,Río Grande,Zacatecas,18
+MX32040,Sain Alto,Zacatecas,10
+MX32041,El Salvador,Zacatecas,2
+MX32042,Sombrerete,Zacatecas,17
+MX32044,Tabasco,Zacatecas,7
+MX32045,Tepechitlán,Zacatecas,3
+MX32046,Tepetongo,Zacatecas,3
+MX32047,Teúl de González Ortega,Zacatecas,5
+MX32048,Tlaltenango de Sánchez Román,Zacatecas,10
+MX32049,Valparaíso,Zacatecas,16
+MX32050,Vetagrande,Zacatecas,5
+MX32051,Villa de Cos,Zacatecas,7
+MX32052,Villa García,Zacatecas,5
+MX32053,Villa González Ortega,Zacatecas,5
+MX32054,Villa Hidalgo,Zacatecas,6
+MX32055,Villanueva,Zacatecas,7
+MX32056,Zacatecas,Zacatecas,33
+MX32057,Trancoso,Zacatecas,3
+nan,nan,nan,21

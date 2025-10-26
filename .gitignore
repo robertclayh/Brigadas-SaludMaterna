@@ -56,5 +56,10 @@ parts1-3/
 
 brigadas-salud-materna-f3613cd11d81.json
 
-pipeline_checks.ipynbdata/worldpop/
+pipeline_checks.ipynb
+
+data/worldpop/
 data/mex_admbnda_govmex_20210618_SHP/
+data/worldpop/
+*.tif
+.DS_Store

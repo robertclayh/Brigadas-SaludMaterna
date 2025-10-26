@@ -1,0 +1,2458 @@
+adm1_name,adm2_name,adm2_code,pop_total,pop_wra
+Aguascalientes,Aguascalientes,MX01001,995228,248807
+Aguascalientes,Asientos,MX01002,54708,13677
+Aguascalientes,Calvillo,MX01003,60922,15230
+Aguascalientes,Cosío,MX01004,18113,4528
+Aguascalientes,El Llano,MX01010,22066,5516
+Aguascalientes,Jesús María,MX01005,138498,34624
+Aguascalientes,Pabellón de Arteaga,MX01006,50930,12732
+Aguascalientes,Rincón de Romos,MX01007,60713,15178
+Aguascalientes,San Francisco de los Romo,MX01011,66686,16671
+Aguascalientes,San José de Gracia,MX01008,10106,2527
+Aguascalientes,Tepezalá,MX01009,23953,5988
+Baja California,Ensenada,MX02001,587107,146777
+Baja California,Mexicali,MX02002,1087622,271906
+Baja California,Playas de Rosarito,MX02005,132452,33113
+Baja California,Tecate,MX02003,110500,27625
+Baja California,Tijuana,MX02004,2010930,502732
+Baja California Sur,Comondú,MX03001,76043,19011
+Baja California Sur,La Paz,MX03003,303717,75929
+Baja California Sur,Loreto,MX03009,18818,4704
+Baja California Sur,Los Cabos,MX03008,366828,91707
+Baja California Sur,Mulegé,MX03002,66886,16721
+Campeche,Calakmul,MX04010,33497,8374
+Campeche,Calkiní,MX04001,61919,15480
+Campeche,Campeche,MX04002,306306,76576
+Campeche,Candelaria,MX04011,49215,12304
+Campeche,Carmen,MX04003,256911,64228
+Campeche,Champotón,MX04004,97838,24459
+Campeche,Escárcega,MX04009,63058,15764
+Campeche,Hecelchakán,MX04005,33446,8361
+Campeche,Hopelchén,MX04006,44233,11058
+Campeche,Palizada,MX04007,9177,2294
+Campeche,Tenabo,MX04008,12002,3000
+Chiapas,Acacoyagua,MX07001,19312,4828
+Chiapas,Acala,MX07002,33408,8352
+Chiapas,Acapetahua,MX07003,28570,7142
+Chiapas,Aldama,MX07113,9245,2311
+Chiapas,Altamirano,MX07004,37468,9367
+Chiapas,Amatenango de la Frontera,MX07006,33388,8347
+Chiapas,Amatenango del Valle,MX07007,12117,3029
+Chiapas,Amatán,MX07005,26165,6541
+Chiapas,Angel Albino Corzo,MX07008,34023,8506
+Chiapas,Arriaga,MX07009,42849,10712
+Chiapas,Bejucal de Ocampo,MX07010,8054,2013
+Chiapas,Bella Vista,MX07011,21371,5343
+Chiapas,Benemérito de las Américas,MX07114,24972,6243
+Chiapas,Berriozábal,MX07012,68963,17241
+Chiapas,Bochil,MX07013,37021,9255
+Chiapas,Cacahoatán,MX07015,53051,13263
+Chiapas,Catazajá,MX07016,18744,4686
+Chiapas,Chalchihuitán,MX07022,23704,5926
+Chiapas,Chamula,MX07023,109967,27492
+Chiapas,Chanal,MX07024,14650,3662
+Chiapas,Chapultenango,MX07025,8062,2016
+Chiapas,Chenalhó,MX07026,51359,12840
+Chiapas,Chiapa de Corzo,MX07027,119085,29771
+Chiapas,Chiapilla,MX07028,6484,1621
+Chiapas,Chicoasén,MX07029,5715,1429
+Chiapas,Chicomuselo,MX07030,38860,9715
+Chiapas,Chilón,MX07031,147031,36758
+Chiapas,Cintalapa,MX07017,92418,23105
+Chiapas,Coapilla,MX07018,10543,2636
+Chiapas,Comitán de Domínguez,MX07019,174671,43668
+Chiapas,Copainalá,MX07021,23373,5843
+Chiapas,El Bosque,MX07014,25960,6490
+Chiapas,El Porvenir,MX07070,13127,3282
+Chiapas,Escuintla,MX07032,32883,8221
+Chiapas,Francisco León,MX07033,7706,1926
+Chiapas,Frontera Comalapa,MX07034,84953,21238
+Chiapas,Frontera Hidalgo,MX07035,15486,3871
+Chiapas,Huehuetán,MX07037,38468,9617
+Chiapas,Huitiupán,MX07039,29743,7436
+Chiapas,Huixtla,MX07040,56785,14196
+Chiapas,Huixtán,MX07038,24843,6211
+Chiapas,Ixhuatán,MX07042,12223,3056
+Chiapas,Ixtacomitán,MX07043,11641,2910
+Chiapas,Ixtapa,MX07044,30890,7723
+Chiapas,Ixtapangajoya,MX07045,6867,1717
+Chiapas,Jiquipilas,MX07046,42956,10739
+Chiapas,Jitotol,MX07047,25545,6386
+Chiapas,Juárez,MX07048,23280,5820
+Chiapas,La Concordia,MX07020,52713,13178
+Chiapas,La Grandeza,MX07036,8237,2059
+Chiapas,La Independencia,MX07041,49653,12413
+Chiapas,La Libertad,MX07050,5583,1396
+Chiapas,La Trinitaria,MX07099,87535,21884
+Chiapas,Larráinzar,MX07049,33832,8458
+Chiapas,Las Margaritas,MX07052,146831,36708
+Chiapas,Las Rosas,MX07075,30606,7651
+Chiapas,Mapastepec,MX07051,48519,12130
+Chiapas,Maravilla Tenejapa,MX07115,15575,3894
+Chiapas,Marqués de Comillas,MX07116,13730,3433
+Chiapas,Mazapa de Madero,MX07053,8405,2101
+Chiapas,Mazatán,MX07054,29672,7418
+Chiapas,Metapa,MX07055,6258,1565
+Chiapas,Mitontic,MX07056,15539,3885
+Chiapas,Montecristo de Guerrero,MX07117,8951,2238
+Chiapas,Motozintla,MX07057,80807,20202
+Chiapas,Nicolás Ruíz,MX07058,5067,1267
+Chiapas,Ocosingo,MX07059,247536,61884
+Chiapas,Ocotepec,MX07060,14956,3739
+Chiapas,Ocozocoautla de Espinosa,MX07061,103229,25807
+Chiapas,Ostuacán,MX07062,19564,4891
+Chiapas,Osumacinta,MX07063,4351,1088
+Chiapas,Oxchuc,MX07064,59125,14781
+Chiapas,Palenque,MX07065,139874,34968
+Chiapas,Pantelhó,MX07066,28752,7188
+Chiapas,Pantepec,MX07067,13075,3269
+Chiapas,Pichucalco,MX07068,33811,8453
+Chiapas,Pijijiapan,MX07069,53506,13377
+Chiapas,Pueblo Nuevo Solistahuacán,MX07072,40954,10238
+Chiapas,Rayón,MX07073,11778,2945
+Chiapas,Reforma,MX07074,48004,12001
+Chiapas,Sabanilla,MX07076,31848,7962
+Chiapas,Salto de Agua,MX07077,68003,17001
+Chiapas,San Andrés Duraznal,MX07118,6558,1639
+Chiapas,San Cristóbal de las Casas,MX07078,228368,57092
+Chiapas,San Fernando,MX07079,44014,11004
+Chiapas,San Juan Cancuc,MX07112,40628,10157
+Chiapas,San Lucas,MX07110,8000,2000
+Chiapas,Santiago el Pinar,MX07119,5390,1348
+Chiapas,Siltepec,MX07080,44376,11094
+Chiapas,Simojovel,MX07081,56817,14204
+Chiapas,Sitalá,MX07082,16646,4161
+Chiapas,Socoltenango,MX07083,20264,5066
+Chiapas,Solosuchiapa,MX07084,9162,2290
+Chiapas,Soyaló,MX07085,11482,2871
+Chiapas,Suchiapa,MX07086,27090,6772
+Chiapas,Suchiate,MX07087,44056,11014
+Chiapas,Sunuapa,MX07088,2484,621
+Chiapas,Tapachula,MX07089,368969,92242
+Chiapas,Tapalapa,MX07090,4824,1206
+Chiapas,Tapilula,MX07091,14474,3619
+Chiapas,Tecpatán,MX07092,47484,11871
+Chiapas,Tenejapa,MX07093,51485,12871
+Chiapas,Teopisca,MX07094,52761,13190
+Chiapas,Tila,MX07096,76294,19074
+Chiapas,Tonalá,MX07097,95968,23992
+Chiapas,Totolapa,MX07098,7747,1937
+Chiapas,Tumbalá,MX07100,40305,10076
+Chiapas,Tuxtla Chico,MX07102,43935,10984
+Chiapas,Tuxtla Gutiérrez,MX07101,632720,158180
+Chiapas,Tuzantán,MX07103,33286,8322
+Chiapas,Tzimol,MX07104,17508,4377
+Chiapas,Unión Juárez,MX07105,16529,4132
+Chiapas,Venustiano Carranza,MX07106,71185,17796
+Chiapas,Villa Comaltitlán,MX07071,32010,8002
+Chiapas,Villa Corzo,MX07107,85433,21358
+Chiapas,Villaflores,MX07108,115000,28750
+Chiapas,Yajalón,MX07109,43114,10778
+Chiapas,Zinacantán,MX07111,48509,12127
+Chihuahua,Ahumada,MX08001,15412,3853
+Chihuahua,Aldama,MX08002,27270,6818
+Chihuahua,Allende,MX08003,8790,2198
+Chihuahua,Aquiles Serdán,MX08004,25857,6464
+Chihuahua,Ascensión,MX08005,27291,6823
+Chihuahua,Bachíniva,MX08006,6012,1503
+Chihuahua,Balleza,MX08007,17316,4329
+Chihuahua,Batopilas,MX08008,12003,3001
+Chihuahua,Bocoyna,MX08009,24467,6117
+Chihuahua,Buenaventura,MX08010,26316,6579
+Chihuahua,Camargo,MX08011,51625,12906
+Chihuahua,Carichí,MX08012,8520,2130
+Chihuahua,Casas Grandes,MX08013,12358,3089
+Chihuahua,Chihuahua,MX08019,977034,244259
+Chihuahua,Chínipas,MX08020,6508,1627
+Chihuahua,Coronado,MX08014,2103,526
+Chihuahua,Coyame del Sotol,MX08015,1254,314
+Chihuahua,Cuauhtémoc,MX08017,188868,47217
+Chihuahua,Cusihuiriachi,MX08018,5314,1329
+Chihuahua,Delicias,MX08021,157373,39343
+Chihuahua,Dr. Belisario Domínguez,MX08022,2497,624
+Chihuahua,El Tule,MX08064,1557,389
+Chihuahua,Galeana,MX08023,7008,1752
+Chihuahua,Gran Morelos,MX08026,2505,626
+Chihuahua,Guachochi,MX08027,52886,13221
+Chihuahua,Guadalupe,MX08028,4427,1107
+Chihuahua,Guadalupe y Calvo,MX08029,53431,13358
+Chihuahua,Guazapares,MX08030,8671,2168
+Chihuahua,Guerrero,MX08031,36929,9232
+Chihuahua,Gómez Farías,MX08025,7262,1816
+Chihuahua,Hidalgo del Parral,MX08032,121709,30427
+Chihuahua,Huejotitán,MX08033,866,216
+Chihuahua,Ignacio Zaragoza,MX08034,5354,1338
+Chihuahua,Janos,MX08035,11536,2884
+Chihuahua,Jiménez,MX08036,42709,10677
+Chihuahua,Julimes,MX08038,5221,1305
+Chihuahua,Juárez,MX08037,1580290,395072
+Chihuahua,La Cruz,MX08016,3884,971
+Chihuahua,López,MX08039,4276,1069
+Chihuahua,Madera,MX08040,25988,6497
+Chihuahua,Maguarichi,MX08041,1401,350
+Chihuahua,Manuel Benavides,MX08042,1211,303
+Chihuahua,Matachí,MX08043,2835,709
+Chihuahua,Matamoros,MX08044,4483,1121
+Chihuahua,Meoqui,MX08045,47130,11783
+Chihuahua,Morelos,MX08046,7806,1951
+Chihuahua,Moris,MX08047,4633,1158
+Chihuahua,Namiquipa,MX08048,23565,5891
+Chihuahua,Nonoava,MX08049,2872,718
+Chihuahua,Nuevo Casas Grandes,MX08050,68761,17190
+Chihuahua,Ocampo,MX08051,8586,2147
+Chihuahua,Ojinaga,MX08052,25460,6365
+Chihuahua,Praxedis G. Guerrero,MX08053,5308,1327
+Chihuahua,Riva Palacio,MX08054,8121,2030
+Chihuahua,Rosales,MX08055,17714,4428
+Chihuahua,Rosario,MX08056,2153,538
+Chihuahua,San Francisco de Borja,MX08057,2246,562
+Chihuahua,San Francisco de Conchos,MX08058,2811,703
+Chihuahua,San Francisco del Oro,MX08059,5217,1304
+Chihuahua,Santa Bárbara,MX08060,12064,3016
+Chihuahua,Santa Isabel,MX08024,3931,983
+Chihuahua,Satevó,MX08061,3521,880
+Chihuahua,Saucillo,MX08062,31235,7809
+Chihuahua,Temósachic,MX08063,5519,1380
+Chihuahua,Urique,MX08065,17983,4496
+Chihuahua,Uruachi,MX08066,6852,1713
+Chihuahua,Valle de Zaragoza,MX08067,4948,1237
+Coahuila de Zaragoza,Abasolo,MX05001,1079,270
+Coahuila de Zaragoza,Acuña,MX05002,171211,42803
+Coahuila de Zaragoza,Allende,MX05003,24129,6032
+Coahuila de Zaragoza,Arteaga,MX05004,31413,7853
+Coahuila de Zaragoza,Candela,MX05005,1712,428
+Coahuila de Zaragoza,Castaños,MX05006,30577,7644
+Coahuila de Zaragoza,Cuatro Ciénegas,MX05007,13264,3316
+Coahuila de Zaragoza,Escobedo,MX05008,3203,801
+Coahuila de Zaragoza,Francisco I. Madero,MX05009,62213,15553
+Coahuila de Zaragoza,Frontera,MX05010,87728,21932
+Coahuila de Zaragoza,General Cepeda,MX05011,12406,3101
+Coahuila de Zaragoza,Guerrero,MX05012,1717,429
+Coahuila de Zaragoza,Hidalgo,MX05013,1824,456
+Coahuila de Zaragoza,Jiménez,MX05014,10040,2510
+Coahuila de Zaragoza,Juárez,MX05015,1662,415
+Coahuila de Zaragoza,Lamadrid,MX05016,1833,458
+Coahuila de Zaragoza,Matamoros,MX05017,125345,31336
+Coahuila de Zaragoza,Monclova,MX05018,250011,62503
+Coahuila de Zaragoza,Morelos,MX05019,8300,2075
+Coahuila de Zaragoza,Múzquiz,MX05020,74229,18557
+Coahuila de Zaragoza,Nadadores,MX05021,6953,1738
+Coahuila de Zaragoza,Nava,MX05022,35360,8840
+Coahuila de Zaragoza,Ocampo,MX05023,10117,2529
+Coahuila de Zaragoza,Parras,MX05024,46380,11595
+Coahuila de Zaragoza,Piedras Negras,MX05025,185146,46287
+Coahuila de Zaragoza,Progreso,MX05026,3347,837
+Coahuila de Zaragoza,Ramos Arizpe,MX05027,129525,32381
+Coahuila de Zaragoza,Sabinas,MX05028,68154,17038
+Coahuila de Zaragoza,Sacramento,MX05029,2590,648
+Coahuila de Zaragoza,Saltillo,MX05030,920134,230034
+Coahuila de Zaragoza,San Buenaventura,MX05031,25895,6474
+Coahuila de Zaragoza,San Juan de Sabinas,MX05032,43996,10999
+Coahuila de Zaragoza,San Pedro,MX05033,105691,26423
+Coahuila de Zaragoza,Sierra Mojada,MX05034,7118,1779
+Coahuila de Zaragoza,Torreón,MX05035,753104,188276
+Coahuila de Zaragoza,Viesca,MX05036,21481,5370
+Coahuila de Zaragoza,Villa Unión,MX05037,6486,1621
+Coahuila de Zaragoza,Zaragoza,MX05038,13770,3442
+Colima,Armería,MX06001,28828,7207
+Colima,Colima,MX06002,165623,41406
+Colima,Comala,MX06003,23097,5774
+Colima,Coquimatlán,MX06004,21873,5468
+Colima,Cuauhtémoc,MX06005,32598,8149
+Colima,Ixtlahuacán,MX06006,5855,1464
+Colima,Manzanillo,MX06007,199319,49830
+Colima,Minatitlán,MX06008,10609,2652
+Colima,Tecomán,MX06009,121567,30392
+Colima,Villa de Álvarez,MX06010,158329,39582
+Distrito Federal,Azcapotzalco,MX09002,459824,114956
+Distrito Federal,Benito Juárez,MX09014,461103,115276
+Distrito Federal,Coyoacán,MX09003,649615,162404
+Distrito Federal,Cuajimalpa de Morelos,MX09004,237292,59323
+Distrito Federal,Cuauhtémoc,MX09015,584470,146118
+Distrito Federal,Gustavo A. Madero,MX09005,1243044,310761
+Distrito Federal,Iztacalco,MX09006,440738,110184
+Distrito Federal,Iztapalapa,MX09007,1948591,487148
+Distrito Federal,La Magdalena Contreras,MX09008,268965,67241
+Distrito Federal,Miguel Hidalgo,MX09016,443546,110887
+Distrito Federal,Milpa Alta,MX09009,162419,40605
+Distrito Federal,Tlalpan,MX09012,739663,184916
+Distrito Federal,Tláhuac,MX09011,423452,105863
+Distrito Federal,Venustiano Carranza,MX09017,474705,118676
+Distrito Federal,Xochimilco,MX09013,471705,117926
+Distrito Federal,Álvaro Obregón,MX09010,807751,201938
+Durango,Canatlán,MX10001,32838,8209
+Durango,Canelas,MX10002,4634,1158
+Durango,Coneto de Comonfort,MX10003,4271,1068
+Durango,Cuencamé,MX10004,36590,9148
+Durango,Durango,MX10005,719684,179921
+Durango,El Oro,MX10018,10778,2695
+Durango,General Simón Bolívar,MX10006,10587,2647
+Durango,Guadalupe Victoria,MX10008,38279,9570
+Durango,Guanaceví,MX10009,10321,2580
+Durango,Gómez Palacio,MX10007,393752,98438
+Durango,Hidalgo,MX10010,3985,996
+Durango,Indé,MX10011,4914,1229
+Durango,Lerdo,MX10012,174092,43523
+Durango,Mapimí,MX10013,28362,7091
+Durango,Mezquital,MX10014,51705,12926
+Durango,Nazas,MX10015,13422,3355
+Durango,Nombre de Dios,MX10016,20066,5017
+Durango,Nuevo Ideal,MX10039,29336,7334
+Durango,Ocampo,MX10017,8308,2077
+Durango,Otáez,MX10019,5244,1311
+Durango,Peñón Blanco,MX10021,11603,2901
+Durango,Poanas,MX10022,26767,6692
+Durango,Pueblo Nuevo,MX10023,53987,13497
+Durango,Pánuco de Coronado,MX10020,13139,3285
+Durango,Rodeo,MX10024,13358,3339
+Durango,San Bernardo,MX10025,2914,729
+Durango,San Dimas,MX10026,18556,4639
+Durango,San Juan de Guadalupe,MX10027,5457,1364
+Durango,San Juan del Río,MX10028,12531,3133
+Durango,San Luis del Cordero,MX10029,2181,545
+Durango,San Pedro del Gallo,MX10030,1696,424
+Durango,Santa Clara,MX10031,7005,1751
+Durango,Santiago Papasquiaro,MX10032,51709,12927
+Durango,Súchil,MX10033,7306,1827
+Durango,Tamazula,MX10034,27849,6962
+Durango,Tepehuanes,MX10035,11878,2969
+Durango,Tlahualilo,MX10036,22318,5580
+Durango,Topia,MX10037,9868,2467
+Durango,Vicente Guerrero,MX10038,24680,6170
+Guanajuato,Abasolo,MX11001,97670,24418
+Guanajuato,Acámbaro,MX11002,113240,28310
+Guanajuato,Apaseo el Alto,MX11004,66961,16740
+Guanajuato,Apaseo el Grande,MX11005,119090,29773
+Guanajuato,Atarjea,MX11006,5532,1383
+Guanajuato,Celaya,MX11007,545655,136414
+Guanajuato,Comonfort,MX11009,86578,21644
+Guanajuato,Coroneo,MX11010,11659,2915
+Guanajuato,Cortazar,MX11011,102961,25740
+Guanajuato,Cuerámaro,MX11012,32398,8099
+Guanajuato,Doctor Mora,MX11013,29368,7342
+Guanajuato,Dolores Hidalgo Cuna de la Independencia Nacional,MX11014,171802,42951
+Guanajuato,Guanajuato,MX11015,203803,50951
+Guanajuato,Huanímaro,MX11016,22519,5630
+Guanajuato,Irapuato,MX11017,622020,155505
+Guanajuato,Jaral del Progreso,MX11018,40748,10187
+Guanajuato,Jerécuaro,MX11019,51899,12975
+Guanajuato,León,MX11020,1803246,450812
+Guanajuato,Manuel Doblado,MX11008,43273,10818
+Guanajuato,Moroleón,MX11021,50660,12665
+Guanajuato,Ocampo,MX11022,27788,6947
+Guanajuato,Pueblo Nuevo,MX11024,13360,3340
+Guanajuato,Purísima del Rincón,MX11025,89487,22372
+Guanajuato,Pénjamo,MX11023,163293,40823
+Guanajuato,Romita,MX11026,69928,17482
+Guanajuato,Salamanca,MX11027,286503,71626
+Guanajuato,Salvatierra,MX11028,98044,24511
+Guanajuato,San Diego de la Unión,MX11029,43667,10917
+Guanajuato,San Felipe,MX11030,126094,31523
+Guanajuato,San Francisco del Rincón,MX11031,140940,35235
+Guanajuato,San José Iturbide,MX11032,94998,23749
+Guanajuato,San Luis de la Paz,MX11033,136333,34083
+Guanajuato,San Miguel de Allende,MX11003,183470,45868
+Guanajuato,Santa Catarina,MX11034,6096,1524
+Guanajuato,Santa Cruz de Juventino Rosas,MX11035,86795,21699
+Guanajuato,Santiago Maravatío,MX11036,7080,1770
+Guanajuato,Silao de la Victoria,MX11037,215449,53862
+Guanajuato,Tarandacuao,MX11038,11943,2986
+Guanajuato,Tarimoro,MX11039,37596,9399
+Guanajuato,Tierra Blanca,MX11040,21266,5316
+Guanajuato,Uriangato,MX11041,65855,16464
+Guanajuato,Valle de Santiago,MX11042,157919,39480
+Guanajuato,Victoria,MX11043,22366,5591
+Guanajuato,Villagrán,MX11044,70336,17584
+Guanajuato,Xichú,MX11045,11702,2925
+Guanajuato,Yuriria,MX11046,72314,18078
+Guerrero,Acapulco de Juárez,MX12001,803277,200819
+Guerrero,Acatepec,MX12076,43190,10797
+Guerrero,Ahuacuotzingo,MX12002,26621,6655
+Guerrero,Ajuchitlán del Progreso,MX12003,39612,9903
+Guerrero,Alcozauca de Guerrero,MX12004,22516,5629
+Guerrero,Alpoyeca,MX12005,8260,2065
+Guerrero,Apaxtla,MX12006,11630,2908
+Guerrero,Arcelia,MX12007,35109,8777
+Guerrero,Atenango del Río,MX12008,9658,2415
+Guerrero,Atlamajalcingo del Monte,MX12009,6507,1627
+Guerrero,Atlixtac,MX12010,30368,7592
+Guerrero,Atoyac de Álvarez,MX12011,63371,15843
+Guerrero,Ayutla de los Libres,MX12012,73140,18285
+Guerrero,Azoyú,MX12013,16092,4023
+Guerrero,Benito Juárez,MX12014,16095,4024
+Guerrero,Buenavista de Cuéllar,MX12015,13620,3405
+Guerrero,Chilapa de Álvarez,MX12028,130491,32623
+Guerrero,Chilpancingo de los Bravo,MX12029,297318,74330
+Guerrero,Coahuayutla de José María Izazaga,MX12016,13017,3254
+Guerrero,Cochoapa el Grande,MX12078,21833,5458
+Guerrero,Cocula,MX12017,16464,4116
+Guerrero,Copala,MX12018,15312,3828
+Guerrero,Copalillo,MX12019,16468,4117
+Guerrero,Copanatoyac,MX12020,22939,5735
+Guerrero,Coyuca de Benítez,MX12021,76713,19178
+Guerrero,Coyuca de Catalán,MX12022,39042,9761
+Guerrero,Cuajinicuilapa,MX12023,27865,6966
+Guerrero,Cualác,MX12024,8254,2064
+Guerrero,Cuautepec,MX12025,17978,4495
+Guerrero,Cuetzala del Progreso,MX12026,8594,2148
+Guerrero,Cutzamala de Pinzón,MX12027,21560,5390
+Guerrero,Eduardo Neri,MX12075,55899,13975
+Guerrero,Florencio Villarreal,MX12030,23365,5841
+Guerrero,General Canuto A. Neri,MX12031,6657,1664
+Guerrero,General Heliodoro Castillo,MX12032,39531,9883
+Guerrero,Huamuxtitlán,MX12033,18334,4584
+Guerrero,Huitzuco de los Figueroa,MX12034,38111,9528
+Guerrero,Iguala de la Independencia,MX12035,161262,40315
+Guerrero,Igualapa,MX12036,12605,3151
+Guerrero,Iliatenco,MX12081,12755,3189
+Guerrero,Ixcateopan de Cuauhtémoc,MX12037,6455,1614
+Guerrero,José Joaquín de Herrera,MX12079,19516,4879
+Guerrero,Juan R. Escudero,MX12039,27322,6830
+Guerrero,Juchitán,MX12080,7999,2000
+Guerrero,La Unión de Isidoro Montes de Oca,MX12068,27517,6879
+Guerrero,Leonardo Bravo,MX12040,27898,6975
+Guerrero,Malinaltepec,MX12041,31697,7924
+Guerrero,Marquelia,MX12077,15021,3755
+Guerrero,Metlatónoc,MX12043,21056,5264
+Guerrero,Mochitlán,MX12044,13161,3290
+Guerrero,Mártir de Cuilapan,MX12042,19652,4913
+Guerrero,Olinalá,MX12045,30047,7512
+Guerrero,Ometepec,MX12046,71861,17965
+Guerrero,Pedro Ascencio Alquisiras,MX12047,7549,1887
+Guerrero,Petatlán,MX12048,46790,11698
+Guerrero,Pilcaya,MX12049,13535,3384
+Guerrero,Pungarabato,MX12050,40376,10094
+Guerrero,Quechultenango,MX12051,38102,9526
+Guerrero,San Luis Acatlán,MX12052,48710,12177
+Guerrero,San Marcos,MX12053,52578,13144
+Guerrero,San Miguel Totolapan,MX12054,25450,6363
+Guerrero,Taxco de Alarcón,MX12055,110264,27566
+Guerrero,Tecoanapa,MX12056,48351,12088
+Guerrero,Teloloapan,MX12058,56559,14140
+Guerrero,Tepecoacuilco de Trujano,MX12059,32262,8066
+Guerrero,Tetipac,MX12060,14330,3583
+Guerrero,Tixtla de Guerrero,MX12061,45274,11318
+Guerrero,Tlacoachistlahuaca,MX12062,24289,6072
+Guerrero,Tlacoapa,MX12063,10768,2692
+Guerrero,Tlalchapa,MX12064,12212,3053
+Guerrero,Tlalixtaquilla de Maldonado,MX12065,7981,1995
+Guerrero,Tlapa de Comonfort,MX12066,101827,25457
+Guerrero,Tlapehuala,MX12067,23344,5836
+Guerrero,Técpan de Galeana,MX12057,68127,17032
+Guerrero,Xalpatláhuac,MX12069,12984,3246
+Guerrero,Xochihuehuetlán,MX12070,8274,2068
+Guerrero,Xochistlahuaca,MX12071,31429,7857
+Guerrero,Zapotitlán Tablas,MX12072,13557,3389
+Guerrero,Zihuatanejo de Azueta,MX12038,129983,32496
+Guerrero,Zirándaro,MX12073,17773,4443
+Guerrero,Zitlala,MX12074,23357,5839
+Hidalgo,Acatlán,MX13001,23855,5964
+Hidalgo,Acaxochitlán,MX13002,49200,12300
+Hidalgo,Actopan,MX13003,64421,16105
+Hidalgo,Agua Blanca de Iturbide,MX13004,10953,2738
+Hidalgo,Ajacuba,MX13005,19779,4945
+Hidalgo,Alfajayucan,MX13006,19978,4995
+Hidalgo,Almoloya,MX13007,13473,3368
+Hidalgo,Apan,MX13008,49079,12270
+Hidalgo,Atitalaquia,MX13010,33581,8395
+Hidalgo,Atlapexco,MX13011,20757,5189
+Hidalgo,Atotonilco de Tula,MX13013,66536,16634
+Hidalgo,Atotonilco el Grande,MX13012,31623,7906
+Hidalgo,Calnali,MX13014,16946,4237
+Hidalgo,Cardonal,MX13015,20516,5129
+Hidalgo,Chapantongo,MX13017,13574,3394
+Hidalgo,Chapulhuacán,MX13018,24332,6083
+Hidalgo,Chilcuautla,MX13019,20040,5010
+Hidalgo,Cuautepec de Hinojosa,MX13016,64083,16021
+Hidalgo,El Arenal,MX13009,21098,5274
+Hidalgo,Eloxochitlán,MX13020,2717,679
+Hidalgo,Emiliano Zapata,MX13021,15936,3984
+Hidalgo,Epazoyucan,MX13022,17219,4305
+Hidalgo,Francisco I. Madero,MX13023,38045,9511
+Hidalgo,Huasca de Ocampo,MX13024,18661,4665
+Hidalgo,Huautla,MX13025,21521,5380
+Hidalgo,Huazalingo,MX13026,13662,3415
+Hidalgo,Huehuetla,MX13027,24152,6038
+Hidalgo,Huejutla de Reyes,MX13028,133831,33458
+Hidalgo,Huichapan,MX13029,49563,12391
+Hidalgo,Ixmiquilpan,MX13030,103706,25927
+Hidalgo,Jacala de Ledezma,MX13031,12790,3198
+Hidalgo,Jaltocán,MX13032,11235,2809
+Hidalgo,Juárez Hidalgo,MX13033,2999,750
+Hidalgo,La Misión,MX13040,10249,2562
+Hidalgo,Lolotla,MX13034,10126,2532
+Hidalgo,Metepec,MX13035,13962,3491
+Hidalgo,Metztitlán,MX13037,21904,5476
+Hidalgo,Mineral de la Reforma,MX13051,215993,53998
+Hidalgo,Mineral del Chico,MX13038,9448,2362
+Hidalgo,Mineral del Monte,MX13039,15145,3786
+Hidalgo,Mixquiahuala de Juárez,MX13041,50036,12509
+Hidalgo,Molango de Escamilla,MX13042,12239,3060
+Hidalgo,Nicolás Flores,MX13043,6559,1640
+Hidalgo,Nopala de Villagrán,MX13044,17857,4464
+Hidalgo,Omitlán de Juárez,MX13045,9880,2470
+Hidalgo,Pachuca de Soto,MX13048,331055,82764
+Hidalgo,Pacula,MX13047,4927,1232
+Hidalgo,Pisaflores,MX13049,19742,4935
+Hidalgo,Progreso de Obregón,MX13050,24916,6229
+Hidalgo,San Agustín Metzquititlán,MX13036,9931,2483
+Hidalgo,San Agustín Tlaxiaca,MX13052,41378,10344
+Hidalgo,San Bartolo Tutotepec,MX13053,18635,4659
+Hidalgo,San Felipe Orizatlán,MX13046,40719,10180
+Hidalgo,San Salvador,MX13054,38911,9728
+Hidalgo,Santiago Tulantepec de Lugo Guerrero,MX13056,43887,10972
+Hidalgo,Santiago de Anaya,MX13055,19385,4846
+Hidalgo,Singuilucan,MX13057,16163,4041
+Hidalgo,Tasquillo,MX13058,18239,4560
+Hidalgo,Tecozautla,MX13059,39814,9953
+Hidalgo,Tenango de Doria,MX13060,18502,4626
+Hidalgo,Tepeapulco,MX13061,58756,14689
+Hidalgo,Tepehuacán de Guerrero,MX13062,33101,8275
+Hidalgo,Tepeji del Río de Ocampo,MX13063,95522,23881
+Hidalgo,Tepetitlán,MX13064,11347,2837
+Hidalgo,Tetepango,MX13065,12391,3098
+Hidalgo,Tezontepec de Aldama,MX13067,58303,14576
+Hidalgo,Tianguistengo,MX13068,15015,3754
+Hidalgo,Tizayuca,MX13069,177855,44464
+Hidalgo,Tlahuelilpan,MX13070,20289,5072
+Hidalgo,Tlahuiltepa,MX13071,9482,2371
+Hidalgo,Tlanalapa,MX13072,11914,2979
+Hidalgo,Tlanchinol,MX13073,39844,9961
+Hidalgo,Tlaxcoapan,MX13074,30403,7601
+Hidalgo,Tolcayuca,MX13075,21973,5493
+Hidalgo,Tula de Allende,MX13076,120680,30170
+Hidalgo,Tulancingo de Bravo,MX13077,178790,44698
+Hidalgo,Villa de Tezontepec,MX13066,13761,3440
+Hidalgo,Xochiatipan,MX13078,19152,4788
+Hidalgo,Xochicoatlán,MX13079,7472,1868
+Hidalgo,Yahualica,MX13080,25880,6470
+Hidalgo,Zacualtipán de Ángeles,MX13081,40257,10064
+Hidalgo,Zapotlán de Juárez,MX13082,23650,5912
+Hidalgo,Zempoala,MX13083,62113,15528
+Hidalgo,Zimapán,MX13084,41773,10443
+Jalisco,Acatic,MX14001,24470,6118
+Jalisco,Acatlán de Juárez,MX14002,26097,6524
+Jalisco,Ahualulco de Mercado,MX14003,24668,6167
+Jalisco,Amacueca,MX14004,6082,1521
+Jalisco,Amatitán,MX14005,17318,4329
+Jalisco,Ameca,MX14006,62899,15725
+Jalisco,Arandas,MX14008,84840,21210
+Jalisco,Atemajac de Brizuela,MX14010,8172,2043
+Jalisco,Atengo,MX14011,5826,1457
+Jalisco,Atenguillo,MX14012,4336,1084
+Jalisco,Atotonilco el Alto,MX14013,67214,16803
+Jalisco,Atoyac,MX14014,9208,2302
+Jalisco,Autlán de Navarro,MX14015,67890,16973
+Jalisco,Ayotlán,MX14016,43850,10963
+Jalisco,Ayutla,MX14017,13468,3367
+Jalisco,Bolaños,MX14019,7510,1878
+Jalisco,Cabo Corrientes,MX14020,11503,2876
+Jalisco,Casimiro Castillo,MX14021,21450,5362
+Jalisco,Cañadas de Obregón,MX14117,4578,1144
+Jalisco,Chapala,MX14030,58677,14669
+Jalisco,Chimaltitán,MX14031,3449,862
+Jalisco,Chiquilistlán,MX14032,6295,1574
+Jalisco,Cihuatlán,MX14022,42124,10531
+Jalisco,Cocula,MX14024,30755,7689
+Jalisco,Colotlán,MX14025,20588,5147
+Jalisco,Concepción de Buenos Aires,MX14026,6732,1683
+Jalisco,Cuautitlán de García Barragán,MX14027,19288,4822
+Jalisco,Cuautla,MX14028,2271,568
+Jalisco,Cuquío,MX14029,18667,4667
+Jalisco,Degollado,MX14033,22324,5581
+Jalisco,Ejutla,MX14034,2074,519
+Jalisco,El Arenal,MX14009,22643,5661
+Jalisco,El Grullo,MX14037,27094,6773
+Jalisco,El Limón,MX14054,5574,1394
+Jalisco,El Salto,MX14070,220781,55195
+Jalisco,Encarnación de Díaz,MX14035,55736,13934
+Jalisco,Etzatlán,MX14036,21023,5256
+Jalisco,Guachinango,MX14038,4472,1118
+Jalisco,Guadalajara,MX14039,1462483,365621
+Jalisco,Gómez Farías,MX14079,17414,4353
+Jalisco,Hostotipaquillo,MX14040,9156,2289
+Jalisco,Huejuquilla el Alto,MX14042,10464,2616
+Jalisco,Huejúcar,MX14041,6140,1535
+Jalisco,Ixtlahuacán de los Membrillos,MX14044,73085,18271
+Jalisco,Ixtlahuacán del Río,MX14045,21434,5359
+Jalisco,Jalostotitlán,MX14046,34357,8589
+Jalisco,Jamay,MX14047,26417,6604
+Jalisco,Jesús María,MX14048,19960,4990
+Jalisco,Jilotlán de los Dolores,MX14049,10045,2511
+Jalisco,Jocotepec,MX14050,49607,12402
+Jalisco,Juanacatlán,MX14051,33009,8252
+Jalisco,Juchitlán,MX14052,5771,1443
+Jalisco,La Barca,MX14018,71923,17981
+Jalisco,La Huerta,MX14043,24274,6069
+Jalisco,La Manzanilla de la Paz,MX14057,4324,1081
+Jalisco,Lagos de Moreno,MX14053,181183,45296
+Jalisco,Magdalena,MX14055,22888,5722
+Jalisco,Mascota,MX14058,15082,3770
+Jalisco,Mazamitla,MX14059,14755,3689
+Jalisco,Mexticacán,MX14060,5580,1395
+Jalisco,Mezquitic,MX14061,23447,5862
+Jalisco,Mixtlán,MX14062,3777,944
+Jalisco,Ocotlán,MX14063,111366,27842
+Jalisco,Ojuelos de Jalisco,MX14064,35646,8912
+Jalisco,Pihuamo,MX14065,11858,2964
+Jalisco,Poncitlán,MX14066,57239,14310
+Jalisco,Puerto Vallarta,MX14067,305901,76475
+Jalisco,Quitupan,MX14069,8058,2014
+Jalisco,San Cristóbal de la Barranca,MX14071,3155,789
+Jalisco,San Diego de Alejandría,MX14072,8052,2013
+Jalisco,San Gabriel,MX14113,17412,4353
+Jalisco,San Ignacio Cerro Gordo,MX14125,19549,4887
+Jalisco,San Juan de los Lagos,MX14073,76021,19005
+Jalisco,San Juanito de Escobedo,MX14007,10154,2539
+Jalisco,San Julián,MX14074,17629,4407
+Jalisco,San Marcos,MX14075,4023,1006
+Jalisco,San Martín Hidalgo,MX14077,30072,7518
+Jalisco,San Martín de Bolaños,MX14076,3233,808
+Jalisco,San Miguel el Alto,MX14078,33628,8407
+Jalisco,San Pedro Tlaquepaque,MX14098,748052,187013
+Jalisco,San Sebastián del Oeste,MX14080,5340,1335
+Jalisco,Santa María de los Ángeles,MX14081,3643,911
+Jalisco,Santa María del Oro,MX14056,1895,474
+Jalisco,Sayula,MX14082,39054,9763
+Jalisco,Tala,MX14083,89558,22390
+Jalisco,Talpa de Allende,MX14084,15665,3916
+Jalisco,Tamazula de Gordiano,MX14085,40674,10168
+Jalisco,Tapalpa,MX14086,22456,5614
+Jalisco,Tecalitlán,MX14087,17677,4419
+Jalisco,Techaluta de Montenegro,MX14089,4360,1090
+Jalisco,Tecolotlán,MX14088,17315,4329
+Jalisco,Tenamaxtlán,MX14090,7611,1903
+Jalisco,Teocaltiche,MX14091,41669,10417
+Jalisco,Teocuitatlán de Corona,MX14092,11475,2869
+Jalisco,Tepatitlán de Morelos,MX14093,157579,39395
+Jalisco,Tequila,MX14094,46653,11663
+Jalisco,Teuchitlán,MX14095,10128,2532
+Jalisco,Tizapán el Alto,MX14096,23808,5952
+Jalisco,Tlajomulco de Zúñiga,MX14097,796173,199043
+Jalisco,Tolimán,MX14099,11810,2952
+Jalisco,Tomatlán,MX14100,37972,9493
+Jalisco,Tonalá,MX14101,608023,152006
+Jalisco,Tonaya,MX14102,6242,1560
+Jalisco,Tonila,MX14103,7871,1968
+Jalisco,Totatiche,MX14104,4320,1080
+Jalisco,Tototlán,MX14105,24864,6216
+Jalisco,Tuxcacuesco,MX14106,5833,1458
+Jalisco,Tuxcueca,MX14107,7108,1777
+Jalisco,Tuxpan,MX14108,39552,9888
+Jalisco,Unión de San Antonio,MX14109,20308,5077
+Jalisco,Unión de Tula,MX14110,14412,3603
+Jalisco,Valle de Guadalupe,MX14111,7031,1758
+Jalisco,Valle de Juárez,MX14112,6449,1612
+Jalisco,Villa Corona,MX14114,20025,5006
+Jalisco,Villa Guerrero,MX14115,5756,1439
+Jalisco,Villa Hidalgo,MX14116,21061,5265
+Jalisco,Villa Purificación,MX14068,11795,2949
+Jalisco,Yahualica de González Gallo,MX14118,23269,5817
+Jalisco,Zacoalco de Torres,MX14119,32507,8127
+Jalisco,Zapopan,MX14120,1521002,380250
+Jalisco,Zapotiltic,MX14121,35528,8882
+Jalisco,Zapotitlán de Vadillo,MX14122,7876,1969
+Jalisco,Zapotlanejo,MX14124,68287,17072
+Jalisco,Zapotlán del Rey,MX14123,20410,5102
+Jalisco,Zapotlán el Grande,MX14023,120541,30135
+Michoacán de Ocampo,Acuitzio,MX16001,12038,3009
+Michoacán de Ocampo,Aguililla,MX16002,15148,3787
+Michoacán de Ocampo,Angamacutiro,MX16004,15695,3924
+Michoacán de Ocampo,Angangueo,MX16005,11631,2908
+Michoacán de Ocampo,Apatzingán,MX16006,132441,33110
+Michoacán de Ocampo,Aporo,MX16007,3768,942
+Michoacán de Ocampo,Aquila,MX16008,25939,6485
+Michoacán de Ocampo,Ario,MX16009,38006,9502
+Michoacán de Ocampo,Arteaga,MX16010,21382,5346
+Michoacán de Ocampo,Briseñas,MX16011,12525,3131
+Michoacán de Ocampo,Buenavista,MX16012,48101,12025
+Michoacán de Ocampo,Carácuaro,MX16013,9643,2411
+Michoacán de Ocampo,Charapan,MX16021,14237,3559
+Michoacán de Ocampo,Charo,MX16022,26351,6588
+Michoacán de Ocampo,Chavinda,MX16023,10944,2736
+Michoacán de Ocampo,Cherán,MX16024,21637,5409
+Michoacán de Ocampo,Chilchota,MX16025,42742,10686
+Michoacán de Ocampo,Chinicuila,MX16026,5055,1264
+Michoacán de Ocampo,Chucándiro,MX16027,5125,1281
+Michoacán de Ocampo,Churintzio,MX16028,5393,1348
+Michoacán de Ocampo,Churumuco,MX16029,12899,3225
+Michoacán de Ocampo,Coahuayana,MX16014,17877,4469
+Michoacán de Ocampo,Coalcomán de Vázquez Pallares,MX16015,20572,5143
+Michoacán de Ocampo,Coeneo,MX16016,21737,5434
+Michoacán de Ocampo,Cojumatlán de Régules,MX16074,11059,2765
+Michoacán de Ocampo,Contepec,MX16017,37067,9267
+Michoacán de Ocampo,Copándaro,MX16018,10373,2593
+Michoacán de Ocampo,Cotija,MX16019,21070,5267
+Michoacán de Ocampo,Cuitzeo,MX16020,31633,7908
+Michoacán de Ocampo,Ecuandureo,MX16030,12461,3115
+Michoacán de Ocampo,Epitacio Huerta,MX16031,17054,4263
+Michoacán de Ocampo,Erongarícuaro,MX16032,16446,4111
+Michoacán de Ocampo,Gabriel Zamora,MX16033,22520,5630
+Michoacán de Ocampo,Hidalgo,MX16034,132163,33041
+Michoacán de Ocampo,Huandacareo,MX16036,12112,3028
+Michoacán de Ocampo,Huaniqueo,MX16037,8142,2036
+Michoacán de Ocampo,Huetamo,MX16038,43665,10916
+Michoacán de Ocampo,Huiramba,MX16039,9646,2411
+Michoacán de Ocampo,Indaparapeo,MX16040,19495,4874
+Michoacán de Ocampo,Irimbo,MX16041,16964,4241
+Michoacán de Ocampo,Ixtlán,MX16042,15023,3756
+Michoacán de Ocampo,Jacona,MX16043,72642,18160
+Michoacán de Ocampo,Jiménez,MX16044,13419,3355
+Michoacán de Ocampo,Jiquilpan,MX16045,38481,9620
+Michoacán de Ocampo,José Sixto Verduzco,MX16113,27553,6888
+Michoacán de Ocampo,Jungapeo,MX16047,20885,5221
+Michoacán de Ocampo,Juárez,MX16046,15751,3938
+Michoacán de Ocampo,La Huacana,MX16035,32053,8013
+Michoacán de Ocampo,La Piedad,MX16069,111965,27991
+Michoacán de Ocampo,Lagunillas,MX16048,6400,1600
+Michoacán de Ocampo,Los Reyes,MX16075,83161,20790
+Michoacán de Ocampo,Lázaro Cárdenas,MX16052,204911,51228
+Michoacán de Ocampo,Madero,MX16049,20259,5065
+Michoacán de Ocampo,Maravatío,MX16050,94215,23554
+Michoacán de Ocampo,Marcos Castellanos,MX16051,14656,3664
+Michoacán de Ocampo,Morelia,MX16053,886939,221735
+Michoacán de Ocampo,Morelos,MX16054,8261,2065
+Michoacán de Ocampo,Múgica,MX16055,48098,12024
+Michoacán de Ocampo,Nahuatzen,MX16056,34230,8557
+Michoacán de Ocampo,Nocupétaro,MX16057,8640,2160
+Michoacán de Ocampo,Nuevo Parangaricutiro,MX16058,22125,5531
+Michoacán de Ocampo,Nuevo Urecho,MX16059,9546,2386
+Michoacán de Ocampo,Numarán,MX16060,10214,2554
+Michoacán de Ocampo,Ocampo,MX16061,26377,6594
+Michoacán de Ocampo,Pajacuarán,MX16062,22057,5514
+Michoacán de Ocampo,Panindícuaro,MX16063,15598,3900
+Michoacán de Ocampo,Paracho,MX16065,41594,10398
+Michoacán de Ocampo,Parácuaro,MX16064,28400,7100
+Michoacán de Ocampo,Penjamillo,MX16067,17302,4326
+Michoacán de Ocampo,Peribán,MX16068,31091,7773
+Michoacán de Ocampo,Puruándiro,MX16071,72509,18127
+Michoacán de Ocampo,Purépero,MX16070,16133,4033
+Michoacán de Ocampo,Pátzcuaro,MX16066,103352,25838
+Michoacán de Ocampo,Queréndaro,MX16072,14702,3675
+Michoacán de Ocampo,Quiroga,MX16073,28480,7120
+Michoacán de Ocampo,Sahuayo,MX16076,82401,20600
+Michoacán de Ocampo,Salvador Escalante,MX16079,52654,13164
+Michoacán de Ocampo,San Lucas,MX16077,18549,4637
+Michoacán de Ocampo,Santa Ana Maya,MX16078,13568,3392
+Michoacán de Ocampo,Senguio,MX16080,21016,5254
+Michoacán de Ocampo,Susupuato,MX16081,9612,2403
+Michoacán de Ocampo,Tacámbaro,MX16082,83739,20935
+Michoacán de Ocampo,Tancítaro,MX16083,35271,8818
+Michoacán de Ocampo,Tangamandapio,MX16084,33503,8376
+Michoacán de Ocampo,Tangancícuaro,MX16085,37881,9470
+Michoacán de Ocampo,Tanhuato,MX16086,16450,4113
+Michoacán de Ocampo,Taretan,MX16087,16420,4105
+Michoacán de Ocampo,Tarímbaro,MX16088,122366,30592
+Michoacán de Ocampo,Tepalcatepec,MX16089,25222,6306
+Michoacán de Ocampo,Tingambato,MX16090,17231,4308
+Michoacán de Ocampo,Tingüindín,MX16091,15670,3918
+Michoacán de Ocampo,Tiquicheo de Nicolás Romero,MX16092,13536,3384
+Michoacán de Ocampo,Tlalpujahua,MX16093,30177,7544
+Michoacán de Ocampo,Tlazazalca,MX16094,6630,1657
+Michoacán de Ocampo,Tocumbo,MX16095,13232,3308
+Michoacán de Ocampo,Tumbiscatío,MX16096,6279,1570
+Michoacán de Ocampo,Turicato,MX16097,30566,7642
+Michoacán de Ocampo,Tuxpan,MX16098,27147,6787
+Michoacán de Ocampo,Tuzantla,MX16099,15006,3752
+Michoacán de Ocampo,Tzintzuntzan,MX16100,15940,3985
+Michoacán de Ocampo,Tzitzio,MX16101,9357,2339
+Michoacán de Ocampo,Uruapan,MX16102,373932,93483
+Michoacán de Ocampo,Venustiano Carranza,MX16103,24646,6162
+Michoacán de Ocampo,Villamar,MX16104,16474,4119
+Michoacán de Ocampo,Vista Hermosa,MX16105,22035,5509
+Michoacán de Ocampo,Yurécuaro,MX16106,34150,8538
+Michoacán de Ocampo,Zacapu,MX16107,80093,20023
+Michoacán de Ocampo,Zamora,MX16108,214814,53704
+Michoacán de Ocampo,Zinapécuaro,MX16110,51622,12906
+Michoacán de Ocampo,Zináparo,MX16109,3325,831
+Michoacán de Ocampo,Ziracuaretiro,MX16111,19540,4885
+Michoacán de Ocampo,Zitácuaro,MX16112,164785,41196
+Michoacán de Ocampo,Álvaro Obregón,MX16003,24357,6089
+Morelos,Amacuzac,MX17001,18551,4638
+Morelos,Atlatlahucan,MX17002,26903,6726
+Morelos,Axochiapan,MX17003,41423,10356
+Morelos,Ayala,MX17004,95875,23969
+Morelos,Coatlán del Río,MX17005,11301,2825
+Morelos,Cuautla,MX17006,198638,49659
+Morelos,Cuernavaca,MX17007,399888,99972
+Morelos,Emiliano Zapata,MX17008,116819,29205
+Morelos,Huitzilac,MX17009,25682,6421
+Morelos,Jantetelco,MX17010,19678,4919
+Morelos,Jiutepec,MX17011,234259,58565
+Morelos,Jojutla,MX17012,62613,15653
+Morelos,Jonacatepec,MX17013,17616,4404
+Morelos,Mazatepec,MX17014,10357,2589
+Morelos,Miacatlán,MX17015,28812,7203
+Morelos,Ocuituco,MX17016,20476,5119
+Morelos,Puente de Ixtla,MX17017,71339,17835
+Morelos,Temixco,MX17018,131263,32816
+Morelos,Temoac,MX17033,17627,4407
+Morelos,Tepalcingo,MX17019,29579,7395
+Morelos,Tepoztlán,MX17020,61636,15409
+Morelos,Tetecala,MX17021,8212,2053
+Morelos,Tetela del Volcán,MX17022,24159,6040
+Morelos,Tlalnepantla,MX17023,8454,2113
+Morelos,Tlaltizapán de Zapata,MX17024,56061,14015
+Morelos,Tlaquiltenango,MX17025,35928,8982
+Morelos,Tlayacapan,MX17026,20772,5193
+Morelos,Totolapan,MX17027,13449,3362
+Morelos,Xochitepec,MX17028,79723,19931
+Morelos,Yautepec,MX17029,113384,28346
+Morelos,Yecapixtla,MX17030,60850,15213
+Morelos,Zacatepec,MX17031,39459,9865
+Morelos,Zacualpan,MX17032,10800,2700
+México,Acambay de Ruíz Castañeda,MX15001,71859,17965
+México,Acolman,MX15002,186832,46708
+México,Aculco,MX15003,51935,12984
+México,Almoloya de Alquisiras,MX15004,16316,4079
+México,Almoloya de Juárez,MX15005,186083,46521
+México,Almoloya del Río,MX15006,13716,3429
+México,Amanalco,MX15007,25326,6332
+México,Amatepec,MX15008,26560,6640
+México,Amecameca,MX15009,56794,14199
+México,Apaxco,MX15010,33684,8421
+México,Atenco,MX15011,89611,22403
+México,Atizapán,MX15012,14585,3646
+México,Atizapán de Zaragoza,MX15013,561024,140256
+México,Atlacomulco,MX15014,115347,28837
+México,Atlautla,MX15015,33868,8467
+México,Axapusco,MX15016,31536,7884
+México,Ayapango,MX15017,11035,2759
+México,Calimaya,MX15018,73842,18461
+México,Capulhuac,MX15019,39591,9898
+México,Chalco,MX15025,429398,107350
+México,Chapa de Mota,MX15026,33603,8401
+México,Chapultepec,MX15027,14032,3508
+México,Chiautla,MX15028,34048,8512
+México,Chicoloapan,MX15029,221625,55406
+México,Chiconcuac,MX15030,31310,7827
+México,Chimalhuacán,MX15031,760921,190230
+México,Coacalco de Berriozábal,MX15020,313230,78308
+México,Coatepec Harinas,MX15021,40983,10246
+México,Cocotitlán,MX15022,16756,4189
+México,Coyotepec,MX15023,45375,11344
+México,Cuautitlán,MX15024,196389,49097
+México,Cuautitlán Izcalli,MX15121,588354,147088
+México,Donato Guerra,MX15032,40277,10069
+México,Ecatepec de Morelos,MX15033,1737794,434448
+México,Ecatzingo,MX15034,11478,2870
+México,El Oro,MX15064,38598,9649
+México,Huehuetoca,MX15035,172035,43009
+México,Hueypoxtla,MX15036,50232,12558
+México,Huixquilucan,MX15037,308724,77181
+México,Isidro Fabela,MX15038,12885,3221
+México,Ixtapaluca,MX15039,577234,144308
+México,Ixtapan de la Sal,MX15040,39061,9765
+México,Ixtapan del Oro,MX15041,6842,1711
+México,Ixtlahuaca,MX15042,170167,42542
+México,Jaltenco,MX15044,31460,7865
+México,Jilotepec,MX15045,92437,23109
+México,Jilotzingo,MX15046,21307,5327
+México,Jiquipilco,MX15047,81514,20379
+México,Jocotitlán,MX15048,74152,18538
+México,Joquicingo,MX15049,16624,4156
+México,Juchitepec,MX15050,28521,7130
+México,La Paz,MX15070,335993,83998
+México,Lerma,MX15051,182234,45559
+México,Luvianos,MX15123,30315,7579
+México,Malinalco,MX15052,31161,7790
+México,Melchor Ocampo,MX15053,67747,16937
+México,Metepec,MX15054,258029,64507
+México,Mexicaltzingo,MX15055,15033,3758
+México,Morelos,MX15056,35089,8772
+México,Naucalpan de Juárez,MX15057,884056,221014
+México,Nextlalpan,MX15059,61505,15376
+México,Nezahualcóyotl,MX15058,1154116,288529
+México,Nicolás Romero,MX15060,455167,113792
+México,Nopaltepec,MX15061,11197,2799
+México,Ocoyoacac,MX15062,77592,19398
+México,Ocuilan,MX15063,39101,9775
+México,Otumba,MX15065,38698,9675
+México,Otzoloapan,MX15066,5176,1294
+México,Otzolotepec,MX15067,94541,23635
+México,Ozumba,MX15068,33106,8276
+México,Papalotla,MX15069,5387,1347
+México,Polotitlán,MX15071,16106,4027
+México,Rayón,MX15072,18334,4583
+México,San Antonio la Isla,MX15073,34038,8510
+México,San Felipe del Progreso,MX15074,154228,38557
+México,San José del Rincón,MX15124,107347,26837
+México,San Martín de las Pirámides,MX15075,31466,7866
+México,San Mateo Atenco,MX15076,96080,24020
+México,San Simón de Guerrero,MX15077,7185,1796
+México,Santo Tomás,MX15078,10550,2638
+México,Soyaniquilpan de Juárez,MX15079,15253,3813
+México,Sultepec,MX15080,25557,6389
+México,Tecámac,MX15081,581490,145372
+México,Tejupilco,MX15082,83518,20880
+México,Temamatla,MX15083,14955,3739
+México,Temascalapa,MX15084,46135,11534
+México,Temascalcingo,MX15085,70200,17550
+México,Temascaltepec,MX15086,37043,9261
+México,Temoaya,MX15087,115680,28920
+México,Tenancingo,MX15088,110360,27590
+México,Tenango del Aire,MX15089,12006,3002
+México,Tenango del Valle,MX15090,96146,24036
+México,Teoloyucan,MX15091,73144,18286
+México,Teotihuacán,MX15092,62676,15669
+México,Tepetlaoxtoc,MX15093,34619,8655
+México,Tepetlixpa,MX15094,21853,5463
+México,Tepotzotlán,MX15095,111592,27898
+México,Tequixquiac,MX15096,43186,10796
+México,Texcaltitlán,MX15097,19717,4929
+México,Texcalyacac,MX15098,6102,1526
+México,Texcoco,MX15099,293884,73471
+México,Tezoyuca,MX15100,55071,13768
+México,Tianguistenco,MX15101,92162,23041
+México,Timilpan,MX15102,17451,4363
+México,Tlalmanalco,MX15103,52374,13093
+México,Tlalnepantla de Baz,MX15104,728056,182014
+México,Tlatlaya,MX15105,33359,8340
+México,Toluca,MX15106,968115,242029
+México,Tonanitla,MX15125,16206,4051
+México,Tonatico,MX15107,13702,3426
+México,Tultepec,MX15108,174940,43735
+México,Tultitlán,MX15109,551359,137840
+México,Valle de Bravo,MX15110,65982,16496
+México,Valle de Chalco Solidaridad,MX15122,420328,105082
+México,Villa Guerrero,MX15113,73124,18281
+México,Villa Victoria,MX15114,115788,28947
+México,Villa de Allende,MX15111,57023,14256
+México,Villa del Carbón,MX15112,54610,13653
+México,Xalatlaco,MX15043,33984,8496
+México,Xonacatlán,MX15115,58297,14574
+México,Zacazonapan,MX15116,5414,1354
+México,Zacualpan,MX15117,14256,3564
+México,Zinacantepec,MX15118,216841,54210
+México,Zumpahuacán,MX15119,20061,5015
+México,Zumpango,MX15120,299104,74776
+Nayarit,Acaponeta,MX18001,38838,9710
+Nayarit,Ahuacatlán,MX18002,16372,4093
+Nayarit,Amatlán de Cañas,MX18003,12008,3002
+Nayarit,Bahía de Banderas,MX18020,197084,49271
+Nayarit,Compostela,MX18004,80885,20221
+Nayarit,Del Nayar,MX18009,50530,12632
+Nayarit,Huajicori,MX18005,12970,3243
+Nayarit,Ixtlán del Río,MX18006,30615,7654
+Nayarit,Jala,MX18007,20255,5064
+Nayarit,La Yesca,MX18019,14325,3581
+Nayarit,Rosamorada,MX18010,35103,8776
+Nayarit,Ruíz,MX18011,25315,6329
+Nayarit,San Blas,MX18012,43222,10806
+Nayarit,San Pedro Lagunillas,MX18013,8009,2002
+Nayarit,Santa María del Oro,MX18014,26514,6628
+Nayarit,Santiago Ixcuintla,MX18015,97749,24437
+Nayarit,Tecuala,MX18016,38438,9610
+Nayarit,Tepic,MX18017,452146,113036
+Nayarit,Tuxpan,MX18018,31427,7857
+Nayarit,Xalisco,MX18008,61019,15255
+Nuevo León,Abasolo,MX19001,3173,793
+Nuevo León,Agualeguas,MX19002,3468,867
+Nuevo León,Allende,MX19004,37009,9252
+Nuevo León,Anáhuac,MX19005,18796,4699
+Nuevo León,Apodaca,MX19006,700428,175107
+Nuevo León,Aramberri,MX19007,15517,3879
+Nuevo León,Bustamante,MX19008,3795,949
+Nuevo León,Cadereyta Jiménez,MX19009,128629,32157
+Nuevo León,Cerralvo,MX19011,7648,1912
+Nuevo León,China,MX19013,10334,2584
+Nuevo León,Ciénega de Flores,MX19012,75171,18793
+Nuevo León,Doctor Arroyo,MX19014,37526,9381
+Nuevo León,Doctor Coss,MX19015,1415,354
+Nuevo León,Doctor González,MX19016,3484,871
+Nuevo León,El Carmen,MX19010,112595,28149
+Nuevo León,Galeana,MX19017,42595,10649
+Nuevo León,García,MX19018,422626,105657
+Nuevo León,General Bravo,MX19020,5739,1435
+Nuevo León,General Escobedo,MX19021,512079,128020
+Nuevo León,General Terán,MX19022,14683,3671
+Nuevo León,General Treviño,MX19023,1862,465
+Nuevo León,General Zaragoza,MX19024,6566,1641
+Nuevo León,General Zuazua,MX19025,110033,27508
+Nuevo León,Guadalupe,MX19026,683152,170788
+Nuevo León,Hidalgo,MX19047,16778,4194
+Nuevo León,Higueras,MX19028,1447,362
+Nuevo León,Hualahuises,MX19029,7308,1827
+Nuevo León,Iturbide,MX19030,3426,857
+Nuevo León,Juárez,MX19031,501756,125439
+Nuevo León,Lampazos de Naranjo,MX19032,5592,1398
+Nuevo León,Linares,MX19033,88548,22137
+Nuevo León,Los Aldamas,MX19003,1444,361
+Nuevo León,Los Herreras,MX19027,2053,513
+Nuevo León,Los Ramones,MX19042,5624,1406
+Nuevo León,Marín,MX19034,5494,1373
+Nuevo León,Melchor Ocampo,MX19035,1548,387
+Nuevo León,Mier y Noriega,MX19036,7995,1999
+Nuevo León,Mina,MX19037,6566,1642
+Nuevo León,Montemorelos,MX19038,70613,17653
+Nuevo León,Monterrey,MX19039,1183892,295973
+Nuevo León,Parás,MX19040,933,233
+Nuevo León,Pesquería,MX19041,157879,39470
+Nuevo León,Rayones,MX19043,2468,617
+Nuevo León,Sabinas Hidalgo,MX19044,36075,9019
+Nuevo León,Salinas Victoria,MX19045,93788,23447
+Nuevo León,San Nicolás de los Garza,MX19046,436388,109097
+Nuevo León,San Pedro Garza García,MX19019,134934,33734
+Nuevo León,Santa Catarina,MX19048,318496,79624
+Nuevo León,Santiago,MX19049,48271,12068
+Nuevo León,Vallecillo,MX19050,1619,405
+Nuevo León,Villaldama,MX19051,3700,925
+Oaxaca,Abejones,MX20001,883,221
+Oaxaca,Acatlán de Pérez Figueroa,MX20002,47554,11888
+Oaxaca,Asunción Cacalotepec,MX20003,2735,684
+Oaxaca,Asunción Cuyotepeji,MX20004,1150,287
+Oaxaca,Asunción Ixtaltepec,MX20005,16010,4003
+Oaxaca,Asunción Nochixtlán,MX20006,21454,5363
+Oaxaca,Asunción Ocotlán,MX20007,2532,633
+Oaxaca,Asunción Tlacolulita,MX20008,750,187
+Oaxaca,Ayoquezco de Aldama,MX20398,5145,1286
+Oaxaca,Ayotzintepec,MX20009,7233,1808
+Oaxaca,Calihualá,MX20011,1462,366
+Oaxaca,Candelaria Loxicha,MX20012,11973,2993
+Oaxaca,Capulálpam de Méndez,MX20247,1721,430
+Oaxaca,Chahuites,MX20025,12116,3029
+Oaxaca,Chalcatongo de Hidalgo,MX20026,9457,2364
+Oaxaca,Chiquihuitlán de Benito Juárez,MX20027,2262,565
+Oaxaca,Ciudad Ixtepec,MX20014,29224,7306
+Oaxaca,Ciénega de Zimatlán,MX20013,3163,791
+Oaxaca,Coatecas Altas,MX20015,5713,1428
+Oaxaca,Coicoyán de las Flores,MX20016,10258,2564
+Oaxaca,Concepción Buenavista,MX20018,775,194
+Oaxaca,Concepción Pápalo,MX20019,2859,715
+Oaxaca,Constancia del Rosario,MX20020,5375,1344
+Oaxaca,Cosolapa,MX20021,16108,4027
+Oaxaca,Cosoltepec,MX20022,815,204
+Oaxaca,Cuilápam de Guerrero,MX20023,29787,7447
+Oaxaca,Cuyamecalco Villa de Zaragoza,MX20024,3802,951
+Oaxaca,El Barrio de la Soledad,MX20010,14006,3501
+Oaxaca,El Espinal,MX20030,9215,2304
+Oaxaca,Eloxochitlán de Flores Magón,MX20029,4450,1113
+Oaxaca,Fresnillo de Trujano,MX20032,1120,280
+Oaxaca,Guadalupe Etla,MX20033,3433,858
+Oaxaca,Guadalupe de Ramírez,MX20034,1340,335
+Oaxaca,Guelatao de Juárez,MX20035,704,176
+Oaxaca,Guevea de Humboldt,MX20036,5530,1382
+Oaxaca,Heroica Ciudad de Ejutla de Crespo,MX20028,24459,6115
+Oaxaca,Heroica Ciudad de Huajuapan de León,MX20039,82031,20508
+Oaxaca,Heroica Ciudad de Juchitán de Zaragoza,MX20043,118479,29620
+Oaxaca,Heroica Ciudad de Tlaxiaco,MX20397,42175,10544
+Oaxaca,Heroica Villa Tezoatlán de Segura y Luna,MX20549,11897,2974
+Oaxaca,Huautepec,MX20040,6744,1686
+Oaxaca,Huautla de Jiménez,MX20041,33300,8325
+Oaxaca,Ixpantepec Nieves,MX20065,1120,280
+Oaxaca,Ixtlán de Juárez,MX20042,8841,2210
+Oaxaca,La Compañía,MX20017,3772,943
+Oaxaca,La Pe,MX20069,3239,810
+Oaxaca,La Reforma,MX20076,3570,893
+Oaxaca,La Trinidad Vista Hermosa,MX20556,315,79
+Oaxaca,Loma Bonita,MX20044,42769,10692
+Oaxaca,Magdalena Apasco,MX20045,8599,2150
+Oaxaca,Magdalena Jaltepec,MX20046,3063,766
+Oaxaca,Magdalena Mixtepec,MX20048,1556,389
+Oaxaca,Magdalena Ocotlán,MX20049,1252,313
+Oaxaca,Magdalena Peñasco,MX20050,3930,982
+Oaxaca,Magdalena Teitipac,MX20051,4960,1240
+Oaxaca,Magdalena Tequisistlán,MX20052,6354,1588
+Oaxaca,Magdalena Tlacotepec,MX20053,1336,334
+Oaxaca,Magdalena Yodocono de Porfirio Díaz,MX20562,1758,439
+Oaxaca,Magdalena Zahuatlán,MX20054,431,108
+Oaxaca,Mariscala de Juárez,MX20055,3904,976
+Oaxaca,Matías Romero Avendaño,MX20057,41812,10453
+Oaxaca,Mazatlán Villa de Flores,MX20058,13341,3335
+Oaxaca,Mesones Hidalgo,MX20037,4705,1176
+Oaxaca,Miahuatlán de Porfirio Díaz,MX20059,53390,13347
+Oaxaca,Mixistlán de la Reforma,MX20060,2590,648
+Oaxaca,Monjas,MX20061,3155,789
+Oaxaca,Mártires de Tacubaya,MX20056,1560,390
+Oaxaca,Natividad,MX20062,563,141
+Oaxaca,Nazareno Etla,MX20063,4678,1170
+Oaxaca,Nejapa de Madero,MX20064,8873,2218
+Oaxaca,Nuevo Zoquiápam,MX20504,1674,418
+Oaxaca,Oaxaca de Juárez,MX20067,287600,71900
+Oaxaca,Ocotlán de Morelos,MX20068,25426,6356
+Oaxaca,Pinotepa de Don Luis,MX20070,6698,1674
+Oaxaca,Pluma Hidalgo,MX20071,3636,909
+Oaxaca,Putla Villa de Guerrero,MX20073,36558,9140
+Oaxaca,Reforma de Pineda,MX20075,2729,682
+Oaxaca,Reyes Etla,MX20077,5146,1286
+Oaxaca,Rojas de Cuauhtémoc,MX20078,1465,366
+Oaxaca,Salina Cruz,MX20079,88070,22017
+Oaxaca,San Agustín Amatengo,MX20080,1653,413
+Oaxaca,San Agustín Atenango,MX20081,1943,486
+Oaxaca,San Agustín Chayuco,MX20082,4366,1091
+Oaxaca,San Agustín Etla,MX20084,4411,1103
+Oaxaca,San Agustín Loxicha,MX20085,27846,6962
+Oaxaca,San Agustín Tlacotepec,MX20086,1084,271
+Oaxaca,San Agustín Yatareni,MX20087,7131,1783
+Oaxaca,San Agustín de las Juntas,MX20083,12988,3247
+Oaxaca,San Andrés Cabecera Nueva,MX20088,3081,770
+Oaxaca,San Andrés Dinicuiti,MX20089,2395,599
+Oaxaca,San Andrés Huaxpaltepec,MX20090,6527,1632
+Oaxaca,San Andrés Huayápam,MX20091,6662,1666
+Oaxaca,San Andrés Ixtlahuaca,MX20092,1939,485
+Oaxaca,San Andrés Lagunas,MX20093,531,133
+Oaxaca,San Andrés Nuxiño,MX20094,1939,485
+Oaxaca,San Andrés Paxtlán,MX20095,4886,1222
+Oaxaca,San Andrés Sinaxtla,MX20096,793,198
+Oaxaca,San Andrés Solaga,MX20097,2017,504
+Oaxaca,San Andrés Teotilálpam,MX20098,4581,1145
+Oaxaca,San Andrés Tepetlapa,MX20099,435,109
+Oaxaca,San Andrés Yaá,MX20100,407,102
+Oaxaca,San Andrés Zabache,MX20101,780,195
+Oaxaca,San Andrés Zautla,MX20102,5676,1419
+Oaxaca,San Antonino Castillo Velasco,MX20103,6952,1738
+Oaxaca,San Antonino Monte Verde,MX20105,8049,2012
+Oaxaca,San Antonino el Alto,MX20104,2878,720
+Oaxaca,San Antonio Acutla,MX20106,255,64
+Oaxaca,San Antonio Huitepec,MX20108,3055,764
+Oaxaca,San Antonio Nanahuatípam,MX20109,1301,325
+Oaxaca,San Antonio Sinicahua,MX20110,1776,444
+Oaxaca,San Antonio Tepetlapa,MX20111,5133,1283
+Oaxaca,San Antonio de la Cal,MX20107,29573,7393
+Oaxaca,San Baltazar Chichicápam,MX20112,2657,664
+Oaxaca,San Baltazar Loxicha,MX20113,3397,849
+Oaxaca,San Baltazar Yatzachi el Bajo,MX20114,711,178
+Oaxaca,San Bartolo Coyotepec,MX20115,11967,2992
+Oaxaca,San Bartolo Soyaltepec,MX20121,655,164
+Oaxaca,San Bartolo Yautepec,MX20122,674,169
+Oaxaca,San Bartolomé Ayautla,MX20116,4329,1082
+Oaxaca,San Bartolomé Loxicha,MX20117,2391,598
+Oaxaca,San Bartolomé Quialana,MX20118,2468,617
+Oaxaca,San Bartolomé Yucuañe,MX20119,758,189
+Oaxaca,San Bartolomé Zoogocho,MX20120,471,118
+Oaxaca,San Bernardo Mixtepec,MX20123,2964,741
+Oaxaca,San Blas Atempa,MX20124,21717,5429
+Oaxaca,San Carlos Yautepec,MX20125,12316,3079
+Oaxaca,San Cristóbal Amatlán,MX20126,5675,1419
+Oaxaca,San Cristóbal Amoltepec,MX20127,1342,336
+Oaxaca,San Cristóbal Lachirioag,MX20128,1524,381
+Oaxaca,San Cristóbal Suchixtlahuaca,MX20129,367,92
+Oaxaca,San Dionisio Ocotepec,MX20131,11966,2991
+Oaxaca,San Dionisio Ocotlán,MX20132,1609,402
+Oaxaca,San Dionisio del Mar,MX20130,5406,1351
+Oaxaca,San Esteban Atatlahuca,MX20133,4130,1032
+Oaxaca,San Felipe Jalapa de Díaz,MX20134,30305,7576
+Oaxaca,San Felipe Tejalápam,MX20135,8720,2180
+Oaxaca,San Felipe Usila,MX20136,12769,3192
+Oaxaca,San Francisco Cahuacuá,MX20137,3635,909
+Oaxaca,San Francisco Cajonos,MX20138,588,147
+Oaxaca,San Francisco Chapulapa,MX20139,2311,578
+Oaxaca,San Francisco Chindúa,MX20140,846,212
+Oaxaca,San Francisco Huehuetlán,MX20142,873,218
+Oaxaca,San Francisco Ixhuatán,MX20143,10033,2508
+Oaxaca,San Francisco Jaltepetongo,MX20144,1105,276
+Oaxaca,San Francisco Lachigoló,MX20145,5583,1396
+Oaxaca,San Francisco Logueche,MX20146,2999,750
+Oaxaca,San Francisco Nuxaño,MX20147,388,97
+Oaxaca,San Francisco Ozolotepec,MX20148,2406,602
+Oaxaca,San Francisco Sola,MX20149,2464,616
+Oaxaca,San Francisco Telixtlahuaca,MX20150,14696,3674
+Oaxaca,San Francisco Teopan,MX20151,317,79
+Oaxaca,San Francisco Tlapancingo,MX20152,2640,660
+Oaxaca,San Francisco del Mar,MX20141,9341,2335
+Oaxaca,San Gabriel Mixtepec,MX20153,5207,1302
+Oaxaca,San Ildefonso Amatlán,MX20154,2539,635
+Oaxaca,San Ildefonso Sola,MX20155,1428,357
+Oaxaca,San Ildefonso Villa Alta,MX20156,3888,972
+Oaxaca,San Jacinto Amilpas,MX20157,21138,5285
+Oaxaca,San Jacinto Tlacotepec,MX20158,2380,595
+Oaxaca,San Jerónimo Coatlán,MX20159,5921,1480
+Oaxaca,San Jerónimo Silacayoapilla,MX20160,1495,374
+Oaxaca,San Jerónimo Sosola,MX20161,2934,734
+Oaxaca,San Jerónimo Taviche,MX20162,2173,543
+Oaxaca,San Jerónimo Tecóatl,MX20163,1673,418
+Oaxaca,San Jerónimo Tlacochahuaya,MX20550,6102,1526
+Oaxaca,San Jorge Nuchita,MX20164,3020,755
+Oaxaca,San José Ayuquila,MX20165,1751,438
+Oaxaca,San José Chiltepec,MX20166,11901,2975
+Oaxaca,San José Estancia Grande,MX20168,983,246
+Oaxaca,San José Independencia,MX20169,4500,1125
+Oaxaca,San José Lachiguiri,MX20170,3927,982
+Oaxaca,San José Tenango,MX20171,19060,4765
+Oaxaca,San José del Peñasco,MX20167,2368,592
+Oaxaca,San José del Progreso,MX20072,8592,2148
+Oaxaca,San Juan Achiutla,MX20172,411,103
+Oaxaca,San Juan Atepec,MX20173,1498,375
+Oaxaca,San Juan Bautista Atatlahuca,MX20175,1493,373
+Oaxaca,San Juan Bautista Coixtlahuaca,MX20176,2810,702
+Oaxaca,San Juan Bautista Cuicatlán,MX20177,10808,2702
+Oaxaca,San Juan Bautista Guelache,MX20178,7565,1891
+Oaxaca,San Juan Bautista Jayacatlán,MX20179,1497,374
+Oaxaca,San Juan Bautista Lo de Soto,MX20180,2431,608
+Oaxaca,San Juan Bautista Suchitepec,MX20181,476,119
+Oaxaca,San Juan Bautista Tlachichilco,MX20183,1565,391
+Oaxaca,San Juan Bautista Tlacoatzintepec,MX20182,2301,575
+Oaxaca,San Juan Bautista Tuxtepec,MX20184,166520,41630
+Oaxaca,San Juan Bautista Valle Nacional,MX20559,24105,6026
+Oaxaca,San Juan Cacahuatepec,MX20185,9399,2350
+Oaxaca,San Juan Chicomezúchil,MX20191,319,80
+Oaxaca,San Juan Chilateca,MX20192,1617,404
+Oaxaca,San Juan Cieneguilla,MX20186,579,145
+Oaxaca,San Juan Coatzóspam,MX20187,1898,474
+Oaxaca,San Juan Colorado,MX20188,10068,2517
+Oaxaca,San Juan Comaltepec,MX20189,3315,829
+Oaxaca,San Juan Cotzocón,MX20190,23567,5892
+Oaxaca,San Juan Diuxi,MX20195,1077,269
+Oaxaca,San Juan Evangelista Analco,MX20196,414,104
+Oaxaca,San Juan Guelavía,MX20197,3413,853
+Oaxaca,San Juan Guichicovi,MX20198,31022,7755
+Oaxaca,San Juan Ihualtepec,MX20199,496,124
+Oaxaca,San Juan Juquila Mixes,MX20200,3917,979
+Oaxaca,San Juan Juquila Vijanos,MX20201,1984,496
+Oaxaca,San Juan Lachao,MX20202,4940,1235
+Oaxaca,San Juan Lachigalla,MX20203,3739,935
+Oaxaca,San Juan Lajarcia,MX20204,654,163
+Oaxaca,San Juan Lalana,MX20205,18039,4510
+Oaxaca,San Juan Mazatlán,MX20207,20076,5019
+Oaxaca,San Juan Mixtepec -Dto. 08 -,MX20208,7259,1815
+Oaxaca,San Juan Mixtepec -Dto. 26 -,MX20209,625,156
+Oaxaca,San Juan Ozolotepec,MX20211,3799,950
+Oaxaca,San Juan Petlapa,MX20212,3285,821
+Oaxaca,San Juan Quiahije,MX20213,4460,1115
+Oaxaca,San Juan Quiotepec,MX20214,2117,529
+Oaxaca,San Juan Sayultepec,MX20215,923,231
+Oaxaca,San Juan Tabaá,MX20216,1437,359
+Oaxaca,San Juan Tamazola,MX20217,3502,875
+Oaxaca,San Juan Teita,MX20218,557,139
+Oaxaca,San Juan Teitipac,MX20219,2751,688
+Oaxaca,San Juan Tepeuxila,MX20220,2797,699
+Oaxaca,San Juan Teposcolula,MX20221,1555,389
+Oaxaca,San Juan Yaeé,MX20222,1483,371
+Oaxaca,San Juan Yatzona,MX20223,464,116
+Oaxaca,San Juan Yucuita,MX20224,676,169
+Oaxaca,San Juan de los Cués,MX20206,2549,637
+Oaxaca,San Juan del Estado,MX20193,2928,732
+Oaxaca,San Juan del Río,MX20194,1435,359
+Oaxaca,San Juan Ñumí,MX20210,6012,1503
+Oaxaca,San Lorenzo,MX20225,6204,1551
+Oaxaca,San Lorenzo Albarradas,MX20226,3096,774
+Oaxaca,San Lorenzo Cacaotepec,MX20227,20792,5198
+Oaxaca,San Lorenzo Cuaunecuiltitla,MX20228,898,224
+Oaxaca,San Lorenzo Texmelúcan,MX20229,9695,2424
+Oaxaca,San Lorenzo Victoria,MX20230,1009,252
+Oaxaca,San Lucas Camotlán,MX20231,3362,840
+Oaxaca,San Lucas Ojitlán,MX20232,23506,5876
+Oaxaca,San Lucas Quiaviní,MX20233,1818,454
+Oaxaca,San Lucas Zoquiápam,MX20234,7555,1889
+Oaxaca,San Luis Amatlán,MX20235,4072,1018
+Oaxaca,San Marcial Ozolotepec,MX20236,1455,364
+Oaxaca,San Marcos Arteaga,MX20237,1672,418
+Oaxaca,San Martín Huamelúlpam,MX20239,1059,265
+Oaxaca,San Martín Itunyoso,MX20240,2911,728
+Oaxaca,San Martín Lachilá,MX20241,1112,278
+Oaxaca,San Martín Peras,MX20242,13150,3287
+Oaxaca,San Martín Tilcajete,MX20243,2097,524
+Oaxaca,San Martín Toxpalan,MX20244,4206,1052
+Oaxaca,San Martín Zacatepec,MX20245,1402,350
+Oaxaca,San Martín de los Cansecos,MX20238,1050,263
+Oaxaca,San Mateo Cajonos,MX20246,641,160
+Oaxaca,San Mateo Etlatongo,MX20250,1296,324
+Oaxaca,San Mateo Nejápam,MX20251,1279,320
+Oaxaca,San Mateo Peñasco,MX20252,2495,624
+Oaxaca,San Mateo Piñas,MX20253,2135,534
+Oaxaca,San Mateo Río Hondo,MX20254,3476,869
+Oaxaca,San Mateo Sindihui,MX20255,2065,516
+Oaxaca,San Mateo Tlapiltepec,MX20256,235,59
+Oaxaca,San Mateo Yoloxochitlán,MX20249,4056,1014
+Oaxaca,San Mateo Yucutindó,MX20566,3406,851
+Oaxaca,San Mateo del Mar,MX20248,16370,4092
+Oaxaca,San Melchor Betaza,MX20257,1089,272
+Oaxaca,San Miguel Achiutla,MX20258,711,178
+Oaxaca,San Miguel Ahuehuetitlán,MX20259,2239,560
+Oaxaca,San Miguel Aloápam,MX20260,2283,571
+Oaxaca,San Miguel Amatitlán,MX20261,7264,1816
+Oaxaca,San Miguel Amatlán,MX20262,1177,294
+Oaxaca,San Miguel Chicahua,MX20264,2267,567
+Oaxaca,San Miguel Chimalapa,MX20265,6454,1613
+Oaxaca,San Miguel Coatlán,MX20263,3360,840
+Oaxaca,San Miguel Ejutla,MX20268,1360,340
+Oaxaca,San Miguel Huautla,MX20270,1359,340
+Oaxaca,San Miguel Mixtepec,MX20271,3588,897
+Oaxaca,San Miguel Panixtlahuaca,MX20272,6634,1659
+Oaxaca,San Miguel Peras,MX20273,4037,1009
+Oaxaca,San Miguel Piedras,MX20274,1411,353
+Oaxaca,San Miguel Quetzaltepec,MX20275,7644,1911
+Oaxaca,San Miguel Santa Flor,MX20276,729,182
+Oaxaca,San Miguel Soyaltepec,MX20278,40896,10224
+Oaxaca,San Miguel Suchixtepec,MX20279,3099,775
+Oaxaca,San Miguel Tecomatlán,MX20281,315,79
+Oaxaca,San Miguel Tenango,MX20282,682,171
+Oaxaca,San Miguel Tequixtepec,MX20283,1076,269
+Oaxaca,San Miguel Tilquiápam,MX20284,3284,821
+Oaxaca,San Miguel Tlacamama,MX20285,3858,964
+Oaxaca,San Miguel Tlacotepec,MX20286,3226,806
+Oaxaca,San Miguel Tulancingo,MX20287,308,77
+Oaxaca,San Miguel Yotao,MX20288,612,153
+Oaxaca,San Miguel del Puerto,MX20266,9115,2279
+Oaxaca,San Miguel del Río,MX20267,256,64
+Oaxaca,San Miguel el Grande,MX20269,4549,1137
+Oaxaca,San Nicolás,MX20289,1324,331
+Oaxaca,San Nicolás Hidalgo,MX20290,1099,275
+Oaxaca,San Pablo Coatlán,MX20291,4537,1134
+Oaxaca,San Pablo Cuatro Venados,MX20292,1801,450
+Oaxaca,San Pablo Etla,MX20293,19833,4958
+Oaxaca,San Pablo Huitzo,MX20294,7588,1897
+Oaxaca,San Pablo Huixtepec,MX20295,10502,2626
+Oaxaca,San Pablo Macuiltianguis,MX20296,978,245
+Oaxaca,San Pablo Tijaltepec,MX20297,2902,725
+Oaxaca,San Pablo Villa de Mitla,MX20298,14219,3555
+Oaxaca,San Pablo Yaganiza,MX20299,1168,292
+Oaxaca,San Pedro Amuzgos,MX20300,6941,1735
+Oaxaca,San Pedro Apóstol,MX20301,1744,436
+Oaxaca,San Pedro Atoyac,MX20302,4812,1203
+Oaxaca,San Pedro Cajonos,MX20303,1160,290
+Oaxaca,San Pedro Comitancillo,MX20305,4569,1142
+Oaxaca,San Pedro Coxcaltepec Cántaros,MX20304,731,183
+Oaxaca,San Pedro Huamelula,MX20307,10146,2537
+Oaxaca,San Pedro Huilotepec,MX20308,3538,884
+Oaxaca,San Pedro Ixcatlán,MX20309,11039,2760
+Oaxaca,San Pedro Ixtlahuaca,MX20310,15895,3974
+Oaxaca,San Pedro Jaltepetongo,MX20311,491,123
+Oaxaca,San Pedro Jicayán,MX20312,11807,2952
+Oaxaca,San Pedro Jocotipac,MX20313,743,186
+Oaxaca,San Pedro Juchatengo,MX20314,1875,469
+Oaxaca,San Pedro Mixtepec -Dto. 22 -,MX20318,52587,13147
+Oaxaca,San Pedro Mixtepec -Dto. 26 -,MX20319,1005,251
+Oaxaca,San Pedro Molinos,MX20320,732,183
+Oaxaca,San Pedro Mártir,MX20315,2128,532
+Oaxaca,San Pedro Mártir Quiechapa,MX20316,773,193
+Oaxaca,San Pedro Mártir Yucuxaco,MX20317,1316,329
+Oaxaca,San Pedro Nopala,MX20321,790,197
+Oaxaca,San Pedro Ocopetatillo,MX20322,905,226
+Oaxaca,San Pedro Ocotepec,MX20323,2522,630
+Oaxaca,San Pedro Pochutla,MX20324,50781,12695
+Oaxaca,San Pedro Quiatoni,MX20325,12635,3159
+Oaxaca,San Pedro Sochiápam,MX20326,5304,1326
+Oaxaca,San Pedro Tapanatepec,MX20327,16477,4119
+Oaxaca,San Pedro Taviche,MX20328,1519,380
+Oaxaca,San Pedro Teozacoalco,MX20329,1296,324
+Oaxaca,San Pedro Teutila,MX20330,4617,1154
+Oaxaca,San Pedro Tidaá,MX20331,1008,252
+Oaxaca,San Pedro Topiltepec,MX20332,377,94
+Oaxaca,San Pedro Totolápam,MX20333,3450,862
+Oaxaca,San Pedro Yaneri,MX20335,909,227
+Oaxaca,San Pedro Yucunama,MX20341,247,62
+Oaxaca,San Pedro Yólox,MX20336,1754,439
+Oaxaca,San Pedro el Alto,MX20306,4943,1236
+Oaxaca,San Pedro y San Pablo Ayutla,MX20337,5994,1498
+Oaxaca,San Pedro y San Pablo Teposcolula,MX20339,4525,1131
+Oaxaca,San Pedro y San Pablo Tequixtepec,MX20340,1816,454
+Oaxaca,San Raymundo Jalpan,MX20342,4731,1183
+Oaxaca,San Sebastián Abasolo,MX20343,2197,549
+Oaxaca,San Sebastián Coatlán,MX20344,2964,741
+Oaxaca,San Sebastián Ixcapa,MX20345,4409,1102
+Oaxaca,San Sebastián Nicananduta,MX20346,1598,399
+Oaxaca,San Sebastián Río Hondo,MX20347,4504,1126
+Oaxaca,San Sebastián Tecomaxtlahuaca,MX20348,8637,2159
+Oaxaca,San Sebastián Teitipac,MX20349,2279,570
+Oaxaca,San Sebastián Tutla,MX20350,21834,5458
+Oaxaca,San Simón Almolongas,MX20351,3077,769
+Oaxaca,San Simón Zahuatlán,MX20352,5256,1314
+Oaxaca,San Vicente Coatlán,MX20534,3676,919
+Oaxaca,San Vicente Lachixío,MX20535,3429,857
+Oaxaca,San Vicente Nuñú,MX20536,458,115
+Oaxaca,Santa Ana,MX20353,2527,632
+Oaxaca,Santa Ana Ateixtlahuaca,MX20354,545,136
+Oaxaca,Santa Ana Cuauhtémoc,MX20355,723,181
+Oaxaca,Santa Ana Tavela,MX20357,866,217
+Oaxaca,Santa Ana Tlapacoyan,MX20358,2112,528
+Oaxaca,Santa Ana Yareni,MX20359,642,161
+Oaxaca,Santa Ana Zegache,MX20360,4220,1055
+Oaxaca,Santa Ana del Valle,MX20356,2268,567
+Oaxaca,Santa Catalina Quierí,MX20361,857,214
+Oaxaca,Santa Catarina Cuixtla,MX20362,1553,388
+Oaxaca,Santa Catarina Ixtepeji,MX20363,2789,697
+Oaxaca,Santa Catarina Juquila,MX20364,19786,4946
+Oaxaca,Santa Catarina Lachatao,MX20365,1151,288
+Oaxaca,Santa Catarina Loxicha,MX20366,3873,968
+Oaxaca,Santa Catarina Mechoacán,MX20367,4800,1200
+Oaxaca,Santa Catarina Minas,MX20368,2166,541
+Oaxaca,Santa Catarina Quiané,MX20369,2365,591
+Oaxaca,Santa Catarina Quioquitani,MX20074,478,119
+Oaxaca,Santa Catarina Tayata,MX20370,706,177
+Oaxaca,Santa Catarina Ticuá,MX20371,1017,254
+Oaxaca,Santa Catarina Yosonotú,MX20372,1423,356
+Oaxaca,Santa Catarina Zapoquila,MX20373,413,103
+Oaxaca,Santa Cruz Acatepec,MX20374,1749,437
+Oaxaca,Santa Cruz Amilpas,MX20375,15921,3980
+Oaxaca,Santa Cruz Itundujia,MX20377,11402,2850
+Oaxaca,Santa Cruz Mixtepec,MX20378,4278,1069
+Oaxaca,Santa Cruz Nundaco,MX20379,3121,780
+Oaxaca,Santa Cruz Papalutla,MX20380,2329,582
+Oaxaca,Santa Cruz Tacache de Mina,MX20381,3066,766
+Oaxaca,Santa Cruz Tacahua,MX20382,1233,308
+Oaxaca,Santa Cruz Tayata,MX20383,634,159
+Oaxaca,Santa Cruz Xitla,MX20384,5078,1269
+Oaxaca,Santa Cruz Xoxocotlán,MX20385,107962,26991
+Oaxaca,Santa Cruz Zenzontepec,MX20386,20160,5040
+Oaxaca,Santa Cruz de Bravo,MX20376,380,95
+Oaxaca,Santa Gertrudis,MX20387,3043,761
+Oaxaca,Santa Inés Yatzeche,MX20389,948,237
+Oaxaca,Santa Inés de Zaragoza,MX20569,1498,375
+Oaxaca,Santa Inés del Monte,MX20388,3027,757
+Oaxaca,Santa Lucía Miahuatlán,MX20391,3564,891
+Oaxaca,Santa Lucía Monteverde,MX20392,7063,1766
+Oaxaca,Santa Lucía Ocotlán,MX20393,4426,1106
+Oaxaca,Santa Lucía del Camino,MX20390,56936,14234
+Oaxaca,Santa Magdalena Jicotlán,MX20047,82,21
+Oaxaca,Santa María Alotepec,MX20394,2911,728
+Oaxaca,Santa María Apazco,MX20395,1672,418
+Oaxaca,Santa María Atzompa,MX20399,46264,11566
+Oaxaca,Santa María Camotlán,MX20400,1771,443
+Oaxaca,Santa María Chachoápam,MX20404,816,204
+Oaxaca,Santa María Chilchotla,MX20406,22803,5701
+Oaxaca,Santa María Chimalapa,MX20407,8085,2021
+Oaxaca,Santa María Colotepec,MX20401,28826,7206
+Oaxaca,Santa María Cortijo,MX20402,1140,285
+Oaxaca,Santa María Coyotepec,MX20403,4193,1048
+Oaxaca,Santa María Ecatepec,MX20410,3645,911
+Oaxaca,Santa María Guelacé,MX20411,1081,270
+Oaxaca,Santa María Guienagati,MX20412,3344,836
+Oaxaca,Santa María Huatulco,MX20413,53588,13397
+Oaxaca,Santa María Huazolotitlán,MX20414,12549,3137
+Oaxaca,Santa María Ipalapa,MX20415,5107,1277
+Oaxaca,Santa María Ixcatlán,MX20416,470,117
+Oaxaca,Santa María Jacatepec,MX20417,10361,2590
+Oaxaca,Santa María Jalapa del Marqués,MX20418,12239,3060
+Oaxaca,Santa María Jaltianguis,MX20419,617,154
+Oaxaca,Santa María Lachixío,MX20420,1770,442
+Oaxaca,Santa María Mixtequilla,MX20421,5108,1277
+Oaxaca,Santa María Nativitas,MX20422,618,155
+Oaxaca,Santa María Nduayaco,MX20423,459,115
+Oaxaca,Santa María Ozolotepec,MX20424,3989,997
+Oaxaca,Santa María Petapa,MX20427,17419,4355
+Oaxaca,Santa María Peñoles,MX20426,9567,2392
+Oaxaca,Santa María Pápalo,MX20425,2149,537
+Oaxaca,Santa María Quiegolani,MX20428,2352,588
+Oaxaca,Santa María Sola,MX20429,1636,409
+Oaxaca,Santa María Tataltepec,MX20430,325,81
+Oaxaca,Santa María Tecomavaca,MX20431,1946,487
+Oaxaca,Santa María Temaxcalapa,MX20432,947,237
+Oaxaca,Santa María Temaxcaltepec,MX20433,2912,728
+Oaxaca,Santa María Teopoxco,MX20434,4217,1054
+Oaxaca,Santa María Tepantlali,MX20435,3888,972
+Oaxaca,Santa María Texcatitlán,MX20436,922,231
+Oaxaca,Santa María Tlahuitoltepec,MX20437,10165,2541
+Oaxaca,Santa María Tlalixtac,MX20438,1942,486
+Oaxaca,Santa María Tonameca,MX20439,27067,6767
+Oaxaca,Santa María Totolapilla,MX20440,835,209
+Oaxaca,Santa María Xadani,MX20441,10319,2580
+Oaxaca,Santa María Yalina,MX20442,260,65
+Oaxaca,Santa María Yavesía,MX20443,472,118
+Oaxaca,Santa María Yolotepec,MX20444,520,130
+Oaxaca,Santa María Yosoyúa,MX20445,1780,445
+Oaxaca,Santa María Yucuhiti,MX20446,6277,1569
+Oaxaca,Santa María Zacatepec,MX20447,17943,4486
+Oaxaca,Santa María Zaniza,MX20448,2671,668
+Oaxaca,Santa María Zoquitlán,MX20449,3417,854
+Oaxaca,Santa María del Rosario,MX20408,537,134
+Oaxaca,Santa María del Tule,MX20409,9733,2433
+Oaxaca,Santa María la Asunción,MX20396,3466,866
+Oaxaca,Santiago Amoltepec,MX20450,14746,3687
+Oaxaca,Santiago Apoala,MX20451,1043,261
+Oaxaca,Santiago Apóstol,MX20452,4624,1156
+Oaxaca,Santiago Astata,MX20453,4079,1020
+Oaxaca,Santiago Atitlán,MX20454,3757,939
+Oaxaca,Santiago Ayuquililla,MX20455,3155,789
+Oaxaca,Santiago Cacaloxtepec,MX20456,1727,432
+Oaxaca,Santiago Camotlán,MX20457,3522,880
+Oaxaca,Santiago Chazumba,MX20459,5046,1261
+Oaxaca,Santiago Choápam,MX20460,5529,1382
+Oaxaca,Santiago Comaltepec,MX20458,1214,303
+Oaxaca,Santiago Huajolotitlán,MX20462,4899,1225
+Oaxaca,Santiago Huauclilla,MX20463,545,136
+Oaxaca,Santiago Ihuitlán Plumas,MX20464,369,92
+Oaxaca,Santiago Ixcuintepec,MX20465,1719,430
+Oaxaca,Santiago Ixtayutla,MX20466,14721,3680
+Oaxaca,Santiago Jamiltepec,MX20467,19999,5000
+Oaxaca,Santiago Jocotepec,MX20468,15174,3793
+Oaxaca,Santiago Juxtlahuaca,MX20469,36923,9231
+Oaxaca,Santiago Lachiguiri,MX20470,4662,1166
+Oaxaca,Santiago Lalopa,MX20471,453,113
+Oaxaca,Santiago Laollaga,MX20472,3491,873
+Oaxaca,Santiago Laxopa,MX20473,1350,338
+Oaxaca,Santiago Llano Grande,MX20474,3576,894
+Oaxaca,Santiago Matatlán,MX20475,10786,2697
+Oaxaca,Santiago Miltepec,MX20476,453,113
+Oaxaca,Santiago Minas,MX20477,1421,355
+Oaxaca,Santiago Nacaltepec,MX20478,1657,414
+Oaxaca,Santiago Nejapilla,MX20479,174,43
+Oaxaca,Santiago Niltepec,MX20066,5547,1387
+Oaxaca,Santiago Nundiche,MX20480,1414,354
+Oaxaca,Santiago Nuyoó,MX20481,2054,513
+Oaxaca,Santiago Pinotepa Nacional,MX20482,58651,14663
+Oaxaca,Santiago Suchilquitongo,MX20483,11456,2864
+Oaxaca,Santiago Tamazola,MX20484,4696,1174
+Oaxaca,Santiago Tapextla,MX20485,3304,826
+Oaxaca,Santiago Tenango,MX20487,2057,514
+Oaxaca,Santiago Tepetlapa,MX20488,133,33
+Oaxaca,Santiago Tetepec,MX20489,5181,1295
+Oaxaca,Santiago Texcalcingo,MX20490,3134,784
+Oaxaca,Santiago Textitlán,MX20491,5239,1310
+Oaxaca,Santiago Tilantongo,MX20492,2857,714
+Oaxaca,Santiago Tillo,MX20493,563,141
+Oaxaca,Santiago Tlazoyaltepec,MX20494,6727,1682
+Oaxaca,Santiago Xanica,MX20495,3309,827
+Oaxaca,Santiago Xiacuí,MX20496,1999,500
+Oaxaca,Santiago Yaitepec,MX20497,4480,1120
+Oaxaca,Santiago Yaveo,MX20498,8088,2022
+Oaxaca,Santiago Yolomécatl,MX20499,1995,499
+Oaxaca,Santiago Yosondúa,MX20500,8365,2091
+Oaxaca,Santiago Yucuyachi,MX20501,1020,255
+Oaxaca,Santiago Zacatepec,MX20502,5308,1327
+Oaxaca,Santiago Zoochila,MX20503,455,114
+Oaxaca,Santiago del Río,MX20461,535,134
+Oaxaca,Santo Domingo Albarradas,MX20506,833,208
+Oaxaca,Santo Domingo Armenta,MX20507,3323,831
+Oaxaca,Santo Domingo Chihuitán,MX20508,1680,420
+Oaxaca,Santo Domingo Ingenio,MX20505,7982,1995
+Oaxaca,Santo Domingo Ixcatlán,MX20510,797,199
+Oaxaca,Santo Domingo Nuxaá,MX20511,3511,878
+Oaxaca,Santo Domingo Ozolotepec,MX20512,1197,299
+Oaxaca,Santo Domingo Petapa,MX20513,9483,2371
+Oaxaca,Santo Domingo Roayaga,MX20514,990,247
+Oaxaca,Santo Domingo Tehuantepec,MX20515,72217,18054
+Oaxaca,Santo Domingo Teojomulco,MX20516,5587,1397
+Oaxaca,Santo Domingo Tepuxtepec,MX20517,6390,1598
+Oaxaca,Santo Domingo Tlatayápam,MX20518,119,30
+Oaxaca,Santo Domingo Tomaltepec,MX20519,4118,1030
+Oaxaca,Santo Domingo Tonaltepec,MX20521,265,66
+Oaxaca,Santo Domingo Tonalá,MX20520,7694,1923
+Oaxaca,Santo Domingo Xagacía,MX20522,1249,312
+Oaxaca,Santo Domingo Yanhuitlán,MX20523,1694,423
+Oaxaca,Santo Domingo Yodohino,MX20524,337,84
+Oaxaca,Santo Domingo Zanatepec,MX20525,12940,3235
+Oaxaca,Santo Domingo de Morelos,MX20509,12178,3045
+Oaxaca,Santo Tomás Jalieza,MX20530,4215,1054
+Oaxaca,Santo Tomás Mazaltepec,MX20531,2734,683
+Oaxaca,Santo Tomás Ocotepec,MX20532,4272,1068
+Oaxaca,Santo Tomás Tamazulapan,MX20533,2908,727
+Oaxaca,Santos Reyes Nopala,MX20526,17684,4421
+Oaxaca,Santos Reyes Pápalo,MX20527,2627,657
+Oaxaca,Santos Reyes Tepejillo,MX20528,925,231
+Oaxaca,Santos Reyes Yucuná,MX20529,1562,390
+Oaxaca,Silacayoápam,MX20537,6972,1743
+Oaxaca,Sitio de Xitlapehua,MX20538,796,199
+Oaxaca,Soledad Etla,MX20539,7241,1810
+Oaxaca,Tamazulápam del Espíritu Santo,MX20031,7784,1946
+Oaxaca,Tanetze de Zaragoza,MX20541,1609,402
+Oaxaca,Taniche,MX20542,965,241
+Oaxaca,Tataltepec de Valdés,MX20543,6749,1687
+Oaxaca,Teococuilco de Marcos Pérez,MX20544,1072,268
+Oaxaca,Teotitlán de Flores Magón,MX20545,10718,2680
+Oaxaca,Teotitlán del Valle,MX20546,6717,1679
+Oaxaca,Teotongo,MX20547,1037,259
+Oaxaca,Tepelmeme Villa de Morelos,MX20548,2041,510
+Oaxaca,Tlacolula de Matamoros,MX20551,31696,7924
+Oaxaca,Tlacotepec Plumas,MX20552,435,109
+Oaxaca,Tlalixtac de Cabrera,MX20553,12930,3233
+Oaxaca,Totontepec Villa de Morelos,MX20554,6207,1552
+Oaxaca,Trinidad Zaachila,MX20555,3832,958
+Oaxaca,Unión Hidalgo,MX20557,15141,3785
+Oaxaca,Valerio Trujano,MX20558,1437,359
+Oaxaca,Villa Díaz Ordaz,MX20560,6752,1688
+Oaxaca,Villa Hidalgo,MX20038,1978,494
+Oaxaca,Villa Sola de Vega,MX20277,13431,3358
+Oaxaca,Villa Talea de Castro,MX20280,2100,525
+Oaxaca,Villa Tejúpam de la Unión,MX20486,2515,629
+Oaxaca,Villa de Chilapa de Díaz,MX20405,1875,469
+Oaxaca,Villa de Etla,MX20338,11917,2979
+Oaxaca,Villa de Tamazulápam del Progreso,MX20540,8712,2178
+Oaxaca,Villa de Tututepec de Melchor Ocampo,MX20334,52965,13241
+Oaxaca,Villa de Zaachila,MX20565,49606,12402
+Oaxaca,Yaxe,MX20561,3105,776
+Oaxaca,Yogana,MX20563,1297,324
+Oaxaca,Yutanduchi de Guerrero,MX20564,1231,308
+Oaxaca,Zapotitlán Lagunas,MX20567,3528,882
+Oaxaca,Zapotitlán Palmas,MX20568,1774,443
+Oaxaca,Zimatlán de Álvarez,MX20570,23397,5849
+Oaxaca,Ánimas Trujano,MX20174,5563,1391
+Puebla,Acajete,MX21001,77402,19350
+Puebla,Acateno,MX21002,9954,2489
+Puebla,Acatlán,MX21003,39666,9916
+Puebla,Acatzingo,MX21004,68366,17092
+Puebla,Acteopan,MX21005,3251,813
+Puebla,Ahuacatlán,MX21006,15315,3829
+Puebla,Ahuatlán,MX21007,3308,827
+Puebla,Ahuazotepec,MX21008,12254,3063
+Puebla,Ahuehuetitla,MX21009,2332,583
+Puebla,Ajalpan,MX21010,80226,20057
+Puebla,Albino Zertuche,MX21011,1966,492
+Puebla,Aljojuca,MX21012,7063,1766
+Puebla,Altepexi,MX21013,24419,6105
+Puebla,Amixtlán,MX21014,5076,1269
+Puebla,Amozoc,MX21015,141871,35468
+Puebla,Aquixtla,MX21016,9604,2401
+Puebla,Atempan,MX21017,31797,7949
+Puebla,Atexcal,MX21018,4029,1007
+Puebla,Atlequizayan,MX21080,2837,709
+Puebla,Atlixco,MX21019,149030,37257
+Puebla,Atoyatempan,MX21020,8176,2044
+Puebla,Atzala,MX21021,1628,407
+Puebla,Atzitzihuacán,MX21022,13612,3403
+Puebla,Atzitzintla,MX21023,9605,2401
+Puebla,Axutla,MX21024,1011,253
+Puebla,Ayotoxco de Guerrero,MX21025,8729,2182
+Puebla,Calpan,MX21026,16177,4044
+Puebla,Caltepec,MX21027,4289,1072
+Puebla,Camocuautla,MX21028,2909,727
+Puebla,Caxhuacan,MX21029,4018,1005
+Puebla,Cañada Morelos,MX21099,21915,5479
+Puebla,Chalchicomula de Sesma,MX21045,49816,12454
+Puebla,Chapulco,MX21046,8732,2183
+Puebla,Chiautla,MX21047,22741,5685
+Puebla,Chiautzingo,MX21048,23471,5868
+Puebla,Chichiquila,MX21050,28885,7221
+Puebla,Chiconcuautla,MX21049,18527,4632
+Puebla,Chietla,MX21051,39132,9783
+Puebla,Chigmecatitlán,MX21052,1253,313
+Puebla,Chignahuapan,MX21053,70040,17510
+Puebla,Chignautla,MX21054,38209,9552
+Puebla,Chila,MX21055,5318,1329
+Puebla,Chila de la Sal,MX21056,1366,342
+Puebla,Chilchotla,MX21058,22155,5539
+Puebla,Chinantla,MX21059,3210,803
+Puebla,Coatepec,MX21030,803,201
+Puebla,Coatzingo,MX21031,2977,744
+Puebla,Cohetzala,MX21032,1466,367
+Puebla,Cohuecan,MX21033,5724,1431
+Puebla,Coronango,MX21034,51115,12779
+Puebla,Coxcatlán,MX21035,21736,5434
+Puebla,Coyomeapan,MX21036,15737,3934
+Puebla,Coyotepec,MX21037,2439,610
+Puebla,Cuapiaxtla de Madero,MX21038,11675,2919
+Puebla,Cuautempan,MX21039,10364,2591
+Puebla,Cuautinchán,MX21040,13513,3378
+Puebla,Cuautlancingo,MX21041,148391,37098
+Puebla,Cuayuca de Andrade,MX21042,3521,880
+Puebla,Cuetzalan del Progreso,MX21043,52433,13108
+Puebla,Cuyoaco,MX21044,18326,4581
+Puebla,Domingo Arenas,MX21060,8596,2149
+Puebla,Eloxochitlán,MX21061,15685,3921
+Puebla,Epatlán,MX21062,5418,1355
+Puebla,Esperanza,MX21063,15608,3902
+Puebla,Francisco Z. Mena,MX21064,18811,4703
+Puebla,General Felipe Ángeles,MX21065,23967,5992
+Puebla,Guadalupe,MX21066,6775,1694
+Puebla,Guadalupe Victoria,MX21067,19919,4980
+Puebla,Hermenegildo Galeana,MX21068,7327,1832
+Puebla,Honey,MX21057,7275,1819
+Puebla,Huaquechula,MX21069,30874,7719
+Puebla,Huatlatlauca,MX21070,6394,1598
+Puebla,Huauchinango,MX21071,110368,27592
+Puebla,Huehuetla,MX21072,18149,4537
+Puebla,Huehuetlán el Chico,MX21073,10252,2563
+Puebla,Huehuetlán el Grande,MX21150,6389,1597
+Puebla,Huejotzingo,MX21074,96113,24028
+Puebla,Hueyapan,MX21075,13910,3477
+Puebla,Hueytamalco,MX21076,29784,7446
+Puebla,Hueytlalpan,MX21077,6469,1617
+Puebla,Huitzilan de Serdán,MX21078,16907,4227
+Puebla,Huitziltepec,MX21079,6213,1553
+Puebla,Ixcamilpa de Guerrero,MX21081,4302,1076
+Puebla,Ixcaquixtla,MX21082,9244,2311
+Puebla,Ixtacamaxtitlán,MX21083,26653,6663
+Puebla,Ixtepec,MX21084,7567,1892
+Puebla,Izúcar de Matamoros,MX21085,87182,21796
+Puebla,Jalpan,MX21086,13040,3260
+Puebla,Jolalpan,MX21087,13923,3481
+Puebla,Jonotla,MX21088,4801,1200
+Puebla,Jopala,MX21089,12936,3234
+Puebla,Juan C. Bonilla,MX21090,25669,6417
+Puebla,Juan Galindo,MX21091,11079,2770
+Puebla,Juan N. Méndez,MX21092,5582,1396
+Puebla,La Magdalena Tlatlauquitepec,MX21095,696,174
+Puebla,Lafragua,MX21093,8057,2014
+Puebla,Libres,MX21094,39241,9810
+Puebla,Los Reyes de Juárez,MX21118,32924,8231
+Puebla,Mazapiltepec de Juárez,MX21096,3485,871
+Puebla,Mixtla,MX21097,2817,704
+Puebla,Molcaxac,MX21098,7040,1760
+Puebla,Naupan,MX21100,9756,2439
+Puebla,Nauzontla,MX21101,3626,907
+Puebla,Nealtican,MX21102,15169,3792
+Puebla,Nicolás Bravo,MX21103,7204,1801
+Puebla,Nopalucan,MX21104,36728,9182
+Puebla,Ocotepec,MX21105,5366,1341
+Puebla,Ocoyucan,MX21106,45712,11428
+Puebla,Olintla,MX21107,12736,3184
+Puebla,Oriental,MX21108,21107,5277
+Puebla,Pahuatlán,MX21109,21348,5337
+Puebla,Palmar de Bravo,MX21110,53698,13424
+Puebla,Pantepec,MX21111,19495,4874
+Puebla,Petlalcingo,MX21112,9729,2432
+Puebla,Piaxtla,MX21113,5102,1276
+Puebla,Puebla,MX21114,1790629,447657
+Puebla,Quecholac,MX21115,61812,15453
+Puebla,Quimixtlán,MX21116,24481,6120
+Puebla,Rafael Lara Grajales,MX21117,18550,4637
+Puebla,San Andrés Cholula,MX21119,143049,35762
+Puebla,San Antonio Cañada,MX21120,6338,1585
+Puebla,San Diego la Mesa Tochimiltzingo,MX21121,1453,363
+Puebla,San Felipe Teotlalcingo,MX21122,12021,3005
+Puebla,San Felipe Tepatlán,MX21123,4000,1000
+Puebla,San Gabriel Chilac,MX21124,16789,4197
+Puebla,San Gregorio Atzompa,MX21125,10839,2710
+Puebla,San Jerónimo Tecuanipan,MX21126,7495,1874
+Puebla,San Jerónimo Xayacatlán,MX21127,3788,947
+Puebla,San José Chiapa,MX21128,11469,2867
+Puebla,San José Miahuatlán,MX21129,14817,3704
+Puebla,San Juan Atenco,MX21130,3933,983
+Puebla,San Juan Atzompa,MX21131,1036,259
+Puebla,San Martín Texmelucan,MX21132,164453,41113
+Puebla,San Martín Totoltepec,MX21133,991,248
+Puebla,San Matías Tlalancaleca,MX21134,22314,5579
+Puebla,San Miguel Ixitlán,MX21135,542,135
+Puebla,San Miguel Xoxtla,MX21136,13396,3349
+Puebla,San Nicolás Buenos Aires,MX21137,11274,2819
+Puebla,San Nicolás de los Ranchos,MX21138,12545,3136
+Puebla,San Pablo Anicano,MX21139,4025,1006
+Puebla,San Pedro Cholula,MX21140,150459,37615
+Puebla,San Pedro Yeloixtlahuaca,MX21141,3698,924
+Puebla,San Salvador Huixcolotla,MX21144,17901,4475
+Puebla,San Salvador el Seco,MX21142,32194,8049
+Puebla,San Salvador el Verde,MX21143,37288,9322
+Puebla,San Sebastián Tlacotepec,MX21145,14077,3519
+Puebla,Santa Catarina Tlaltempan,MX21146,822,206
+Puebla,Santa Inés Ahuatempan,MX21147,6606,1651
+Puebla,Santa Isabel Cholula,MX21148,12347,3087
+Puebla,Santiago Miahuatlán,MX21149,32901,8225
+Puebla,Santo Tomás Hueyotlipan,MX21151,9986,2497
+Puebla,Soltepec,MX21152,13547,3387
+Puebla,Tecali de Herrera,MX21153,25066,6267
+Puebla,Tecamachalco,MX21154,85476,21369
+Puebla,Tecomatlán,MX21155,7231,1808
+Puebla,Tehuacán,MX21156,345098,86274
+Puebla,Tehuitzingo,MX21157,13286,3321
+Puebla,Tenampulco,MX21158,7206,1801
+Puebla,Teopantlán,MX21159,3962,990
+Puebla,Teotlalco,MX21160,4460,1115
+Puebla,Tepanco de López,MX21161,24016,6004
+Puebla,Tepango de Rodríguez,MX21162,4549,1137
+Puebla,Tepatlaxco de Hidalgo,MX21163,20064,5016
+Puebla,Tepeaca,MX21164,89703,22426
+Puebla,Tepemaxalco,MX21165,1279,320
+Puebla,Tepeojuma,MX21166,9448,2362
+Puebla,Tepetzintla,MX21167,10919,2730
+Puebla,Tepexco,MX21168,7929,1982
+Puebla,Tepexi de Rodríguez,MX21169,23497,5874
+Puebla,Tepeyahualco,MX21170,20566,5141
+Puebla,Tepeyahualco de Cuauhtémoc,MX21171,4101,1025
+Puebla,Tetela de Ocampo,MX21172,28653,7163
+Puebla,Teteles de Avila Castillo,MX21173,7326,1831
+Puebla,Teziutlán,MX21174,109485,27371
+Puebla,Tianguismanalco,MX21175,15443,3861
+Puebla,Tilapa,MX21176,10324,2581
+Puebla,Tlachichuca,MX21179,33248,8312
+Puebla,Tlacotepec de Benito Juárez,MX21177,57888,14472
+Puebla,Tlacuilotepec,MX21178,16856,4214
+Puebla,Tlahuapan,MX21180,43774,10943
+Puebla,Tlaltenango,MX21181,8057,2014
+Puebla,Tlanepantla,MX21182,5785,1446
+Puebla,Tlaola,MX21183,22027,5507
+Puebla,Tlapacoya,MX21184,6909,1727
+Puebla,Tlapanalá,MX21185,10933,2733
+Puebla,Tlatlauquitepec,MX21186,59279,14820
+Puebla,Tlaxco,MX21187,5269,1317
+Puebla,Tochimilco,MX21188,20565,5141
+Puebla,Tochtepec,MX21189,24220,6055
+Puebla,Totoltepec de Guerrero,MX21190,1250,313
+Puebla,Tulcingo,MX21191,10349,2587
+Puebla,Tuzamapan de Galeana,MX21192,6301,1575
+Puebla,Tzicatlacoyan,MX21193,6811,1703
+Puebla,Venustiano Carranza,MX21194,30177,7544
+Puebla,Vicente Guerrero,MX21195,28413,7103
+Puebla,Xayacatlán de Bravo,MX21196,1640,410
+Puebla,Xicotepec,MX21197,85152,21288
+Puebla,Xicotlán,MX21198,1379,345
+Puebla,Xiutetelco,MX21199,45709,11427
+Puebla,Xochiapulco,MX21200,3627,907
+Puebla,Xochiltepec,MX21201,3701,925
+Puebla,Xochitlán Todos Santos,MX21203,7645,1911
+Puebla,Xochitlán de Vicente Suárez,MX21202,13822,3455
+Puebla,Yaonáhuac,MX21204,8772,2193
+Puebla,Yehualtepec,MX21205,27874,6968
+Puebla,Zacapala,MX21206,4894,1224
+Puebla,Zacapoaxtla,MX21207,61094,15273
+Puebla,Zacatlán,MX21208,92130,23033
+Puebla,Zapotitlán,MX21209,9035,2259
+Puebla,Zapotitlán de Méndez,MX21210,5988,1497
+Puebla,Zaragoza,MX21211,17998,4499
+Puebla,Zautla,MX21212,21887,5472
+Puebla,Zihuateutla,MX21213,12973,3243
+Puebla,Zinacatepec,MX21214,19479,4870
+Puebla,Zongozotla,MX21215,4811,1203
+Puebla,Zoquiapan,MX21216,2643,661
+Puebla,Zoquitlán,MX21217,21916,5479
+Querétaro de Arteaga,Amealco de Bonfil,MX22001,70567,17642
+Querétaro de Arteaga,Arroyo Seco,MX22003,13793,3448
+Querétaro de Arteaga,Cadereyta de Montes,MX22004,72770,18193
+Querétaro de Arteaga,Colón,MX22005,71182,17795
+Querétaro de Arteaga,Corregidora,MX22006,225495,56374
+Querétaro de Arteaga,El Marqués,MX22011,245424,61356
+Querétaro de Arteaga,Ezequiel Montes,MX22007,47727,11932
+Querétaro de Arteaga,Huimilpan,MX22008,39670,9918
+Querétaro de Arteaga,Jalpan de Serra,MX22009,28848,7212
+Querétaro de Arteaga,Landa de Matamoros,MX22010,19643,4911
+Querétaro de Arteaga,Pedro Escobedo,MX22012,81991,20498
+Querétaro de Arteaga,Peñamiller,MX22013,20098,5024
+Querétaro de Arteaga,Pinal de Amoles,MX22002,28991,7248
+Querétaro de Arteaga,Querétaro,MX22014,1099445,274861
+Querétaro de Arteaga,San Joaquín,MX22015,8936,2234
+Querétaro de Arteaga,San Juan del Río,MX22016,311175,77794
+Querétaro de Arteaga,Tequisquiapan,MX22017,75850,18962
+Querétaro de Arteaga,Tolimán,MX22018,29343,7336
+Quintana Roo,Bacalar,MX23010,44040,11010
+Quintana Roo,Benito Juárez,MX23005,976616,244154
+Quintana Roo,Cozumel,MX23001,92774,23193
+Quintana Roo,Felipe Carrillo Puerto,MX23002,88293,22073
+Quintana Roo,Isla Mujeres,MX23003,23992,5998
+Quintana Roo,José María Morelos,MX23006,41154,10289
+Quintana Roo,Lázaro Cárdenas,MX23007,30452,7613
+Quintana Roo,Othón P. Blanco,MX23004,243922,60981
+Quintana Roo,Solidaridad,MX23008,341365,85341
+Quintana Roo,Tulum,MX23009,49360,12340
+San Luis Potosí,Ahualulco,MX24001,20107,5027
+San Luis Potosí,Alaquines,MX24002,8104,2026
+San Luis Potosí,Aquismón,MX24003,50882,12721
+San Luis Potosí,Armadillo de los Infante,MX24004,4260,1065
+San Luis Potosí,Axtla de Terrazas,MX24053,34542,8636
+San Luis Potosí,Catorce,MX24006,9972,2493
+San Luis Potosí,Cedral,MX24007,20780,5195
+San Luis Potosí,Cerritos,MX24008,22919,5730
+San Luis Potosí,Cerro de San Pedro,MX24009,5792,1448
+San Luis Potosí,Charcas,MX24015,22695,5674
+San Luis Potosí,Ciudad Fernández,MX24011,50910,12727
+San Luis Potosí,Ciudad Valles,MX24013,186828,46707
+San Luis Potosí,Ciudad del Maíz,MX24010,31626,7906
+San Luis Potosí,Coxcatlán,MX24014,16490,4122
+San Luis Potosí,Cárdenas,MX24005,19071,4768
+San Luis Potosí,Ebano,MX24016,42785,10696
+San Luis Potosí,El Naranjo,MX24058,21883,5471
+San Luis Potosí,Guadalcázar,MX24017,26120,6530
+San Luis Potosí,Huehuetlán,MX24018,16233,4058
+San Luis Potosí,Lagunillas,MX24019,5670,1417
+San Luis Potosí,Matehuala,MX24020,106859,26715
+San Luis Potosí,Matlapa,MX24057,30867,7717
+San Luis Potosí,Mexquitic de Carmona,MX24021,61794,15448
+San Luis Potosí,Moctezuma,MX24022,19939,4985
+San Luis Potosí,Rayón,MX24023,15903,3976
+San Luis Potosí,Rioverde,MX24024,102978,25744
+San Luis Potosí,Salinas,MX24025,32635,8159
+San Luis Potosí,San Antonio,MX24026,10053,2513
+San Luis Potosí,San Ciro de Acosta,MX24027,10679,2670
+San Luis Potosí,San Luis Potosí,MX24028,962679,240670
+San Luis Potosí,San Martín Chalchicuautla,MX24029,19383,4846
+San Luis Potosí,San Nicolás Tolentino,MX24030,4921,1230
+San Luis Potosí,San Vicente Tancuayalab,MX24034,15593,3898
+San Luis Potosí,Santa Catarina,MX24031,12834,3209
+San Luis Potosí,Santa María del Río,MX24032,41843,10461
+San Luis Potosí,Santo Domingo,MX24033,11173,2793
+San Luis Potosí,Soledad de Graciano Sánchez,MX24035,353297,88324
+San Luis Potosí,Tamasopo,MX24036,30497,7624
+San Luis Potosí,Tamazunchale,MX24037,99898,24975
+San Luis Potosí,Tampacán,MX24038,15000,3750
+San Luis Potosí,Tampamolón Corona,MX24039,14442,3610
+San Luis Potosí,Tamuín,MX24040,38682,9671
+San Luis Potosí,Tancanhuitz,MX24012,21568,5392
+San Luis Potosí,Tanlajás,MX24041,19189,4797
+San Luis Potosí,Tanquián de Escobedo,MX24042,14025,3506
+San Luis Potosí,Tierra Nueva,MX24043,8324,2081
+San Luis Potosí,Vanegas,MX24044,7921,1980
+San Luis Potosí,Venado,MX24045,14712,3678
+San Luis Potosí,Villa Hidalgo,MX24051,16139,4035
+San Luis Potosí,Villa Juárez,MX24052,10703,2676
+San Luis Potosí,Villa de Arista,MX24056,18184,4546
+San Luis Potosí,Villa de Arriaga,MX24046,19120,4780
+San Luis Potosí,Villa de Guadalupe,MX24047,9688,2422
+San Luis Potosí,Villa de Ramos,MX24049,40219,10055
+San Luis Potosí,Villa de Reyes,MX24050,55701,13925
+San Luis Potosí,Villa de la Paz,MX24048,5552,1388
+San Luis Potosí,Xilitla,MX24054,52347,13087
+San Luis Potosí,Zaragoza,MX24055,28944,7236
+Sinaloa,Ahome,MX25001,480502,120125
+Sinaloa,Angostura,MX25002,45837,11459
+Sinaloa,Badiraguato,MX25003,27967,6992
+Sinaloa,Choix,MX25007,30635,7659
+Sinaloa,Concordia,MX25004,26182,6545
+Sinaloa,Cosalá,MX25005,17955,4489
+Sinaloa,Culiacán,MX25006,1048948,262237
+Sinaloa,El Fuerte,MX25010,101252,25313
+Sinaloa,Elota,MX25008,58187,14547
+Sinaloa,Escuinapa,MX25009,62750,15687
+Sinaloa,Guasave,MX25011,302727,75682
+Sinaloa,Mazatlán,MX25012,522835,130709
+Sinaloa,Mocorito,MX25013,42225,10556
+Sinaloa,Navolato,MX25018,156438,39109
+Sinaloa,Rosario,MX25014,54543,13636
+Sinaloa,Salvador Alvarado,MX25015,83176,20794
+Sinaloa,San Ignacio,MX25016,20322,5080
+Sinaloa,Sinaloa,MX25017,82567,20642
+Sonora,Aconchi,MX26001,2656,664
+Sonora,Agua Prieta,MX26002,96370,24093
+Sonora,Alamos,MX26003,25975,6494
+Sonora,Altar,MX26004,9953,2488
+Sonora,Arivechi,MX26005,1215,304
+Sonora,Arizpe,MX26006,2866,716
+Sonora,Atil,MX26007,643,161
+Sonora,Bacadéhuachi,MX26008,1002,250
+Sonora,Bacanora,MX26009,767,192
+Sonora,Bacerac,MX26010,1268,317
+Sonora,Bacoachi,MX26011,1514,379
+Sonora,Banámichi,MX26013,1894,474
+Sonora,Bavispe,MX26015,1221,305
+Sonora,Baviácora,MX26014,3281,820
+Sonora,Benito Juárez,MX26071,22714,5678
+Sonora,Benjamín Hill,MX26016,5192,1298
+Sonora,Bácum,MX26012,24396,6099
+Sonora,Caborca,MX26017,93267,23317
+Sonora,Cajeme,MX26018,454987,113747
+Sonora,Cananea,MX26019,41240,10310
+Sonora,Carbó,MX26020,5216,1304
+Sonora,Cucurpe,MX26022,897,224
+Sonora,Cumpas,MX26023,6023,1506
+Sonora,Divisaderos,MX26024,776,194
+Sonora,Empalme,MX26025,53773,13443
+Sonora,Etchojoa,MX26026,64209,16052
+Sonora,Fronteras,MX26027,9480,2370
+Sonora,General Plutarco Elías Calles,MX26070,14264,3566
+Sonora,Granados,MX26028,1044,261
+Sonora,Guaymas,MX26029,163718,40929
+Sonora,Hermosillo,MX26030,977084,244271
+Sonora,Huachinera,MX26031,1225,306
+Sonora,Huatabampo,MX26033,80891,20223
+Sonora,Huásabas,MX26032,920,230
+Sonora,Huépac,MX26034,968,242
+Sonora,Imuris,MX26035,13085,3271
+Sonora,La Colorada,MX26021,1916,479
+Sonora,Magdalena,MX26036,34560,8640
+Sonora,Mazatán,MX26037,1131,283
+Sonora,Moctezuma,MX26038,5330,1333
+Sonora,Naco,MX26039,6052,1513
+Sonora,Nacozari de García,MX26041,15051,3763
+Sonora,Navojoa,MX26042,171647,42912
+Sonora,Nogales,MX26043,277784,69446
+Sonora,Nácori Chico,MX26040,1574,393
+Sonora,Onavas,MX26044,379,95
+Sonora,Opodepe,MX26045,2516,629
+Sonora,Oquitoa,MX26046,512,128
+Sonora,Pitiquito,MX26047,9530,2383
+Sonora,Puerto Peñasco,MX26048,65642,16411
+Sonora,Quiriego,MX26049,3213,803
+Sonora,Rayón,MX26050,1534,384
+Sonora,Rosario,MX26051,4998,1250
+Sonora,Sahuaripa,MX26052,5427,1357
+Sonora,San Felipe de Jesús,MX26053,386,96
+Sonora,San Ignacio Río Muerto,MX26072,14954,3739
+Sonora,San Javier,MX26054,563,141
+Sonora,San Luis Río Colorado,MX26055,208260,52065
+Sonora,San Miguel de Horcasitas,MX26056,11399,2850
+Sonora,San Pedro de la Cueva,MX26057,1479,370
+Sonora,Santa Ana,MX26058,16903,4226
+Sonora,Santa Cruz,MX26059,1923,481
+Sonora,Soyopa,MX26061,1406,352
+Sonora,Suaqui Grande,MX26062,1152,288
+Sonora,Sáric,MX26060,2139,535
+Sonora,Tepache,MX26063,1203,301
+Sonora,Trincheras,MX26064,1436,359
+Sonora,Tubutama,MX26065,1532,383
+Sonora,Ures,MX26066,8785,2196
+Sonora,Villa Hidalgo,MX26067,1506,376
+Sonora,Villa Pesqueira,MX26068,1073,268
+Sonora,Yécora,MX26069,4974,1244
+Tabasco,Balancán,MX27001,61236,15309
+Tabasco,Centla,MX27003,113028,28257
+Tabasco,Centro,MX27004,719877,179969
+Tabasco,Comalcalco,MX27005,226967,56742
+Tabasco,Cunduacán,MX27006,147077,36769
+Tabasco,Cárdenas,MX27002,257686,64422
+Tabasco,Emiliano Zapata,MX27007,33812,8453
+Tabasco,Huimanguillo,MX27008,202592,50648
+Tabasco,Jalapa,MX27009,39743,9936
+Tabasco,Jalpa de Méndez,MX27010,96939,24235
+Tabasco,Jonuta,MX27011,32318,8079
+Tabasco,Macuspana,MX27012,166690,41673
+Tabasco,Nacajuca,MX27013,160409,40102
+Tabasco,Paraíso,MX27014,101952,25488
+Tabasco,Tacotalpa,MX27015,50393,12598
+Tabasco,Teapa,MX27016,61782,15445
+Tabasco,Tenosique,MX27017,65308,16327
+Tamaulipas,Abasolo,MX28001,10229,2557
+Tamaulipas,Aldama,MX28002,29902,7475
+Tamaulipas,Altamira,MX28003,283874,70969
+Tamaulipas,Antiguo Morelos,MX28004,9262,2316
+Tamaulipas,Burgos,MX28005,4457,1114
+Tamaulipas,Bustamante,MX28006,7850,1962
+Tamaulipas,Camargo,MX28007,17181,4295
+Tamaulipas,Casas,MX28008,4399,1100
+Tamaulipas,Ciudad Madero,MX28009,218792,54698
+Tamaulipas,Cruillas,MX28010,1742,436
+Tamaulipas,El Mante,MX28021,109966,27491
+Tamaulipas,González,MX28012,43357,10839
+Tamaulipas,Guerrero,MX28014,3961,990
+Tamaulipas,Gustavo Díaz Ordaz,MX28015,16365,4091
+Tamaulipas,Gómez Farías,MX28011,8710,2178
+Tamaulipas,Güémez,MX28013,16095,4024
+Tamaulipas,Hidalgo,MX28016,17671,4418
+Tamaulipas,Jaumave,MX28017,16592,4148
+Tamaulipas,Jiménez,MX28018,6647,1662
+Tamaulipas,Llera,MX28019,15139,3785
+Tamaulipas,Mainero,MX28020,2163,541
+Tamaulipas,Matamoros,MX28022,566950,141738
+Tamaulipas,Mier,MX28024,6576,1644
+Tamaulipas,Miguel Alemán,MX28025,27157,6789
+Tamaulipas,Miquihuana,MX28026,3800,950
+Tamaulipas,Méndez,MX28023,4468,1117
+Tamaulipas,Nuevo Laredo,MX28027,444899,111225
+Tamaulipas,Nuevo Morelos,MX28028,3972,993
+Tamaulipas,Ocampo,MX28029,13642,3410
+Tamaulipas,Padilla,MX28030,14265,3566
+Tamaulipas,Palmillas,MX28031,1975,494
+Tamaulipas,Reynosa,MX28032,737054,184264
+Tamaulipas,Río Bravo,MX28033,138683,34671
+Tamaulipas,San Carlos,MX28034,7633,1908
+Tamaulipas,San Fernando,MX28035,53601,13400
+Tamaulipas,San Nicolás,MX28036,961,240
+Tamaulipas,Soto la Marina,MX28037,24675,6169
+Tamaulipas,Tampico,MX28038,314652,78663
+Tamaulipas,Tula,MX28039,29421,7355
+Tamaulipas,Valle Hermoso,MX28040,62864,15716
+Tamaulipas,Victoria,MX28041,364529,91132
+Tamaulipas,Villagrán,MX28042,5546,1386
+Tamaulipas,Xicoténcatl,MX28043,23215,5804
+Tlaxcala,Acuamanala de Miguel Hidalgo,MX29022,6975,1744
+Tlaxcala,Amaxac de Guerrero,MX29001,12729,3182
+Tlaxcala,Apetatitlán de Antonio Carvajal,MX29002,17998,4500
+Tlaxcala,Apizaco,MX29005,88618,22154
+Tlaxcala,Atlangatepec,MX29003,7573,1893
+Tlaxcala,Atltzayanca,MX29004,19075,4769
+Tlaxcala,Benito Juárez,MX29045,6795,1699
+Tlaxcala,Calpulalpan,MX29006,53691,13423
+Tlaxcala,Chiautempan,MX29010,77628,19407
+Tlaxcala,Contla de Juan Cuamatzi,MX29018,41659,10415
+Tlaxcala,Cuapiaxtla,MX29008,17626,4406
+Tlaxcala,Cuaxomulco,MX29009,6502,1626
+Tlaxcala,El Carmen Tequexquitla,MX29007,18356,4589
+Tlaxcala,Emiliano Zapata,MX29046,5252,1313
+Tlaxcala,Españita,MX29012,9919,2480
+Tlaxcala,Huamantla,MX29013,103851,25963
+Tlaxcala,Hueyotlipan,MX29014,15880,3970
+Tlaxcala,Ixtacuixtla de Mariano Matamoros,MX29015,41116,10279
+Tlaxcala,Ixtenco,MX29016,7859,1965
+Tlaxcala,La Magdalena Tlaltelulco,MX29048,2759,690
+Tlaxcala,Lázaro Cárdenas,MX29047,3732,933
+Tlaxcala,Mazatecochco de José María Morelos,MX29017,12378,3095
+Tlaxcala,Muñoz de Domingo Arenas,MX29011,5092,1273
+Tlaxcala,Nanacamilpa de Mariano Arista,MX29021,19575,4894
+Tlaxcala,Natívitas,MX29023,28178,7044
+Tlaxcala,Panotla,MX29024,30486,7621
+Tlaxcala,Papalotla de Xicohténcatl,MX29041,36857,9214
+Tlaxcala,San Damián Texóloc,MX29049,6336,1584
+Tlaxcala,San Francisco Tetlanohcan,MX29050,12475,3119
+Tlaxcala,San Jerónimo Zacualpan,MX29051,4414,1104
+Tlaxcala,San José Teacalco,MX29052,6776,1694
+Tlaxcala,San Juan Huactzinco,MX29053,8382,2096
+Tlaxcala,San Lorenzo Axocomanitla,MX29054,6745,1686
+Tlaxcala,San Lucas Tecopilco,MX29055,3436,859
+Tlaxcala,San Pablo del Monte,MX29025,88934,22233
+Tlaxcala,Sanctórum de Lázaro Cárdenas,MX29020,10465,2616
+Tlaxcala,Santa Ana Nopalucan,MX29056,8501,2125
+Tlaxcala,Santa Apolonia Teacalco,MX29057,5074,1269
+Tlaxcala,Santa Catarina Ayometla,MX29058,10338,2585
+Tlaxcala,Santa Cruz Quilehtla,MX29059,8858,2215
+Tlaxcala,Santa Cruz Tlaxcala,MX29026,26766,6691
+Tlaxcala,Santa Isabel Xiloxoxtla,MX29060,6374,1594
+Tlaxcala,Tenancingo,MX29027,13910,3477
+Tlaxcala,Teolocholco,MX29028,27225,6806
+Tlaxcala,Tepetitla de Lardizábal,MX29019,23928,5982
+Tlaxcala,Tepeyanco,MX29029,14692,3673
+Tlaxcala,Terrenate,MX29030,16540,4135
+Tlaxcala,Tetla de la Solidaridad,MX29031,38194,9549
+Tlaxcala,Tetlatlahuca,MX29032,14396,3599
+Tlaxcala,Tlaxcala,MX29033,107603,26901
+Tlaxcala,Tlaxco,MX29034,48094,12023
+Tlaxcala,Tocatlán,MX29035,6961,1740
+Tlaxcala,Totolac,MX29036,25675,6419
+Tlaxcala,Tzompantepec,MX29038,19837,4959
+Tlaxcala,Xaloztoc,MX29039,27620,6905
+Tlaxcala,Xaltocan,MX29040,11334,2834
+Tlaxcala,Xicohtzinco,MX29042,15351,3838
+Tlaxcala,Yauhquemehcan,MX29043,46060,11515
+Tlaxcala,Zacatelco,MX29044,49411,12353
+Tlaxcala,Ziltlaltépec de Trinidad Sánchez Santos,MX29037,9650,2412
+Veracruz de Ignacio de la Llave,Acajete,MX30001,10382,2596
+Veracruz de Ignacio de la Llave,Acatlán,MX30002,3683,921
+Veracruz de Ignacio de la Llave,Acayucan,MX30003,85121,21280
+Veracruz de Ignacio de la Llave,Actopan,MX30004,43492,10873
+Veracruz de Ignacio de la Llave,Acula,MX30005,5718,1429
+Veracruz de Ignacio de la Llave,Acultzingo,MX30006,24924,6231
+Veracruz de Ignacio de la Llave,Agua Dulce,MX30204,45878,11469
+Veracruz de Ignacio de la Llave,Alpatláhuac,MX30008,11083,2771
+Veracruz de Ignacio de la Llave,Alto Lucero de Gutiérrez Barrios,MX30009,29263,7316
+Veracruz de Ignacio de la Llave,Altotonga,MX30010,68493,17123
+Veracruz de Ignacio de la Llave,Alvarado,MX30011,59335,14834
+Veracruz de Ignacio de la Llave,Amatitlán,MX30012,8405,2101
+Veracruz de Ignacio de la Llave,Amatlán de los Reyes,MX30014,50198,12550
+Veracruz de Ignacio de la Llave,Angel R. Cabada,MX30015,35161,8790
+Veracruz de Ignacio de la Llave,Apazapan,MX30017,5165,1291
+Veracruz de Ignacio de la Llave,Aquila,MX30018,2147,537
+Veracruz de Ignacio de la Llave,Astacinga,MX30019,7463,1866
+Veracruz de Ignacio de la Llave,Atlahuilco,MX30020,12930,3233
+Veracruz de Ignacio de la Llave,Atoyac,MX30021,24722,6180
+Veracruz de Ignacio de la Llave,Atzacan,MX30022,24243,6061
+Veracruz de Ignacio de la Llave,Atzalan,MX30023,52333,13083
+Veracruz de Ignacio de la Llave,Ayahualulco,MX30025,28760,7190
+Veracruz de Ignacio de la Llave,Banderilla,MX30026,29630,7407
+Veracruz de Ignacio de la Llave,Benito Juárez,MX30027,17074,4268
+Veracruz de Ignacio de la Llave,Boca del Río,MX30028,152034,38009
+Veracruz de Ignacio de la Llave,Calcahualco,MX30029,14718,3680
+Veracruz de Ignacio de la Llave,Camarón de Tejeda,MX30007,6925,1731
+Veracruz de Ignacio de la Llave,Camerino Z. Mendoza,MX30030,46246,11562
+Veracruz de Ignacio de la Llave,Carlos A. Carrillo,MX30208,24702,6175
+Veracruz de Ignacio de la Llave,Carrillo Puerto,MX30031,19849,4962
+Veracruz de Ignacio de la Llave,Castillo de Teayo,MX30157,21014,5253
+Veracruz de Ignacio de la Llave,Catemaco,MX30032,51710,12928
+Veracruz de Ignacio de la Llave,Cazones de Herrera,MX30033,25543,6386
+Veracruz de Ignacio de la Llave,Cerro Azul,MX30034,25995,6499
+Veracruz de Ignacio de la Llave,Chacaltianguis,MX30054,11979,2995
+Veracruz de Ignacio de la Llave,Chalma,MX30055,14933,3733
+Veracruz de Ignacio de la Llave,Chiconamel,MX30056,7210,1802
+Veracruz de Ignacio de la Llave,Chiconquiaco,MX30057,14732,3683
+Veracruz de Ignacio de la Llave,Chicontepec,MX30058,55931,13983
+Veracruz de Ignacio de la Llave,Chinameca,MX30059,18271,4568
+Veracruz de Ignacio de la Llave,Chinampa de Gorostiza,MX30060,17634,4409
+Veracruz de Ignacio de la Llave,Chocamán,MX30062,21989,5497
+Veracruz de Ignacio de la Llave,Chontla,MX30063,13926,3482
+Veracruz de Ignacio de la Llave,Chumatlán,MX30064,4239,1060
+Veracruz de Ignacio de la Llave,Citlaltépetl,MX30035,11673,2918
+Veracruz de Ignacio de la Llave,Coacoatzintla,MX30036,11817,2954
+Veracruz de Ignacio de la Llave,Coahuitlán,MX30037,8593,2148
+Veracruz de Ignacio de la Llave,Coatepec,MX30038,98273,24568
+Veracruz de Ignacio de la Llave,Coatzacoalcos,MX30039,322003,80501
+Veracruz de Ignacio de la Llave,Coatzintla,MX30040,57735,14434
+Veracruz de Ignacio de la Llave,Coetzala,MX30041,2484,621
+Veracruz de Ignacio de la Llave,Colipa,MX30042,6064,1516
+Veracruz de Ignacio de la Llave,Comapa,MX30043,20835,5209
+Veracruz de Ignacio de la Llave,Cosamaloapan de Carpio,MX30045,56803,14201
+Veracruz de Ignacio de la Llave,Cosautlán de Carvajal,MX30046,16980,4245
+Veracruz de Ignacio de la Llave,Coscomatepec,MX30047,63096,15774
+Veracruz de Ignacio de la Llave,Cosoleacaque,MX30048,139926,34982
+Veracruz de Ignacio de la Llave,Cotaxtla,MX30049,23161,5790
+Veracruz de Ignacio de la Llave,Coxquihui,MX30050,17553,4388
+Veracruz de Ignacio de la Llave,Coyutla,MX30051,24547,6137
+Veracruz de Ignacio de la Llave,Cuichapa,MX30052,12586,3146
+Veracruz de Ignacio de la Llave,Cuitláhuac,MX30053,29651,7413
+Veracruz de Ignacio de la Llave,Córdoba,MX30044,216854,54214
+Veracruz de Ignacio de la Llave,El Higo,MX30205,20173,5043
+Veracruz de Ignacio de la Llave,Emiliano Zapata,MX30065,92303,23076
+Veracruz de Ignacio de la Llave,Espinal,MX30066,28516,7129
+Veracruz de Ignacio de la Llave,Filomeno Mata,MX30067,20415,5104
+Veracruz de Ignacio de la Llave,Fortín,MX30068,71559,17890
+Veracruz de Ignacio de la Llave,Gutiérrez Zamora,MX30069,25082,6270
+Veracruz de Ignacio de la Llave,Hidalgotitlán,MX30070,20441,5110
+Veracruz de Ignacio de la Llave,Huatusco,MX30071,63116,15779
+Veracruz de Ignacio de la Llave,Huayacocotla,MX30072,22957,5739
+Veracruz de Ignacio de la Llave,Hueyapan de Ocampo,MX30073,43544,10886
+Veracruz de Ignacio de la Llave,Huiloapan de Cuauhtémoc,MX30074,9716,2429
+Veracruz de Ignacio de la Llave,Ignacio de la Llave,MX30075,17078,4269
+Veracruz de Ignacio de la Llave,Ilamatlán,MX30076,14134,3534
+Veracruz de Ignacio de la Llave,Isla,MX30077,44867,11217
+Veracruz de Ignacio de la Llave,Ixcatepec,MX30078,12859,3215
+Veracruz de Ignacio de la Llave,Ixhuacán de los Reyes,MX30079,12207,3052
+Veracruz de Ignacio de la Llave,Ixhuatlancillo,MX30081,30123,7531
+Veracruz de Ignacio de la Llave,Ixhuatlán de Madero,MX30083,53377,13344
+Veracruz de Ignacio de la Llave,Ixhuatlán del Café,MX30080,24611,6153
+Veracruz de Ignacio de la Llave,Ixhuatlán del Sureste,MX30082,16636,4159
+Veracruz de Ignacio de la Llave,Ixmatlahuacan,MX30084,5817,1454
+Veracruz de Ignacio de la Llave,Ixtaczoquitlán,MX30085,78252,19563
+Veracruz de Ignacio de la Llave,Jalacingo,MX30086,50209,12552
+Veracruz de Ignacio de la Llave,Jalcomulco,MX30088,5309,1327
+Veracruz de Ignacio de la Llave,Jamapa,MX30090,11845,2961
+Veracruz de Ignacio de la Llave,Jesús Carranza,MX30091,29871,7468
+Veracruz de Ignacio de la Llave,Jilotepec,MX30093,17785,4446
+Veracruz de Ignacio de la Llave,José Azueta,MX30169,23696,5924
+Veracruz de Ignacio de la Llave,Juan Rodríguez Clara,MX30094,40007,10002
+Veracruz de Ignacio de la Llave,Juchique de Ferrer,MX30095,15681,3920
+Veracruz de Ignacio de la Llave,Jáltipan,MX30089,40175,10044
+Veracruz de Ignacio de la Llave,La Antigua,MX30016,31559,7890
+Veracruz de Ignacio de la Llave,La Perla,MX30127,30207,7552
+Veracruz de Ignacio de la Llave,Landero y Coss,MX30096,1711,428
+Veracruz de Ignacio de la Llave,Las Choapas,MX30061,85292,21323
+Veracruz de Ignacio de la Llave,Las Minas,MX30107,3172,793
+Veracruz de Ignacio de la Llave,Las Vigas de Ramírez,MX30132,21615,5404
+Veracruz de Ignacio de la Llave,Lerdo de Tejada,MX30097,19764,4941
+Veracruz de Ignacio de la Llave,Los Reyes,MX30137,7078,1770
+Veracruz de Ignacio de la Llave,Magdalena,MX30098,3525,881
+Veracruz de Ignacio de la Llave,Maltrata,MX30099,19549,4887
+Veracruz de Ignacio de la Llave,Manlio Fabio Altamirano,MX30100,25243,6311
+Veracruz de Ignacio de la Llave,Mariano Escobedo,MX30101,42793,10698
+Veracruz de Ignacio de la Llave,Martínez de la Torre,MX30102,114761,28690
+Veracruz de Ignacio de la Llave,Mecatlán,MX30103,13792,3448
+Veracruz de Ignacio de la Llave,Mecayapan,MX30104,18261,4565
+Veracruz de Ignacio de la Llave,Medellín,MX30105,99986,24996
+Veracruz de Ignacio de la Llave,Miahuatlán,MX30106,5274,1318
+Veracruz de Ignacio de la Llave,Minatitlán,MX30108,155476,38869
+Veracruz de Ignacio de la Llave,Misantla,MX30109,68666,17166
+Veracruz de Ignacio de la Llave,Mixtla de Altamirano,MX30110,13102,3276
+Veracruz de Ignacio de la Llave,Moloacán,MX30111,17521,4380
+Veracruz de Ignacio de la Llave,Nanchital de Lázaro Cárdenas del Río,MX30206,30441,7610
+Veracruz de Ignacio de la Llave,Naolinco,MX30112,24414,6104
+Veracruz de Ignacio de la Llave,Naranjal,MX30113,4881,1220
+Veracruz de Ignacio de la Llave,Naranjos Amatlán,MX30013,28488,7122
+Veracruz de Ignacio de la Llave,Nautla,MX30114,10696,2674
+Veracruz de Ignacio de la Llave,Nogales,MX30115,43600,10900
+Veracruz de Ignacio de la Llave,Oluta,MX30116,18425,4606
+Veracruz de Ignacio de la Llave,Omealca,MX30117,25236,6309
+Veracruz de Ignacio de la Llave,Orizaba,MX30118,131862,32966
+Veracruz de Ignacio de la Llave,Otatitlán,MX30119,5775,1444
+Veracruz de Ignacio de la Llave,Oteapan,MX30120,16776,4194
+Veracruz de Ignacio de la Llave,Ozuluama de Mascareñas,MX30121,23287,5822
+Veracruz de Ignacio de la Llave,Pajapan,MX30122,18953,4738
+Veracruz de Ignacio de la Llave,Papantla,MX30124,167066,41767
+Veracruz de Ignacio de la Llave,Paso de Ovejas,MX30126,35144,8786
+Veracruz de Ignacio de la Llave,Paso del Macho,MX30125,33580,8395
+Veracruz de Ignacio de la Llave,Perote,MX30128,81823,20456
+Veracruz de Ignacio de la Llave,Platón Sánchez,MX30129,19041,4760
+Veracruz de Ignacio de la Llave,Playa Vicente,MX30130,41127,10282
+Veracruz de Ignacio de la Llave,Poza Rica de Hidalgo,MX30131,196990,49247
+Veracruz de Ignacio de la Llave,Pueblo Viejo,MX30133,60418,15104
+Veracruz de Ignacio de la Llave,Puente Nacional,MX30134,26155,6539
+Veracruz de Ignacio de la Llave,Pánuco,MX30123,100273,25068
+Veracruz de Ignacio de la Llave,Rafael Delgado,MX30135,26455,6614
+Veracruz de Ignacio de la Llave,Rafael Lucio,MX30136,9113,2278
+Veracruz de Ignacio de la Llave,Río Blanco,MX30138,46661,11665
+Veracruz de Ignacio de la Llave,Saltabarranca,MX30139,6417,1604
+Veracruz de Ignacio de la Llave,San Andrés Tenejapan,MX30140,3480,870
+Veracruz de Ignacio de la Llave,San Andrés Tuxtla,MX30141,169917,42479
+Veracruz de Ignacio de la Llave,San Juan Evangelista,MX30142,34210,8552
+Veracruz de Ignacio de la Llave,San Rafael,MX30211,31615,7904
+Veracruz de Ignacio de la Llave,Santiago Sochiapan,MX30212,13773,3443
+Veracruz de Ignacio de la Llave,Santiago Tuxtla,MX30143,59803,14951
+Veracruz de Ignacio de la Llave,Sayula de Alemán,MX30144,34120,8530
+Veracruz de Ignacio de la Llave,Sochiapa,MX30146,4197,1049
+Veracruz de Ignacio de la Llave,Soconusco,MX30145,17961,4490
+Veracruz de Ignacio de la Llave,Soledad Atzompa,MX30147,27003,6751
+Veracruz de Ignacio de la Llave,Soledad de Doblado,MX30148,29398,7349
+Veracruz de Ignacio de la Llave,Soteapan,MX30149,36495,9124
+Veracruz de Ignacio de la Llave,Tamalín,MX30150,12331,3083
+Veracruz de Ignacio de la Llave,Tamiahua,MX30151,22634,5659
+Veracruz de Ignacio de la Llave,Tampico Alto,MX30152,12378,3095
+Veracruz de Ignacio de la Llave,Tancoco,MX30153,6196,1549
+Veracruz de Ignacio de la Llave,Tantima,MX30154,12802,3200
+Veracruz de Ignacio de la Llave,Tantoyuca,MX30155,104406,26102
+Veracruz de Ignacio de la Llave,Tatahuicapan de Juárez,MX30209,15878,3969
+Veracruz de Ignacio de la Llave,Tatatila,MX30156,6582,1646
+Veracruz de Ignacio de la Llave,Tecolutla,MX30158,25641,6410
+Veracruz de Ignacio de la Llave,Tehuipango,MX30159,31702,7926
+Veracruz de Ignacio de la Llave,Tempoal,MX30161,35812,8953
+Veracruz de Ignacio de la Llave,Tenampa,MX30162,6797,1699
+Veracruz de Ignacio de la Llave,Tenochtitlán,MX30163,5301,1325
+Veracruz de Ignacio de la Llave,Teocelo,MX30164,17721,4430
+Veracruz de Ignacio de la Llave,Tepatlaxco,MX30165,9457,2364
+Veracruz de Ignacio de la Llave,Tepetlán,MX30166,10106,2527
+Veracruz de Ignacio de la Llave,Tepetzintla,MX30167,15304,3826
+Veracruz de Ignacio de la Llave,Tequila,MX30168,17963,4491
+Veracruz de Ignacio de la Llave,Texcatepec,MX30170,11471,2868
+Veracruz de Ignacio de la Llave,Texhuacán,MX30171,6143,1536
+Veracruz de Ignacio de la Llave,Texistepec,MX30172,20849,5212
+Veracruz de Ignacio de la Llave,Tezonapa,MX30173,58050,14513
+Veracruz de Ignacio de la Llave,Tierra Blanca,MX30174,99633,24908
+Veracruz de Ignacio de la Llave,Tihuatlán,MX30175,97336,24334
+Veracruz de Ignacio de la Llave,Tlachichilco,MX30180,11495,2874
+Veracruz de Ignacio de la Llave,Tlacojalpan,MX30176,4668,1167
+Veracruz de Ignacio de la Llave,Tlacolulan,MX30177,12689,3172
+Veracruz de Ignacio de la Llave,Tlacotalpan,MX30178,13697,3424
+Veracruz de Ignacio de la Llave,Tlacotepec de Mejía,MX30179,4493,1123
+Veracruz de Ignacio de la Llave,Tlalixcoyan,MX30181,39307,9827
+Veracruz de Ignacio de la Llave,Tlalnelhuayocan,MX30182,21609,5402
+Veracruz de Ignacio de la Llave,Tlaltetela,MX30024,17499,4375
+Veracruz de Ignacio de la Llave,Tlapacoyan,MX30183,64710,16177
+Veracruz de Ignacio de la Llave,Tlaquilpa,MX30184,8650,2162
+Veracruz de Ignacio de la Llave,Tlilapan,MX30185,6468,1617
+Veracruz de Ignacio de la Llave,Tomatlán,MX30186,7701,1925
+Veracruz de Ignacio de la Llave,Tonayán,MX30187,6582,1646
+Veracruz de Ignacio de la Llave,Totutla,MX30188,18126,4531
+Veracruz de Ignacio de la Llave,Tres Valles,MX30207,46917,11729
+Veracruz de Ignacio de la Llave,Tuxpan,MX30189,160785,40196
+Veracruz de Ignacio de la Llave,Tuxtilla,MX30190,2343,586
+Veracruz de Ignacio de la Llave,Ursulo Galván,MX30191,31279,7820
+Veracruz de Ignacio de la Llave,Uxpanapa,MX30210,31261,7815
+Veracruz de Ignacio de la Llave,Vega de Alatorre,MX30192,20989,5247
+Veracruz de Ignacio de la Llave,Veracruz,MX30193,632436,158109
+Veracruz de Ignacio de la Llave,Villa Aldama,MX30194,13634,3408
+Veracruz de Ignacio de la Llave,Xalapa,MX30087,512717,128179
+Veracruz de Ignacio de la Llave,Xico,MX30092,41612,10403
+Veracruz de Ignacio de la Llave,Xoxocotla,MX30195,6381,1595
+Veracruz de Ignacio de la Llave,Yanga,MX30196,19110,4778
+Veracruz de Ignacio de la Llave,Yecuatla,MX30197,11777,2944
+Veracruz de Ignacio de la Llave,Zacualpan,MX30198,7256,1814
+Veracruz de Ignacio de la Llave,Zaragoza,MX30199,12662,3165
+Veracruz de Ignacio de la Llave,Zentla,MX30200,13188,3297
+Veracruz de Ignacio de la Llave,Zongolica,MX30201,48120,12030
+Veracruz de Ignacio de la Llave,Zontecomatlán de López y Fuentes,MX30202,15629,3907
+Veracruz de Ignacio de la Llave,Zozocolco de Hidalgo,MX30203,15368,3842
+Veracruz de Ignacio de la Llave,Álamo Temapache,MX30160,111872,27968
+Yucatán,Abalá,MX31001,6852,1713
+Yucatán,Acanceh,MX31002,17748,4437
+Yucatán,Akil,MX31003,12956,3239
+Yucatán,Baca,MX31004,6535,1634
+Yucatán,Bokobá,MX31005,2258,564
+Yucatán,Buctzotz,MX31006,9609,2402
+Yucatán,Cacalchén,MX31007,7831,1958
+Yucatán,Calotmul,MX31008,4114,1029
+Yucatán,Cansahcab,MX31009,4627,1157
+Yucatán,Cantamayec,MX31010,2912,728
+Yucatán,Celestún,MX31011,8799,2200
+Yucatán,Cenotillo,MX31012,3875,969
+Yucatán,Chacsinkín,MX31016,3267,817
+Yucatán,Chankom,MX31017,4918,1230
+Yucatán,Chapab,MX31018,3557,889
+Yucatán,Chemax,MX31019,41136,10284
+Yucatán,Chichimilá,MX31021,10008,2502
+Yucatán,Chicxulub Pueblo,MX31020,4735,1184
+Yucatán,Chikindzonot,MX31022,4597,1149
+Yucatán,Chocholá,MX31023,5068,1267
+Yucatán,Chumayel,MX31024,3388,847
+Yucatán,Conkal,MX31013,17576,4394
+Yucatán,Cuncunul,MX31014,1815,454
+Yucatán,Cuzamá,MX31015,5973,1493
+Yucatán,Dzemul,MX31026,3807,952
+Yucatán,Dzidzantún,MX31027,8612,2153
+Yucatán,Dzilam González,MX31029,6523,1631
+Yucatán,Dzilam de Bravo,MX31028,3086,771
+Yucatán,Dzitás,MX31030,4196,1049
+Yucatán,Dzoncauich,MX31031,2944,736
+Yucatán,Dzán,MX31025,6336,1584
+Yucatán,Espita,MX31032,17599,4400
+Yucatán,Halachó,MX31033,22279,5570
+Yucatán,Hocabá,MX31034,6838,1710
+Yucatán,Hoctún,MX31035,6678,1670
+Yucatán,Homún,MX31036,8623,2156
+Yucatán,Huhí,MX31037,5459,1365
+Yucatán,Hunucmá,MX31038,36839,9210
+Yucatán,Ixil,MX31039,4443,1111
+Yucatán,Izamal,MX31040,29828,7457
+Yucatán,Kanasín,MX31041,133784,33446
+Yucatán,Kantunil,MX31042,5825,1456
+Yucatán,Kaua,MX31043,3602,900
+Yucatán,Kinchil,MX31044,7973,1993
+Yucatán,Kopomá,MX31045,2793,698
+Yucatán,Mama,MX31046,3506,876
+Yucatán,Maní,MX31047,6303,1576
+Yucatán,Maxcanú,MX31048,25136,6284
+Yucatán,Mayapán,MX31049,4164,1041
+Yucatán,Mocochá,MX31051,3672,918
+Yucatán,Motul,MX31052,39434,9859
+Yucatán,Muna,MX31053,14129,3532
+Yucatán,Muxupip,MX31054,3187,797
+Yucatán,Mérida,MX31050,1057512,264378
+Yucatán,Opichén,MX31055,7419,1855
+Yucatán,Oxkutzcab,MX31056,35629,8907
+Yucatán,Panabá,MX31057,8169,2042
+Yucatán,Peto,MX31058,27268,6817
+Yucatán,Progreso,MX31059,68548,17137
+Yucatán,Quintana Roo,MX31060,1013,253
+Yucatán,Río Lagartos,MX31061,4138,1034
+Yucatán,Sacalum,MX31062,5269,1317
+Yucatán,Samahil,MX31063,5974,1494
+Yucatán,San Felipe,MX31065,2194,548
+Yucatán,Sanahcat,MX31064,1781,445
+Yucatán,Santa Elena,MX31066,4434,1108
+Yucatán,Seyé,MX31067,10698,2675
+Yucatán,Sinanché,MX31068,3327,832
+Yucatán,Sotuta,MX31069,9392,2348
+Yucatán,Sucilá,MX31070,4149,1037
+Yucatán,Sudzal,MX31071,2080,520
+Yucatán,Suma,MX31072,1928,482
+Yucatán,Tahdziú,MX31073,6194,1549
+Yucatán,Tahmek,MX31074,3965,991
+Yucatán,Teabo,MX31075,7283,1821
+Yucatán,Tecoh,MX31076,18963,4741
+Yucatán,Tekal de Venegas,MX31077,2812,703
+Yucatán,Tekantó,MX31078,3909,977
+Yucatán,Tekax,MX31079,47310,11827
+Yucatán,Tekit,MX31080,11585,2896
+Yucatán,Tekom,MX31081,3530,883
+Yucatán,Telchac Pueblo,MX31082,3652,913
+Yucatán,Telchac Puerto,MX31083,1995,499
+Yucatán,Temax,MX31084,7451,1863
+Yucatán,Temozón,MX31085,17564,4391
+Yucatán,Tepakán,MX31086,2275,569
+Yucatán,Tetiz,MX31087,5789,1447
+Yucatán,Teya,MX31088,2001,500
+Yucatán,Ticul,MX31089,42366,10592
+Yucatán,Timucuy,MX31090,8096,2024
+Yucatán,Tinum,MX31091,13304,3326
+Yucatán,Tixcacalcupul,MX31092,8327,2082
+Yucatán,Tixkokob,MX31093,19211,4803
+Yucatán,Tixmehuac,MX31094,5741,1435
+Yucatán,Tixpéhual,MX31095,6189,1547
+Yucatán,Tizimín,MX31096,84459,21115
+Yucatán,Tunkás,MX31097,3834,959
+Yucatán,Tzucacab,MX31098,16144,4036
+Yucatán,Uayma,MX31099,4442,1110
+Yucatán,Ucú,MX31100,4313,1078
+Yucatán,Umán,MX31101,72745,18186
+Yucatán,Valladolid,MX31102,89893,22473
+Yucatán,Xocchel,MX31103,3656,914
+Yucatán,Yaxcabá,MX31104,17186,4296
+Yucatán,Yaxkukul,MX31105,3538,884
+Yucatán,Yobaín,MX31106,2304,576
+Zacatecas,Apozol,MX32001,6574,1643
+Zacatecas,Apulco,MX32002,5238,1310
+Zacatecas,Atolinga,MX32003,2374,594
+Zacatecas,Benito Juárez,MX32004,4682,1170
+Zacatecas,Calera,MX32005,48334,12084
+Zacatecas,Cañitas de Felipe Pescador,MX32006,8564,2141
+Zacatecas,Chalchihuites,MX32009,10530,2633
+Zacatecas,Concepción del Oro,MX32007,12644,3161
+Zacatecas,Cuauhtémoc,MX32008,14190,3547
+Zacatecas,El Plateado de Joaquín Amaro,MX32015,1624,406
+Zacatecas,El Salvador,MX32041,2590,648
+Zacatecas,Fresnillo,MX32010,252216,63054
+Zacatecas,Genaro Codina,MX32012,8642,2161
+Zacatecas,General Enrique Estrada,MX32013,7042,1760
+Zacatecas,General Francisco R. Murguía,MX32014,20995,5249
+Zacatecas,General Pánfilo Natera,MX32016,24826,6207
+Zacatecas,Guadalupe,MX32017,223752,55938
+Zacatecas,Huanusco,MX32018,4852,1213
+Zacatecas,Jalpa,MX32019,26435,6609
+Zacatecas,Jerez,MX32020,62294,15573
+Zacatecas,Jiménez del Teul,MX32021,4681,1170
+Zacatecas,Juan Aldama,MX32022,20708,5177
+Zacatecas,Juchipila,MX32023,12725,3181
+Zacatecas,Loreto,MX32024,56716,14179
+Zacatecas,Luis Moya,MX32025,13947,3487
+Zacatecas,Mazapil,MX32026,18561,4640
+Zacatecas,Melchor Ocampo,MX32027,2861,715
+Zacatecas,Mezquital del Oro,MX32028,2573,643
+Zacatecas,Miguel Auza,MX32029,25103,6276
+Zacatecas,Momax,MX32030,2569,642
+Zacatecas,Monte Escobedo,MX32031,8980,2245
+Zacatecas,Morelos,MX32032,13909,3477
+Zacatecas,Moyahua de Estrada,MX32033,4696,1174
+Zacatecas,Nochistlán de Mejía,MX32034,29071,7268
+Zacatecas,Noria de Ángeles,MX32035,17256,4314
+Zacatecas,Ojocaliente,MX32036,46546,11636
+Zacatecas,Pinos,MX32038,75893,18973
+Zacatecas,Pánuco,MX32037,18628,4657
+Zacatecas,Río Grande,MX32039,67435,16859
+Zacatecas,Sain Alto,MX32040,22878,5719
+Zacatecas,Santa María de la Paz,MX32058,2879,720
+Zacatecas,Sombrerete,MX32042,66629,16657
+Zacatecas,Susticacán,MX32043,1411,353
+Zacatecas,Tabasco,MX32044,17361,4340
+Zacatecas,Tepechitlán,MX32045,8692,2173
+Zacatecas,Tepetongo,MX32046,6705,1676
+Zacatecas,Teúl de González Ortega,MX32047,5584,1396
+Zacatecas,Tlaltenango de Sánchez Román,MX32048,28534,7134
+Zacatecas,Trancoso,MX32057,21494,5373
+Zacatecas,Trinidad García de la Cadena,MX32011,3482,871
+Zacatecas,Valparaíso,MX32049,33536,8384
+Zacatecas,Vetagrande,MX32050,11522,2881
+Zacatecas,Villa García,MX32052,20927,5232
+Zacatecas,Villa González Ortega,MX32053,14017,3504
+Zacatecas,Villa Hidalgo,MX32054,20498,5125
+Zacatecas,Villa de Cos,MX32051,36225,9056
+Zacatecas,Villanueva,MX32055,32803,8201
+Zacatecas,Zacatecas,MX32056,157082,39271
