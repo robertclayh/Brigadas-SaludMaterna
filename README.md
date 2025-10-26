@@ -146,25 +146,26 @@ requests python-dotenv gspread gspread-dataframe oauth2client unidecode
 
 ### Secrets
 
-Create a `.env` file in the repo root:
+Create a `.env` file in the project root with:
 
 ```env
 ACLED_USER=your_email@domain
 ACLED_PASS=your_password
-ACLED_REFRESH=true
-CAST_REFRESH=true
 SSL_VERIFY=true
-# Optional:
-# FORCE_REBUILD_POP=false
+ACLED_REFRESH=false
+CAST_REFRESH=false
+FORCE_REBUILD_POP=false
+ENABLE_SHEETS=false
+SHEET_NAME=mx_brigadas_dashboard
+GOOGLE_CREDS_JSON=/full/path/to/google-creds-XXXX.json
 ```
 
-Add your Google service account JSON to the repo root and set in `pipeline.py`:
-
-```python
-GOOGLE_CREDS_JSON = ROOT / "brigadas-salud-materna-<id>.json"
-```
-
-Share the Google Sheet or folder with the service account email.
+**Notes:**
+- By default, the pipeline uses cached ACLED events and CAST forecasts.  
+  To force API pulls, set `ACLED_REFRESH=true` and `CAST_REFRESH=true`.  
+- Google Sheets publishing is disabled by default.  
+  To enable it, set `ENABLE_SHEETS=true` and ensure `GOOGLE_CREDS_JSON` points to a valid service account JSON file.  
+  Share the target Sheet or folder with the service account email.
 
 ### Execute
 

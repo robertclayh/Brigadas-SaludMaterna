@@ -13,7 +13,7 @@ Pipeline to build ADM2-level risk tables for Mexico. Daily step pulls ACLED even
 # FORCE_REBUILD_POP=false
 # ENABLE_SHEETS=false
 # SHEET_NAME=mx_brigadas_dashboard
-# GOOGLE_CREDS_JSON=/full/path/to/brigadas-salud-materna-XXXX.json
+# GOOGLE_CREDS_JSON=/full/path/to/google-creds-XXXX.json
 #
 # 2) By default the script uses cached ACLED events and CAST forecasts.
 #    Set ACLED_REFRESH=true and CAST_REFRESH=true to force API pulls.
