@@ -52,4 +52,9 @@ rsconnect/
 .env
 
 # Ignore cached/extracted INEGI and other data
-data/
+parts1-3/
+
+brigadas-salud-materna-f3613cd11d81.json
+
+pipeline_checks.ipynbdata/worldpop/
+data/mex_admbnda_govmex_20210618_SHP/
