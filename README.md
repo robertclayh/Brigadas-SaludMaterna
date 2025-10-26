@@ -183,7 +183,7 @@ Uploaded to Google Sheets tabs (in order):
 
 ---
 
-## Data Sources & Transformations (Citations)
+## Citations
 
 **Primary Data Sources**
 
