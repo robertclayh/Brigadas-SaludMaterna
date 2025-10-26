@@ -1,3 +1,32 @@
+"""
+Pipeline to build ADM2-level risk tables for Mexico. Daily step pulls ACLED events and CAST forecasts (subject to ACLED recency caps), merges static inputs (population, facilities, poverty), computes indicators, and writes CSVs. Caching is enabled by default to avoid redundant API calls. Google Sheets upload is disabled by default and can be enabled via environment variables. See # %% Configuration & environment for toggles.
+"""
+# ----------------------------------------
+# Usage
+# ----------------------------------------
+# 1) Create a .env file in the project root with:
+# ACLED_USER=your_email@domain
+# ACLED_PASS=your_password
+# SSL_VERIFY=true
+# ACLED_REFRESH=false
+# CAST_REFRESH=false
+# FORCE_REBUILD_POP=false
+# ENABLE_SHEETS=false
+# SHEET_NAME=mx_brigadas_dashboard
+# GOOGLE_CREDS_JSON=/full/path/to/brigadas-salud-materna-XXXX.json
+#
+# 2) By default the script uses cached ACLED events and CAST forecasts.
+#    Set ACLED_REFRESH=true and CAST_REFRESH=true to force API pulls.
+#
+# 3) Optional Google Sheets publishing is disabled by default.
+#    To enable, set ENABLE_SHEETS=true and ensure GOOGLE_CREDS_JSON points
+#    to a valid service account JSON file. Share the target Sheet or
+#    parent folder with the service account email.
+#
+# 4) Run:
+#    python pipeline.py
+# ----------------------------------------
+
 # %%
 # Imports
 import os
@@ -21,7 +50,9 @@ from rasterstats import zonal_stats
 import rasterio
 
 # %%
+#
 # Configuration & environment
+# Loads environment, sets up toggles for API refreshes and Sheets upload
 load_dotenv()  # expects .env in project root
 ACLED_USER = os.getenv("ACLED_USER")
 ACLED_PASS = os.getenv("ACLED_PASS")
@@ -38,9 +69,14 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 # Population build control
 FORCE_REBUILD_POP = os.getenv("FORCE_REBUILD_POP", "false").lower() == "true"
 
-# Toggle daily API refreshes (set to "false" to use cached outputs when possible)
-ACLED_REFRESH = os.getenv("ACLED_REFRESH", "true").lower() == "true"
-CAST_REFRESH  = os.getenv("CAST_REFRESH",  "true").lower() == "true"
+# Toggle daily API refreshes; default is to use cache unless explicitly refreshed
+ACLED_REFRESH = os.getenv("ACLED_REFRESH", "false").lower() == "true"
+CAST_REFRESH  = os.getenv("CAST_REFRESH",  "false").lower() == "true"
+
+# Output publishing controls (disabled by default for reproducibility)
+ENABLE_SHEETS = os.getenv("ENABLE_SHEETS", "false").lower() == "true"
+SHEET_NAME = os.getenv("SHEET_NAME", "mx_brigadas_dashboard")
+GOOGLE_CREDS_JSON = pathlib.Path(os.getenv("GOOGLE_CREDS_JSON", "")).expanduser()
 
 # Meta/cache files
 META_JSON = OUT_DIR / "acled_meta.json"
@@ -80,6 +116,7 @@ import json
 
 # Utility helpers
 def winsor01_series(s: pd.Series, lo=0.05, hi=0.95) -> pd.Series:
+    """Winsorize a numeric series to [lo, hi] and scale to 0-1; returns 0s if empty."""
     s = pd.to_numeric(s, errors="coerce")
     if s.notna().sum() == 0:
         return pd.Series(np.zeros(len(s)), index=s.index)
@@ -90,6 +127,7 @@ def winsor01_series(s: pd.Series, lo=0.05, hi=0.95) -> pd.Series:
     return (s2 - a) / (b - a)
 
 def normalize_admin_names(df: pd.DataFrame) -> pd.DataFrame:
+    """Standardize admin1 names for Mexico to ensure join compatibility across sources."""
     rep = {
         "Michoacan de Ocampo": "Michoacán",
         "Queretaro": "Querétaro",
@@ -104,21 +142,18 @@ def normalize_admin_names(df: pd.DataFrame) -> pd.DataFrame:
     return d
 
 def normalize_adm1_join_name(s: pd.Series) -> pd.Series:
-    """
-    Canonical ADM1 key for joining across sources (CAST - ADM2).
-    Handles accents and Mexico-specific aliases.
-    """
+    """Return canonical ADM1 key for joining across sources (CAST - ADM2). Handles accents and aliases."""
     def canon(x: str) -> str:
         if pd.isna(x):
             return ""
         y = unidecode(str(x)).strip()
         # Title-case for consistent tokens
         y = " ".join(w.capitalize() for w in y.split())
-        # Mexico-specific aliasing (CAST ↔ INEGI)
+        # Mexico-specific aliasing (CAST <-> INEGI)
         rep = {
             "Distrito Federal": "Ciudad De Mexico",
             "Ciudad De Mexico": "Ciudad De Mexico",
-            "Estado De Mexico": "Mexico",       # CAST uses 'Mexico'
+            "Estado De Mexico": "Mexico",
             "Mexico": "Mexico",
             "Queretaro De Arteaga": "Queretaro",
             "Queretaro": "Queretaro",
@@ -132,6 +167,7 @@ def normalize_adm1_join_name(s: pd.Series) -> pd.Series:
     return s.apply(canon)
 
 def to_points(df: pd.DataFrame) -> gpd.GeoDataFrame:
+    """Convert DataFrame rows with latitude/longitude to GeoDataFrame points (EPSG:4326)."""
     if df.empty:
         return gpd.GeoDataFrame(df.copy(), geometry=[], crs="EPSG:4326")
     d = df.copy()
@@ -145,6 +181,7 @@ def to_points(df: pd.DataFrame) -> gpd.GeoDataFrame:
     return gpd.GeoDataFrame(d, geometry=geom, crs="EPSG:4326")
 
 def get_acled_token(username: str, password: str, verify: bool = True) -> str:
+    """Obtain an OAuth2 access token for ACLED API."""
     resp = requests.post(
         ACLED_TOKEN_URL,
         headers={"Content-Type": "application/x-www-form-urlencoded", "Accept": "application/json"},
@@ -156,6 +193,7 @@ def get_acled_token(username: str, password: str, verify: bool = True) -> str:
     return resp.json()["access_token"]
 
 def acled_quick_probe(params: Dict, token: str, verify: bool = True) -> Dict:
+    """Probe ACLED API for metadata or small sample (limit 1 row) given params and token."""
     q = {"_format": "json", "page": 1, "limit": 1}
     q.update(params)
     r = requests.get(
@@ -169,6 +207,7 @@ def acled_quick_probe(params: Dict, token: str, verify: bool = True) -> Dict:
     return r.json()
 
 def acled_fetch(params: Dict, token: str, *, limit: int = 5000, max_pages: int = 200, verify: bool = True) -> pd.DataFrame:
+    """Fetch ACLED API data with paging, returning DataFrame of all rows for given params."""
     frames = []
     for page in range(1, max_pages + 1):
         q = {"_format": "json", "page": page, "limit": limit}
@@ -188,6 +227,7 @@ def acled_fetch(params: Dict, token: str, *, limit: int = 5000, max_pages: int =
     return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
 
 def resolve_recency_cap(token: str, verify: bool = True) -> dt.date:
+    """Return the latest permissible event date from ACLED recency restrictions."""
     js = acled_quick_probe({}, token, verify=verify)
     allowed_end_str = (js.get("data_query_restrictions") or {}).get("date_recency", {}).get("date")
     if not allowed_end_str:
@@ -198,6 +238,7 @@ def resolve_recency_cap(token: str, verify: bool = True) -> dt.date:
         return dt.date.today()
 
 def anchors_from_end(end_date: dt.date) -> Dict[str, dt.date]:
+    """Return anchor dates for 90-day and 30-day windows ending at end_date."""
     return dict(
         TODAY=end_date,
         FROM_30=end_date - dt.timedelta(days=30),
@@ -207,11 +248,13 @@ def anchors_from_end(end_date: dt.date) -> Dict[str, dt.date]:
     )
 
 def build_params(country: str, iso: int, start: dt.date, end: dt.date) -> Dict[str, Dict]:
+    """Return parameter dicts for ACLED API, both by ISO code and country name."""
     iso_params = {"iso": iso, "event_date": f"{start}|{end}", "event_date_where": "BETWEEN", "fields": ACLED_FIELDS}
     ctry_params = {"country": country, "event_date": f"{start}|{end}", "event_date_where": "BETWEEN", "fields": ACLED_FIELDS}
     return {"iso": iso_params, "country": ctry_params}
 
 def choose_live_params(params_pair: Dict[str, Dict], token: str, verify: bool = True) -> Dict:
+    """Select the ACLED API params (iso or country) that returns data for this query."""
     p_iso = acled_quick_probe(params_pair["iso"], token, verify=verify)
     if (p_iso.get("total_count") or 0) > 0:
         return params_pair["iso"]
@@ -221,6 +264,7 @@ def choose_live_params(params_pair: Dict[str, Dict], token: str, verify: bool = 
     return params_pair["iso"]
 
 def _read_meta(path: pathlib.Path) -> dict:
+    """Read pipeline meta/cache file as JSON dict, or return empty if missing or error."""
     if path.exists():
         try:
             with open(path, "r") as f:
@@ -230,6 +274,7 @@ def _read_meta(path: pathlib.Path) -> dict:
     return {}
 
 def _write_meta(path: pathlib.Path, data: dict):
+    """Write meta/cache file as JSON; ignore errors."""
     try:
         with open(path, "w") as f:
             json.dump(data, f, default=str, indent=2)
@@ -237,8 +282,10 @@ def _write_meta(path: pathlib.Path, data: dict):
         pass
 
 # %%
-# One-time static builds (Population, CLUES, CONEVAL)
+#
+# Build population per ADM2 once; reuse cached CSV unless FORCE_REBUILD_POP=true
 def build_population_if_needed():
+    """Aggregate WorldPop raster to ADM2 polygons; estimate WRA as 25 percent of total; cache to CSV."""
     if POP_CSV.exists() and not FORCE_REBUILD_POP:
         pop = pd.read_csv(POP_CSV)
         for c in ["adm2_code","adm1_name","adm2_name"]:
@@ -310,7 +357,10 @@ def build_population_if_needed():
 
     return pop_out
 
+#
+# Build facility counts by ADM2 via spatial join; reuse cached CSV if present
 def build_clues_if_needed():
+    """Read CLUES Excel, filter for public, active, non-mobile, valid locations, spatially join to ADM2, output facility counts per ADM2."""
     if FAC_CSV.exists():
         fac = pd.read_csv(FAC_CSV)
         for c in ["adm2_code","entidad","municipio"]:
@@ -393,7 +443,10 @@ def build_clues_if_needed():
     print(f"Saved aggregated facility counts (spatially joined) -> {FAC_CSV}")
     return fac_counts
 
+#
+# Extract municipal poverty and map to ADM2; reuse cached CSV if present
 def build_coneval_if_needed():
+    """Extract municipal poverty rates from CONEVAL Excel, parse and clean, map to ADM2 codes, output to CSV."""
     if MVI_CSV.exists():
         mvi = pd.read_csv(MVI_CSV)
         for c in ["adm2_code","entidad","municipio"]:
@@ -451,8 +504,13 @@ def build_coneval_if_needed():
     return out
 
 # %%
+#
 # Daily refresh: ACLED events and ACLED CAST
 def cast_fetch_mexico(token: str, *, verify: bool = True, future_only: bool = True) -> pd.DataFrame:
+    """
+    Download ACLED CAST forecast for Mexico, optionally filtering to future months only.
+    Returns DataFrame with 'adm1_name', 'cast_raw', and 'cast_state' columns (summed per state).
+    """
     headers = {"Authorization": f"Bearer {token}"}
     dfs = []
     page, limit = 1, 5000
@@ -493,17 +551,19 @@ def cast_fetch_mexico(token: str, *, verify: bool = True, future_only: bool = Tr
             latest = cast_raw["forecast_date"].max()
             cast_raw = cast_raw[cast_raw["forecast_date"] == latest].copy()
 
-    # Aggregate across sub-rows per state for chosen month(s)
+    # Sum state-month rows and return per-state totals for selected months
     cast_state = cast_raw.groupby("adm1_name", as_index=False)["cast_raw"].sum()
     cast_state["cast_raw"] = cast_state["cast_raw"].fillna(0).astype(float)
     return cast_state
 
 # %%
+#
 # Load static inputs (build if missing)
 pop = build_population_if_needed()
 fac = build_clues_if_needed()
 mvi = build_coneval_if_needed()
 
+#
 # Geometry once
 adm2_raw = gpd.read_file(MX_ADM2_SHP)
 if adm2_raw.crs is None or adm2_raw.crs.to_epsg() != 4326:
@@ -520,11 +580,14 @@ ADM2["adm1_code"] = ADM2["adm1_code"].astype(str)
 ADM2["adm1_name"] = ADM2["adm1_name"].astype(str)
 ADM2["adm2_name"] = ADM2["adm2_name"].astype(str)
 
+#
 # Canonical ADM1 join key on ADM2
 ADM2["adm1_join"] = normalize_adm1_join_name(ADM2["adm1_name"])
 
 # %%
 # %%
+#
+# Determine ACLED recency cap and date windows; prefer cache unless ACLED_REFRESH=true
 # Authenticate and compute event windows (with caching to avoid unnecessary API calls)
 token = get_acled_token(ACLED_USER, ACLED_PASS, verify=SSL_VERIFY)
 end_allowed = resolve_recency_cap(token, verify=SSL_VERIFY)
@@ -532,6 +595,8 @@ if end_allowed < dt.date.today():
     print(f"ACLED recency cap in effect; ending at {end_allowed}")
 A = anchors_from_end(end_allowed)
 
+#
+# Fetch events for last 90 days and prior 30 days; write cached copies for reuse
 # Determine whether to refresh ACLED calls
 meta = _read_meta(META_JSON)
 last_end_allowed = dt.date.fromisoformat(meta["end_allowed"]) if meta.get("end_allowed") else None
@@ -601,8 +666,8 @@ if do_refresh_acled:
     })
     _write_meta(META_JSON, meta)
 
+# Use cached ACLED outputs if not refreshing
 else:
-    # Use cached ACLED outputs
     print("ACLED refresh skipped (using cached EVENTS CSVs).")
     events_out = pd.read_csv(EVENTS_CSV) if EVENTS_CSV.exists() else pd.DataFrame()
     events_prev_out = pd.read_csv(EVENTS_PREV_CSV) if EVENTS_PREV_CSV.exists() else pd.DataFrame()
@@ -612,7 +677,6 @@ else:
                 _df["adm2_code"] = _df["adm2_code"].astype(str)
             if "adm2_name" in _df.columns:
                 _df["adm2_name"] = _df["adm2_name"].astype(str)
-                
 # Build muni_counts from cached or freshly computed outputs
 if not events_out.empty:
     muni_counts_90v = (
@@ -643,6 +707,7 @@ for c in ["events_90v", "events_prevv"]:
         muni_counts[c] = pd.to_numeric(muni_counts[c], errors="coerce").fillna(0).astype(int)
 
 # %%
+#
 # Attach population and compute rates
 def _ensure_str(df, cols):
     d = df.copy()
@@ -725,6 +790,8 @@ if not zero_pop_anom.empty:
 acled_metrics = acled_metrics[["adm1_name","adm2_name","adm2_code","pop_wra","v30","v3m","dlt_v30_raw"]].copy()
 
 # %%
+#
+# Compute spatial spillover as Queen-contiguity average of v30
 # Spillover (queen contiguity on ADM2 polygons)
 g = ADM2.merge(acled_metrics, on=["adm1_name","adm2_name","adm2_code"], how="left")
 g["v30"] = g["v30"].fillna(0)
@@ -736,6 +803,8 @@ S = wq.sparse.dot(g["v30"].to_numpy())
 spill = pd.DataFrame({"adm2_code": g["adm2_code"].astype(str), "spillover": S})
 
 # %%
+#
+# Normalize inputs and compute indices (DCR, PRS, priority) with defined weights
 # Access (A), Strain (H), Vulnerability (MVI), CAST (state-level)
 adm2_base = (
     ADM2.drop(columns="geometry")
@@ -813,6 +882,7 @@ if not use_cast_cache:
         cast = cast_state[["adm1_join","cast_state"]].drop_duplicates().copy()
 
 # %%
+#
 # Defensive: ensure both sides of the merge have the expected keys
 required_keys = ["adm1_name", "adm2_name", "adm2_code", "pop_wra"]
 for k in required_keys:
@@ -826,6 +896,7 @@ for df_ in (adm2_base, acled_metrics):
     for k in ["adm1_name", "adm2_name", "adm2_code"]:
         df_[k] = df_[k].astype(str)
 
+#
 # Final table, normalization, indices
 final = (
     adm2_base
@@ -894,7 +965,9 @@ fact = final[[
     "DCR100","PRS100","priority100"
 ]].copy().rename(columns={"CAST":"cast_state","A":"access_A","MVI":"mvi"})
 
+#
 # Add data_as_of column to capture last ACLED date available (end_allowed)
+# Note: data_as_of is written to the fact CSV for transparency of ACLED recency.
 fact["data_as_of"] = end_allowed
 
 numeric_cols = ["pop_total","pop_wra","w_exposure","v30","v3m","dlt_v30_raw","spillover","cast_state","access_A","mvi","DCR100","PRS100","priority100"]
@@ -906,6 +979,8 @@ n_zero_pop = int((final["pop_wra"] <= 0).sum())
 print(f"ADM2 with zero pop_wra: {n_zero_pop}")
 
 # %%
+#
+# Derive ADM2 centroids in projected CRS to avoid distortion; export as lookup
 # Geometry lookup (centroids) for BI
 # Compute centroids in a projected CRS to avoid distortion, then convert back to lon/lat
 adm2_proj = ADM2.to_crs(3857).copy()
@@ -921,6 +996,7 @@ geom_lu = pd.DataFrame({
 })
 
 # %%
+#
 # Outputs — CSVs (Tableau-ready)
 # Ensure data_as_of is included in the CSV export
 fact.to_csv(FACT_CSV, index=False)
@@ -928,12 +1004,8 @@ geom_lu.to_csv(GEOM_CSV, index=False)
 print(f"Written:\n  {FACT_CSV}\n  {GEOM_CSV}")
 
 # %%
-# Optional: Google Sheets upload (enabled)
-ENABLE_SHEETS = True
-SHEET_NAME = "mx_brigadas_dashboard"
-GOOGLE_CREDS_JSON = ROOT / "brigadas-salud-materna-f3613cd11d81.json"
-
-if ENABLE_SHEETS:
+# Optional Google Sheets export. Requires ENABLE_SHEETS=true and GOOGLE_CREDS_JSON path in environment.
+if ENABLE_SHEETS and GOOGLE_CREDS_JSON and GOOGLE_CREDS_JSON.exists():
     print(f"ACLED_REFRESH={ACLED_REFRESH}, CAST_REFRESH={CAST_REFRESH}")
     import gspread
     from gspread_dataframe import set_with_dataframe
@@ -997,4 +1069,6 @@ if ENABLE_SHEETS:
     }
     print(f"Wrote to Google Sheet: {SHEET_NAME}")
     print("Tabs and row counts:", counts)
+elif ENABLE_SHEETS:
+    print("Google Sheets export requested but GOOGLE_CREDS_JSON was not found; skipping upload.")
 # %%

@@ -63,3 +63,4 @@ data/mex_admbnda_govmex_20210618_SHP/
 data/worldpop/
 *.tif
 .DS_Store
+pipeline_checks.ipynb

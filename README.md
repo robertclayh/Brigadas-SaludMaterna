@@ -1,4 +1,4 @@
-# Brigadas-SaludMaterna — Data Pipeline (README)
+# Brigadas-Salud-Materna — Data Pipeline (README)
 
 ## Overview
 
@@ -24,15 +24,15 @@ The risk scores are constructed by weighting these inputs to reflect their relat
 
 ### Where to find the tables
 
-- **Google Sheet:** `[Insert Google Sheet URL here]` (tabs: `adm2_risk_daily`, `acled_events_90d`, `adm2_geometry`, `sources_log`)  
+- **Google Sheet:** `[https://docs.google.com/spreadsheets/d/13s_SpJSEw9CbPCmktJBCKbrsy2HiIKVpHZk4yeA8MfU/edit?gid=1483145298#gid=1483145298]` (tabs: `adm2_risk_daily`, `acled_events_90d`, `adm2_geometry`, `sources_log`)  
 - **CSVs in repo:**  
-  - `out/adm2_risk_daily.csv` `[Insert CSV URL here]`  
-  - `out/acled_events_violent_90d.csv` `[Insert CSV URL here]`  
-  - `out/adm2_geometry.csv` `[Insert CSV URL here]`
+  - `out/adm2_risk_daily.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_risk_daily.csv]`  
+  - `out/acled_events_violent_90d.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/acled_events_violent_90d.csv]`  
+  - `out/adm2_geometry.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_geometry.csv]`
 
 ---
 
-## What the Pipeline Produces (Viz-Ready Tables)
+## What the Pipeline Produces (Vizualization-Ready Tables)
 
 ### 1) `adm2_risk_daily.csv` — main fact table (one row per ADM2)
 
@@ -41,10 +41,10 @@ The risk scores are constructed by weighting these inputs to reflect their relat
 | `run_date`    | Date the pipeline ran.                                                                            |
 | `data_as_of`  | Last ACLED date available (recency cap).                                                        |
 | `adm1_name`, `adm2_name`, `adm2_code` | State, municipality, INEGI/COD-AB code (e.g., MX25008).                                    |
-| `pop_total`, `pop_wra` | Total population & women 15–49 (WRA, proxied @25%).                                          |
+| `pop_total`, `pop_wra` | Total population & women 15–49 (WRA, proxied @25%)[^2].                                          |
 | `v30`, `v3m`  | Events per 100k WRA in last 30/90 days (violent types).                                          |
 | `dlt_v30_raw` | v30 minus previous 30-day rate.                                                                  |
-| `spillover`   | Queen-contiguity neighbor average of v30.                                                       |
+| `spillover`   | Queen-contiguity neighbor average of v30[^1].                                                       |
 | `cast_state`  | State-level CAST forecast (0–1, winsorized 5–95%).                                              |
 | `access_A`    | Inverse facility density (facilities per 100k WRA), scaled 0–1.                                 |
 | `mvi`         | Municipal poverty (CONEVAL 2020 % pobreza), scaled 0–1.                                         |
@@ -53,44 +53,43 @@ The risk scores are constructed by weighting these inputs to reflect their relat
 | `priority100` | 100 × [0.6·PRS + 0.4·DCR].                                                                      |
 
 **Notes:** V30/V3m/dV30/S/CAST/A/MVI are all winsorized & scaled so higher = worse.  
-Removed `strain_H` to avoid double-counting with `access_A` (high correlation).
 
 ### Mathematical Formulations
 
 The **Descriptive Composite Risk (DCR100)** is calculated as:
 
-\[
+$$
 \text{DCR100} = 100 \times \left( 0.35 \times V_{3m} + 0.15 \times S + 0.30 \times A + 0.20 \times MVI \right)
-\]
+$$
 
 where:  
-- \( V_{3m} \) = 90-day violent event rate per 100k WRA  
-- \( S \) = Spillover (neighbor average violence rate)  
-- \( A \) = Inverse facility density (access)  
-- \( MVI \) = Municipal poverty index
+- $$V_{3m}$$ = 90-day violent event rate per 100k WRA  
+- $$S$$ = Spillover (neighbor average violence rate)  
+- $$A$$ = Inverse facility density (access)  
+- $$MVI$$ = Municipal poverty index
 
 The **Predictive Risk Score (PRS100)** incorporates recent trends and forecasts:
 
-\[
+$$
 \text{PRS100} = 100 \times \left( 0.30 \times V_{30} + 0.25 \times \Delta V_{30} + 0.10 \times S + 0.18 \times CAST + 0.12 \times A + 0.05 \times MVI \right)
-\]
+$$
 
 (with CAST forecast available), or:
 
-\[
+$$
 \text{PRS100} = 100 \times \left( 0.40 \times V_{30} + 0.30 \times \Delta V_{30} + 0.10 \times S + 0.12 \times A + 0.08 \times MVI \right)
-\]
+$$
 
 (without CAST forecast), where:  
-- \( V_{30} \) = 30-day violent event rate per 100k WRA  
-- \( \Delta V_{30} \) = Change in 30-day violent event rate  
-- \( CAST \) = State-level forecast of violence risk
+- $$V_{30}$$ = 30-day violent event rate per 100k WRA  
+- $$\Delta V_{30}$$ = Change in 30-day violent event rate  
+- $$CAST$$ = State-level forecast of violence risk
 
 The final **priority score** balances predictive and descriptive risk:
 
-\[
+$$
 \text{priority100} = 100 \times (0.6 \times PRS + 0.4 \times DCR)
-\]
+$$
 
 ---
 
@@ -117,6 +116,16 @@ Minimal lookup (`adm1_name`, `adm2_name`, `adm2_code`, `lon`, `lat`) for lightwe
 
 **Important:** ACLED’s public “recency” restriction means recent events may be unavailable.  
 The pipeline records `data_as_of` to reflect this and uses cached data if the cap is unchanged.
+
+---
+
+## Data Access Caveat (ACLED Licensing Changes)
+
+ACLED has recently modified its data access policy, instituting a 12-month limit on disaggregated event-level data. This change means that detailed event data from the most recent year are no longer publicly accessible immediately upon release.
+
+The current ETL design, indicator weighting, and modeling framework assume access to recent disaggregated ACLED data to capture acute and near-term violence trends critical for accurate risk prioritization at the ADM2 level.
+
+In response to this policy update, a contingency plan has been developed. Should access to recent disaggregated data remain restricted, the pipeline and model will be recalibrated to rely more heavily on longer-term violence trends and aggregated indicators, such as state-level forecasts and structural risk factors. This approach aims to preserve the model’s predictive integrity and utility for programmatic decision-making while complying with ACLED’s licensing constraints.
 
 ---
 
@@ -175,30 +184,51 @@ Uploaded to Google Sheets tabs (in order):
 
 ## Data Sources & Transformations (Citations)
 
-- ACLED: Armed Conflict Location & Event Data Project — events & CAST forecasts via API.  
-  Filters: Mexico, violent event types, rolling 90d & 30d windows.  
-  Attribution: © ACLED, access logged in `data_as_of`.
-- WorldPop (R2025A): 2025 population, 100m WGS84. Aggregated via rasterstats.  
-  WRA estimated as 25% of total. DOI: 10.5258/SOTON/WP00839
-- CLUES (DGIS/Secretaría de Salud): ESTABLECIMIENTO_SALUD_202509.xlsx  
-  Filters: public networks, active, non-mobile, valid coordinates. Spatial join to ADM2 polygons.
-- CONEVAL 2020: Municipal poverty (% pobreza).  
-  Extracted by municipal code, mapped to ADM2 via MX+state+municipio key.
-- Boundaries: COD-AB Mexico ADM2 from HDX, used for joins, spillover, and centroids.
+**Primary Data Sources**
 
-### Key Transforms
+- Armed Conflict Location & Event Data Project (ACLED). (2025). *ACLED dataset*. https://acleddata.com  
+  — Events and CAST forecasts accessed via API for Mexico, filtered for violent event types (rolling 30-day and 90-day windows).
 
-- Winsorize indicators (5–95%), scale to 0–1 (higher = worse).
-- Spillover = neighbor average of v30 via libpysal.Queen.
-- DCR100 = 100 × [0.35·V3m + 0.15·S + 0.30·A + 0.20·MVI]
-- PRS100 = 100 × [with CAST: 0.30·V30 + 0.25·dV30 + 0.10·S + 0.18·CAST + 0.12·A + 0.05·MVI]
-- priority100 = 100 × [0.6·PRS + 0.4·DCR]
+- Secretaría de Salud, Dirección General de Información en Salud (DGIS). (n.d.). *Catálogo de Clave Única de Establecimientos de Salud (CLUES)*. http://www.dgis.salud.gob.mx/contenidos/sinais/s_clues.html  
+  — Facility locations and attributes used to calculate access indicators through spatial joins.
+
+- Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). (n.d.). *Pobreza a nivel municipio 2010–2020*. https://www.coneval.org.mx/Medicion/Paginas/Pobreza-municipio-2010-2020.aspx  
+  — Municipal poverty data integrated as a structural vulnerability indicator.
+
+- Instituto Nacional de Estadística y Geografía (INEGI). (n.d.). *Censo de Población y Vivienda*. https://www.inegi.org.mx/programas/ccpv  
+  — Population counts used to estimate total population and women of reproductive age (WRA), approximated at 25% of the total.
+
+- WorldPop. (2025). *WorldPop Mexico 2025 (R2025A) population dataset*. https://hub.worldpop.org/geodata/summary?id=74383  
+  — 100m resolution raster used to spatially aggregate population by ADM2.
+
+- Humanitarian Data Exchange (HDX). (n.d.). *COD-AB Mexico Administrative Boundaries (ADM2)*. https://data.humdata.org/dataset/cod-ab-mex  
+  — Used as the spatial reference for joins, spillover computation, and centroid extraction.
+
+**Methodological Reference**
+
+- Arribas-Bel, D. (n.d.). *A course on Geographic Data Science — Lab E: Spatial Weights (Queen/Rook contiguity and transformations)*. https://darribas.org/gds_course/content/bE/lab_E.html  
+  — Reference for constructing Queen-contiguity spatial weight matrices using PySAL.
+
+**Tools and Assistance**
+
+- GitHub Copilot. (n.d.). *GitHub Copilot for Visual Studio Code*. https://github.com/features/copilot  
+  — Used for code autocompletion and function scaffolding during pipeline development.
+
+- OpenAI. (2025). *ChatGPT (VS Code Integration)*. https://help.openai.com/en/articles/10128592-how-to-install-the-work-with-apps-visual-studio-code-extension  
+  — Used for debugging assistance and formatting within the development environment.
 
 ---
 
 ## Quick Links
 
-- `adm2_risk_daily.csv` `[Insert CSV URL here]`
-- `acled_events_violent_90d.csv` `[Insert CSV URL here]`
-- `adm2_geometry.csv` `[Insert CSV URL here]`
-- Google Sheet: `mx_brigadas_dashboard` `[Insert Google Sheet URL here]` (tabs auto-created by pipeline)
+- `adm2_risk_daily.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_risk_daily.csv]`
+- `acled_events_violent_90d.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/acled_events_violent_90d.csv]`
+- `adm2_geometry.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_geometry.csv]`
+- Google Sheet: `mx_brigadas_dashboard` `[https://docs.google.com/spreadsheets/d/13s_SpJSEw9CbPCmktJBCKbrsy2HiIKVpHZk4yeA8MfU/edit?gid=1483145298#gid=1483145298]` (tabs auto-created by pipeline)
+
+[^1]: *Queen-contiguity* defines neighboring spatial units as those sharing either a border or a vertex. See Arribas-Bel, D. **A course on Geographic Data Science** — *Lab E: Spatial Weights*. Available at: https://darribas.org/gds_course/content/bE/lab_E.html.
+[^2]: Based on national population statistics from INEGI (Instituto Nacional de Estadística y Geografía), women of reproductive age (15–49) comprise approximately 25% of Mexico’s total population. This proportion is used here as a proxy for WRA where disaggregated data are unavailable. The pipeline design allows this assumption to be refined later if more spatially discrete WRA data become available to improve model accuracy.
+
+## AI Usage Disclosure
+
+This deliverable was developed with assistance from generative AI tools consistent with SDS program guidelines. GitHub Copilot and the ChatGPT VS Code integration were used to assist with code autocompletion, debugging, and formatting within the development environment. No generative AI tools were used to write descriptive text or interpret readings. All conceptual reasoning, model design, and analytical decisions were made by the author.

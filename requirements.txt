@@ -1,0 +1,28 @@
+# Core
+pandas~=2.2
+numpy~=1.26
+
+# HTTP / secrets
+requests~=2.31
+python-dotenv~=1.0
+unidecode~=1.3
+
+# Geo stack
+geopandas~=0.14
+shapely~=2.0
+pyproj~=3.6
+fiona~=1.9
+rtree~=1.2
+libpysal~=4.10
+
+# Raster + zonal stats
+rasterio~=1.3
+rasterstats~=0.19
+
+# Excel I/O
+openpyxl~=3.1
+
+# Google Sheets publishing
+gspread~=6.2
+gspread-dataframe~=4.0
+oauth2client~=4.1
