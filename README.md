@@ -24,11 +24,11 @@ The risk scores are constructed by weighting these inputs to reflect their relat
 
 ### Where to find the tables
 
-- **Google Sheet:** `[https://docs.google.com/spreadsheets/d/13s_SpJSEw9CbPCmktJBCKbrsy2HiIKVpHZk4yeA8MfU/edit?gid=1483145298#gid=1483145298]` (tabs: `adm2_risk_daily`, `acled_events_90d`, `adm2_geometry`, `sources_log`)  
+- **Google Sheet:** [Google Sheet](https://docs.google.com/spreadsheets/d/13s_SpJSEw9CbPCmktJBCKbrsy2HiIKVpHZk4yeA8MfU/edit?gid=1483145298#gid=1483145298) (tabs: `adm2_risk_daily`, `acled_events_90d`, `adm2_geometry`, `sources_log`)  
 - **CSVs in repo:**  
-  - `out/adm2_risk_daily.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_risk_daily.csv]`  
-  - `out/acled_events_violent_90d.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/acled_events_violent_90d.csv]`  
-  - `out/adm2_geometry.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_geometry.csv]`
+  - [`out/adm2_risk_daily.csv`](https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_risk_daily.csv)  
+  - [`out/acled_events_violent_90d.csv`](https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/acled_events_violent_90d.csv)  
+  - [`out/adm2_geometry.csv`](https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_geometry.csv)
 
 ---
 
@@ -221,10 +221,10 @@ Uploaded to Google Sheets tabs (in order):
 
 ## Quick Links
 
-- `adm2_risk_daily.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_risk_daily.csv]`
-- `acled_events_violent_90d.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/acled_events_violent_90d.csv]`
-- `adm2_geometry.csv` `[https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_geometry.csv]`
-- Google Sheet: `mx_brigadas_dashboard` `[https://docs.google.com/spreadsheets/d/13s_SpJSEw9CbPCmktJBCKbrsy2HiIKVpHZk4yeA8MfU/edit?gid=1483145298#gid=1483145298]` (tabs auto-created by pipeline)
+- [`adm2_risk_daily.csv`](https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_risk_daily.csv)
+- [`acled_events_violent_90d.csv`](https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/acled_events_violent_90d.csv)
+- [`adm2_geometry.csv`](https://github.com/robertclayh/Brigadas-SaludMaterna/blob/main/out/adm2_geometry.csv)
+- Google Sheet: `mx_brigadas_dashboard` [Google Sheet](https://docs.google.com/spreadsheets/d/13s_SpJSEw9CbPCmktJBCKbrsy2HiIKVpHZk4yeA8MfU/edit?gid=1483145298#gid=1483145298) (tabs auto-created by pipeline)
 
 [^1]: *Queen-contiguity* defines neighboring spatial units as those sharing either a border or a vertex. See Arribas-Bel, D. **A course on Geographic Data Science** — *Lab E: Spatial Weights*. Available at: https://darribas.org/gds_course/content/bE/lab_E.html.
 [^2]: Based on national population statistics from INEGI (Instituto Nacional de Estadística y Geografía), women of reproductive age (15–49) comprise approximately 25% of Mexico’s total population. This proportion is used here as a proxy for WRA where disaggregated data are unavailable. The pipeline design allows this assumption to be refined later if more spatially discrete WRA data become available to improve model accuracy.

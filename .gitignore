@@ -1,65 +1,45 @@
-# History files
+# R history and session files
 .Rhistory
 .Rapp.history
-
-# Session Data files
 .RData
 .RDataTmp
-
-# User-specific files
 .Ruserdata
 
-# Example code in package build process
+# R build and check outputs
 *-Ex.R
-
-# Output files from R CMD build
 /*.tar.gz
-
-# Output files from R CMD check
 /*.Rcheck/
 
-# RStudio files
+# RStudio
 .Rproj.user/
 
-# produced vignettes
+# Generated vignettes
 vignettes/*.html
 vignettes/*.pdf
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
+# OAuth tokens and environment files
 .httr-oauth
+.env
+.Renviron
 
-# knitr and R markdown default cache directories
+# Cache and temp files
 *_cache/
 /cache/
-
-# Temporary files created by R markdown
 *.utf8.md
 *.knit.md
 
-# R Environment Variables
-.Renviron
-
-# pkgdown site
+# Project documentation and translation
 docs/
-
-# translation temp files
 po/*~
-
-# RStudio Connect folder
 rsconnect/
 
-# Environment variables and secrets
-.env
-
-# Ignore cached/extracted INEGI and other data
+# Local data and outputs
 parts1-3/
-
 brigadas-salud-materna-f3613cd11d81.json
-
 pipeline_checks.ipynb
-
 data/worldpop/
 data/mex_admbnda_govmex_20210618_SHP/
-data/worldpop/
 *.tif
+
+# System files
 .DS_Store
