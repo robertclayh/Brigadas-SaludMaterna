@@ -2,21 +2,33 @@
 
 ## Overview
 
-This repo contains a reproducible Python pipeline that builds ADM2-level risk tables for maternal health brigades in Mexico, ready for BI tools (Tableau) and auto-published to Google Sheets. It operationalizes the indicators and weights agreed in prior deliverables:
+This repository hosts a reproducible Python data pipeline designed to generate ADM2-level risk tables that support maternal health brigades operating in Mexico under humanitarian programming. The pipeline operationalizes an evidence-based risk prioritization model, integrating multiple data sources to provide actionable insights for targeting interventions where they are most needed. By transforming complex datasets into concise, interpretable risk scores, the pipeline empowers program managers and field teams with timely, data-driven decision support.
 
-- **Descriptive Composite Risk (DCR100)** — current structural and spatial risk.  
-- **Predictive Risk (PRS100)** — near-term risk forecast, combining recent trends, spillover, and state-level CAST forecasts.  
-- **Priority Score** — weighted blend of PRS & DCR.
+The risk model combines structural vulnerabilities and dynamic indicators to capture both current and near-term maternal health risks. This approach aligns with evidence-based programming, ensuring resources are allocated efficiently to municipalities facing the greatest challenges.
 
-Daily-refresh variables: **ACLED event counts** (subject to ACLED’s public recency cap) and **ACLED CAST forecasts**.  
-Static inputs (population, CLUES facilities, CONEVAL poverty) are built once and cached.
+### Input Variables and Conceptual Roles
+
+- **Violence (ACLED event counts):** Violence adversely affects maternal health by disrupting access to care and increasing stress and insecurity. Including recent violent event counts captures acute risk factors impacting communities.
+
+- **Access (CLUES facility density):** Facility density inversely represents healthcare access. Lower density indicates potential barriers to maternal health services, which is critical for identifying underserved areas.
+
+- **Poverty (CONEVAL municipal poverty rates):** Socioeconomic deprivation is a key determinant of health outcomes. Poverty rates contextualize structural vulnerabilities influencing maternal health risks.
+
+- **Spillover (Neighboring violence rates):** Violence and instability can spread geographically. The spillover metric captures the influence of violence in adjacent municipalities, acknowledging spatial contagion effects.
+
+- **CAST Forecast (ACLED state-level forecast):** The CAST forecast provides predictive insight into likely near-term violence trends, enabling anticipatory program adjustments.
+
+### Weighting Logic
+
+The risk scores are constructed by weighting these inputs to reflect their relative importance based on prior validation and expert consensus. Structural factors like violence trends and access receive higher weights due to their direct impact on maternal health outcomes, while spillover and poverty contribute complementary context. The weighting scheme balances stability (structural risk) and responsiveness (predictive risk) to generate actionable priority scores.
 
 ### Where to find the tables
-- **Google Sheet:** `mx_brigadas_dashboard` (tabs: `adm2_risk_daily`, `acled_events_90d`, `adm2_geometry`, `sources_log`)  
+
+- **Google Sheet:** `[Insert Google Sheet URL here]` (tabs: `adm2_risk_daily`, `acled_events_90d`, `adm2_geometry`, `sources_log`)  
 - **CSVs in repo:**  
-  - `out/adm2_risk_daily.csv`  
-  - `out/acled_events_violent_90d.csv`  
-  - `out/adm2_geometry.csv`
+  - `out/adm2_risk_daily.csv` `[Insert CSV URL here]`  
+  - `out/acled_events_violent_90d.csv` `[Insert CSV URL here]`  
+  - `out/adm2_geometry.csv` `[Insert CSV URL here]`
 
 ---
 
@@ -42,6 +54,43 @@ Static inputs (population, CLUES facilities, CONEVAL poverty) are built once and
 
 **Notes:** V30/V3m/dV30/S/CAST/A/MVI are all winsorized & scaled so higher = worse.  
 Removed `strain_H` to avoid double-counting with `access_A` (high correlation).
+
+### Mathematical Formulations
+
+The **Descriptive Composite Risk (DCR100)** is calculated as:
+
+\[
+\text{DCR100} = 100 \times \left( 0.35 \times V_{3m} + 0.15 \times S + 0.30 \times A + 0.20 \times MVI \right)
+\]
+
+where:  
+- \( V_{3m} \) = 90-day violent event rate per 100k WRA  
+- \( S \) = Spillover (neighbor average violence rate)  
+- \( A \) = Inverse facility density (access)  
+- \( MVI \) = Municipal poverty index
+
+The **Predictive Risk Score (PRS100)** incorporates recent trends and forecasts:
+
+\[
+\text{PRS100} = 100 \times \left( 0.30 \times V_{30} + 0.25 \times \Delta V_{30} + 0.10 \times S + 0.18 \times CAST + 0.12 \times A + 0.05 \times MVI \right)
+\]
+
+(with CAST forecast available), or:
+
+\[
+\text{PRS100} = 100 \times \left( 0.40 \times V_{30} + 0.30 \times \Delta V_{30} + 0.10 \times S + 0.12 \times A + 0.08 \times MVI \right)
+\]
+
+(without CAST forecast), where:  
+- \( V_{30} \) = 30-day violent event rate per 100k WRA  
+- \( \Delta V_{30} \) = Change in 30-day violent event rate  
+- \( CAST \) = State-level forecast of violence risk
+
+The final **priority score** balances predictive and descriptive risk:
+
+\[
+\text{priority100} = 100 \times (0.6 \times PRS + 0.4 \times DCR)
+\]
 
 ---
 
@@ -149,7 +198,7 @@ Uploaded to Google Sheets tabs (in order):
 
 ## Quick Links
 
-- `adm2_risk_daily.csv`
-- `acled_events_violent_90d.csv`
-- `adm2_geometry.csv`
-- Google Sheet: `mx_brigadas_dashboard` (tabs auto-created by pipeline)
+- `adm2_risk_daily.csv` `[Insert CSV URL here]`
+- `acled_events_violent_90d.csv` `[Insert CSV URL here]`
+- `adm2_geometry.csv` `[Insert CSV URL here]`
+- Google Sheet: `mx_brigadas_dashboard` `[Insert Google Sheet URL here]` (tabs auto-created by pipeline)
